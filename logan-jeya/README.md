@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+﻿# Logan Jeya Writings (TypeScript Data Layer)
 
-# Run and deploy your AI Studio app
+This directory contains strongly typed TypeScript data modules and metadata for Logan Jeya's essays and writings.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5107b2a5-c2a5-41f6-8eef-e643364802d5
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Contents
+- `writings/`: TypeScript modules exporting full essay text, metadata, publication dates, and reading orders:
+  - `latentAstronauts.ts`
+  - `sailorsOfThePossible.ts`
+  - `sailorsOfTheLatentMultiverse.ts`
+  - `aWarning.ts`
+  - `technoFeudalism.ts`
+  - `wargamingAiAlignment.ts`
+  - `aiDataEconomy.ts`
+  - `index.ts`
+- `types.ts`: TypeScript interface definition for `Writing`.

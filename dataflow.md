@@ -327,3 +327,49 @@ flowchart TD
    $$w_i(t) = w_i(0) \cdot e^{-\lambda t}, \quad t_{1/2} = \frac{\ln(2)}{\lambda} = 14 \text{ days}$$
 4. **Threshold of Invariance (Axiomatic Locking)**:
    $$\text{If } w_i \ge \tau_{\text{myelin}} \text{ and } N_{\text{retrievals}} \ge 3 \implies \text{Promote to Immutable Core Axiom}$$
+
+---
+
+# Part VI: Codebase Topology & Repository Dataflow Architecture
+### Modular Partitioning, TypeScript Data Layer & Markdown Artifact Federation
+
+```mermaid
+flowchart TD
+    subgraph REPO_ROOT["c:/Users/Logan/projects/Writings (Root)"]
+        R1["index.html (Interactive Glassmorphic Reader & Portal)"]
+        R2["README.md (Master Navigational Index)"]
+        R3["GEMINI.md (Living Persona & Council Memory Rules)"]
+        R4["dataflow.md (End-to-End System Specifications)"]
+    end
+
+    subgraph ESSAYS_DIR["essays/ (Categorized Inquiries)"]
+        E1["multiverse_trilogy/ (Latent Astronauts, Sailors of Possible, Grand Synthesis)"]
+        E2["ai_ethics/ (A Warning on Artificial Minds)"]
+        E3["do_ai_dream_of_sheep/ (Techno-feudalism, Wargaming Alignment, AI Data Economy)"]
+    end
+
+    subgraph FICTION_DIR["fiction/the_frost_plum_chronicles/ (Narrative Universe)"]
+        F1["Master Story Bibles & Arc 01 Treatises"]
+        F2["book_1/chapters/ (Chapters 01 - 06 Manuscript)"]
+        F3["book_1/count_words.ps1 (Portable Wordcount Tooling)"]
+    end
+
+    subgraph OBSIDIAN_VAULT["obsidian/ (MCP Knowledge Graph Vault)"]
+        O1["00_Index.md (Vault Index)"]
+        O2["story_bible.canvas (Visual Spatial Architecture)"]
+        O3["arcs/, characters/, factions/, world/ (Wikilinked Nodes)"]
+    end
+
+    subgraph TS_DATA_LAYER["logan-jeya/ (TypeScript Content Layer)"]
+        T1["types.ts (Minimal Writing Interface)"]
+        T2["writings/*.ts (Typed Data Modules for Web Apps & Headless Frontends)"]
+        T3["writings/index.ts (Aggregator & Chronological/Popular Sorters)"]
+    end
+
+    REPO_ROOT --> ESSAYS_DIR
+    REPO_ROOT --> FICTION_DIR
+    REPO_ROOT --> OBSIDIAN_VAULT
+    REPO_ROOT --> TS_DATA_LAYER
+    ESSAYS_DIR <--> TS_DATA_LAYER
+    FICTION_DIR <--> OBSIDIAN_VAULT
+```
