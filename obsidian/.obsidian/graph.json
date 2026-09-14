@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#character",
+      "color": {
+        "a": 1,
+        "rgb": 14707829
+      }
+    },
+    {
+      "query": "tag:#faction",
+      "color": {
+        "a": 1,
+        "rgb": 6401007
+      }
+    },
+    {
+      "query": "tag:#lore",
+      "color": {
+        "a": 1,
+        "rgb": 10011513
+      }
+    },
+    {
+      "query": "tag:#arc",
+      "color": {
+        "a": 1,
+        "rgb": 15057019
+      }
+    },
+    {
+      "query": "tag:#secret",
+      "color": {
+        "a": 1,
+        "rgb": 15767130
+      }
+    },
+    {
+      "query": "tag:#inner_council",
+      "color": {
+        "a": 1,
+        "rgb": 13007069
+      }
+    },
+    {
+      "query": "tag:#memory",
+      "color": {
+        "a": 1,
+        "rgb": 5682882
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 12472409
+      }
+    },
+    {
+      "query": "tag:#item",
+      "color": {
+        "a": 1,
+        "rgb": 13736550
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.25,
+  "lineSizeMultiplier": 1.4,
+  "collapse-forces": false,
+  "centerStrength": 0.38,
+  "repelStrength": 12.5,
+  "linkStrength": 0.85,
+  "linkDistance": 320,
+  "scale": 0.22,
+  "close": true
+}

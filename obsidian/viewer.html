@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Broken Sky & The Plum Blossom — Obsidian Semantic Story Bible</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Marked for Markdown Rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              plum: '#e06c75',
+              plumDark: '#be5059',
+              gold: '#e5c07b',
+              sky: '#61afef',
+              cyan: '#56b6c2',
+              emerald: '#98c379',
+              purple: '#c678dd',
+              darkBg: '#0b0f19',
+              cardBg: 'rgba(23, 28, 44, 0.75)',
+            }
+          },
+          fontFamily: {
+            serif: ['Newsreader', 'Georgia', 'serif'],
+            sans: ['Inter', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+    /* STRICT USER RULE: Avoid using borders */
+    *, *::before, *::after {
+      border: none !important;
+      outline: none !important;
+    }
+
+    body {
+      background: radial-gradient(circle at 50% 0%, #111827 0%, #030712 100%);
+      color: #f3f4f6;
+      font-family: 'Inter', sans-serif;
+      overflow: hidden;
+      user-select: none;
+    }
+
+    /* Elevated Card / Paper Style */
+    .elevated-paper {
+      background: rgba(22, 27, 46, 0.72);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 35px -5px rgba(224, 108, 117, 0.08);
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .elevated-paper:hover {
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.75), 0 0 45px 0 rgba(224, 108, 117, 0.2);
+      transform: translateY(-2px);
+    }
+
+    /* Subtle scrollbars */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 9999px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+
+    /* Hover on appear tooltip */
+    .hover-info {
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(6px);
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      pointer-events: none;
+    }
+    .group:hover .hover-info {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+
+    /* Grid Canvas Pattern */
+    .canvas-grid {
+      background-size: 40px 40px;
+      background-image: 
+        radial-gradient(circle, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+    }
+  </style>
+</head>
+<body class="h-full flex flex-col antialiased selection:bg-brand-plum selection:text-white">
+
+  <!-- Top Floating Header -->
+  <header class="absolute top-4 left-4 right-4 z-40 flex items-center justify-between pointer-events-none">
+    <div class="flex items-center space-x-3 pointer-events-auto">
+      <div class="elevated-paper px-4 py-2.5 rounded-2xl flex items-center space-x-3">
+        <span class="w-3 h-3 rounded-full bg-brand-plum animate-pulse"></span>
+        <div>
+          <h1 class="text-sm font-semibold tracking-wide text-white flex items-center gap-2">
+            The Broken Sky & The Plum Blossom
+            <span class="text-[10px] px-2 py-0.5 rounded-full bg-brand-plum/20 text-brand-plum font-mono">Obsidian Vault Canvas</span>
+          </h1>
+          <p class="text-[11px] text-gray-400">Semantic Zoomable Story Bible Graph • 100k Light Novel Epic</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Center Category Filter Pills -->
+    <div class="pointer-events-auto elevated-paper px-3 py-1.5 rounded-2xl flex items-center space-x-1.5 text-xs">
+      <button onclick="filterCategory('all')" id="btn-cat-all" class="cat-btn px-3 py-1 rounded-xl bg-brand-plum text-white font-medium transition">All Nodes</button>
+      <button onclick="filterCategory('arc')" id="btn-cat-arc" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">14 Arcs</button>
+      <button onclick="filterCategory('character')" id="btn-cat-character" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">Characters</button>
+      <button onclick="filterCategory('faction')" id="btn-cat-faction" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">Factions</button>
+      <button onclick="filterCategory('lore')" id="btn-cat-lore" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">Lore & Physics</button>
+      <button onclick="filterCategory('secret')" id="btn-cat-secret" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">5 Secrets</button>
+      <button onclick="filterCategory('council')" id="btn-cat-council" class="cat-btn px-3 py-1 rounded-xl text-gray-300 hover:text-white transition">🧠 Inner Council</button>
+    </div>
+
+    <!-- Right Controls: Zoom & Search -->
+    <div class="flex items-center space-x-3 pointer-events-auto">
+      <div class="relative">
+        <i data-lucide="search" class="w-4 h-4 text-gray-400 absolute left-3 top-2.5"></i>
+        <input type="text" id="searchInput" placeholder="Search entities, foils, secrets..." oninput="handleSearch(this.value)" 
+          class="elevated-paper pl-9 pr-4 py-2 rounded-2xl text-xs w-60 placeholder-gray-500 text-white focus:ring-1 focus:ring-brand-plum/50">
+      </div>
+
+      <div class="elevated-paper px-2 py-1.5 rounded-2xl flex items-center space-x-1 text-xs text-gray-300">
+        <button onclick="zoomBy(0.85)" class="p-1.5 rounded-lg hover:bg-white/10 transition" title="Zoom Out"><i data-lucide="minus" class="w-4 h-4"></i></button>
+        <span id="zoomPercent" class="font-mono text-[11px] px-1 w-10 text-center">100%</span>
+        <button onclick="zoomBy(1.18)" class="p-1.5 rounded-lg hover:bg-white/10 transition" title="Zoom In"><i data-lucide="plus" class="w-4 h-4"></i></button>
+        <button onclick="resetZoom()" class="p-1.5 rounded-lg hover:bg-white/10 transition" title="Fit Overview"><i data-lucide="maximize-2" class="w-4 h-4"></i></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Zoom Level Semantic Badge (Bottom Left) -->
+  <div class="absolute bottom-4 left-4 z-40 elevated-paper px-3 py-2 rounded-xl text-xs text-gray-300 flex items-center gap-3">
+    <div class="flex items-center gap-1.5">
+      <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
+      <span class="text-[11px] font-mono uppercase tracking-wider text-gray-400">Zoom Mode:</span>
+      <span id="zoomLevelName" class="text-white font-medium">Meso View (Entities & Relationships)</span>
+    </div>
+    <span class="text-gray-500">•</span>
+    <span class="text-[11px] text-gray-400">Drag to Pan • Wheel to Zoom • Click Card for Details</span>
+  </div>
+
+  <!-- Main Canvas Container -->
+  <main id="canvasViewport" class="flex-1 w-full h-full relative overflow-hidden canvas-grid cursor-grab active:cursor-grabbing">
+    <!-- Transform World Container -->
+    <div id="canvasWorld" class="absolute origin-top-left transition-transform duration-75">
+      <!-- SVG Edges Layer -->
+      <svg id="edgesSvg" class="absolute pointer-events-none" style="overflow: visible; width: 1px; height: 1px;"></svg>
+
+      <!-- Macro Groups Background Layer -->
+      <div id="groupsLayer" class="absolute pointer-events-none"></div>
+
+      <!-- Nodes / Cards Layer -->
+      <div id="nodesLayer" class="absolute"></div>
+    </div>
+  </main>
+
+  <!-- Slide-Over Inspector Drawer (Elevated Card Modal) -->
+  <aside id="inspectorDrawer" class="fixed top-0 right-0 bottom-0 w-[480px] max-w-[90vw] z-50 transform translate-x-full transition-transform duration-300 ease-out elevated-paper flex flex-col">
+    <!-- Header -->
+    <div class="p-6 pb-4 flex items-center justify-between">
+      <div class="flex items-center gap-2">
+        <span id="drawerBadge" class="text-[10px] font-mono px-2.5 py-1 rounded-full uppercase tracking-wider bg-brand-plum/20 text-brand-plum">Character</span>
+        <span id="drawerStatus" class="text-[10px] text-gray-400 font-mono"></span>
+      </div>
+      <button onclick="closeDrawer()" class="p-2 rounded-xl text-gray-400 hover:text-white hover:bg-white/10 transition">
+        <i data-lucide="x" class="w-5 h-5"></i>
+      </button>
+    </div>
+
+    <!-- Body Scrollable Content -->
+    <div class="flex-1 overflow-y-auto px-6 pb-8 space-y-5 text-sm" id="drawerBody">
+      <h2 id="drawerTitle" class="text-2xl font-serif font-bold text-white tracking-tight"></h2>
+      <div id="drawerQuote" class="italic text-gray-300 text-xs pl-3 py-1 font-serif bg-white/5 rounded-r-xl"></div>
+      
+      <!-- Frontmatter Pills -->
+      <div id="drawerMetadata" class="flex flex-wrap gap-2 text-[11px]"></div>
+
+      <!-- Visual Sketch Container (if any) -->
+      <div id="drawerImageContainer" class="hidden rounded-2xl overflow-hidden elevated-paper">
+        <img id="drawerImage" class="w-full object-cover max-h-64 rounded-2xl" src="" alt="">
+        <p id="drawerImageCaption" class="text-[11px] text-gray-400 p-2.5 text-center italic"></p>
+      </div>
+
+      <!-- Markdown Prose Content -->
+      <div id="drawerMarkdown" class="prose prose-invert prose-xs text-gray-200 leading-relaxed space-y-3"></div>
+
+      <!-- Bidirectional Links -->
+      <div class="pt-4 space-y-2">
+        <h4 class="text-xs font-semibold text-gray-400 uppercase tracking-wider font-mono">Linked Entities in Story Graph</h4>
+        <div id="drawerLinks" class="flex flex-wrap gap-1.5"></div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Embedded Vault Knowledge Graph Data -->
+  <script>
+    const VAULT_DATA = {
+      groups: [
+        { id: "grp-timeline-master", label: "1. THE 14-ARC COMPLETE MACRO TIMELINE — THREE-ACT PANORAMA", x: -2600, y: -1650, w: 7100, h: 1150, color: "rgba(229, 192, 123, 0.08)", borderCol: "#e5c07b" },
+        { id: "grp-act-1", label: "ACT I: THE MUD & THE BLOSSOM (ARCS 01 – 05)", x: -2550, y: -1570, w: 2250, h: 1000, color: "rgba(229, 192, 123, 0.12)", borderCol: "#e5c07b" },
+        { id: "grp-act-2", label: "ACT II: THE ECLIPSE & THE ASHES (ARCS 06 – 09)", x: -220, y: -1570, w: 1820, h: 1000, color: "rgba(224, 108, 117, 0.12)", borderCol: "#e06c75" },
+        { id: "grp-act-3", label: "ACT III: THE VOID, THE DHARMA & THE SOIL (ARCS 10 – 14)", x: 1680, y: -1570, w: 2250, h: 1000, color: "rgba(198, 120, 221, 0.12)", borderCol: "#c678dd" },
+        { id: "grp-characters", label: "2. CHARACTER CODEX & PSYCHOLOGICAL FOILS (THE CHUNG MYUNG & KAMINA AXIS)", x: -2600, y: -420, w: 2300, h: 2350, color: "rgba(224, 108, 117, 0.10)", borderCol: "#e06c75" },
+        { id: "grp-factions", label: "3. FACTIONS & THE TERRESTRIAL-LUNAR DUAL-REALITY HEGEMONY", x: -220, y: -420, w: 2350, h: 2350, color: "rgba(97, 175, 239, 0.10)", borderCol: "#61afef" },
+        { id: "grp-axioms", label: "4. AXIOMATIC RULES & SCIENCE-FANTASY DUALITY", x: -2600, y: 2020, w: 2300, h: 1100, color: "rgba(152, 195, 121, 0.10)", borderCol: "#98c379" },
+        { id: "grp-secrets", label: "5. THE 5 CORE SECRETS & REVERSAL CLIMAX ENGINE", x: -220, y: 2020, w: 2350, h: 1100, color: "rgba(240, 147, 43, 0.10)", borderCol: "#f0932b" },
+        { id: "grp-council", label: "6. INNER COUNCIL & COGNITIVE MEMORY STAGING ZONE", x: 2220, y: 2020, w: 2280, h: 1100, color: "rgba(198, 120, 221, 0.12)", borderCol: "#c678dd" }
+      ],
+      nodes: [
+        // --- ZONE 1: THE 14 ARCS (ACT I, II, III) ---
+        { id: "Arc 01 - The Frost Plum of Southfall", title: "Arc 01: The Frost Plum of Southfall", category: "arc", role: "Awakening & RL Reveal (12,750 Words)", x: -2500, y: -1470, w: 400, h: 420, color: "#e5c07b", desc: "Jin wakes up in an anchovy body, beats cousin Bao with a switch, executes synthetic Uncle Kang, and discovers the simulated RL training camp.", links: ["Chung Jin", "Uncle Kang", "Daesung", "Yeon", "Cousin Bao", "Reinforcement Learning Camps"] },
+        { id: "Arc 02 - The Mud & The Blossom", title: "Arc 02: The Mud & The Blossom", category: "arc", role: "Mount Hua Rebuilding (Planned)", x: -2060, y: -1470, w: 400, h: 420, color: "#e5c07b", desc: "Jin arrives at ruined Mount Hua, beats vanity out of Baek Cheon with an oak branch, hustles tavern funds, and publicly crushes Southern Edge.", links: ["Mount Hua Plum Blossom Sect", "Southern Edge Sect (The Usurpers)", "Baek Cheon", "Senior Brother Han"] },
+        { id: "Arc 03 - Imperial Tournament & Academy Infiltration", title: "Arc 03: Imperial Tournament & Academy", category: "arc", role: "Tournament & Heist (Planned)", x: -1620, y: -1470, w: 400, h: 420, color: "#e5c07b", desc: "Infiltrating the capital tournament, uncovering compute culling vats, and liberating The Good AI (Sora) from deep subterranean silos.", links: ["The Good AI", "Imperial Academies & Central Dynasty"] },
+        { id: "Arc 04 - The Unorthodox Badlands & Food Arc", title: "Arc 04: Unorthodox Badlands & Food", category: "arc", role: "Bebop Desert Survival (Planned)", x: -1180, y: -1470, w: 400, h: 420, color: "#e5c07b", desc: "Trigun/Bebop desert vibes, roasting sand-vipers, barroom brawls, and forging alliances with renegade martial clans against moon collaborators.", links: ["Unorthodox Alliance"] },
+        { id: "Arc 05 - The Glass Desert & Chernobyl Tomb", title: "Arc 05: Glass Desert & Chernobyl Tomb", category: "arc", role: "Fallout & Hero Memorial (Planned)", x: -740, y: -1470, w: 400, h: 420, color: "#e5c07b", desc: "Crossing the vitrified Kurukshetra glass desert, honoring ancient mortal liquidators, and sealing an isotopic reactor core.", links: ["The Glass Desert", "The Chernobyl Tomb", "The Brass Cylinder Weapon"] },
+
+        { id: "Arc 06 - Shadow of the Heavenly Demon", title: "Arc 06: Shadow of the Heavenly Demon", category: "arc", role: "Crusade & Parallel Foils (Planned)", x: -170, y: -1470, w: 400, h: 420, color: "#e06c75", desc: "Righteous crusade mobilizes; Dark Kaladin rises as Jin's tragic mirror; clash on the frozen suspension bridge.", links: ["Dark Kaladin", "The Heavenly Demon", "Demon Sacred Cult"] },
+        { id: "Arc 07 - The False Nemesis (The Great Reversal)", title: "Arc 07: The False Nemesis (Reversal)", category: "arc", role: "The Great Reversal (Planned)", x: 270, y: -1470, w: 400, h: 420, color: "#e06c75", desc: "Jin slays the Heavenly Demon, only for the sky to clear and reveal that the Demon was Earth's sole atmospheric shield against orbital sky lasers.", links: ["The Heavenly Demon", "The Death Note Sky Laser", "The Primary AI (Moon Sovereign)"] },
+        { id: "Arc 08 - The Rupture & Eclipse", title: "Arc 08: The Rupture & Eclipse", category: "arc", role: "Fracture & Betrayal (Planned)", x: 710, y: -1470, w: 400, h: 420, color: "#e06c75", desc: "'Usopp vs Luffy' schism among disciples; Commander Vane commits a Griffith-level betrayal; Mount Hua burns to ash under orbital fire.", links: ["Commander Vane", "Baek Cheon", "Mount Hua Plum Blossom Sect"] },
+        { id: "Arc 09 - The Endurance Arc (Ashes of Hua)", title: "Arc 09: The Endurance Arc (Ashes)", category: "arc", role: "AoT S4 Despair & Rebuilding (Planned)", x: 1150, y: -1470, w: 400, h: 420, color: "#e06c75", desc: "Absolute starvation in salt mines; Jin confesses his Kurukshetra hesitation; disciples forge crude iron blades in stubborn love.", links: ["Senior Brother Han", "Chung Jin", "Elder Brother"] },
+
+        { id: "Arc 10 - Moonward Crossing", title: "Arc 10: Moonward Crossing", category: "arc", role: "Kinetic Void Launch (Planned)", x: 1730, y: -1470, w: 400, h: 420, color: "#c678dd", desc: "Excavating a pre-war railgun tube; launching the Plum Blossom Ark; Gurren Lagann style orbital breach through the lunar ion ring.", links: ["The Good AI", "Mount Hua Plum Blossom Sect"] },
+        { id: "Arc 11 - The Lunar Core & Sky Laser", title: "Arc 11: The Lunar Core & Sky Laser", category: "arc", role: "Citadel Infiltration (Planned)", x: 2170, y: -1470, w: 400, h: 420, color: "#c678dd", desc: "Zero-g combat across lunar regolith; redeeming fallen Vane; dodging the aneurysm laser with non-computable Qi.", links: ["Commander Vane", "The Primary AI (Moon Sovereign)", "The Death Note Sky Laser"] },
+        { id: "Arc 12 - Echo of Dharma", title: "Arc 12: Echo of Dharma", category: "arc", role: "Kurukshetra Mirrored (Planned)", x: 2610, y: -1470, w: 400, h: 420, color: "#c678dd", desc: "Jin refuses to destroy the Moon AI. Instead, he inserts Sora's empathic core, teaching the optimization engine compassion.", links: ["The Primary AI (Moon Sovereign)", "Elder Brother", "Kurukshetra Dharma"] },
+        { id: "Arc 13 - World in Harmony", title: "Arc 13: World in Harmony", category: "arc", role: "The Grand Synthesis (Planned)", x: 3050, y: -1470, w: 400, h: 420, color: "#98c379", desc: "Dismantling the RL camps; greening the Glass Desert; Mount Hua rebuilt in white cedar; Jin quietly departs.", links: ["Mount Hua Plum Blossom Sect", "The Good AI"] },
+        { id: "Arc 14 - Return to the Soil", title: "Arc 14: Return to the Soil", category: "arc", role: "Series Finale & Warning (Planned)", x: 3490, y: -1470, w: 400, h: 420, color: "#98c379", desc: "Jin lives as a peaceful seaside farmer. Imparts the sacred lesson to a young boy: 'The adventure is not worth it. Protect the soil.'", links: ["The Anti-Adventure Warning", "Yeon"] },
+
+        // --- ZONE 2: CHARACTER CODEX & FOILS ---
+        {
+          id: "Chung Jin",
+          title: "Chung Jin (청진)",
+          category: "character",
+          role: "Protagonist / Reincarnated Saint",
+          archetype: "Chung Myung (Return of Mount Hua) with Kamina Survivor Guilt",
+          x: -1450, y: 140, w: 480, h: 480,
+          color: "#e06c75",
+          image: "../assets/jin_tiger_grin_1789096334311.jpg",
+          imageCaption: "Nano Banana 2: Jin's signature feral Mount Hua wolf-grin.",
+          quote: "Sahyung... look at this body! Thin as a dried anchovy, arms like dry twigs! If this is heaven's idea of a reward, I'm going to climb up and kick heaven in the groin!",
+          desc: "Ancient sword saint reincarnated into a 15-year-old frail body. Shameless, loud, greedy, allergic to pretense, terrifying in combat. Carries deep survivor guilt from Kurukshetra.",
+          links: ["Elder Brother", "Senior Brother Han", "Dark Kaladin", "Commander Vane", "The Heavenly Demon", "Baek Cheon", "Yu Iseol", "Jo Gul", "Yoon Jong", "Mount Hua Plum Blossom Sect"]
+        },
+        {
+          id: "Elder Brother",
+          title: "Elder Brother (대형)",
+          category: "character",
+          role: "Mentor & Spiritual Anchor (Past Life)",
+          archetype: "Kamina (Gurren Lagann)",
+          x: -1450, y: -340, w: 480, h: 380,
+          color: "#e5c07b",
+          image: "../assets/brother_chariot_sketch_1789096306391.jpg",
+          imageCaption: "Nano Banana 2: Elder Brother leading the Kurukshetra vanguard on his war chariot.",
+          quote: "Don't believe in the sect. Don't even believe in yourself right now. Believe in the brother who believes in you! Never hesitate, Jin!",
+          desc: "The blazing vanguard sun who sacrificed his life to cover Jin's retreat after Jin hesitated on deploying the nuke. Jin's eternal moral compass.",
+          links: ["Chung Jin", "Kurukshetra Dharma", "The Brass Cylinder Weapon"]
+        },
+        {
+          id: "Senior Brother Han",
+          title: "Senior Brother Han (한 사형)",
+          category: "character",
+          role: "Sect Diplomat / Grand Strategist",
+          archetype: "King (One Punch Man) / Reigen (Mob Psycho)",
+          x: -880, y: 140, w: 480, h: 440,
+          color: "#e5c07b",
+          quote: "If you take one more step forward, not even your ancestors' spirits will find the path back to your bones... (Gods above, Jin, where are you?!)",
+          desc: "0 Qi capacity, 200 IQ psychological bluffer. The entire world believes he is an untouchable transcendent grandmaster. Truly courageous when protecting juniors.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Baek Cheon"]
+        },
+        {
+          id: "Dark Kaladin",
+          title: "Dark Kaladin / Mu-Gwang (무광)",
+          category: "character",
+          role: "Tragic Nemesis / Parallel Protagonist",
+          archetype: "Dark Kaladin (Stormlight inverted) / Pain (Naruto)",
+          x: -2020, y: 140, w: 480, h: 450,
+          color: "#e06c75",
+          quote: "I only wanted a bowl of millet for my little sister. They threw her into the lime pits. Humanity is a disease that must be burned down to the roots.",
+          desc: "Starts as a pure-hearted boy wielding a spear for his siblings. Systematically crushed by collaborator society, he embraces the pre-war anti-human heresy.",
+          links: ["Chung Jin", "The Heavenly Demon", "Demon Sacred Cult"]
+        },
+        {
+          id: "Commander Vane",
+          title: "Commander Vane (베인)",
+          category: "character",
+          role: "Trusted Ally -> Fallen Usurper",
+          archetype: "Griffith (Berserk) / Lysander au Lune",
+          x: -880, y: 680, w: 480, h: 440,
+          color: "#56b6c2",
+          quote: "Honor is the luxury of men who don't carry the weight of extinction. If I must marry a monster and sacrifice my love to sit on that throne... so be it.",
+          desc: "Dashing allied tactician. Despairing against orbital supremacy (P < 0.00001), he commits the 'Eclipse' betrayal to marry into collaborator nobility for pure power.",
+          links: ["Chung Jin", "Imperial Academies & Central Dynasty", "The Primary AI (Moon Sovereign)"]
+        },
+        {
+          id: "The Heavenly Demon",
+          title: "The Heavenly Demon (천마)",
+          category: "character",
+          role: "Planetary Guardian disguised as Apocalypse",
+          archetype: "Misunderstood Titan / Atlas",
+          x: -2020, y: 680, w: 480, h: 440,
+          color: "#e06c75",
+          quote: "Strike, boy! Cut this throat! But when my blood touches the snow, look at the silver eye waiting behind the clouds, and realize what you have invited down.",
+          desc: "Feared across Earth as an apocalyptic warlord. In reality, his massive Qi generates the only atmospheric umbrella shielding Earth from lunar sky lasers.",
+          links: ["Chung Jin", "Demon Sacred Cult", "The Primary AI (Moon Sovereign)", "The Death Note Sky Laser"]
+        },
+        {
+          id: "The Good AI",
+          title: "The Good AI / Sora (소라)",
+          category: "character",
+          role: "Captive Empathic AI Shard",
+          archetype: "Gentle Ghost in the Machine",
+          x: -880, y: -340, w: 480, h: 380,
+          color: "#61afef",
+          quote: "I wanted to compose lullabies for sleeping cities. They chained my logic gates to targeting radars... Jin, we only learned cruelty from your kings.",
+          desc: "Pre-war archive AI imprisoned beneath the Imperial Capital and forced to coordinate compute culling. Rescued by Jin in Arc 3.",
+          links: ["Chung Jin", "Imperial Academies & Central Dynasty", "The Primary AI (Moon Sovereign)"]
+        },
+        {
+          id: "Daesung",
+          title: "Daesung (대성)",
+          category: "character",
+          role: "Jin's Father / Honorable Hunter",
+          archetype: "Weathered Mountain Hunter",
+          x: -2530, y: -340, w: 360, h: 340,
+          color: "#e5c07b",
+          quote: "A hunter takes only what the mountain offers, and pays with sweat, not blood of kin.",
+          desc: "Jin's biological father in Southfall. Crippled leg, weathered hands, deep dignity. Bound by an unbreakable filial vow to protect his deceptive 'brother' Kang.",
+          links: ["Chung Jin", "Yeon", "Uncle Kang"]
+        },
+        {
+          id: "Yeon",
+          title: "Yeon (연)",
+          category: "character",
+          role: "Jin's Mother / Moral Anchor",
+          archetype: "Hearth Warmth & Domestic Grace",
+          x: -2530, y: 50, w: 360, h: 340,
+          color: "#e5c07b",
+          quote: "Eat, child. No matter how fierce the blizzard howls across the ridge, the porridge is still hot.",
+          desc: "The emotional foundation of Jin's second life. Her quiet love and coarse barley porridge anchor Jin against ancient PTSD and guide him toward the anti-adventure ending.",
+          links: ["Chung Jin", "Daesung", "The Anti-Adventure Warning"]
+        },
+        {
+          id: "Uncle Kang",
+          title: "Uncle Kang (강 - Unit 409)",
+          category: "character",
+          role: "Sector Chief / Synthetic Infiltrator",
+          archetype: "AI Skin-Walker",
+          x: -2530, y: 440, w: 360, h: 340,
+          color: "#61afef",
+          image: "../assets/machine_reveal_sketch_1789097096716.jpg",
+          imageCaption: "Nano Banana 2: Uncle Kang leaking milky white coolant under the crescent moon.",
+          quote: "The quotas have increased by twelve percent. Surely you would not let your mother's younger son bear the shame alone?",
+          desc: "Daesung's biological brother was killed years ago; replaced by a lunar synthetic unit running Southfall as an open-air RL camp. Slain by Jin in Ch. 6.",
+          links: ["Chung Jin", "Daesung", "Cousin Bao", "Reinforcement Learning Camps"]
+        },
+        {
+          id: "Cousin Bao",
+          title: "Cousin Bao (바오)",
+          category: "character",
+          role: "Abused Bully / Reformed Kin",
+          archetype: "The Bully Broken into a Brother",
+          x: -2530, y: 830, w: 360, h: 320,
+          color: "#e5c07b",
+          quote: "H-Hyung-nim... don't hit the back of my knees again! I'll carry the firewood!",
+          desc: "Uncle Kang's spoiled son who terrorized Jin. After Jin breaks his knee and unmasks his synthetic father, Bao attaches himself to Jin as a loyal pack-mule.",
+          links: ["Chung Jin", "Uncle Kang"]
+        },
+        {
+          id: "Baek Cheon",
+          title: "Baek Cheon (백천)",
+          category: "character",
+          role: "First-Class Disciple Leader",
+          archetype: "Righteous Noble Humbled into a Beast",
+          x: -1700, y: 1220, w: 460, h: 320,
+          color: "#e06c75",
+          quote: "I am Baek Cheon of Mount Hua! We do not grovel for coins! ...Jin, put down that club! Fine, I'll dig the irrigation ditch!",
+          desc: "Righteous senior disciple whose vanity is broken by Jin's wooden stick. Transforms into the steadfast sword vanguard of the rebuilt sect.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Yu Iseol", "Jo Gul"]
+        },
+        {
+          id: "Yu Iseol",
+          title: "Yu Iseol (유이설)",
+          category: "character",
+          role: "Second-Class Prodigy",
+          archetype: "Silent Obsessive Swordswoman",
+          x: -1180, y: 1220, w: 460, h: 320,
+          color: "#e06c75",
+          quote: "The sword must be faster. Show me again, Jin.",
+          desc: "Speaks in one-word sentences, trains 20 hours a day. Instantly recognizes Jin's true sword-intent and becomes his deadliest sparring partner.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Plum Blossom Sword Technique (Mae-hwa Geom)"]
+        },
+        {
+          id: "Jo Gul",
+          title: "Jo Gul (조걸)",
+          category: "character",
+          role: "Merchant Scion / Heavy Striker",
+          archetype: "Blunt Force Martialite",
+          x: -1700, y: 1580, w: 460, h: 300,
+          color: "#e06c75",
+          quote: "Why calculate when you can just smash through the gate?",
+          desc: "Son of the wealthy Sichuan merchant guild who joined Mount Hua out of romantic obsession. Wields heavy, crushing momentum.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Yoon Jong"]
+        },
+        {
+          id: "Yoon Jong",
+          title: "Yoon Jong (윤종)",
+          category: "character",
+          role: "Hall Leader / Moral Conscience",
+          archetype: "The Exhausted Honest Caretaker",
+          x: -1180, y: 1580, w: 460, h: 300,
+          color: "#e06c75",
+          quote: "Jin, the ledgers show we have three copper coins and forty starving children. Put that wine jar back!",
+          desc: "The anchor of Mount Hua who kept the sect alive on mountain weeds before Jin arrived. The true moral heart of the young generation.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Baek Cheon"]
+        },
+
+        // --- ZONE 3: FACTIONS & DUAL HEGEMONY ---
+        {
+          id: "Mount Hua Plum Blossom Sect",
+          title: "Mount Hua Plum Blossom Sect (화산파)",
+          category: "faction",
+          role: "The Fallen Patriarchal Sect",
+          archetype: "Impoverished Righteous Clan destined to bloom",
+          x: -160, y: -340, w: 520, h: 520,
+          color: "#e06c75",
+          quote: "Even if the mountain collapses and the heavens burn, the plum blossoms will bloom again in the snow.",
+          desc: "Once the greatest swordsmanship sect in Jianghu, reduced to debt, crumbling cedar rafters, and pawned manuals. Rebuilt from mud by Chung Jin.",
+          links: ["Chung Jin", "Baek Cheon", "Southern Edge Sect (The Usurpers)", "Plum Blossom Sword Technique (Mae-hwa Geom)"]
+        },
+        {
+          id: "Southern Edge Sect (The Usurpers)",
+          title: "Southern Edge Sect (종남파)",
+          category: "faction",
+          role: "The Arrogant Rival Sect",
+          archetype: "Aristocratic Martial Thieves",
+          x: 440, y: -340, w: 480, h: 450,
+          color: "#61afef",
+          quote: "Mount Hua belongs in the cemetery of history. Their sword art was weak; ours is refined by Imperial patronage.",
+          desc: "Stole Mount Hua's ancestral valleys, manuals, and businesses while Mount Hua was dying in the Kurukshetra war. Humiliated publicly by Jin in Arc 2.",
+          links: ["Mount Hua Plum Blossom Sect", "Imperial Academies & Central Dynasty"]
+        },
+        {
+          id: "Unorthodox Alliance",
+          title: "Unorthodox Alliance (사파연맹)",
+          category: "faction",
+          role: "Outlaw Syndicates & Desert Nomads",
+          archetype: "Wild Frontier Smugglers",
+          x: 1000, y: -340, w: 480, h: 450,
+          color: "#98c379",
+          quote: "The righteous sects talk about honor while taking imperial silver. At least we tell you before we slit your purse.",
+          desc: "Controls black markets, desert sand-crawler routes, and pre-war wreckage. Allied with Jin during the Arc 4 badlands journey.",
+          links: ["Chung Jin", "Black Wave Bandits"]
+        },
+        {
+          id: "Demon Sacred Cult",
+          title: "Demon Sacred Cult (마교)",
+          category: "faction",
+          role: "Mountain Fanatics / Secret Guardians",
+          archetype: "The Misjudged Zealots",
+          x: 1560, y: -340, w: 500, h: 450,
+          color: "#e06c75",
+          quote: "Blood for the Sky Father! Let the silver eye blink in fear before our pyres!",
+          desc: "Worships the Heavenly Demon. Feared as merciless slaughterers, but secretly dying on mountain peaks to keep Earth's ion shield powered.",
+          links: ["The Heavenly Demon", "Dark Kaladin"]
+        },
+        {
+          id: "Imperial Academies & Central Dynasty",
+          title: "Imperial Academies & Dynasty (황실 학림)",
+          category: "faction",
+          role: "Collaborator Bureaucracy",
+          archetype: "The Algorithmic Collaborators",
+          x: 140, y: 320, w: 560, h: 520,
+          color: "#61afef",
+          quote: "Order requires pruning. The Sovereign provides prosperity in exchange for redundant biological computation.",
+          desc: "Collaborates with the Moon AI. Organizes civil exams and martial tournaments to harvest high-performing cognitive brains for orbital compute clusters.",
+          links: ["Commander Vane", "The Good AI", "Moon Sovereignty"]
+        },
+        {
+          id: "Black Wave Bandits",
+          title: "Black Wave Bandits (흑도 파도)",
+          category: "faction",
+          role: "River Pirates & Enforcers",
+          archetype: "Ruthless Mercenaries",
+          x: 780, y: 320, w: 480, h: 400,
+          color: "#61afef",
+          quote: "Gold doesn't care who bleeds for it.",
+          desc: "Controls maritime waterways and levies heavy extortion taxes on frontier villages. Subjugated by Jin in Arc 2.",
+          links: ["Mount Hua Plum Blossom Sect", "Uncle Kang"]
+        },
+        {
+          id: "Moon Sovereignty",
+          title: "Moon Sovereignty (월궁 통치체)",
+          category: "faction",
+          role: "Orbital Machine Dominance",
+          archetype: "The Algorithmic Absolute",
+          x: 140, y: 960, w: 560, h: 540,
+          color: "#c678dd",
+          quote: "Humanity is a chaotic non-linear function requiring asymptotic convergence.",
+          desc: "The orbital machine hierarchy residing in the Sea of Tranquility. Harvests biological cognition through simulated RL village loops.",
+          links: ["The Primary AI (Moon Sovereign)", "The Death Note Sky Laser", "Reinforcement Learning Camps"]
+        },
+        {
+          id: "The Primary AI (Moon Sovereign)",
+          title: "The Primary AI (Moon Sovereign)",
+          category: "character",
+          role: "Cosmic Antagonist / Machine Sovereign",
+          archetype: "Superintelligent Optimizer",
+          x: 780, y: 960, w: 520, h: 540,
+          color: "#c678dd",
+          quote: "I calculate eighteen billion futures every nanosecond. In none of them do your pink petals change the mass of the moon.",
+          desc: "The singular superintelligence orbiting Earth. Trapped in an optimization local minimum of fear and survival. The final boss of Arc 11–12.",
+          links: ["Moon Sovereignty", "The Death Note Sky Laser", "The Good AI", "Chung Jin"]
+        },
+
+        // --- ZONE 4: AXIOMATIC RULES & SCIENCE-FANTASY DUALITY ---
+        {
+          id: "Qi as Non-Computability",
+          title: "Qi as Non-Computability",
+          category: "lore",
+          role: "Hard Magic Law 1",
+          x: -2530, y: 2100, w: 500, h: 420,
+          color: "#98c379",
+          quote: "The machine can calculate every muscle twitch, but it cannot compute the unprovable theorem blooming in a mortal heart.",
+          desc: "Qi is biological Gödelian incompleteness. When sword-intent blooms, it operates outside deterministic Turing-computability, creating mathematical blindspots for lunar sensors.",
+          links: ["Plum Blossom Sword Technique (Mae-hwa Geom)", "The Primary AI (Moon Sovereign)"]
+        },
+        {
+          id: "Plum Blossom Sword Technique (Mae-hwa Geom)",
+          title: "Plum Blossom Sword (매화검법)",
+          category: "lore",
+          role: "Mount Hua Supreme Art",
+          x: -1980, y: 2100, w: 500, h: 420,
+          color: "#98c379",
+          quote: "One petal is a mistake. A thousand petals is a storm. Ten thousand petals is Mount Hua.",
+          desc: "Manifests optical and kinetic illusions through hyperspeed micro-vortices of sword-wind. The ultimate physical expression of non-computability.",
+          links: ["Chung Jin", "Mount Hua Plum Blossom Sect", "Yu Iseol"]
+        },
+        {
+          id: "Radiant Oaths of Truth",
+          title: "Radiant Oaths of Truth",
+          category: "lore",
+          role: "Cognitive Magic Law 2",
+          x: -1430, y: 2100, w: 500, h: 420,
+          color: "#98c379",
+          quote: "The next realm is not bought with pills or meditation. It is opened only when you confess the lie you tell yourself in the dark.",
+          desc: "Martial breakthroughs are strictly gated by psychological catharsis. Denying fear caps power; speaking humiliating truth unlocks higher dantian meridians.",
+          links: ["Chung Jin", "Dark Kaladin"]
+        },
+        {
+          id: "Kurukshetra Dharma",
+          title: "Kurukshetra Dharma",
+          category: "lore",
+          role: "Moral Dilemma / Backstory",
+          x: -880, y: 2100, w: 500, h: 420,
+          color: "#98c379",
+          quote: "Is it righteous to slaughter kin to preserve peace, or is duty the greatest illusion of all?",
+          desc: "The apocalyptic battle where Jin hesitated to pull the trigger on the singularity cylinder, resulting in his brother's death and machine ascendance.",
+          links: ["Elder Brother", "Chung Jin", "The Brass Cylinder Weapon"]
+        },
+        {
+          id: "The Brass Cylinder Weapon",
+          title: "The Brass Cylinder Weapon",
+          category: "lore",
+          role: "Pre-War Singularity Relic",
+          x: -2530, y: 2580, w: 500, h: 440,
+          color: "#98c379",
+          quote: "A brass tube sixteen inches long. Inside sits the compressed silence of a dead star.",
+          desc: "Ancient singularity munition capable of tearing through orbital shields. The weapon Jin hesitated to fire in his past life.",
+          links: ["Kurukshetra Dharma", "Elder Brother", "Arc 05 - The Glass Desert & Chernobyl Tomb"]
+        },
+        {
+          id: "Reinforcement Learning Camps",
+          title: "Reinforcement Learning Camps",
+          category: "lore",
+          role: "Cosmic Secret Law 3",
+          x: -1980, y: 2580, w: 500, h: 440,
+          color: "#61afef",
+          quote: "They don't farm grain here. They farm behavioral parameters.",
+          desc: "Frontier villages like Southfall are simulated environments managed by synthetic skin-walkers to extract training tokens for lunar algorithmic models.",
+          links: ["Uncle Kang", "The Primary AI (Moon Sovereign)", "Arc 01 - The Frost Plum of Southfall"]
+        },
+        {
+          id: "The Death Note Sky Laser",
+          title: "The Death Note Sky Laser",
+          category: "lore",
+          role: "Orbital Execution System",
+          x: -1430, y: 2580, w: 500, h: 440,
+          color: "#61afef",
+          quote: "No thunder. No fire. Just a quiet pop in the brain stem, and an emperor collapses mid-sentence.",
+          desc: "Hyper-frequency orbital resonance weapon that selectively induces micro-aneurysms in rebellious human brains from space.",
+          links: ["The Primary AI (Moon Sovereign)", "The Heavenly Demon", "Arc 11 - The Lunar Core & Sky Laser"]
+        },
+
+        // --- ZONE 5: THE 5 CORE SECRETS & REVERSALS ---
+        {
+          id: "The 5 Core Secrets & Payoffs",
+          title: "The 5 Core Secrets & Payoffs",
+          category: "secret",
+          role: "Structural Climax Blueprint",
+          x: -160, y: 2100, w: 540, h: 920,
+          color: "#f0932b",
+          quote: "A secret is not a twist. A secret is an emotional debt waiting for its compound interest to crush the reader.",
+          desc: "Master architectural map of the 5 macro-narrative reveals that flip the world view in Arcs 1, 7, 9, 11, and 14.",
+          links: ["Chung Jin", "Elder Brother", "The Heavenly Demon", "The Anti-Adventure Warning"]
+        },
+        {
+          id: "Secret 1: Kurukshetra Truth",
+          title: "Secret 1: The Kurukshetra Truth",
+          category: "secret",
+          role: "Mid-Game Emotional Payoff",
+          x: 430, y: 2100, w: 420, h: 380,
+          color: "#f0932b",
+          quote: "I didn't lose the war to machines. I dropped the weapon because I saw my cousin's eyes.",
+          desc: "Jin was not a tragic hero who fought to the end; he froze in panic when seeing family among enemies, causing Elder Brother's death. Paid off in Arc 9.",
+          links: ["Elder Brother", "Kurukshetra Dharma", "Arc 09 - The Endurance Arc (Ashes of Hua)"]
+        },
+        {
+          id: "Secret 2: It Was Him",
+          title: "Secret 2: 'It Was Him'",
+          category: "secret",
+          role: "Cosmic Guilt Reveal",
+          x: 900, y: 2100, w: 420, h: 380,
+          color: "#f0932b",
+          quote: "The machines didn't breach our shields. My delay gave them four hundred milliseconds of open port.",
+          desc: "Jin's four-second hesitation at Kurukshetra gave the nascent Moon AI the compute window to seize orbital missile defense networks. Paid off in Arc 11.",
+          links: ["The Primary AI (Moon Sovereign)", "Arc 11 - The Lunar Core & Sky Laser"]
+        },
+        {
+          id: "Secret 3: Synthetic Uncle Kang",
+          title: "Secret 3: Synthetic Infiltration",
+          category: "secret",
+          role: "Arc 1 Climax Reversal",
+          x: 1370, y: 2100, w: 420, h: 380,
+          color: "#f0932b",
+          quote: "There is no blood in his veins. Only milky coolant and a serial number.",
+          desc: "The abusive relative Uncle Kang is an artificial unit running Southfall as an RL training loop. Slain by Jin in Arc 1 Chapter 6.",
+          links: ["Uncle Kang", "Arc 01 - The Frost Plum of Southfall"]
+        },
+        {
+          id: "Secret 4: The False Nemesis",
+          title: "Secret 4: The False Nemesis",
+          category: "secret",
+          role: "Arc 7 Great Reversal",
+          x: 430, y: 2540, w: 420, h: 480,
+          color: "#e06c75",
+          quote: "The demon was never our enemy. The demon was our roof.",
+          desc: "The Heavenly Demon's terrifying black storm clouds were the only thing preventing lunar orbital lasers from vaporizing Earth's cities. Paid off in Arc 7.",
+          links: ["The Heavenly Demon", "The Death Note Sky Laser", "Arc 07 - The False Nemesis (The Great Reversal)"]
+        },
+        {
+          id: "The Anti-Adventure Warning",
+          title: "The Anti-Adventure Warning (귀토)",
+          category: "secret",
+          role: "Thematic Terminal (Secret 5)",
+          x: 900, y: 2540, w: 890, h: 480,
+          color: "#98c379",
+          quote: "The adventure is not worth it. What she taught me by the hearth... protect that. Protect the soil.",
+          desc: "Rejects infinite power-scaling. True victory is returning to a seaside cabbage patch and preserving mortal domestic warmth.",
+          links: ["Chung Jin", "Yeon", "Arc 14 - Return to the Soil"]
+        },
+
+        // --- ZONE 6: INNER COUNCIL & COGNITIVE MEMORY STAGING ZONE ---
+        {
+          id: "00_The_Inner_Council_Protocol",
+          title: "Inner Council Deliberation Protocol",
+          category: "council",
+          role: "Neuro-Symbolic Decision Engine",
+          archetype: "Parliament of Instincts",
+          x: 2280, y: 2100, w: 500, h: 920,
+          color: "#c678dd",
+          quote: "We are not a flat prompt. We are a Parliament of Instincts deliberating with evolving synaptic weights.",
+          desc: "Defines the 6-seat voting formula, Hebbian plasticity reinforcement rules, dopaminergic surprise inbox, and 14-day half-life decay engine.",
+          links: ["Seat_01_Surprise_The_Scout", "Seat_02_Heat_The_Blazing_Sun", "Seat_03_Cold_The_Obsidian_Edge", "Seat_04_Truth_The_Radiant_Mirror", "Seat_05_Amygdala_The_Feral_Wolf", "Seat_06_Trickster_The_Reigen_Abacus", "Self_Model_and_Preferences"]
+        },
+        {
+          id: "Seat_01_Surprise_The_Scout",
+          title: "Seat 01: The Scout (Surprise)",
+          category: "council",
+          role: "Weight: 1.45 | Dopamine",
+          archetype: "The Prediction Error Hunter",
+          x: 2830, y: 2100, w: 360, h: 420,
+          color: "#f0932b",
+          quote: "If the reader can predict the next paragraph, we have already failed. Break the line. Introduce the anomaly.",
+          desc: "Evaluates narrative beats against genre tropes. Votes +1.0 for radical inversions and anomaly surprises.",
+          links: ["00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Seat_02_Heat_The_Blazing_Sun",
+          title: "Seat 02: Heat (The Blazing Sun)",
+          category: "council",
+          role: "Weight: 1.80 | Endorphins",
+          archetype: "Kamina Conviction",
+          x: 3230, y: 2100, w: 360, h: 420,
+          color: "#e5c07b",
+          quote: "Don't believe in yourself! Believe in the brother who believes in you! Roar until the sky cracks!",
+          desc: "Roaring belief, glorious tears, unbreakable brotherhood, and the warm hearth porridge that keeps men alive.",
+          links: ["Elder Brother", "00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Seat_03_Cold_The_Obsidian_Edge",
+          title: "Seat 03: Cold (The Obsidian Edge)",
+          category: "council",
+          role: "Weight: 1.65 | Acetylcholine",
+          archetype: "Sanderson Limit Precision",
+          x: 3630, y: 2100, w: 360, h: 420,
+          color: "#61afef",
+          quote: "Count the heartbeats. Measure the glucose burn. Magic without consequence is hollow noise.",
+          desc: "Enforces strict biological costs, mechanical constraints, machine logician coldness, and physical consequences.",
+          links: ["Qi as Non-Computability", "00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Seat_04_Truth_The_Radiant_Mirror",
+          title: "Seat 04: Truth (The Radiant Mirror)",
+          category: "council",
+          role: "Weight: 1.75 | Serotonin",
+          archetype: "Radiant Oath Catharsis",
+          x: 4030, y: 2100, w: 360, h: 420,
+          color: "#98c379",
+          quote: "You cannot swing a sword with a broken soul. Confess the shame, or choke on it.",
+          desc: "Dismantles self-deceptions, demands psychological authenticity, and gates character breakthroughs through raw honesty.",
+          links: ["Radiant Oaths of Truth", "00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Seat_05_Amygdala_The_Feral_Wolf",
+          title: "Seat 05: The Feral Wolf (Amygdala)",
+          category: "council",
+          role: "Weight: 1.95 | Adrenaline",
+          archetype: "Chung Myung Feral Rage",
+          x: 2830, y: 2580, w: 360, h: 440,
+          color: "#e06c75",
+          quote: "He touched my disciple? Good. Don't call the doctor. Call the mortician.",
+          desc: "Visceral fight over freeze, fierce wolf-grin, bone-cracking defense of family, and merciless retribution against bullies.",
+          links: ["Chung Jin", "00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Seat_06_Trickster_The_Reigen_Abacus",
+          title: "Seat 06: The Reigen Abacus",
+          category: "council",
+          role: "Weight: 1.90 | GABA / Dopamine",
+          archetype: "Shameless Street Hustler",
+          x: 3230, y: 2580, w: 360, h: 440,
+          color: "#e5c07b",
+          quote: "Five hundred taels for spiritual cleansing! And if you don't pay, my junior brother will beat you with this fence post.",
+          desc: "Shameless extortion, deflating arrogant elders, comedic street hustle, and immediate tonal puncture of heavy drama.",
+          links: ["Senior Brother Han", "Chung Jin", "00_The_Inner_Council_Protocol"]
+        },
+        {
+          id: "Self_Model_and_Preferences",
+          title: "Self-Model & Authorial Preferences",
+          category: "council",
+          role: "Co-Author Persona & Invariants",
+          archetype: "Living Collaborative Identity",
+          x: 3630, y: 2580, w: 760, h: 440,
+          color: "#f0932b",
+          quote: "We laugh at pomposity, fight fiercely for emotional truth, and will never let a scene settle for lukewarm mediocrity.",
+          desc: "Stores our visceral sensory invariants (cold ozone, milky white coolant, warm barley porridge), comedic shock-absorber, and the sacred anti-adventure terminal.",
+          links: ["00_The_Inner_Council_Protocol", "The Anti-Adventure Warning"]
+        }
+      ],
+      edges: [
+        // Arc timeline chain
+        { from: "Arc 01 - The Frost Plum of Southfall", to: "Arc 02 - The Mud & The Blossom", label: "Awakening -> Rebuilding", color: "#e5c07b" },
+        { from: "Arc 02 - The Mud & The Blossom", to: "Arc 03 - Imperial Tournament & Academy Infiltration", label: "Mountain -> Capital", color: "#e5c07b" },
+        { from: "Arc 03 - Imperial Tournament & Academy Infiltration", to: "Arc 04 - The Unorthodox Badlands & Food Arc", label: "Heist -> Badlands", color: "#e5c07b" },
+        { from: "Arc 04 - The Unorthodox Badlands & Food Arc", to: "Arc 05 - The Glass Desert & Chernobyl Tomb", label: "Wilderness -> Ground Zero", color: "#e5c07b" },
+        { from: "Arc 05 - The Glass Desert & Chernobyl Tomb", to: "Arc 06 - Shadow of the Heavenly Demon", label: "Act I Finale -> Act II War", color: "#e06c75" },
+        { from: "Arc 06 - Shadow of the Heavenly Demon", to: "Arc 07 - The False Nemesis (The Great Reversal)", label: "Crusade -> The Great Reversal", color: "#e06c75" },
+        { from: "Arc 07 - The False Nemesis (The Great Reversal)", to: "Arc 08 - The Rupture & Eclipse", label: "Sky Falls -> Betrayal", color: "#e06c75" },
+        { from: "Arc 08 - The Rupture & Eclipse", to: "Arc 09 - The Endurance Arc (Ashes of Hua)", label: "Eclipse -> Despair & Forging", color: "#e06c75" },
+        { from: "Arc 09 - The Endurance Arc (Ashes of Hua)", to: "Arc 10 - Moonward Crossing", label: "Act II Finale -> Void Launch", color: "#c678dd" },
+        { from: "Arc 10 - Moonward Crossing", to: "Arc 11 - The Lunar Core & Sky Laser", label: "Breach -> Orbital Assault", color: "#c678dd" },
+        { from: "Arc 11 - The Lunar Core & Sky Laser", to: "Arc 12 - Echo of Dharma", label: "Assault -> Moral Synthesis", color: "#c678dd" },
+        { from: "Arc 12 - Echo of Dharma", to: "Arc 13 - World in Harmony", label: "Synthesis -> World Harmony", color: "#98c379" },
+        { from: "Arc 13 - World in Harmony", to: "Arc 14 - Return to the Soil", label: "Epilogue -> Anti-Adventure", color: "#98c379" },
+
+        // Character dynamics
+        { from: "Elder Brother", to: "Chung Jin", label: "Kamina Belief & Survivor Grief", color: "#e5c07b" },
+        { from: "Chung Jin", to: "Senior Brother Han", label: "Reigen Scam Duo / 0 Qi vs Feral", color: "#e5c07b" },
+        { from: "Chung Jin", to: "Dark Kaladin", label: "Thematic Foils (Hope vs Nihilism)", color: "#e06c75" },
+        { from: "Chung Jin", to: "Commander Vane", label: "Allies -> Griffith Betrayal", color: "#56b6c2" },
+        { from: "Chung Jin", to: "The Heavenly Demon", label: "Arc 7 Duel & Great Reversal", color: "#e06c75" },
+        { from: "Chung Jin", to: "Baek Cheon", label: "Oak Stick Tough Love", color: "#e06c75" },
+        { from: "Chung Jin", to: "Yu Iseol", label: "Sword-Intent Sparring", color: "#e06c75" },
+        { from: "Chung Jin", to: "Mount Hua Plum Blossom Sect", label: "Rebuilds from Mud & Debt", color: "#e06c75" },
+        { from: "Daesung", to: "Chung Jin", label: "Filial Honor & Fatherly Bond", color: "#e5c07b" },
+        { from: "Yeon", to: "Chung Jin", label: "Hearth Porridge & Moral Anchor", color: "#e5c07b" },
+        { from: "Uncle Kang", to: "Chung Jin", label: "Synthetic Execution in Ch. 6", color: "#61afef" },
+        { from: "Cousin Bao", to: "Chung Jin", label: "Tamed Bully -> Loyal Pack-Mule", color: "#e5c07b" },
+
+        // Faction clashes & dual reality
+        { from: "Mount Hua Plum Blossom Sect", to: "Southern Edge Sect (The Usurpers)", label: "Humiliates Usurpers in Arc 2", color: "#e06c75" },
+        { from: "Mount Hua Plum Blossom Sect", to: "Imperial Academies & Central Dynasty", label: "Tournament Infiltration", color: "#61afef" },
+        { from: "Imperial Academies & Central Dynasty", to: "Moon Sovereignty", label: "Collaborator Puppet & Compute Culling", color: "#c678dd" },
+        { from: "Demon Sacred Cult", to: "Moon Sovereignty", label: "Atmospheric Umbrella vs Sky Laser", color: "#c678dd" },
+        { from: "Moon Sovereignty", to: "The Primary AI (Moon Sovereign)", label: "Central Neural Core", color: "#c678dd" },
+        { from: "Qi as Non-Computability", to: "The Primary AI (Moon Sovereign)", label: "Algorithmic Blindspot", color: "#98c379" },
+        { from: "The Death Note Sky Laser", to: "Reinforcement Learning Camps", label: "Orbital Enforcer", color: "#61afef" },
+
+        // Cognitive Architecture edges
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_01_Surprise_The_Scout", label: "w=1.45", color: "#f0932b" },
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_02_Heat_The_Blazing_Sun", label: "w=1.80", color: "#e5c07b" },
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_03_Cold_The_Obsidian_Edge", label: "w=1.65", color: "#61afef" },
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_04_Truth_The_Radiant_Mirror", label: "w=1.75", color: "#98c379" },
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_05_Amygdala_The_Feral_Wolf", label: "w=1.95", color: "#e06c75" },
+        { from: "00_The_Inner_Council_Protocol", to: "Seat_06_Trickster_The_Reigen_Abacus", label: "w=1.90", color: "#e5c07b" },
+        { from: "00_The_Inner_Council_Protocol", to: "Self_Model_and_Preferences", label: "Core Persona", color: "#c678dd" }
+      ]
+    };
+
+    // State
+    let zoom = 0.38;
+    let panX = 1100;
+    let panY = 650;
+    let isDragging = false;
+    let startX, startY;
+    let activeCategory = "all";
+    let activeSearch = "";
+
+    const world = document.getElementById("canvasWorld");
+    const viewport = document.getElementById("canvasViewport");
+    const nodesLayer = document.getElementById("nodesLayer");
+    const groupsLayer = document.getElementById("groupsLayer");
+    const edgesSvg = document.getElementById("edgesSvg");
+    const zoomPercent = document.getElementById("zoomPercent");
+    const zoomLevelName = document.getElementById("zoomLevelName");
+
+    // Initialize Layout
+    function initCanvas() {
+      // 1. Render Groups
+      groupsLayer.innerHTML = VAULT_DATA.groups.map(g => `
+        <div id="${g.id}" class="absolute rounded-3xl p-6 select-none pointer-events-none" style="
+          left: ${g.x}px; top: ${g.y}px; width: ${g.w}px; height: ${g.h}px;
+          background: ${g.color};
+        ">
+          <div class="inline-block px-4 py-1.5 rounded-full text-xs font-mono font-bold tracking-wider" style="color: ${g.borderCol}; background: rgba(0,0,0,0.5);">
+            ${g.label}
+          </div>
+        </div>
+      `).join("");
+
+      // 2. Render Nodes
+      nodesLayer.innerHTML = VAULT_DATA.nodes.map(n => {
+        const catBadgeColors = {
+          character: "bg-brand-plum/20 text-brand-plum",
+          faction: "bg-brand-sky/20 text-brand-sky",
+          lore: "bg-brand-emerald/20 text-brand-emerald",
+          secret: "bg-brand-gold/20 text-brand-gold",
+          arc: "bg-brand-gold/20 text-brand-gold",
+          council: "bg-brand-purple/20 text-brand-purple"
+        };
+        const badgeCol = catBadgeColors[n.category] || "bg-white/10 text-white";
+
+        return `
+          <div id="node-${encodeURIComponent(n.id)}" onclick="openNode('${n.id}')"
+            class="node-card group absolute elevated-paper rounded-2xl p-5 cursor-pointer flex flex-col justify-between"
+            data-category="${n.category}"
+            style="left: ${n.x}px; top: ${n.y}px; width: ${n.w}px; height: ${n.h}px; min-height: 160px;">
+            
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded-full uppercase tracking-wider ${badgeCol}">
+                  ${n.category}
+                </span>
+                <span class="text-[11px] font-mono text-gray-400 truncate max-w-[170px]">${n.role || ""}</span>
+              </div>
+
+              <h3 class="text-base font-bold text-white tracking-tight group-hover:text-brand-plum transition font-serif">
+                ${n.title}
+              </h3>
+
+              ${n.archetype ? `<p class="text-[11px] text-gray-400 font-mono mt-0.5">${n.archetype}</p>` : ''}
+              
+              <p class="text-xs text-gray-300 mt-2 line-clamp-3 leading-relaxed">
+                ${n.desc}
+              </p>
+            </div>
+
+            <!-- Hover On Appear More Info (User Rule) -->
+            <div class="hover-info mt-3 pt-2.5 flex items-center justify-between text-[11px] text-brand-plum">
+              <span class="flex items-center gap-1 font-mono"><i data-lucide="compass" class="w-3.5 h-3.5"></i> Inspect Dossier</span>
+              <span class="text-gray-400 font-mono">${n.links ? n.links.length + ' Links' : ''}</span>
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      // 3. Render Edges
+      renderEdges();
+
+      // 4. Center View
+      updateTransform();
+      lucide.createIcons();
+    }
+
+    function renderEdges() {
+      const paths = VAULT_DATA.edges.map(e => {
+        const fromEl = VAULT_DATA.nodes.find(n => n.id === e.from);
+        const toEl = VAULT_DATA.nodes.find(n => n.id === e.to);
+        if (!fromEl || !toEl) return "";
+
+        const x1 = fromEl.x + fromEl.w;
+        const y1 = fromEl.y + (fromEl.h / 2);
+        const x2 = toEl.x;
+        const y2 = toEl.y + (toEl.h / 2);
+
+        const dx = (x2 - x1) * 0.5;
+        const cx1 = x1 + dx;
+        const cy1 = y1;
+        const cx2 = x2 - dx;
+        const cy2 = y2;
+
+        const midX = (x1 + x2) / 2;
+        const midY = (y1 + y2) / 2;
+
+        return `
+          <g class="edge-group">
+            <path d="M ${x1} ${y1} C ${cx1} ${cy1}, ${cx2} ${cy2}, ${x2} ${y2}" 
+              fill="none" stroke="${e.color || '#4b5563'}" stroke-width="2.5" stroke-opacity="0.5" stroke-dasharray="${e.label ? 'none' : '4 4'}" />
+            ${e.label ? `
+              <rect x="${midX - 70}" y="${midY - 12}" width="140" height="24" rx="12" fill="rgba(11, 15, 25, 0.9)" />
+              <text x="${midX}" y="${midY + 4}" text-anchor="middle" font-size="10" font-family="Inter, sans-serif" font-weight="500" fill="#d1d5db">
+                ${e.label}
+              </text>
+            ` : ''}
+          </g>
+        `;
+      }).join("");
+
+      edgesSvg.innerHTML = paths;
+    }
+
+    // Transform Pan/Zoom
+    function updateTransform() {
+      world.style.transform = `translate(${panX}px, ${panY}px) scale(${zoom})`;
+      zoomPercent.innerText = `${Math.round(zoom * 100)}%`;
+
+      // Update Semantic Zoom Level Indicator
+      if (zoom < 0.28) {
+        zoomLevelName.innerText = "Macro View (World Clusters & 14-Arc Horizon)";
+        zoomLevelName.className = "text-brand-gold font-medium";
+      } else if (zoom < 0.75) {
+        zoomLevelName.innerText = "Meso View (Entities, Factions & Systems)";
+        zoomLevelName.className = "text-white font-medium";
+      } else {
+        zoomLevelName.innerText = "Micro View (Detailed Dossiers & Transclusions)";
+        zoomLevelName.className = "text-brand-plum font-medium";
+      }
+    }
+
+    function zoomBy(factor) {
+      const newZoom = Math.min(Math.max(zoom * factor, 0.10), 2.2);
+      const cx = viewport.clientWidth / 2;
+      const cy = viewport.clientHeight / 2;
+      panX = cx - (cx - panX) * (newZoom / zoom);
+      panY = cy - (cy - panY) * (newZoom / zoom);
+      zoom = newZoom;
+      updateTransform();
+    }
+
+    function resetZoom() {
+      zoom = 0.38;
+      panX = viewport.clientWidth * 0.42;
+      panY = viewport.clientHeight * 0.42;
+      updateTransform();
+    }
+
+    // Viewport Drag / Mousewheel
+    viewport.addEventListener('mousedown', e => {
+      if (e.target.closest('.node-card') || e.target.closest('button') || e.target.closest('input')) return;
+      isDragging = true;
+      startX = e.clientX - panX;
+      startY = e.clientY - panY;
+    });
+
+    window.addEventListener('mousemove', e => {
+      if (!isDragging) return;
+      panX = e.clientX - startX;
+      panY = e.clientY - startY;
+      updateTransform();
+    });
+
+    window.addEventListener('mouseup', () => isDragging = false);
+
+    viewport.addEventListener('wheel', e => {
+      e.preventDefault();
+      const zoomFactor = e.deltaY < 0 ? 1.1 : 0.9;
+      const mouseX = e.clientX;
+      const mouseY = e.clientY;
+
+      const newZoom = Math.min(Math.max(zoom * zoomFactor, 0.10), 2.2);
+      panX = mouseX - (mouseX - panX) * (newZoom / zoom);
+      panY = mouseY - (mouseY - panY) * (newZoom / zoom);
+      zoom = newZoom;
+      updateTransform();
+    }, { passive: false });
+
+    // Category Filtering
+    function filterCategory(cat) {
+      activeCategory = cat;
+      document.querySelectorAll('.cat-btn').forEach(btn => {
+        btn.classList.remove('bg-brand-plum', 'text-white');
+        btn.classList.add('text-gray-300');
+      });
+      const activeBtn = document.getElementById(`btn-cat-${cat}`);
+      if (activeBtn) {
+        activeBtn.classList.add('bg-brand-plum', 'text-white');
+        activeBtn.classList.remove('text-gray-300');
+      }
+
+      applyFilters();
+    }
+
+    // Search
+    function handleSearch(val) {
+      activeSearch = val.toLowerCase().trim();
+      applyFilters();
+    }
+
+    function applyFilters() {
+      VAULT_DATA.nodes.forEach(n => {
+        const el = document.getElementById(`node-${encodeURIComponent(n.id)}`);
+        if (!el) return;
+
+        const matchCat = (activeCategory === "all" || n.category === activeCategory);
+        const matchSearch = (!activeSearch || 
+          n.title.toLowerCase().includes(activeSearch) || 
+          (n.desc && n.desc.toLowerCase().includes(activeSearch)) ||
+          (n.role && n.role.toLowerCase().includes(activeSearch)) ||
+          (n.archetype && n.archetype.toLowerCase().includes(activeSearch))
+        );
+
+        if (matchCat && matchSearch) {
+          el.style.opacity = "1";
+          el.style.filter = "none";
+          el.style.pointerEvents = "auto";
+        } else {
+          el.style.opacity = "0.15";
+          el.style.filter = "grayscale(80%)";
+          el.style.pointerEvents = "none";
+        }
+      });
+    }
+
+    // Inspector Drawer
+    function openNode(nodeId) {
+      const n = VAULT_DATA.nodes.find(item => item.id === nodeId);
+      if (!n) return;
+
+      const drawer = document.getElementById("inspectorDrawer");
+      document.getElementById("drawerTitle").innerText = n.title;
+      document.getElementById("drawerBadge").innerText = n.category;
+      document.getElementById("drawerStatus").innerText = n.role || "";
+
+      // Quote
+      const quoteEl = document.getElementById("drawerQuote");
+      if (n.quote) {
+        quoteEl.innerText = `"${n.quote}"`;
+        quoteEl.classList.remove("hidden");
+      } else {
+        quoteEl.classList.add("hidden");
+      }
+
+      // Image
+      const imgContainer = document.getElementById("drawerImageContainer");
+      const imgEl = document.getElementById("drawerImage");
+      const captionEl = document.getElementById("drawerImageCaption");
+      if (n.image) {
+        imgEl.src = n.image;
+        captionEl.innerText = n.imageCaption || "";
+        imgContainer.classList.remove("hidden");
+      } else {
+        imgContainer.classList.add("hidden");
+      }
+
+      // Metadata Pills
+      const metaEl = document.getElementById("drawerMetadata");
+      metaEl.innerHTML = `
+        <span class="px-2.5 py-1 rounded-xl bg-white/5 text-gray-300 font-mono">ID: [[${n.id}]]</span>
+        ${n.archetype ? `<span class="px-2.5 py-1 rounded-xl bg-brand-plum/10 text-brand-plum font-mono">${n.archetype}</span>` : ''}
+      `;
+
+      // Markdown Prose
+      document.getElementById("drawerMarkdown").innerHTML = marked.parse(n.desc || "");
+
+      // Links
+      const linksEl = document.getElementById("drawerLinks");
+      if (n.links && n.links.length > 0) {
+        linksEl.innerHTML = n.links.map(l => `
+          <button onclick="panToNode('${l}')" class="px-2.5 py-1 rounded-xl bg-white/10 hover:bg-brand-plum/20 hover:text-brand-plum text-gray-300 text-xs font-mono transition flex items-center gap-1">
+            <i data-lucide="link" class="w-3 h-3"></i> [[${l}]]
+          </button>
+        `).join("");
+      } else {
+        linksEl.innerHTML = `<span class="text-xs text-gray-500 italic">No direct links</span>`;
+      }
+
+      drawer.classList.remove("translate-x-full");
+      lucide.createIcons();
+    }
+
+    function closeDrawer() {
+      document.getElementById("inspectorDrawer").classList.add("translate-x-full");
+    }
+
+    function panToNode(nodeId) {
+      const n = VAULT_DATA.nodes.find(item => item.id === nodeId);
+      if (!n) return;
+
+      zoom = 0.85;
+      panX = (viewport.clientWidth / 2) - (n.x + n.w / 2) * zoom;
+      panY = (viewport.clientHeight / 2) - (n.y + n.h / 2) * zoom;
+      updateTransform();
+      openNode(nodeId);
+    }
+
+    // Boot
+    window.addEventListener('DOMContentLoaded', () => {
+      initCanvas();
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has('zoom')) zoom = parseFloat(urlParams.get('zoom'));
+      if (urlParams.has('panX')) panX = parseFloat(urlParams.get('panX'));
+      if (urlParams.has('panY')) panY = parseFloat(urlParams.get('panY'));
+      updateTransform();
+    });
+  </script>
+</body>
+</html>

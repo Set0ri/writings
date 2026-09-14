@@ -1,0 +1,9 @@
+{
+  "baseTheme": "dark",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "livePreview": true
+}

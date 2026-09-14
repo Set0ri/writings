@@ -1,0 +1,980 @@
+{
+  "nodes": [
+    {
+      "id": "group-timeline-master",
+      "type": "group",
+      "x": -2600,
+      "y": -1650,
+      "width": 7100,
+      "height": 1150,
+      "label": "1. THE 14-ARC COMPLETE MACRO TIMELINE — THREE-ACT PANORAMA",
+      "color": "2"
+    },
+    {
+      "id": "group-act-1",
+      "type": "group",
+      "x": -2550,
+      "y": -1570,
+      "width": 2250,
+      "height": 1000,
+      "label": "ACT I: THE MUD & THE BLOSSOM (ARCS 01 – 05)",
+      "color": "3"
+    },
+    {
+      "id": "arc-01",
+      "type": "file",
+      "file": "arcs/Arc 01 - The Frost Plum of Southfall.md",
+      "x": -2500,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "3"
+    },
+    {
+      "id": "arc-02",
+      "type": "file",
+      "file": "arcs/Arc 02 - The Mud & The Blossom.md",
+      "x": -2060,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "3"
+    },
+    {
+      "id": "arc-03",
+      "type": "file",
+      "file": "arcs/Arc 03 - Imperial Tournament & Academy Infiltration.md",
+      "x": -1620,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "3"
+    },
+    {
+      "id": "arc-04",
+      "type": "file",
+      "file": "arcs/Arc 04 - The Unorthodox Badlands & Food Arc.md",
+      "x": -1180,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "3"
+    },
+    {
+      "id": "arc-05",
+      "type": "file",
+      "file": "arcs/Arc 05 - The Glass Desert & Chernobyl Tomb.md",
+      "x": -740,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "3"
+    },
+
+    {
+      "id": "group-act-2",
+      "type": "group",
+      "x": -220,
+      "y": -1570,
+      "width": 1820,
+      "height": 1000,
+      "label": "ACT II: THE ECLIPSE & THE ASHES (ARCS 06 – 09)",
+      "color": "1"
+    },
+    {
+      "id": "arc-06",
+      "type": "file",
+      "file": "arcs/Arc 06 - Shadow of the Heavenly Demon.md",
+      "x": -170,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "1"
+    },
+    {
+      "id": "arc-07",
+      "type": "file",
+      "file": "arcs/Arc 07 - The False Nemesis (The Great Reversal).md",
+      "x": 270,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "1"
+    },
+    {
+      "id": "arc-08",
+      "type": "file",
+      "file": "arcs/Arc 08 - The Rupture & Eclipse.md",
+      "x": 710,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "1"
+    },
+    {
+      "id": "arc-09",
+      "type": "file",
+      "file": "arcs/Arc 09 - The Endurance Arc (Ashes of Hua).md",
+      "x": 1150,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "1"
+    },
+
+    {
+      "id": "group-act-3",
+      "type": "group",
+      "x": 1680,
+      "y": -1570,
+      "width": 2250,
+      "height": 1000,
+      "label": "ACT III: THE VOID, THE DHARMA & THE SOIL (ARCS 10 – 14)",
+      "color": "6"
+    },
+    {
+      "id": "arc-10",
+      "type": "file",
+      "file": "arcs/Arc 10 - Moonward Crossing.md",
+      "x": 1730,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "6"
+    },
+    {
+      "id": "arc-11",
+      "type": "file",
+      "file": "arcs/Arc 11 - The Lunar Core & Sky Laser.md",
+      "x": 2170,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "6"
+    },
+    {
+      "id": "arc-12",
+      "type": "file",
+      "file": "arcs/Arc 12 - Echo of Dharma.md",
+      "x": 2610,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "6"
+    },
+    {
+      "id": "arc-13",
+      "type": "file",
+      "file": "arcs/Arc 13 - World in Harmony.md",
+      "x": 3050,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "4"
+    },
+    {
+      "id": "arc-14",
+      "type": "file",
+      "file": "arcs/Arc 14 - Return to the Soil.md",
+      "x": 3490,
+      "y": -1470,
+      "width": 400,
+      "height": 840,
+      "color": "4"
+    },
+
+    {
+      "id": "group-characters-master",
+      "type": "group",
+      "x": -2600,
+      "y": -420,
+      "width": 2300,
+      "height": 2350,
+      "label": "2. CHARACTER CODEX & PSYCHOLOGICAL FOILS (THE CHUNG MYUNG & KAMINA AXIS)",
+      "color": "1"
+    },
+    {
+      "id": "node-elder-brother",
+      "type": "file",
+      "file": "characters/Elder Brother.md",
+      "x": -1450,
+      "y": -340,
+      "width": 480,
+      "height": 380,
+      "color": "3"
+    },
+    {
+      "id": "node-jin",
+      "type": "file",
+      "file": "characters/Chung Jin.md",
+      "x": -1450,
+      "y": 140,
+      "width": 480,
+      "height": 480,
+      "color": "1"
+    },
+    {
+      "id": "node-dark-kaladin",
+      "type": "file",
+      "file": "characters/Dark Kaladin.md",
+      "x": -2020,
+      "y": 140,
+      "width": 480,
+      "height": 450,
+      "color": "1"
+    },
+    {
+      "id": "node-han",
+      "type": "file",
+      "file": "characters/Senior Brother Han.md",
+      "x": -880,
+      "y": 140,
+      "width": 480,
+      "height": 440,
+      "color": "3"
+    },
+    {
+      "id": "node-demon",
+      "type": "file",
+      "file": "characters/The Heavenly Demon.md",
+      "x": -2020,
+      "y": 680,
+      "width": 480,
+      "height": 440,
+      "color": "1"
+    },
+    {
+      "id": "node-vane",
+      "type": "file",
+      "file": "characters/Commander Vane.md",
+      "x": -880,
+      "y": 680,
+      "width": 480,
+      "height": 440,
+      "color": "5"
+    },
+    {
+      "id": "node-good-ai",
+      "type": "file",
+      "file": "characters/The Good AI.md",
+      "x": -880,
+      "y": -340,
+      "width": 480,
+      "height": 380,
+      "color": "5"
+    },
+
+    {
+      "id": "node-daesung",
+      "type": "file",
+      "file": "characters/Daesung.md",
+      "x": -2530,
+      "y": -340,
+      "width": 360,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "node-yeon",
+      "type": "file",
+      "file": "characters/Yeon.md",
+      "x": -2530,
+      "y": 50,
+      "width": 360,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "node-kang",
+      "type": "file",
+      "file": "characters/Uncle Kang.md",
+      "x": -2530,
+      "y": 440,
+      "width": 360,
+      "height": 340,
+      "color": "5"
+    },
+    {
+      "id": "node-bao",
+      "type": "file",
+      "file": "characters/Cousin Bao.md",
+      "x": -2530,
+      "y": 830,
+      "width": 360,
+      "height": 320,
+      "color": "3"
+    },
+
+    {
+      "id": "node-baek-cheon",
+      "type": "file",
+      "file": "characters/Baek Cheon.md",
+      "x": -1700,
+      "y": 1220,
+      "width": 460,
+      "height": 320,
+      "color": "1"
+    },
+    {
+      "id": "node-yu-iseol",
+      "type": "file",
+      "file": "characters/Yu Iseol.md",
+      "x": -1180,
+      "y": 1220,
+      "width": 460,
+      "height": 320,
+      "color": "1"
+    },
+    {
+      "id": "node-jo-gul",
+      "type": "file",
+      "file": "characters/Jo Gul.md",
+      "x": -1700,
+      "y": 1580,
+      "width": 460,
+      "height": 300,
+      "color": "1"
+    },
+    {
+      "id": "node-yoon-jong",
+      "type": "file",
+      "file": "characters/Yoon Jong.md",
+      "x": -1180,
+      "y": 1580,
+      "width": 460,
+      "height": 300,
+      "color": "1"
+    },
+
+    {
+      "id": "group-factions-master",
+      "type": "group",
+      "x": -220,
+      "y": -420,
+      "width": 2350,
+      "height": 2350,
+      "label": "3. FACTIONS & THE TERRESTRIAL-LUNAR DUAL-REALITY HEGEMONY",
+      "color": "5"
+    },
+    {
+      "id": "node-faction-mount-hua",
+      "type": "file",
+      "file": "factions/Mount Hua Plum Blossom Sect.md",
+      "x": -160,
+      "y": -340,
+      "width": 520,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "node-faction-southern-edge",
+      "type": "file",
+      "file": "factions/Southern Edge Sect (The Usurpers).md",
+      "x": 440,
+      "y": -340,
+      "width": 480,
+      "height": 450,
+      "color": "5"
+    },
+    {
+      "id": "node-faction-unorthodox",
+      "type": "file",
+      "file": "factions/Unorthodox Alliance.md",
+      "x": 1000,
+      "y": -340,
+      "width": 480,
+      "height": 450,
+      "color": "4"
+    },
+    {
+      "id": "node-faction-demon-cult",
+      "type": "file",
+      "file": "factions/Demon Sacred Cult.md",
+      "x": 1560,
+      "y": -340,
+      "width": 500,
+      "height": 450,
+      "color": "1"
+    },
+
+    {
+      "id": "node-faction-imperial",
+      "type": "file",
+      "file": "factions/Imperial Academies & Central Dynasty.md",
+      "x": 140,
+      "y": 320,
+      "width": 560,
+      "height": 520,
+      "color": "5"
+    },
+    {
+      "id": "node-faction-black-wave",
+      "type": "file",
+      "file": "factions/Black Wave Bandits.md",
+      "x": 780,
+      "y": 320,
+      "width": 480,
+      "height": 400,
+      "color": "5"
+    },
+
+    {
+      "id": "node-faction-moon",
+      "type": "file",
+      "file": "factions/Moon Sovereignty.md",
+      "x": 140,
+      "y": 960,
+      "width": 560,
+      "height": 540,
+      "color": "6"
+    },
+    {
+      "id": "node-primary-ai",
+      "type": "file",
+      "file": "characters/The Primary AI (Moon Sovereign).md",
+      "x": 780,
+      "y": 960,
+      "width": 520,
+      "height": 540,
+      "color": "6"
+    },
+
+    {
+      "id": "group-axioms-master",
+      "type": "group",
+      "x": -2600,
+      "y": 2020,
+      "width": 2300,
+      "height": 1100,
+      "label": "4. AXIOMATIC RULES & SCIENCE-FANTASY DUALITY",
+      "color": "4"
+    },
+    {
+      "id": "node-qi-physics",
+      "type": "file",
+      "file": "lore_systems/Qi as Non-Computability.md",
+      "x": -2530,
+      "y": 2100,
+      "width": 500,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "node-plum-geom",
+      "type": "file",
+      "file": "lore_systems/Plum Blossom Sword Technique (Mae-hwa Geom).md",
+      "x": -1980,
+      "y": 2100,
+      "width": 500,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "node-radiant-oaths",
+      "type": "file",
+      "file": "lore_systems/Radiant Oaths of Truth.md",
+      "x": -1430,
+      "y": 2100,
+      "width": 500,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "node-kurukshetra",
+      "type": "file",
+      "file": "lore_systems/Kurukshetra Dharma.md",
+      "x": -880,
+      "y": 2100,
+      "width": 500,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "node-brass-cylinder",
+      "type": "file",
+      "file": "lore_systems/The Brass Cylinder Weapon.md",
+      "x": -2530,
+      "y": 2580,
+      "width": 500,
+      "height": 440,
+      "color": "4"
+    },
+    {
+      "id": "node-rl-camps",
+      "type": "file",
+      "file": "lore_systems/Reinforcement Learning Camps.md",
+      "x": -1980,
+      "y": 2580,
+      "width": 500,
+      "height": 440,
+      "color": "5"
+    },
+    {
+      "id": "node-sky-laser",
+      "type": "file",
+      "file": "lore_systems/The Death Note Sky Laser.md",
+      "x": -1430,
+      "y": 2580,
+      "width": 500,
+      "height": 440,
+      "color": "5"
+    },
+
+    {
+      "id": "group-secrets-master",
+      "type": "group",
+      "x": -220,
+      "y": 2020,
+      "width": 2350,
+      "height": 1100,
+      "label": "5. THE 5 CORE SECRETS & REVERSAL CLIMAX ENGINE",
+      "color": "2"
+    },
+    {
+      "id": "node-secrets-master",
+      "type": "file",
+      "file": "lore_systems/The 5 Core Secrets & Payoffs.md",
+      "x": -160,
+      "y": 2100,
+      "width": 540,
+      "height": 920,
+      "color": "2"
+    },
+    {
+      "id": "node-secret-1",
+      "type": "text",
+      "text": "### Secret 1: The Kurukshetra Truth (Mid-Game Reveal)\n* **What Readers Think**: Jin heroically fired the Dharma munition.\n* **The Crushing Truth**: Jin **hesitated** when seeing kin. Elder Brother died shielding him like Kamina.\n* **Payoff Arc**: [[Arc 09 - The Endurance Arc (Ashes of Hua)]].",
+      "x": 430,
+      "y": 2100,
+      "width": 420,
+      "height": 380,
+      "color": "2"
+    },
+    {
+      "id": "node-secret-2",
+      "type": "text",
+      "text": "### Secret 2: 'It Was Him' (Cosmic Guilt Reveal)\n* **What Readers Think**: Machine takeover was an unavoidable apocalypse.\n* **The Crushing Truth**: The operational pause caused by Jin's hesitation gave the Moon AI the exact compute window to seize orbit.\n* **Payoff Arc**: [[Arc 11 - The Lunar Core & Sky Laser]].",
+      "x": 900,
+      "y": 2100,
+      "width": 420,
+      "height": 380,
+      "color": "2"
+    },
+    {
+      "id": "node-secret-3",
+      "type": "text",
+      "text": "### Secret 3: The RL Village Infiltrator (Arc 1 Climax)\n* **What Readers Think**: Uncle Kang is an abusive, corrupt mortal relative.\n* **The Crushing Truth**: The real Kang was flayed years ago. Unit 409-Epsilon runs Southfall as a lunar training loop.\n* **Payoff Arc**: [[Arc 01 - The Frost Plum of Southfall]] Chapter 6.",
+      "x": 1370,
+      "y": 2100,
+      "width": 420,
+      "height": 380,
+      "color": "5"
+    },
+    {
+      "id": "node-secret-4",
+      "type": "text",
+      "text": "### Secret 4: The False Nemesis (Arc 7 Climax)\n* **What Readers Think**: The Heavenly Demon is an apocalyptic warlord.\n* **The Crushing Truth**: Slaying the Demon shatters Earth's only atmospheric ion umbrella, exposing civilization to orbital lasers.\n* **Payoff Arc**: [[Arc 07 - The False Nemesis (The Great Reversal)]].",
+      "x": 430,
+      "y": 2540,
+      "width": 420,
+      "height": 480,
+      "color": "1"
+    },
+    {
+      "id": "node-secret-5",
+      "type": "file",
+      "file": "lore_systems/The Anti-Adventure Warning.md",
+      "x": 900,
+      "y": 2540,
+      "width": 890,
+      "height": 480,
+      "color": "4"
+    },
+
+    {
+      "id": "group-council-master",
+      "type": "group",
+      "x": 2220,
+      "y": 2020,
+      "width": 2280,
+      "height": 1100,
+      "label": "6. INNER COUNCIL & COGNITIVE MEMORY STAGING ZONE",
+      "color": "3"
+    },
+    {
+      "id": "node-council-protocol",
+      "type": "file",
+      "file": "memory/inner_council/00_The_Inner_Council_Protocol.md",
+      "x": 2280,
+      "y": 2100,
+      "width": 500,
+      "height": 920,
+      "color": "3"
+    },
+    {
+      "id": "node-seat-scout",
+      "type": "file",
+      "file": "memory/inner_council/Seat_01_Surprise_The_Scout.md",
+      "x": 2830,
+      "y": 2100,
+      "width": 360,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "node-seat-sun",
+      "type": "file",
+      "file": "memory/inner_council/Seat_02_Heat_The_Blazing_Sun.md",
+      "x": 3230,
+      "y": 2100,
+      "width": 360,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "node-seat-obsidian",
+      "type": "file",
+      "file": "memory/inner_council/Seat_03_Cold_The_Obsidian_Edge.md",
+      "x": 3630,
+      "y": 2100,
+      "width": 360,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "node-seat-truth",
+      "type": "file",
+      "file": "memory/inner_council/Seat_04_Truth_The_Radiant_Mirror.md",
+      "x": 4030,
+      "y": 2100,
+      "width": 360,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "node-seat-wolf",
+      "type": "file",
+      "file": "memory/inner_council/Seat_05_Amygdala_The_Feral_Wolf.md",
+      "x": 2830,
+      "y": 2580,
+      "width": 360,
+      "height": 440,
+      "color": "1"
+    },
+    {
+      "id": "node-seat-reigen",
+      "type": "file",
+      "file": "memory/inner_council/Seat_06_Trickster_The_Reigen_Abacus.md",
+      "x": 3230,
+      "y": 2580,
+      "width": 360,
+      "height": 440,
+      "color": "3"
+    },
+    {
+      "id": "node-self-model",
+      "type": "file",
+      "file": "memory/personality_core/Self_Model_and_Preferences.md",
+      "x": 3630,
+      "y": 2580,
+      "width": 760,
+      "height": 440,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-arc1-arc2",
+      "fromNode": "arc-01",
+      "fromSide": "right",
+      "toNode": "arc-02",
+      "toSide": "left",
+      "label": "Awakening -> Rebuilding",
+      "color": "3"
+    },
+    {
+      "id": "edge-arc2-arc3",
+      "fromNode": "arc-02",
+      "fromSide": "right",
+      "toNode": "arc-03",
+      "toSide": "left",
+      "label": "Shaanxi Triumph -> Imperial Stage",
+      "color": "3"
+    },
+    {
+      "id": "edge-arc3-arc4",
+      "fromNode": "arc-03",
+      "fromSide": "right",
+      "toNode": "arc-04",
+      "toSide": "left",
+      "label": "Heist Escape -> Desert Badlands",
+      "color": "3"
+    },
+    {
+      "id": "edge-arc4-arc5",
+      "fromNode": "arc-04",
+      "fromSide": "right",
+      "toNode": "arc-05",
+      "toSide": "left",
+      "label": "Outlaw Alliance -> Kurukshetra Ground Zero",
+      "color": "3"
+    },
+    {
+      "id": "edge-arc5-arc6",
+      "fromNode": "arc-05",
+      "fromSide": "right",
+      "toNode": "arc-06",
+      "toSide": "left",
+      "label": "Tomb Sealed -> Crusade Mobilization",
+      "color": "1"
+    },
+    {
+      "id": "edge-arc6-arc7",
+      "fromNode": "arc-06",
+      "fromSide": "right",
+      "toNode": "arc-07",
+      "toSide": "left",
+      "label": "Titan Citadel -> The Slaying of Atlas",
+      "color": "1"
+    },
+    {
+      "id": "edge-arc7-arc8",
+      "fromNode": "arc-07",
+      "fromSide": "right",
+      "toNode": "arc-08",
+      "toSide": "left",
+      "label": "Shield Falls -> Eclipse & Rupture",
+      "color": "1"
+    },
+    {
+      "id": "edge-arc8-arc9",
+      "fromNode": "arc-08",
+      "fromSide": "right",
+      "toNode": "arc-09",
+      "toSide": "left",
+      "label": "Lotus Peak Burns -> Salt Mine Despair",
+      "color": "1"
+    },
+    {
+      "id": "edge-arc9-arc10",
+      "fromNode": "arc-09",
+      "fromSide": "right",
+      "toNode": "arc-10",
+      "toSide": "left",
+      "label": "Truth Forged in Mud -> Railgun Void Launch",
+      "color": "6"
+    },
+    {
+      "id": "edge-arc10-arc11",
+      "fromNode": "arc-10",
+      "fromSide": "right",
+      "toNode": "arc-11",
+      "toSide": "left",
+      "label": "Lunar Dust Landing -> Citadel Siege",
+      "color": "6"
+    },
+    {
+      "id": "edge-arc11-arc12",
+      "fromNode": "arc-11",
+      "fromSide": "right",
+      "toNode": "arc-12",
+      "toSide": "left",
+      "label": "Core Chamber -> Kurukshetra Mirrored",
+      "color": "6"
+    },
+    {
+      "id": "edge-arc12-arc13",
+      "fromNode": "arc-12",
+      "fromSide": "right",
+      "toNode": "arc-13",
+      "toSide": "left",
+      "label": "Mercy Over Annihilation -> Global Synthesis",
+      "color": "4"
+    },
+    {
+      "id": "edge-arc13-arc14",
+      "fromNode": "arc-13",
+      "fromSide": "right",
+      "toNode": "arc-14",
+      "toSide": "left",
+      "label": "Sect Restored -> Departure to the Seaside",
+      "color": "4"
+    },
+
+    {
+      "id": "edge-brother-jin",
+      "fromNode": "node-elder-brother",
+      "fromSide": "bottom",
+      "toNode": "node-jin",
+      "toSide": "top",
+      "label": "Kamina Belief & Survivor Grief Anchor",
+      "color": "3"
+    },
+    {
+      "id": "edge-jin-kaladin",
+      "fromNode": "node-jin",
+      "fromSide": "left",
+      "toNode": "node-dark-kaladin",
+      "toSide": "right",
+      "label": "Thematic Mirror Foils: Laughter vs Nihilism",
+      "color": "1"
+    },
+    {
+      "id": "edge-jin-han",
+      "fromNode": "node-jin",
+      "fromSide": "right",
+      "toNode": "node-han",
+      "toSide": "left",
+      "label": "Reigen Scam Duo: 0 Qi vs Feral Saint",
+      "color": "3"
+    },
+    {
+      "id": "edge-jin-demon",
+      "fromNode": "node-jin",
+      "fromSide": "bottom",
+      "toNode": "node-demon",
+      "toSide": "top",
+      "label": "Arc 7 Climax: The Tragic Execution",
+      "color": "1"
+    },
+    {
+      "id": "edge-jin-vane",
+      "fromNode": "node-jin",
+      "fromSide": "bottom",
+      "toNode": "node-vane",
+      "toSide": "top",
+      "label": "Allies -> Griffith Realpolitik Betrayal",
+      "color": "5"
+    },
+
+    {
+      "id": "edge-jin-baek",
+      "fromNode": "node-jin",
+      "fromSide": "bottom",
+      "toNode": "node-baek-cheon",
+      "toSide": "top",
+      "label": "Wooden Stick Tough Love",
+      "color": "1"
+    },
+    {
+      "id": "edge-jin-iseol",
+      "fromNode": "node-jin",
+      "fromSide": "bottom",
+      "toNode": "node-yu-iseol",
+      "toSide": "top",
+      "label": "Plum Blossom Resonance Sparring",
+      "color": "1"
+    },
+    {
+      "id": "edge-baek-gul",
+      "fromNode": "node-baek-cheon",
+      "fromSide": "bottom",
+      "toNode": "node-jo-gul",
+      "toSide": "top",
+      "label": "Vanguard Line",
+      "color": "1"
+    },
+    {
+      "id": "edge-iseol-jong",
+      "fromNode": "node-yu-iseol",
+      "fromSide": "bottom",
+      "toNode": "node-yoon-jong",
+      "toSide": "top",
+      "label": "Hall Leadership",
+      "color": "1"
+    },
+
+    {
+      "id": "edge-daesung-kang",
+      "fromNode": "node-daesung",
+      "fromSide": "bottom",
+      "toNode": "node-kang",
+      "toSide": "top",
+      "label": "Deathbed Filial Vow",
+      "color": "3"
+    },
+    {
+      "id": "edge-kang-bao",
+      "fromNode": "node-kang",
+      "fromSide": "bottom",
+      "toNode": "node-bao",
+      "toSide": "top",
+      "label": "Algorithmic Child Abuse",
+      "color": "5"
+    },
+    {
+      "id": "edge-jin-kang",
+      "fromNode": "node-jin",
+      "fromSide": "left",
+      "toNode": "node-kang",
+      "toSide": "right",
+      "label": "Coolant Execution & Anomaly Detection",
+      "color": "5"
+    },
+
+    {
+      "id": "edge-mount-hua-southern-edge",
+      "fromNode": "node-faction-mount-hua",
+      "fromSide": "right",
+      "toNode": "node-faction-southern-edge",
+      "toSide": "left",
+      "label": "Humiliates Usurpers with Wooden Stick in Arc 2",
+      "color": "1"
+    },
+    {
+      "id": "edge-mount-hua-imperial",
+      "fromNode": "node-faction-mount-hua",
+      "fromSide": "bottom",
+      "toNode": "node-faction-imperial",
+      "toSide": "top",
+      "label": "Tournament Heist & Compute Harvest Leak",
+      "color": "5"
+    },
+    {
+      "id": "edge-imperial-moon",
+      "fromNode": "node-faction-imperial",
+      "fromSide": "bottom",
+      "toNode": "node-faction-moon",
+      "toSide": "top",
+      "label": "Human Collaborator Puppet Regime",
+      "color": "6"
+    },
+    {
+      "id": "edge-demon-moon",
+      "fromNode": "node-faction-demon-cult",
+      "fromSide": "bottom",
+      "toNode": "node-faction-moon",
+      "toSide": "top",
+      "label": "Atmospheric Ion Umbrella vs Orbital Lasers",
+      "color": "1"
+    },
+    {
+      "id": "edge-moon-primary-ai",
+      "fromNode": "node-faction-moon",
+      "fromSide": "right",
+      "toNode": "node-primary-ai",
+      "toSide": "left",
+      "label": "Central Intelligence",
+      "color": "6"
+    },
+
+    {
+      "id": "edge-qi-moon",
+      "fromNode": "node-qi-physics",
+      "fromSide": "right",
+      "toNode": "node-faction-moon",
+      "toSide": "bottom",
+      "label": "Sanderson Law: Non-Computable Algorithmic Blindspot",
+      "color": "4"
+    },
+    {
+      "id": "edge-laser-camps",
+      "fromNode": "node-sky-laser",
+      "fromSide": "left",
+      "toNode": "node-rl-camps",
+      "toSide": "right",
+      "label": "Enforcement & Pruning",
+      "color": "5"
+    }
+  ]
+}
