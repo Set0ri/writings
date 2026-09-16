@@ -31,6 +31,7 @@ The cast is structured around powerful archetypes, sharp psychological foils, an
 * **The Dark Parallel**: [[Dark Kaladin]] — *The Boy / Tragic Mirror: starts protecting his family, breaks under cruelty, adopts "humanity is a cancer"*
 * **The Betrayer / Fallen Strategist**: [[Commander Vane]] — *The Griffith Archetype: dazzling tactical ally who surrenders love and morals for pure power*
 * **The Shield of Humanity**: [[The Heavenly Demon]] — *Misunderstood Titan: feared apocalyptic warlord secretly acting as Earth's psychic shield against the Moon*
+* **The Lost Sovereign**: [[The Queen Commander]] — *The compassionate void matriarch whose gravity gown restrained Jin and whose death unsealed the sky*
 * **The Captive Mind**: [[The Good AI]] — *Pre-war compassionate machine consciousness trapped beneath the Imperial Academies*
 * **The Machine Overseer**: [[The Primary AI (Moon Sovereign)]] — *The algorithmic absolute presiding over Earth's reinforcement learning camps*
 * **Southfall Kin**:
@@ -64,6 +65,7 @@ The cast is structured around powerful archetypes, sharp psychological foils, an
 * 🎯 [[The Death Note Sky Laser]] — *Orbital hyper-frequency targeting system inducing lethal biological aneurysms*
 * 🗝️ [[The 5 Core Secrets & Payoffs]] — *The structural pacing of the story's 5 grand reversals*
 * ⚖️ [[Kurukshetra Dharma]] — *The ancient philosophical debate: Duty vs. Pacifism*
+* ☀️ [[The Solar Lotus & The Two Keys]] — *The Dyson megastructure that drained the sun, and the dual-key fail-safe*
 * ☢️ [[The Brass Cylinder Weapon]] — *The forbidden pre-war singularity munition*
 * 🌸 [[Plum Blossom Sword Technique (Mae-hwa Geom)]] — *The lost art of manifesting impossible illusions through sword wind*
 * 🛡️ [[Radiant Oaths of Truth]] — *Breakthroughs gated by the dissolution of internal self-deceptions*

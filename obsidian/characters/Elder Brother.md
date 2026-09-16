@@ -21,6 +21,10 @@ relationships:
 Elder Brother is the blazing, larger-than-life pillar of the ancient vanguard. In an era where humanity was despairing against apocalyptic weapons and ideological madness, he stood upon his war chariot with wild red hair, bare chest scarred by shrapnel, and an unshakeable grin that defied cosmic terror.
 
 ### Core Traits:
+* **The Celestial Turtle Mount**: In the Kurukshetra orbital staging, Elder Brother arrived aboard a celestial void-turtle ship that decelerated from meteor speed to float silently in vacuum.
+* **The Planetary Broadcast**: Broadcast his famous "Trust Over Fear" speech to the entire planet (*"If a meteor was coming, would you refuse to cooperate? Home isn't dirt! Hurt people hurt people!"*).
+* **The Gita Counsel**: Acted as Krishna to Jin's Arjuna, challenging Jin's refusal to fight: *"It is your dharma. Has your delusion born of ignorance been expelled, O great conqueror?"*
+* **The Dying Act**: Sacrificed his body to shield Jin from the Heavenly Demon King, cleanly severing the Demon King's right arm at the shoulder as his final living strike before passing the second key to Jin.
 * **The Absolute Believer**: Where Jin was introspective, philosophical, and prone to agonizing over the moral weight of destruction, Elder Brother was pure forward propulsion. He saw genius in Jin long before Jin saw it in himself.
 * **The Great Sacrifice**: At [[Kurukshetra Dharma]], Jin was entrusted with [[The Brass Cylinder Weapon]]. When Jin saw childhood friends and distant cousins fighting on the opposing side, Jin froze—his hand trembling on the arming sigil. In that fraction of a second, the enemy breakthrough breached the vanguard. Elder Brother didn't curse Jin; he simply smiled, roared his defiance to the heavens, and threw his body into the blades of three hundred enemy champions to seal the breach and buy Jin the breath needed to pull the trigger.
 * **The Lingering Ghost**: Elder Brother's voice echoes in Jin's mind whenever Jin faces insurmountable despair. His death is the root cause of Secret 1 and Secret 2 ([[The 5 Core Secrets & Payoffs]]).
