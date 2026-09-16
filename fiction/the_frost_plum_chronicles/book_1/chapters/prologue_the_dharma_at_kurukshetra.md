@@ -54,11 +54,17 @@ Jin touched the cold brass cylinder hanging against his breastbone. *"Kamina, yo
 
 *"Then I shout louder!"* Kamina laughed, warm, reckless, and unbreakable. *"Because if no one shouts, the void wins. Jin—go."*
 
-Jin stepped into the abyss.
+Jin turned and walked slowly out through the airlock onto the exterior armored hull of the *Hummingbird*. His black cloth boots clicked against the void-cold plating. Beneath his feet, ten thousand leagues of vacuum fell away to reveal the swirling blue curvature of the world.
 
-He plummeted faster than the speed of prayer.
+Kamina gave one last, roaring laugh over the comms. *"Show them what a disciple of Mount Hua is made of, Jin!"*
 
-The upper atmosphere met him like a solid granite wall. At seventeen thousand miles per hour, convective heat spiked past seven thousand Kelvin, wrapping his body in a howling sleeve of crimson fire. Jin did not carry an atmospheric heat shield; he gathered his inner Qi into a microscopic, diamond-sharp aerodynamic needle ahead of his brow, carving a detached bow-shock through the shearing air.
+Jin stood at the outer edge of the hull. He did not crouch. He did not prepare a runner's stance. 
+
+He simply stepped off into the void.
+
+He did not dive head-first like an arrow. He plummeted completely upright—arms calmly crossed over his chest, both feet pointed straight down toward the earth, rocketing through the vacuum as if his living flesh possessed the crushing, infinite mass of a collapsed star.
+
+The upper atmosphere met him like a solid granite wall. At seventeen thousand miles per hour, convective heat spiked past seven thousand Kelvin, wrapping his boots and lower robes in a howling sleeve of crimson fire. Jin did not carry an atmospheric heat shield; he gathered his inner Qi into a microscopic, diamond-sharp aerodynamic needle ahead of his brow and feet, carving a detached bow-shock through the shearing air. Yet through the inferno, his expression remained unnervingly serene—his sharp wolf-eyes half-lidded, his jaw unclenched, the cold, dangerous calm of the Peerless Sword Saint unbothered by the fury of the heavens.
 
 The biological cost was brutal. Capillaries ruptured across the whites of his eyes. Sweat flashed into superheated steam before it could surface on his skin. His dantian greedily consumed every gram of glycogen in his liver, burning his muscle reserves down to dry, aching sinew.
 
