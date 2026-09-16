@@ -30,17 +30,25 @@ A blur of black light tore the snow from the ridge. The Heavenly Demon King mate
 
 The Queen moved instantly. Localized gravity folded beneath her heels; she vanished from the elephant’s howdah in a pulse of compressed space, reappearing directly before the Demon King on the precipice, her hands raised, her voice ringing across the frozen valley.
 
-Two hundred thousand leagues above them, floating in the stark cislunar void directly beside the cratered regolith of the Moon, Jin stepped back from the brass eyepiece of a kinetic telescope.
+Two hundred thousand leagues above them, framed against the blinding solar flares of the sun, a silhouette hung in the void. From a distance, against the sheer cosmic fire of the star, it looked deceptively delicate and tiny—the slender silhouette of a hovering hummingbird.
 
-The telescope was bolted to the forward beak-prow of the *Hummingbird*—a colossal, brutalist capital dreadnought carved in the silhouette of a monolithic, predatory avian ornithopter. Two leagues in length, its faceted matte-graphite hull and multi-segmented kinetic wings hummed with the high-frequency vibration of a captured star. From its silent station beside the lunar craters, the distant blue marble of Earth turned slowly against the black, framed on the far horizon by the blinding solar corona.
+Yet draw closer, and the illusion shattered.
+
+It was the *Hummingbird*—an advanced, colossal capital flagship stretching miles from its razor-sharp needle-beak to its swept kinetic stabilizers. Its hull was forged from thousands of interlocking bio-mechanical feather-scales, vibrating with high-frequency harmonic fields beside the grey craters of the Moon.
+
+Out on the sheer outer precipice of the feathered crown, the gargantuan scale was laid bare.
+
+Lying flat on his back upon the warm titanium plumage was Kamina. His hands were tucked comfortably behind his head, his red captain's coat draping over the edge of the abyss, snoring peacefully in zero-gravity with magnificent, shameless disregard for the void.
+
+Standing right beside him at the edge stood Jin. He held a brass, handheld collapsible telescope to his eye, scanning the blue marble of Earth with razor-sharp, lethal focus.
 
 His clan was down there. The younger disciples he had drilled in the courtyard. The elders who had shared their sour plum wine. They were conscripted into the Queen’s vanguard, massed beneath the jaws of the machine whale.
 
 Farther out, at the blazing crown of the sun ninety million miles away, the Solar Lotus hung in space—a titanic, crystalline Dyson mandala holding three cycles of solar plasma in magnetic containment, waiting for the dual keys.
 
-A heavy, calloused hand came down on Jin’s shoulder.
+A loud snort broke Jin's concentration. Kamina opened one lazy eye, rolling onto his side with a wide, toothy grin. He reached up and clapped a heavy, calloused hand on Jin's shoulder.
 
-*"It’s time to jump, Jin,"* Kamina said quietly.
+*"Stop glaring like a grumpy cat, Jin,"* Kamina laughed softly. *"It’s time to jump."*
 
 ---
 
