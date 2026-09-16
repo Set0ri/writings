@@ -31,3 +31,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+# Obsidian Cache
+obsidian/.obsidian/cache/
+.obsidian/cache/

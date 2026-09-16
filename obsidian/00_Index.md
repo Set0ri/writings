@@ -32,6 +32,7 @@ The cast is structured around powerful archetypes, sharp psychological foils, an
 * **The Betrayer / Fallen Strategist**: [[Commander Vane]] — *The Griffith Archetype: dazzling tactical ally who surrenders love and morals for pure power*
 * **The Shield of Humanity**: [[The Heavenly Demon]] — *Misunderstood Titan: feared apocalyptic warlord secretly acting as Earth's psychic shield against the Moon*
 * **The Lost Sovereign**: [[The Queen Commander]] — *The compassionate void matriarch whose gravity gown restrained Jin and whose death unsealed the sky*
+  * [[The Queen's Partner Elephant]] — *The bio-mechanical royal war mount whose acoustic trumpet cleared the battlefield shockwaves*
 * **The Captive Mind**: [[The Good AI]] — *Pre-war compassionate machine consciousness trapped beneath the Imperial Academies*
 * **The Machine Overseer**: [[The Primary AI (Moon Sovereign)]] — *The algorithmic absolute presiding over Earth's reinforcement learning camps*
 * **Southfall Kin**:
@@ -105,5 +106,5 @@ The authoring intelligence operates as a neuro-symbolic society of mind with evo
 ---
 
 ## 📍 Key Locations & Relics
-* [[Southfall Village]] | [[Mount Hua (Hwasan)]] | [[Plum Blossom Peak]] | [[The Imperial Capital]] | [[The Glass Desert]] | [[The Chernobyl Tomb]] | [[The Lunar Sea of Tranquility]] | [[The Orbital Citadel]]
-* [[The Broken Sword of Mount Hua]] | [[The Brass Cylinder]] | [[Synthetic White Coolant]] | [[Orbital Telemetry Relay]] | [[Wooden Practice Sword (Chung Jin's Stick)]] | [[Plum Blossom Scent Pills]]
+* [[Southfall Village]] | [[Mount Hua (Hwasan)]] | [[Plum Blossom Peak]] | [[Mount Kailash]] | [[The Imperial Capital]] | [[The Glass Desert]] | [[The Chernobyl Tomb]] | [[The Lunar Sea of Tranquility]] | [[The Orbital Citadel]]
+* [[The Trishula]] | [[The Broken Sword of Mount Hua]] | [[The Brass Cylinder]] | [[Synthetic White Coolant]] | [[Orbital Telemetry Relay]] | [[Wooden Practice Sword (Chung Jin's Stick)]] | [[Plum Blossom Scent Pills]]
