@@ -107,4 +107,4 @@ The authoring intelligence operates as a neuro-symbolic society of mind with evo
 
 ## 📍 Key Locations & Relics
 * [[Southfall Village]] | [[Mount Hua (Hwasan)]] | [[Plum Blossom Peak]] | [[Mount Kailash]] | [[The Imperial Capital]] | [[The Glass Desert]] | [[The Chernobyl Tomb]] | [[The Lunar Sea of Tranquility]] | [[The Orbital Citadel]]
-* [[The Trishula]] | [[The Broken Sword of Mount Hua]] | [[The Brass Cylinder]] | [[Synthetic White Coolant]] | [[Orbital Telemetry Relay]] | [[Wooden Practice Sword (Chung Jin's Stick)]] | [[Plum Blossom Scent Pills]]
+* [[The Hummingbird Flagship]] | [[The Trishula]] | [[The Broken Sword of Mount Hua]] | [[The Brass Cylinder]] | [[Synthetic White Coolant]] | [[Orbital Telemetry Relay]] | [[Wooden Practice Sword (Chung Jin's Stick)]] | [[Plum Blossom Scent Pills]]

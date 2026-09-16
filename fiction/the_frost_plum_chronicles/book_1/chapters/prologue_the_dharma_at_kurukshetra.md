@@ -30,11 +30,11 @@ A blur of black light tore the snow from the ridge. The Heavenly Demon King mate
 
 The Queen moved instantly. Localized gravity folded beneath her heels; she vanished from the elephant’s howdah in a pulse of compressed space, reappearing directly before the Demon King on the precipice, her hands raised, her voice ringing across the frozen valley.
 
-Ten thousand leagues above them, in the silent, star-drenched vacuum of orbit, Jin stepped back from the brass eyepiece of a kinetic telescope.
+Two hundred thousand leagues above them, floating in the stark cislunar void directly beside the cratered regolith of the Moon, Jin stepped back from the brass eyepiece of a kinetic telescope.
 
-The telescope was bolted to the prow railing of the *Hummingbird*—a sleek, void-cruiser hovering on the atmospheric lip. Jin’s knuckles were bone-white against the dark mulberry wood of his recurve bow. He looked down through the void at the massed armies of the Queen.
+The telescope was bolted to the forward beak-prow of the *Hummingbird*—a colossal, brutalist capital dreadnought carved in the silhouette of a monolithic, predatory avian ornithopter. Two leagues in length, its faceted matte-graphite hull and multi-segmented kinetic wings hummed with the high-frequency vibration of a captured star. From its silent station beside the lunar craters, the distant blue marble of Earth turned slowly against the black, framed on the far horizon by the blinding solar corona.
 
-His clan was down there. The younger disciples he had drilled in the courtyard. The elders who had shared their sour plum wine. They were conscripted into the Queen’s vanguard, standing directly beneath the jaws of the machine whale.
+His clan was down there. The younger disciples he had drilled in the courtyard. The elders who had shared their sour plum wine. They were conscripted into the Queen’s vanguard, massed beneath the jaws of the machine whale.
 
 Farther out, at the blazing crown of the sun ninety million miles away, the Solar Lotus hung in space—a titanic, crystalline Dyson mandala holding three cycles of solar plasma in magnetic containment, waiting for the dual keys.
 
@@ -46,7 +46,7 @@ A heavy, calloused hand came down on Jin’s shoulder.
 
 ### II. The Plunge and the Flower
 
-Kamina stood at the open drop-bay of the *Hummingbird*, his red captain’s coat snapping violently against the vacuum, his bare chest tattooed with the roaring sun of Mount Hua. His voice was patched into the ship’s primary transmitter, booming down through the planetary ionosphere, rattling every radio, every soldier’s helmet, and every comm-bead in the hemisphere:
+Kamina stood on the vast ventral flight deck of the *Hummingbird*, beneath the cavernous berths that housed the Giant Turtle Mech-Ship, his red captain’s coat billowing against the vacuum, his bare chest tattooed with the roaring sun of Mount Hua. His voice was patched into the ship’s primary transmitter, booming down across the cislunar expanse through the planetary ionosphere, rattling every radio, every soldier’s helmet, and every comm-bead in the hemisphere:
 
 *"What are we doing down there?!"* Kamina roared, his fierce wolf-grin defying the void. *"Home isn’t dirt! It’s trust over fear! When the whole world goes insane, the man holding the blade doesn’t get to sit in the dirt and whine! Evolution isn’t a dead-end script written by machines—hope is something we forge with our own two hands! That is our dharma! Jin! Look at me! Believe in the blade that believes in you!"*
 
@@ -54,7 +54,7 @@ Jin touched the cold brass cylinder hanging against his breastbone. *"Kamina, yo
 
 *"Then I shout louder!"* Kamina laughed, warm, reckless, and unbreakable. *"Because if no one shouts, the void wins. Jin—go."*
 
-Jin turned and walked slowly out through the airlock onto the exterior armored hull of the *Hummingbird*. His black cloth boots clicked against the void-cold plating. Beneath his feet, ten thousand leagues of vacuum fell away to reveal the swirling blue curvature of the world.
+Jin turned and walked slowly out through the airlock onto the exterior armored hull of the *Hummingbird*. His black cloth boots clicked against the void-cold graphite plating. Beneath his feet, two hundred thousand leagues of cislunar space fell away to reveal the swirling blue curvature of the world, with the stark, grey craters of the Moon looming like an ancient wall behind him.
 
 Kamina gave one last, roaring laugh over the comms. *"Show them what a disciple of Mount Hua is made of, Jin!"*
 
