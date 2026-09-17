@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "In the deepest corner of the lower archives sat an ironbound imperial chronicle, sealed with lead rivets. The atmospheric temperature in the alcove dropped by four degrees. A faint electrostatic charge lingered on the parchment fibers, characteristic of ancient quantum erasure tech.",
+    "critique": "Sanderson/Gosu: Quantum erasure trace, electrostatics.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.92,
+      "sensory": 0.87,
+      "feral": 0.82,
+      "total": 0.891
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The chronicle lay upon a stone lectern like a tombstone. The room grew colder than the winter outside; frost bloomed in delicate, feathery ferns across the paper window lattices. The silence became so complete that the dripping of snow-melt outside sounded like falling tears.",
+    "critique": "Rothfuss/Inoue: Chilling poetic frost, profound stillness.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.924
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The air in the room suddenly froze. It wasn't the weather; it was Jin's aura. The hair on Yoon Jong's neck stood straight up. The drafty library felt like the inside of an ancient butcher shop where a monster had just woken up from a hundred-year sleep.",
+    "critique": "Biga/Studio LICO: Visceral horror, Jin's terrifying suppression of rage.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.93,
+      "feral": 0.98,
+      "total": 0.947
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Yoon Jong's jaw dropped. 'The plum blossom... the historical records weren't metaphors. The technique genuinely manifests petal illusions via turbulent optical interference.' Jin crossed his arms. 'Of course it's real, idiot. You thought our ancestors were lying poets?'",
+    "critique": "Sanderson/Gosu: Optical interference theory, confirmation of ancient lore.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.93,
+      "sensory": 0.89,
+      "feral": 0.88,
+      "total": 0.913
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Yu Iseol lowered her sword, her breath misting white. She looked down at the five severed leaf petals lying upon the frost, her fingers trembling against the hilt. \"...It bloomed,\" she whispered. Jin walked over, his hand resting gently atop her head. \"It bloomed,\" he affirmed softly. \"Because you are Mount Hua.\"",
+    "critique": "Rothfuss/Inoue: Heart-stopping tenderness, paternal validation.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.9,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.948
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jo Gul grabbed his hair, screaming silently. \"Sahyung! Did you see that?! A flower! An actual pink flower came out of her sword! We're not beggars anymore! We're immortals!\" Jin whacked Jo Gul on the head. \"Shut up! You'll wake the bats! Baek Cheon, pick up your sword! If a girl can bloom a petal and you can't, I'll shave your eyebrows off!\"",
+    "critique": "Biga/Studio LICO: Hysterical disciple panic, eyebrow shaving threats.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.93,
+      "sensory": 0.92,
+      "feral": 1,
+      "total": 0.954
+    },
+    "iteration": 2
+  }
+]

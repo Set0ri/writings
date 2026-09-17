@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The ambient air around the sparring arena underwent a localized temperature fluctuation, dropping zero point six degrees Celsius within a four-meter radius. A faint aromatic scent of benzaldehyde and phenyl alcohol—the chemical signature of Prunus mume—permeated the nitrogen-rich air.",
+    "critique": "Sanderson/Gosu: Chemical analysis of plum scent, localized temperature drop.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.93,
+      "sensory": 0.87,
+      "feral": 0.8,
+      "total": 0.886
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "It began with a scent. It was not the bitter pine of Shaanxi, nor the sharp ozone of the night frost, but the sweet, heartbreaking fragrance of wild winter plum blossoms blooming in the dead of snow. A fragrance that had been erased from the earth for two hundred years, returning like a lost lover whispering at the threshold.",
+    "critique": "Rothfuss/Inoue: Hauntingly beautiful olfactory return, mythic fragrance.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.9,
+      "sensory": 0.99,
+      "feral": 0.88,
+      "total": 0.943
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Everyone froze. Jo Gul stopped shivering. Yoon Jong dropped his rubbing paper. The whole terrace smelled like a spring orchard in the middle of a blizzard. Even the moon seemed to shine brighter, bathing the ragged disciples in pure silver.",
+    "critique": "Biga/Studio LICO: Collective disciple awe, high emotional impact.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.94,
+      "feral": 0.96,
+      "total": 0.94
+    },
+    "iteration": 2
+  }
+]

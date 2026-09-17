@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Kang took an involuntary step back, his left heel sinking into the red mud. The twenty enforcers tightened their grips on their maces, but none moved forward; their physiological micro-tensions revealed acute hesitation. Han did not adjust his stance by a single millimeter, his center of gravity anchored entirely.",
+    "critique": "Sanderson/Gosu: Tactical tension mapping, micro-movement tracking.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.95,
+      "sensory": 0.88,
+      "feral": 0.85,
+      "total": 0.906
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Han stood as still as a carved stone guardian. Even the hem of his long robes ceased to flutter, as if the mountain wind itself feared to disturb his meditation. The silence stretched between them, thin and taut as a drawn bowstring.",
+    "critique": "Rothfuss/Inoue: Statuesque presence, poetic tension.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.87,
+      "total": 0.919
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Han slowly raised his right sleeve, brushing an invisible speck of dust from his collar. His hands were shaking so hard inside the silk he had to press them against his belly to stop his sleeves from vibrating like locust wings. The enforcers saw the motion and gasped, bracing for a secret palm technique.",
+    "critique": "Biga/Studio LICO: Peak comedic misinterpretation, trembling hands hidden by swagger.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.93,
+      "feral": 0.98,
+      "total": 0.95
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin slipped into the robe. The coarse fibers scratched against his collarbone, but he ignored the tactile friction. Sitting cross-legged on the straw pallet, he initiated the Morning Dew circulation. Qi flowed through his eight extraordinary vessels at three milliliters per second, clearing calcified obstructions in his meridians.",
+    "critique": "Sanderson/Gosu: Fluid circulation velocity, biological calibration.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.95,
+      "sensory": 0.87,
+      "feral": 0.83,
+      "total": 0.897
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin pulled the rough hemp over his head. The coarse fabric fell across his thin shoulders like an old friend's cloak. He reached down and traced the faded five petals embroidered over his heart. Five thousand years of silence, and here he was, breathing Mount Hua's cold air again. In the dark, a single tear cut a clean path through the road dust on his cheek.",
+    "critique": "Rothfuss/Inoue: Tear-inducing mythic catharsis, sublime quietude.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.936
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin shoved his arms into the sleeves, scratching his ribs vigorously. He lay down on the hard pallet, tucked his oak stick under his arm like a favorite pillow, and closed his eyes. \"Just you wait,\" he muttered into the dark. \"Tomorrow, everyone on this mountain is going to cry until their noses run.\"",
+    "critique": "Biga/Studio LICO: Relatable physical habits, mischievous sleeping posture.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.89,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.925
+    },
+    "iteration": 2
+  }
+]

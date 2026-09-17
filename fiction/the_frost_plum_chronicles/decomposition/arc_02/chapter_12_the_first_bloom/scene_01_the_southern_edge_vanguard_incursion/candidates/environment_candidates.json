@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "High noon over Mount Hua's grand gate. Ambient temperature: twenty-one degrees Celsius. Sunlight reflected off thirty mirrored Damascus steel scabbards at a luminosity of eighty thousand lux. One hundred regional spectators, representing twenty-four merchant houses, lined the stone perimeter.",
+    "critique": "Sanderson/Gosu: Solar reflection metrics, audience census.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.86,
+      "feral": 0.81,
+      "total": 0.885
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The midday sun was a cruel, golden glare that laid bare every flaw of the ancient mountain. In the great arena courtyard, the white-and-silver banners of the Southern Edge Sect snapped in the autumn wind like predatory hawks. Thirty swordsmen stood in immaculate formation, their polished armor and shimmering silks contrasting sharply with the weed-choked stone and crumbling balustrades of Mount Hua.",
+    "critique": "Rothfuss/Inoue: Predatory hawk imagery, sharp aesthetic contrast.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.927
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Look at these pompous peacocks. Strutting up the mountain with thirty matching silk tunics, silver sword belts, and noses pointed so high into the air they'd drown if it rained. Behind them were half the greedy merchant guild masters in Shaanxi, carrying contracts and rubbing their fat hands together like flies on a dung heap.",
+    "critique": "Biga/Studio LICO: Peacock and dung-fly metaphors, hilarious street disdain.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.93,
+      "feral": 0.98,
+      "total": 0.944
+    },
+    "iteration": 2
+  }
+]

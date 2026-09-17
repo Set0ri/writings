@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Yoon Jong walked beside him, head bowed. 'Two hundred years ago, during the Great Famine, the previous elders sold the lower manuals to pay the imperial grain levy. The remaining core texts were seized by Southern Edge as collateral for an unpayable debt.'",
+    "critique": "Sanderson/Gosu: Historical context and debt collateral mechanics.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.89,
+      "sensory": 0.87,
+      "feral": 0.85,
+      "total": 0.889
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"They took everything,\" Yoon Jong murmured, his voice hollow as the empty room. \"They left us with only the name, and even the name has become a curse in the mouths of men.\" Jin closed his eyes, his breathing slowing to a deep, dangerous cadence. \"They took only paper, Yoon Jong. Paper rots. What lives in the bone cannot be stolen.\"",
+    "critique": "Rothfuss/Inoue: Soulful poetic truth, mythic defiance.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.87,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.931
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Collateral?!\" Jin roared, spinning around with his eyes bulging. \"They stole our manuals and you called it collateral?! You absolute blockheads! Southern Edge's entire current sword catalog is just our third-grade technique with the names changed! They copied our homework and forgot to change the handwriting! I'm going to rip their gate down with my bare hands!\"",
+    "critique": "Biga/Studio LICO: Hilarious modern analogy, unhinged Mount Hua fury.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.92,
+      "feral": 1,
+      "total": 0.951
+    },
+    "iteration": 2
+  }
+]

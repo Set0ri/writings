@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin scooped the abacus off the floor with the tip of his oak stick, catching it in midair with his left hand. His thumb flicked the remaining wooden beads with blurring speed, calculating compound interest rates across thirty-six ledger cycles in under four seconds. His pupils contracted in disgust as he identified a four-hundred percent usury rate.",
+    "critique": "Sanderson/Gosu: High-speed mechanical arithmetic, precise physical coordination.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.96,
+      "sensory": 0.86,
+      "feral": 0.88,
+      "total": 0.91
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin stood before the altar, his small chest heaving with silent, ragged fury. Beneath his rags, his hands were trembling—not from the chill in the air, but from the unbearable weight of looking upon the broken remnants of what his brother had died to preserve. He bowed his head, his forehead touching the cold flagstone in a silent, savage oath.",
+    "critique": "Rothfuss/Inoue: Sacred emotional weight, tragic oath resonance.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.91,
+      "total": 0.93
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin snatched the ink brush off the table, slapped a blank parchment down, and scribbled his name with three violent strokes. \"Chung Jin. Third-class disciple. I'm joining. Give me a room, give me a bowl, and don't touch that front gate until I say so. If anyone from that merchant syndicate comes up here, don't talk to them—call me!\"",
+    "critique": "Biga/Studio LICO: Dynamic, aggressive, completely taking over the sect.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.933
+    },
+    "iteration": 2
+  }
+]

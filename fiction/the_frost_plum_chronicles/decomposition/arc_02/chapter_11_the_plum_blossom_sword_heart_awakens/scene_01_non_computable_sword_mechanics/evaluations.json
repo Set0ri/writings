@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_non_computable_sword_mechanics",
+  "title": "Non-Computable Sword Mechanics",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.91,
+        "sensory": 0.92,
+        "feral": 0.98,
+        "total": 0.938
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.954 >= 0.85). Breathtaking night grandeur and intimate martial focus.",
+      "critiqueSummary": "Biga/Studio LICO: Gritty midnight misery, humorous disciple reactions."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.93,
+        "sensory": 0.92,
+        "feral": 1,
+        "total": 0.954
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.971 >= 0.85). Comedic brilliance, training payoff, and Yu Iseol's terrifying prodigal emergence.",
+      "critiqueSummary": "Biga/Studio LICO: Comedic confession of torment, lovesick carp insults."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.91,
+        "feral": 0.99,
+        "total": 0.948
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.967 >= 0.85). Flawless fusion of Sanderson non-computability theory and Mount Hua sword philosophy.",
+      "critiqueSummary": "Biga/Studio LICO: Charging pig metaphor, twig poke, pure Mount Hua grit."
+    }
+  },
+  "compositeSceneScore": 0.947,
+  "timestamp": "2026-09-17T16:51:12.646Z"
+}

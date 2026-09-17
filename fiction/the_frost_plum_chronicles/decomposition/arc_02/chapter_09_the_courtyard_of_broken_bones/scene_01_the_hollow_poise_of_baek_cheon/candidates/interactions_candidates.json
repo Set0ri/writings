@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"The trajectory is ineffective,\" Jin called out. \"You're leaving your liver exposed on every third recovery.\" Baek Cheon lowered his blade, eyebrows arching. \"Who allowed a third-class novice into the upper sparring grounds? Know your station, junior.\"",
+    "critique": "Sanderson/Gosu: Tactical flaw identification, status hierarchy friction.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.93,
+      "sensory": 0.86,
+      "feral": 0.87,
+      "total": 0.895
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"A sword is not a dancer's ribbon, Senior Brother,\" Jin said softly, hopping down from the fence. \"When blood spills upon this stone, does the wind ask if your posture was pretty?\" Baek Cheon's face darkened with wounded pride. \"You speak of blood when you have barely held a blade.\"",
+    "critique": "Rothfuss/Inoue: Philosophical weight, tragic question.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.89,
+      "total": 0.923
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"PFFFFT!\"\nJin snorted so loud the mist practically evaporated.\n\"What on earth is that?! Are you dancing for wedding guests?! Look at you! Waving that stick around like a pregnant duck trying to shake water off its tail! Hey! Dong-ryong! Did you comb your hair before or after you forgot how to hold a sword?!\"\nBaek Cheon's veins bulged in his forehead. \"What did you just call me?!\"",
+    "critique": "Biga/Studio LICO: Peak Dong-ryong mockery, explosive comedic disrespect, unhinged laughter.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.92,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.957
+    },
+    "iteration": 2
+  }
+]

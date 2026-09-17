@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_the_hemp_robe_and_dormitory",
+  "title": "The Hemp Robe & The Third-Class Dormitory",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.94,
+        "kinetics": 0.88,
+        "sensory": 0.92,
+        "feral": 0.97,
+        "total": 0.926
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.948 >= 0.85). Balances atmospheric lyricism with gritty physical cold.",
+      "critiqueSummary": "Biga/Studio LICO: Gritty comedic realism, sharp vernacular comparisons."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.9,
+        "sensory": 0.91,
+        "feral": 0.99,
+        "total": 0.942
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.958 >= 0.85). Vibrant comedic dialogue, character clash, and effortless swagger.",
+      "critiqueSummary": "Biga/Studio LICO: Classic Chung Myung complaints, disrespecting hierarchy, pure comedic swagger."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.89,
+        "sensory": 0.97,
+        "feral": 0.9,
+        "total": 0.936
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.963 >= 0.85). Merges Rothfuss emotional depth with Chung Myung's iron resolve.",
+      "critiqueSummary": "Rothfuss/Inoue: Tear-inducing mythic catharsis, sublime quietude."
+    }
+  },
+  "compositeSceneScore": 0.935,
+  "timestamp": "2026-09-17T16:51:12.447Z"
+}

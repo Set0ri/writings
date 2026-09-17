@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The third-class dormitory was a thirty-pace rectangular wooden lodge. Cross-ventilation from missing window screens dropped the interior temperature to three degrees Celsius. Ten straw pallets lined the eastern wall, each occupied by a shivering youth wrapped in coarse cotton batting. In the corner, a potbellied iron stove was cold, containing only white birch ash.",
+    "critique": "Sanderson/Gosu: Precise architectural dimensions and temperature modeling.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.92,
+      "sensory": 0.87,
+      "feral": 0.8,
+      "total": 0.881
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Night had settled upon Mount Hua, blue and biting cold. The dormitory smelled of damp straw, pine soap, and youth worn thin by labor. Moonlight fell in pale ribbons through the torn paper lattices, painting stripes across the dirt floor. Outside, the wind sang an old, lonely tune through the crags of Lotus Peak.",
+    "critique": "Rothfuss/Inoue: Lyrical night textures, poetic silence.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.86,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.912
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "A barn. They put him in an actual drafty barn. You could stick your whole fist through the cracks in the wooden wall, and the blanket they gave him was so thin you could use it to strain tea. Half the boys were snoring like clogged watermills, and the other half were shivering so hard their teeth sounded like castanets.",
+    "critique": "Biga/Studio LICO: Gritty comedic realism, sharp vernacular comparisons.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.92,
+      "feral": 0.97,
+      "total": 0.926
+    },
+    "iteration": 2
+  }
+]

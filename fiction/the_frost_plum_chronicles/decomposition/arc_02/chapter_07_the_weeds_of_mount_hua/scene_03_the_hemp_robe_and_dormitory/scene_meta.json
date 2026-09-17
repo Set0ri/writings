@@ -1,0 +1,26 @@
+{
+  "id": "scene_03_the_hemp_robe_and_dormitory",
+  "title": "The Hemp Robe & The Third-Class Dormitory",
+  "order": 3,
+  "status": "merged",
+  "compositeScore": 0.935,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.926
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.942
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.936
+    }
+  }
+}

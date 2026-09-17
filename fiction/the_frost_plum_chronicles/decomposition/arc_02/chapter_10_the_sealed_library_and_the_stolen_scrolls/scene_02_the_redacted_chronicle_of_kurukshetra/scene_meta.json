@@ -1,0 +1,26 @@
+{
+  "id": "scene_02_the_redacted_chronicle_of_kurukshetra",
+  "title": "The Redacted Chronicle of Kurukshetra",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.95,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.947
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.952
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.952
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Dawn approached at 5:48 AM. The eastern horizon turned pale amber at sixty-two degrees east. The courtyard flagstones radiated stored heat from the charcoal fire, setting up a micro-thermal updraft of two meters per second.",
+    "critique": "Sanderson/Gosu: Thermal updraft metrics, celestial dawn angle.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.86,
+      "feral": 0.81,
+      "total": 0.885
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The first light of dawn was a pale wash of gold breaking over the sea of mist. Lotus Blossom Peak stood above the clouds like an island in a sea of pearl. Sweat rose from Baek Cheon’s bare shoulders like white steam rising from an anvil after the hammer falls.",
+    "critique": "Rothfuss/Inoue: Anvil and hammer imagery, poetic dawn glory.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.932
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Baek Cheon looked like he had been dragged through a mill by an angry mule. His fancy silk robes were shredded and tied around his waist, his face was smeared with soot and dirt, and his forearms were swollen purple. But his eyes? His eyes looked like two burning coals.",
+    "critique": "Biga/Studio LICO: Ragged transformation, burning resolve, pure martial grit.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.954
+    },
+    "iteration": 2
+  }
+]

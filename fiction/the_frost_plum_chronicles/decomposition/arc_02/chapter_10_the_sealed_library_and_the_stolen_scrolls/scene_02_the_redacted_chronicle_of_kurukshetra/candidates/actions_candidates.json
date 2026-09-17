@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin's grip on the stone pedestal tightened. Micro-fractures radiated outward from his five fingertips at six millimeters per millisecond, reducing the solid granite cornerstone into fine white powder without an audible sound.",
+    "critique": "Sanderson/Gosu: Ultrasonic stone pulverization, precise mechanical stress.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.97,
+      "sensory": 0.88,
+      "feral": 0.89,
+      "total": 0.92
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "He closed the chronicle with infinite gentleness. But as his hand lifted from the leather cover, the imperial seal turned to grey dust, crumbling away like dead leaves in an autumn gale, leaving only clean blank stone beneath.",
+    "critique": "Rothfuss/Inoue: Poetic erasure of false history, dignified silence.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.91,
+      "total": 0.935
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin slowly turned toward the wall. He reached out with one finger and tapped the center flagstone. *Click.* A hidden latch disengaged inside the stone. \"Come on, Yoon Jong,\" Jin muttered, the wolf-grin returning to his face with feral madness. \"Let's show the world what happens when you steal from dead men.\"",
+    "critique": "Biga/Studio LICO: Secret vault trigger, instant transition back to dynamic momentum.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.93,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.952
+    },
+    "iteration": 2
+  }
+]

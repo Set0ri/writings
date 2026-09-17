@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin stepped onto the pressure stones in the sequence: Three-Seven-Five-Nine. The mechanical counterbalance counter-weights shifted smoothly on lubricated bronze pulleys, swinging the five-ton granite slab inward on frictionless quartz bearings.",
+    "critique": "Sanderson/Gosu: Mechanical counterbalance physics, sequence logic.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.96,
+      "sensory": 0.87,
+      "feral": 0.85,
+      "total": 0.907
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin walked among the jade pillars with the reverence of a pilgrim returning to his homeland's hearth. He reached out and touched the carved inscriptions—not reading them with his eyes, but feeling the non-computable curves of the original founder's strokes against his fingertips.",
+    "critique": "Rothfuss/Inoue: Sacred tactile communion with martial history.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.89,
+      "total": 0.934
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin grabbed Yoon Jong by the scruff of his collar and shoved his face right against the first jade slab. \"Look! Open your pig eyes and look! You thought our ancestors were beggars?! Look at the twenty-four plum blossoms carved into this rock! Memorize every stroke before I bang your head against it!\"",
+    "critique": "Biga/Studio LICO: Unhinged educational shoving, practical instruction.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.948
+    },
+    "iteration": 2
+  }
+]

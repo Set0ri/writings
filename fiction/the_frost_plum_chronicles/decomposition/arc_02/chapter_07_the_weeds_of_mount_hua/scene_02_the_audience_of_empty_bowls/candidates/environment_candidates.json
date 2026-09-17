@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Grand Hall of Mount Hua was sixty paces wide, built from old mountain cedar with thirty-foot crossbeams. But damp rot had seized the northern rafters. Four clay pots were positioned across the flagstone floor to catch falling rainwater, each drip ringing at three-second intervals. A single oil lamp burned low-grade rendered lard on the altar table, casting dim yellow light across empty weapon racks.",
+    "critique": "Sanderson/Gosu: Precise architectural measurements, acoustic cadence, mechanical decay.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.9,
+      "sensory": 0.88,
+      "feral": 0.82,
+      "total": 0.882
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The smell inside the great hall was of damp earth, dried bitter melon, and old grief.\n\nRain fell through fractured tiles, tapping out a slow, funerary rhythm in shallow earthenware bowls. On the far wall hung the portrait of the First Patriarch, its silk yellowed and eaten by silverfish, the face almost entirely erased by time. Shadows pooled in the corners like cold black water.",
+    "critique": "Rothfuss/Inoue: Somber cadence, tragic sensory beauty.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.87,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.918
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "A temple? This wasn't a temple, it was a damp cave with a leaky roof. There wasn't even a proper cushion to sit on—just frayed straw mats that smelled like wet dogs. On the central table sat two elderly men, looking like dried persimmons left out in a hail storm, nursing a pot of chicory water so thin you could read a ledger through the bottom of the cup.",
+    "critique": "Biga/Studio LICO: Hilarious blunt imagery, comedic deflation of sect majesty.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.89,
+      "sensory": 0.93,
+      "feral": 0.97,
+      "total": 0.931
+    },
+    "iteration": 2
+  }
+]

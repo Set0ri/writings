@@ -1,0 +1,26 @@
+{
+  "id": "scene_02_senior_brother_han_psychological_dismantling",
+  "title": "Senior Brother Han's Psychological Dismantling",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.953,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.944
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.959
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.957
+    }
+  }
+}

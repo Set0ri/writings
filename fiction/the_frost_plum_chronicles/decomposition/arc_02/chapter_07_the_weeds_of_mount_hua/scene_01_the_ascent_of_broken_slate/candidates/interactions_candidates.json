@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "At the gate, two teenage boys in patched grey robes stepped into defensive stances. Their swords were chipped, their footwork uneven, weight shifted too far onto their front heels. 'Halt,' the taller boy said, voice cracking. 'Mount Hua is closed to pilgrims.' Jin appraised their muscle tension and grip depth in a fraction of a second. 'Closed? You couldn't close a chicken coop with guards like you.'",
+    "critique": "Sanderson/Gosu: Tactical posture appraisal, crisp dialogue.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.93,
+      "sensory": 0.85,
+      "feral": 0.88,
+      "total": 0.894
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The two boys guarding the threshold looked less like disciples of a legendary sect than sparrows shivering on a winter bough. Their linen robes were bleached white by too many washings, the plum blossom crests faded into ghosts. 'Go back, traveler,' the younger one whispered, his eyes hollow with hunger. 'There is nothing left here. Even the incense has gone cold.'",
+    "critique": "Rothfuss/Inoue: Tragic resonance, haunting atmosphere.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.86,
+      "sensory": 0.96,
+      "feral": 0.86,
+      "total": 0.909
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Hey. You little brats.\"\nJin poked the nearest boy's shin with his oak stick. The boy yelped, hopping backward.\n\"Who are you calling pilgrims? Look at your sword grip! Did your master teach you to hold a blade like you're milking a sick goat? Tighten your thumb before I snap both your wrists and feed them to the crows! Where is your Sect Leader?! Tell him his grandfather has returned!\"",
+    "critique": "Biga/Studio LICO: Classic Chung Myung screaming, irreverent elder abuse, hilarious feral authority.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.947
+    },
+    "iteration": 2
+  }
+]

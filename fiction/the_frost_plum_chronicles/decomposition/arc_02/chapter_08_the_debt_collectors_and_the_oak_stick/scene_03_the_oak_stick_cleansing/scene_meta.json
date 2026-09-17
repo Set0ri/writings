@@ -1,0 +1,26 @@
+{
+  "id": "scene_03_the_oak_stick_cleansing",
+  "title": "The Oak Stick Cleansing & Reverse Extortion",
+  "order": 3,
+  "status": "merged",
+  "compositeScore": 0.959,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.951
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.962
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.964
+    }
+  }
+}

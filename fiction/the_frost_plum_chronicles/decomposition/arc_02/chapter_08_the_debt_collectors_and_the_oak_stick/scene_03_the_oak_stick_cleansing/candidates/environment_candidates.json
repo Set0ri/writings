@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The courtyard erupted in sharp acoustic shocks. Mud flew in four-foot arcs as bodies impacted the flagstones. Hardwood splinters from shattered club handles hovered in the cold drizzle, settling onto the red mud.",
+    "critique": "Sanderson/Gosu: Crisp acoustic vectors, trajectory physics.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.95,
+      "sensory": 0.87,
+      "feral": 0.88,
+      "total": 0.907
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The violence was sudden and complete. One moment the courtyard belonged to thieves; the next, the grey rain was parted by a blurred arc of weathered winter wood, singing through the mist like a vengeful gale.",
+    "critique": "Rothfuss/Inoue: Lyrical ferocity, aesthetic speed.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.9,
+      "total": 0.932
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Whack! Crack! Thud! Screams of pure agony echoed across the peaks. It looked like a wolf had been let loose in a pen of fat geese. Thugs were flying left and right, clutching their kneecaps, their groins, and their broken noses, splashing into the muddy pits like sacks of wet flour.",
+    "critique": "Biga/Studio LICO: Pure Mount Hua brawl, slapstick beatdown.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.951
+    },
+    "iteration": 2
+  }
+]

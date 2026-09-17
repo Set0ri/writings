@@ -1,0 +1,26 @@
+{
+  "id": "scene_01_the_ascent_of_broken_slate",
+  "title": "The Ascent of Broken Slate",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.941,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.936
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.947
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.941
+    }
+  }
+}

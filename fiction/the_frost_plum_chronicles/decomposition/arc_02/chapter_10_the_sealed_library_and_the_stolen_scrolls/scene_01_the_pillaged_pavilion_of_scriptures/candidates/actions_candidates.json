@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin ran his fingers along the empty shelf mortises. The indentation patterns revealed that eight-by-two-inch jade scroll tubes had been forcibly extracted eighty to ninety years prior, matching the historical rise of the Southern Edge Sect's 'newly discovered' sword catalog.",
+    "critique": "Sanderson/Gosu: Forensic historical deduction, geometric scroll marks.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.94,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.909
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin’s fingers trailed along the bare wood, touching the cold dust where the wisdom of ten generations had rested. Each empty space was an open grave. His calloused thumb traced the outline of a faded label—*The Falling Flower Sword*—his hand trembling with cold, suffocating grief.",
+    "critique": "Rothfuss/Inoue: Sacred tragedy, tactile memory.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.9,
+      "total": 0.93
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin kicked the bottom shelf so hard the cedar groaned. \"Those thieving Southern Edge bastards! They didn't just steal the sword manuals, they stole the scroll boxes! Look at this scratch! That was an iron chisel! They hauled our heritage out in wheelbarrows while the sect was starving!\"",
+    "critique": "Biga/Studio LICO: Visceral fury, physical kick, righteous outrage.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.946
+    },
+    "iteration": 2
+  }
+]

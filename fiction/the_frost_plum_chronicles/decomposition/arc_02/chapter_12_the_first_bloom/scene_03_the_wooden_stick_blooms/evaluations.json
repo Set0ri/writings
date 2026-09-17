@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_the_wooden_stick_blooms",
+  "title": "The Wooden Stick Blooms",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.96,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.964
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.976 >= 0.85). The absolute mythic peak of the series—the true return of the Plum Blossom Sect.",
+      "critiqueSummary": "Biga/Studio LICO: Peanut brittle swords, flying disciples, explosive hype."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.95,
+        "sensory": 0.94,
+        "feral": 1,
+        "total": 0.966
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.984 >= 0.85). The ultimate emotional, mythic, and comedic climax of Arc 02.",
+      "critiqueSummary": "Biga/Studio LICO: Roaring challenge, united disciple vanguard, unbridled hype."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.97,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.969
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.980 >= 0.85). The gold standard of martial catharsis, devastating kinetics, and hilarious slapstick humiliation.",
+      "critiqueSummary": "Biga/Studio LICO: Windmill spin, spinning top disciple, double bowling pin knockout."
+    }
+  },
+  "compositeSceneScore": 0.966,
+  "timestamp": "2026-09-17T16:51:12.744Z"
+}

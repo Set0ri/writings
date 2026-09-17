@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_the_merchant_usury_incursion",
+  "title": "The Merchant Usury Incursion",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.91,
+        "sensory": 0.92,
+        "feral": 0.98,
+        "total": 0.938
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.953 >= 0.85). Combines moral degradation with tactile mud and greed.",
+      "critiqueSummary": "Biga/Studio LICO: Visceral disdain, immediate urge to punch, sharp sensory insults."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.966 >= 0.85). Combines tragic pathos with simmering, unhinged violent anticipation.",
+      "critiqueSummary": "Biga/Studio LICO: Peak villainous arrogance, Jin lurking with feral menace."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.92,
+        "sensory": 0.91,
+        "feral": 0.97,
+        "total": 0.937
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.951 >= 0.85). Brutal physical aggression and heartbreaking humiliation.",
+      "critiqueSummary": "Biga/Studio LICO: Brutal street disrespect, elder desperation."
+    }
+  },
+  "compositeSceneScore": 0.94,
+  "timestamp": "2026-09-17T16:51:12.480Z"
+}

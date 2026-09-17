@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin reached down and snatched the pigskin ledger from Kang's trembling fingers. 'Your interest calculations violate standard commercial statutes by three hundred percent. Furthermore, property damage to our granite pavers is valued at five thousand taels.' Kang choked. 'That's extortion!' Jin pressed the branch against Kang's throat. 'No. That's settlement.'",
+    "critique": "Sanderson/Gosu: Cold financial retribution, strict legal reversal.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.92,
+      "sensory": 0.88,
+      "feral": 0.9,
+      "total": 0.906
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Look upon this mountain,\" Jin whispered, his wolf-eyes burning down into Kang's soul. \"You thought it was a corpse to be picked clean by crows. But the roots are deep, merchant. Pay your debt to the living, or feed the stones with your blood.\"",
+    "critique": "Rothfuss/Inoue: Soul-chilling mythic warning.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.93,
+      "total": 0.934
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Now then, Guild Master Kang,\" Jin purred, tapping the branch against Kang's cheek with every word. \"Let's do some math.\"\nKang was weeping, snot mixing with mud. \"Mercy! Senior Han, call off your devil!\"\nHan stood with folded sleeves, nodding stoically. \"The junior merely enforces sect policy.\"\nJin grinned. \"Five thousand taels. In silver ingots. Right now from your wagon chests. If there's one copper missing, I'll pull out your golden rings with my teeth!\"",
+    "critique": "Biga/Studio LICO: Hilarious Han collusion, shameless extortion, pure Mount Hua banditry.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.94,
+      "feral": 1,
+      "total": 0.962
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "chapter_09_the_courtyard_of_broken_bones",
+  "title": "The Courtyard of Broken Bones",
+  "order": 9,
+  "status": "merged",
+  "compositeScore": 0.954,
+  "scenes": [
+    {
+      "id": "scene_01_the_hollow_poise_of_baek_cheon",
+      "title": "The Hollow Poise of Baek Cheon",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.946,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.938
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.957
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.944
+        }
+      }
+    },
+    {
+      "id": "scene_02_the_wooden_stick_baptism",
+      "title": "The Wooden Stick Baptism",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.959,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.956
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.959
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.961
+        }
+      }
+    },
+    {
+      "id": "scene_03_the_lotus_peak_boulder_run",
+      "title": "The Lotus Peak Boulder Run",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.956,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.959
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.954
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.956
+        }
+      }
+    }
+  ]
+}

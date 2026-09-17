@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The courtyard went dead silent. The wind dropped from twelve knots to a dead calm. The atmospheric pressure seemed to drop, the low storm clouds reflecting in the muddy pools like black iron shields.",
+    "critique": "Sanderson/Gosu: Atmospheric pressure drop, crisp acoustic dampening.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.92,
+      "sensory": 0.88,
+      "feral": 0.82,
+      "total": 0.887
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "A stillness fell across the courtyard that had nothing to do with peace. It was the heavy, breathless hush before a thunderbolt strikes the earth. Raindrops seemed to hang suspended in the grey air, falling slower and softer as a tall, imposing figure stepped out of the mist.",
+    "critique": "Rothfuss/Inoue: Cinematic majesty, mythical suspension of time.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.923
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The wind died down so fast you could hear a flea sneeze. Every thug stopped breathing. Even the horses hitched to the debt wagons took three steps back, their eyes rolling in fear. Out stepped Senior Brother Han, looking like an immortal emperor descending from the ninth heaven to judge mortals.",
+    "critique": "Biga/Studio LICO: Hilarious contrast between appearance and internal terror.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.9,
+      "sensory": 0.92,
+      "feral": 0.97,
+      "total": 0.934
+    },
+    "iteration": 2
+  }
+]

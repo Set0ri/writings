@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_02_senior_brother_han_bluffer_masterclass",
+  "title": "Senior Brother Han's Bluffer Masterclass",
+  "order": 2,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.9,
+        "sensory": 0.92,
+        "feral": 0.97,
+        "total": 0.934
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.952 >= 0.85). Evocative atmospheric pause establishing the Reigen entrance.",
+      "critiqueSummary": "Biga/Studio LICO: Hilarious contrast between appearance and internal terror."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.92,
+        "sensory": 0.94,
+        "feral": 0.99,
+        "total": 0.957
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.969 >= 0.85). The absolute pinnacle of King / Reigen comedic psychological dominance.",
+      "critiqueSummary": "Biga/Studio LICO: Flawless King/Reigen internal panic vs. god-tier external bluster."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.92,
+        "sensory": 0.93,
+        "feral": 0.98,
+        "total": 0.95
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.960 >= 0.85). Visual perfection of the trembling coward appearing as an unfathomable god.",
+      "critiqueSummary": "Biga/Studio LICO: Peak comedic misinterpretation, trembling hands hidden by swagger."
+    }
+  },
+  "compositeSceneScore": 0.947,
+  "timestamp": "2026-09-17T16:51:12.501Z"
+}

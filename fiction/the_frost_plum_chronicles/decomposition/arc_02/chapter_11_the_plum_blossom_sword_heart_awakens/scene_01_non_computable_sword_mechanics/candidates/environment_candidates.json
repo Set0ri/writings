@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Midnight on Lotus Peak. Ambient temperature: zero degrees Celsius. An iron brazier burned white charcoal in the center of the yard, generating an infrared thermal footprint of two hundred watts. The cold night air carried zero wind shear, leaving the mountain plateau in total acoustic isolation.",
+    "critique": "Sanderson/Gosu: Thermal footprint, acoustic isolation metrics.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.85,
+      "feral": 0.8,
+      "total": 0.881
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Night had wrapped Lotus Blossom Peak in velvet and frost. A single iron brazier cast flickering amber light against the white cliffs, throwing long, trembling shadows across the stones. The sky above was an ocean of diamond dust, clear and deep, cold enough to crack glass.",
+    "critique": "Rothfuss/Inoue: Lyrical starry night, atmospheric intimacy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.86,
+      "total": 0.925
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Midnight. Freezing cold. The charcoal was half-dead, and Jin had dragged Baek Cheon, Yu Iseol, Jo Gul, and Yoon Jong out into the frost with nothing but their sleep trousers and practice sticks. Jo Gul was hugging his knees, shivering like an abandoned puppy.",
+    "critique": "Biga/Studio LICO: Gritty midnight misery, humorous disciple reactions.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.92,
+      "feral": 0.98,
+      "total": 0.938
+    },
+    "iteration": 2
+  }
+]

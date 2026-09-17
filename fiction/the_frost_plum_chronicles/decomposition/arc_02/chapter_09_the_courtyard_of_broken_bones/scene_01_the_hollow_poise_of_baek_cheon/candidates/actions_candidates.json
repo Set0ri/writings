@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon extended his blade in the 'Plum Petal Greeting' stance. His elbow was elevated fifteen degrees too high; his weight rested on his front toes rather than his center of mass. The thrust generated only eighty foot-pounds of forward momentum, trading kinetic penetration for aesthetic flourish.",
+    "critique": "Sanderson/Gosu: Biomechanical angle calculation, kinetic analysis.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.87,
+      "feral": 0.86,
+      "total": 0.908
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Baek Cheon danced through the forms with the effortless elegance of a court prince. His white sleeves caught the wind like swan wings, his sword tracing five petal curves in the dewy air. It was a performance fit for imperial palaces, beautiful and completely hollow, lacking the red blood and iron bone of true survival.",
+    "critique": "Rothfuss/Inoue: Tragic artistic beauty, lyrical diagnosis of decay.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.926
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Baek Cheon spun on one toe, flicked his sword tip, tossed his hair out of his eyes, and struck a pose so dramatic you half expected someone to toss him copper coins. \"Behold! The grace of Mount Hua!\" Behind him on the fence rail, Jin watched while chewing a stalk of wild grass, his left eye twitching like a dying toad.",
+    "critique": "Biga/Studio LICO: Slapstick vanity, dramatic posing, Jin's visceral twitching disgust.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.944
+    },
+    "iteration": 2
+  }
+]

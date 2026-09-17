@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Sect Leader Hyun Jong looked up, eyes sunken and exhausted. 'Young traveler, if you seek shelter, we can offer only boiled water and dried roots. Our debts to the Merchant Guild require every copper coin.' Beside him, Elder Hwang's fingers danced over an abacus with five missing beads. 'Forty-two thousand taels of silver,' Hwang muttered. 'Even if we pawn our own teeth, we default before the winter solstice.'",
+    "critique": "Sanderson/Gosu: Financial balance accounting, disciplined despair.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.89,
+      "sensory": 0.88,
+      "feral": 0.87,
+      "total": 0.896
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"We have failed them,\" Hyun Jong murmured, his voice softer than the autumn rain. \"The ancestors gave us a mountain that touched the sky, and we have brought it into the dust. Child, why do you look upon us with such burning eyes? We have nothing left to give you.\"",
+    "critique": "Rothfuss/Inoue: Heartbreaking emotional depth, lyric resonance.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.84,
+      "sensory": 0.96,
+      "feral": 0.86,
+      "total": 0.907
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Forty-two thousand?!\" Jin's scream nearly brought down the rest of the ceiling.\nElder Hwang jumped six inches into the air, dropping his abacus onto the stones with a loud clatter.\n\"Are you out of your senile minds?!\" Jin yelled, shaking his oak stick in their faces. \"How do you lose forty-two thousand taels in a mountain made of rocks?! Did you eat gold for breakfast?! Did you buy Southern Edge a fleet of pleasure boats?!\"\nHyun Jong blinked in absolute shock. \"Young... young man, your language...\"\n\"Quiet! I'm speaking to your ledger! Hwang, pick up that wooden toy before I shove it through your beard!\"",
+    "critique": "Biga/Studio LICO: Absolute comedic gold, peak Chung Myung outrage, boundary-breaking disrespect.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.949
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "chapter_10_the_sealed_library_and_the_stolen_scrolls",
+  "title": "The Sealed Library & The Stolen Scrolls",
+  "order": 10,
+  "status": "merged",
+  "compositeScore": 0.946,
+  "scenes": [
+    {
+      "id": "scene_01_the_pillaged_pavilion_of_scriptures",
+      "title": "The Pillaged Pavilion of Scriptures",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.942,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.928
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.951
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.946
+        }
+      }
+    },
+    {
+      "id": "scene_02_the_redacted_chronicle_of_kurukshetra",
+      "title": "The Redacted Chronicle of Kurukshetra",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.95,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.947
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.952
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.952
+        }
+      }
+    },
+    {
+      "id": "scene_03_the_subterranean_vault_of_the_ancestor",
+      "title": "The Subterranean Vault of the First Ancestor",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.947,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.944
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.948
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.948
+        }
+      }
+    }
+  ]
+}

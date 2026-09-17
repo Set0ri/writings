@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon carried a fifty-pound granite slab lashed to his spine with hemp cord. His quadriceps were in constant tetanic contraction, burning four hundred calories per thousand steps. Capillaries in his shoulders ruptured under the friction of the rope, bleeding through his tunic.",
+    "critique": "Sanderson/Gosu: Precise physiological breakdown, capillary stress.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.97,
+      "sensory": 0.87,
+      "feral": 0.85,
+      "total": 0.909
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Each stair was an eternity carved in stone. Disciples crawled on bloodied hands and knees, their fingers digging into the frost-choked cracks. Beside them, Yu Iseol carried her stone with silent, unyielding grace, her lips pale as winter snow, refusing to let a single cry escape her throat.",
+    "critique": "Rothfuss/Inoue: Sublime poetic endurance, Yu Iseol's silent dignity.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.9,
+      "total": 0.933
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jo Gul collapsed at stair fifteen hundred, wheezing like a punctured bellows. \"I'm dying... Sahyung, tell my mother I died a righteous swordsman...\" Jin materialized out of thin air, planting his oak stick into Jo Gul's ribs. \"Righteous swordsman my foot! You're a pork dumpling! If you let go of that rock, I'll tie another one to your forehead! Crawl!\"",
+    "critique": "Biga/Studio LICO: Relentless slapstick drill sergeant brutality, pork dumpling insults.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.95,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.956
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "scene_02_the_wooden_stick_baptism",
+  "title": "The Wooden Stick Baptism",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.959,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.956
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.959
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.961
+    }
+  }
+}

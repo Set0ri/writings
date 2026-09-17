@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"The Twenty-Four Movement Plum Blossom Sword,\" Jin said. \"It operates on non-linear oscillation that Moon AI predictive models cannot forecast. Each stroke is an emergent biological anomaly.\" Yoon Jong stared. \"It's... alive.\"",
+    "critique": "Sanderson/Gosu: Non-linear oscillation mechanics, AI bypass theory.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.94,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.909
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Is this... our true sect?\" Yoon Jong whispered, tears streaming silently down his cheeks as the glowing jade reflected in his eyes. \"We never died,\" Jin answered, his voice ringing like fine crystal in the cavern. \"We were only waiting in the dark. Copy the strokes, brother. Tomorrow, Mount Hua blooms again.\"",
+    "critique": "Rothfuss/Inoue: Moving fraternal catharsis, poetic rebirth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.941
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Why are you crying, you idiot?!\" Jin barked, smacking Yoon Jong on the back of his neck. \"Don't leak snot on the ancestral jade! Get your brush out! Start tracing! If you miss a single petal curve, I'll make you do three thousand pushups with a boulder on your rear!\"",
+    "critique": "Biga/Studio LICO: Smacking away tears, high-energy Mount Hua comedy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.92,
+      "feral": 1,
+      "total": 0.948
+    },
+    "iteration": 2
+  }
+]

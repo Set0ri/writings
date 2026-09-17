@@ -1,0 +1,87 @@
+{
+  "id": "chapter_08_the_debt_collectors_and_the_oak_stick",
+  "title": "The Debt Collectors & The Oak Stick",
+  "order": 8,
+  "status": "merged",
+  "compositeScore": 0.949,
+  "scenes": [
+    {
+      "id": "scene_01_the_merchant_usury_incursion",
+      "title": "The Merchant Usury Incursion",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.94,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.938
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.944
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.937
+        }
+      }
+    },
+    {
+      "id": "scene_02_senior_brother_han_bluffer_masterclass",
+      "title": "Senior Brother Han's Bluffer Masterclass",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.947,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.934
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.957
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.95
+        }
+      }
+    },
+    {
+      "id": "scene_03_the_oak_stick_cleansing",
+      "title": "The Oak Stick Cleansing & Reverse Extortion",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.959,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.951
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.962
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.964
+        }
+      }
+    }
+  ]
+}

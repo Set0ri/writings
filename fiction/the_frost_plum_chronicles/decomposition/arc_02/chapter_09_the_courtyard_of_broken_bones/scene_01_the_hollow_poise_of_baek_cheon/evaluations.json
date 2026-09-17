@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_the_hollow_poise_of_baek_cheon",
+  "title": "The Hollow Poise of Baek Cheon",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.91,
+        "sensory": 0.92,
+        "feral": 0.98,
+        "total": 0.938
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.953 >= 0.85). Beautiful sensory morning laced with sharp comedic vanity.",
+      "critiqueSummary": "Biga/Studio LICO: Feral mockery, hilarious contrast of vanity against cold mountain dirt."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.92,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.957
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.970 >= 0.85). Legendary Mount Hua comedic banter transitioning into terrifying feral dominance.",
+      "critiqueSummary": "Biga/Studio LICO: Peak Dong-ryong mockery, explosive comedic disrespect, unhinged laughter."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.92,
+        "sensory": 0.91,
+        "feral": 0.99,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.959 >= 0.85). Flawless fusion of aesthetic martial choreography and Jin's volcanic disdain.",
+      "critiqueSummary": "Biga/Studio LICO: Slapstick vanity, dramatic posing, Jin's visceral twitching disgust."
+    }
+  },
+  "compositeSceneScore": 0.946,
+  "timestamp": "2026-09-17T16:51:12.539Z"
+}

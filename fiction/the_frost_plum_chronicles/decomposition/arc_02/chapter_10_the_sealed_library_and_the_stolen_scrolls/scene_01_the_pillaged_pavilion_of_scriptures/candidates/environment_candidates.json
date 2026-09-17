@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Pavilion of Scriptures was an octagonal three-story pagoda situated on the northern face of Lotus Peak. The cedar shelving spanned forty linear meters across three tiers. Dust motes drifted through rectangular shafts of sunlight, settling onto empty wooden scroll racks with seventy percent moisture loss.",
+    "critique": "Sanderson/Gosu: Architectural layout, material degradation analysis.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.93,
+      "sensory": 0.86,
+      "feral": 0.8,
+      "total": 0.881
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Silence filled the library like water in a drowned well. The air smelled of dry cedar, old spiderwebs, and the pale ghost of paper long since turned to dust. Long wooden racks, carved with the five-petal plum crest, stood bare and hollow, like ribcages picked clean by carrion crows.",
+    "critique": "Rothfuss/Inoue: Haunting poetry, exquisite sensory stillness.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.97,
+      "feral": 0.86,
+      "total": 0.922
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Empty. Completely wiped out. Not a single secret manual, not a single sword diagram. Even the wooden shelves had pry marks where greedy thieves had ripped out the brass drawer handles to sell for copper. You couldn't even find a recipe for scallion pancakes in this place.",
+    "critique": "Biga/Studio LICO: Punchy robbery disgust, scallion pancake humor.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.89,
+      "sensory": 0.91,
+      "feral": 0.98,
+      "total": 0.928
+    },
+    "iteration": 2
+  }
+]

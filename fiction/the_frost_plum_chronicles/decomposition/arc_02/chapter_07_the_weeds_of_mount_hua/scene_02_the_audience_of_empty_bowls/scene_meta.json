@@ -1,0 +1,26 @@
+{
+  "id": "scene_02_the_audience_of_empty_bowls",
+  "title": "The Audience of Empty Bowls",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.938,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.931
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.949
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.933
+    }
+  }
+}

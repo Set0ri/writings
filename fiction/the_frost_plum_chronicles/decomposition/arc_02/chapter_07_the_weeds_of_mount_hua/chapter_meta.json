@@ -1,0 +1,87 @@
+{
+  "id": "chapter_07_the_weeds_of_mount_hua",
+  "title": "The Weeds of Mount Hua",
+  "order": 7,
+  "status": "merged",
+  "compositeScore": 0.938,
+  "scenes": [
+    {
+      "id": "scene_01_the_ascent_of_broken_slate",
+      "title": "The Ascent of Broken Slate",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.941,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.936
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.947
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.941
+        }
+      }
+    },
+    {
+      "id": "scene_02_the_audience_of_empty_bowls",
+      "title": "The Audience of Empty Bowls",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.938,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.931
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.949
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.933
+        }
+      }
+    },
+    {
+      "id": "scene_03_the_hemp_robe_and_dormitory",
+      "title": "The Hemp Robe & The Third-Class Dormitory",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.935,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.926
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.942
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.936
+        }
+      }
+    }
+  ]
+}

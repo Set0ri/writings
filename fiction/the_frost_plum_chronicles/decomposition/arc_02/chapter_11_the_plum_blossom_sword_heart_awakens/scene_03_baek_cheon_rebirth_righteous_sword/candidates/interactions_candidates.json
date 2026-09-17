@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon lowered his blade, chest heaving. 'The kinetic dissipation is complete.' He turned to Jin, bowing at a ninety-degree angle. 'Thank you, Martial Brother.' Jin nodded coldly. 'You passed. Barely.'",
+    "critique": "Sanderson/Gosu: Structured martial etiquette, kinetic acknowledgment.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.91,
+      "sensory": 0.87,
+      "feral": 0.87,
+      "total": 0.895
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Baek Cheon dropped to one knee before Jin. In his eyes, there was no longer pride, no longer vanity—only the clean, unbreakable devotion of a true vanguard. \"My sword belongs to Mount Hua,\" Baek Cheon whispered, tears cutting through the soot on his cheeks. \"Lead us, Jin.\" Jin looked down at him, his mouth set in a solemn, brotherly line. \"Stand up, Baek Cheon. A sword of Mount Hua kneels to no one.\"",
+    "critique": "Rothfuss/Inoue: Profound brotherly fealty, tearful oath of the Righteous Sword.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.91,
+      "sensory": 0.98,
+      "feral": 0.94,
+      "total": 0.954
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jo Gul and Yoon Jong were jumping up and down, screaming at the top of their lungs. \"SAHYUNG! YOU BLEW UP THE POST!\" Jin wiped a tear from his eye—or maybe it was sweat. \"Not bad for a pretty boy. At least you won't get your teeth knocked down your throat when Southern Edge shows up! Now clean up those splinters!\"",
+    "critique": "Biga/Studio LICO: Hype, brotherly celebration, broom duties.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.93,
+      "sensory": 0.93,
+      "feral": 0.99,
+      "total": 0.954
+    },
+    "iteration": 2
+  }
+]

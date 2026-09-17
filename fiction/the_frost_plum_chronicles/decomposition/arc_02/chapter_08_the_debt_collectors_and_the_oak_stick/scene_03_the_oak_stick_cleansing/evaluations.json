@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_the_oak_stick_cleansing",
+  "title": "The Oak Stick Cleansing & Reverse Extortion",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.951
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.956 >= 0.85). Punchy kinetic chaos combined with vivid sensory splatters.",
+      "critiqueSummary": "Biga/Studio LICO: Pure Mount Hua brawl, slapstick beatdown."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.93,
+        "sensory": 0.94,
+        "feral": 1,
+        "total": 0.962
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.975 >= 0.85). Legendary comedic chemistry between Jin's extortion and Han's aristocratic cover.",
+      "critiqueSummary": "Biga/Studio LICO: Hilarious Han collusion, shameless extortion, pure Mount Hua banditry."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.96,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.964
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.972 >= 0.85). The gold standard of Chung Myung brutal comedy and kinetic efficiency.",
+      "critiqueSummary": "Biga/Studio LICO: Peak Chung Myung verbal abuse combined with devastating, merciless cudgel work."
+    }
+  },
+  "compositeSceneScore": 0.959,
+  "timestamp": "2026-09-17T16:51:12.514Z"
+}

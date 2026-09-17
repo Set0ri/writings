@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The ascent from the lower dormitories to the summit of Lotus Blossom Peak rose one thousand two hundred vertical meters across three thousand granite steps. The air grew progressively thinner, barometric pressure dropping to zero point eight atmospheres. The mountain wind blew at twenty-four knots, biting through sweat-soaked linen.",
+    "critique": "Sanderson/Gosu: Quantitative elevation and barometric limits.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.95,
+      "sensory": 0.86,
+      "feral": 0.83,
+      "total": 0.891
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Sunset turned the crags of Mount Hua into teeth of burning copper. Below, the Shaanxi plains stretched into purple twilight, vast and cold. Above, the granite stairs vanished into the crimson clouds like an offering to indifferent gods. The only sound in the vast stillness was the dragging of iron sandals and the harsh, weeping gasps of young men dying upon the stone.",
+    "critique": "Rothfuss/Inoue: Haunting, painterly grandeur, tragic copper hues.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.932
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Hell. Literal hell on earth. The sun was going down, the wind was freezing their sweat into icicles, and the rocks strapped to their backs were heavy enough to squash a bull. Snot, tears, and vomit were freezing to the stairs. And at the front of the pack, hopping backward up the stairs on one foot like a cursed mountain goat, was Jin, yelling at them through a hollow bamboo tube.",
+    "critique": "Biga/Studio LICO: Pure training from hell comedy, backward hopping gremlin.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.959
+    },
+    "iteration": 2
+  }
+]

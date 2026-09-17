@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_the_subterranean_vault_of_the_ancestor",
+  "title": "The Subterranean Vault of the First Ancestor",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.957 >= 0.85). Sacred majesty and aesthetic wonder worthy of Mount Hua's founder.",
+      "critiqueSummary": "Biga/Studio LICO: Hilarious treasure joy, Elder Hwang heart-attack callbacks."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.92,
+        "sensory": 0.92,
+        "feral": 1,
+        "total": 0.948
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.975 >= 0.85). The mythic rebirth of Mount Hua's true heritage, balancing tearful awe with Chung Myung swagger.",
+      "critiqueSummary": "Biga/Studio LICO: Smacking away tears, high-energy Mount Hua comedy."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.91,
+        "feral": 0.99,
+        "total": 0.948
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.962 >= 0.85). Balances ancient architectural mechanics with sacred ancestral reverence.",
+      "critiqueSummary": "Biga/Studio LICO: Unhinged educational shoving, practical instruction."
+    }
+  },
+  "compositeSceneScore": 0.947,
+  "timestamp": "2026-09-17T16:51:12.622Z"
+}

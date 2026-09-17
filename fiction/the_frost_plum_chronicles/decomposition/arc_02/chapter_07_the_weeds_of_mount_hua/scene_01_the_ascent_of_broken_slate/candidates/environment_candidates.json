@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The granite stairs ascending Lotus Blossom Peak rose at a punishing thirty-eight-degree incline. Three thousand four hundred steps, carved directly into the white quartz cliffs of Shaanxi, were fractured by frost heave and choked with thorny mountain brambles. A stiff northern gale whipped through the narrow canyon, carrying the scent of dry pine resin, ozone, and ancient stone. At the first terrace, a bronze ceremonial bell hung lopsided from a rotten cedar gallows, its clapper gone, its green patina thick as moss.",
+    "critique": "Sanderson/Gosu: Precise incline calculations, crisp stone textures, clear architectural decay.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.95,
+      "sensory": 0.86,
+      "feral": 0.8,
+      "total": 0.889
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The mountain path was a wound that five thousand years had failed to heal.\n\nGranite stairs, once polished like mutton-fat jade by the boots of ten thousand righteous disciples, climbed into the swirling autumn clouds like a shattered spine. Cold wind swept down from Lotus Blossom Peak, tasting of high-altitude frost, wild dried berries, and the silence of dead men. Where carved stone dragons had once arched over the mountain gateway, only blackened stumps remained, smothered in wild briars whose crimson thorns caught at every gust.",
+    "critique": "Rothfuss/Inoue: Haunting poetic weight, exquisite sensory layering, deep melancholy of fallen grandeur.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.936
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Look at this dog shit.\n\nJust look at it. The greatest sword sect under heaven looked like an abandoned pig farm that had rolled down a cliff. Weeds so thick you needed a sickle just to find the stairs, bird droppings plastered across the memorial tablet, and a cold Shaanxi wind blowing straight through the gaps in the mountain gate like an old man whistling through his missing teeth. Not a single petal. Not one damn blossom. Just thorns, rocks, and the squeak of Jin's empty stomach.",
+    "critique": "Biga/Studio LICO: Feral hilarity, Mount Hua comedic bite, visceral down-to-earth complaints.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.91,
+      "feral": 0.98,
+      "total": 0.929
+    },
+    "iteration": 2
+  }
+]

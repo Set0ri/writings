@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Elder Jinbaek of Southern Edge raised his left hand. Synchronized with military cadence, thirty disciples unsheathed their blades in zero point four seconds, the acoustic hum of folded steel resonating at two thousand hertz across the arena.",
+    "critique": "Sanderson/Gosu: Synchronized draw acoustics, millisecond precision.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.96,
+      "sensory": 0.87,
+      "feral": 0.84,
+      "total": 0.905
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The draw of thirty blades was a single, terrifying chord of cold steel that hushed the mountain wind. Song Won, the peerless prodigy of Southern Edge, stepped into the center of the ring, his boots leaving clean, precise prints in the dust, his sword tip resting inches from the ground like a poised viper.",
+    "critique": "Rothfuss/Inoue: Musical steel chord, viper poise.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.931
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Song Won flicked his blade with a fancy three-twist spin that was clearly practiced for hours in front of a mirror, pointing the steel right at Mount Hua's pavilion. \"Who among you has the courage to face Southern Edge?!\" Jin, leaning against the post eating a cold sweet potato, chewed noisily.",
+    "critique": "Biga/Studio LICO: Mirror practice mockery, sweet potato chewing nonchalance.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.946
+    },
+    "iteration": 2
+  }
+]

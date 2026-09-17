@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_the_lotus_peak_boulder_run",
+  "title": "The Lotus Peak Boulder Run",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.94,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.959
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.955 >= 0.85). Epic mountain vistas contrasting with grueling physical torment.",
+      "critiqueSummary": "Biga/Studio LICO: Pure training from hell comedy, backward hopping gremlin."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.92,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.954
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.976 >= 0.85). The emotional core of Mount Hua's resurrection—pure Kamina conviction and tearful grit.",
+      "critiqueSummary": "Biga/Studio LICO: Pure motivation through homicidal spite, bamboo horn taunts."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.95,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.956
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.967 >= 0.85). Unforgiving physical strain balanced with hilarious drill-instructor fury.",
+      "critiqueSummary": "Biga/Studio LICO: Relentless slapstick drill sergeant brutality, pork dumpling insults."
+    }
+  },
+  "compositeSceneScore": 0.956,
+  "timestamp": "2026-09-17T16:51:12.570Z"
+}

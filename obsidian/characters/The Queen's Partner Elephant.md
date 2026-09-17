@@ -2,7 +2,7 @@
 title: "The Queen's Partner Elephant"
 tags: [character, mount, beast, imperial, airavata]
 type: "Bio-Mechanical Royal Mount"
-faction: "[[factions/Moon Sovereignty|Moon Sovereignty]] / Imperial Vanguard"
+faction: "[[Moon Sovereignty]] / Imperial Vanguard"
 bonded_to: "[[The Queen Commander]]"
 status: "Deceased / Consumed in Whiteout"
 ---
@@ -16,7 +16,7 @@ The **Partner Elephant** was the royal bio-mechanical war mount of [[The Queen C
 
 ## 2. Capabilities & Role
 * **Acoustic Shockwave Trumpet**: The elephant's trunk housed an ultra-high-pressure sonic resonator capable of releasing localized atmospheric blast waves that could clear Mach 25 debris, shatter kinetic barriers, and level incoming missile salvos.
-* **Palanquin of the Gravity Queen**: Carried the gilded command howdah from which the Queen coordinated the vanguard of [[factions/Mount Hua Plum Blossom Sect|Mount Hua Plum Blossom Sect]] disciples and imperial forces against [[The Heavenly Demon]].
+* **Palanquin of the Gravity Queen**: Carried the gilded command howdah from which the Queen coordinated the vanguard of [[Mount Hua Plum Blossom Sect]] disciples and imperial forces against [[The Heavenly Demon]].
 * **Psychic Resonance**: Emotionally bonded with the Queen, mirroring her agonizing dread as [[Chung Jin]] and [[Elder Brother]] initiated the dual-key sequence of [[The Solar Lotus & The Two Keys]].
 
 ## Related Notes

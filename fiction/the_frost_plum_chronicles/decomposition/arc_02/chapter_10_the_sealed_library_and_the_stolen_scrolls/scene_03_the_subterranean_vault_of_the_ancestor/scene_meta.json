@@ -1,0 +1,26 @@
+{
+  "id": "scene_03_the_subterranean_vault_of_the_ancestor",
+  "title": "The Subterranean Vault of the First Ancestor",
+  "order": 3,
+  "status": "merged",
+  "compositeScore": 0.947,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.944
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.948
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.948
+    }
+  }
+}

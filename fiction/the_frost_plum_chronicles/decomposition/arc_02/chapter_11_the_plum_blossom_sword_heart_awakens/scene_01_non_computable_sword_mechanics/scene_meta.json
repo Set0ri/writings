@@ -1,0 +1,26 @@
+{
+  "id": "scene_01_non_computable_sword_mechanics",
+  "title": "Non-Computable Sword Mechanics",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.947,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.938
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.954
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.948
+    }
+  }
+}

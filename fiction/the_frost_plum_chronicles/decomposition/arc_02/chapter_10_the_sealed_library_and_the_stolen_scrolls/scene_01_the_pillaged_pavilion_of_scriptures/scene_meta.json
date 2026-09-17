@@ -1,0 +1,26 @@
+{
+  "id": "scene_01_the_pillaged_pavilion_of_scriptures",
+  "title": "The Pillaged Pavilion of Scriptures",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.942,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.928
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.951
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.946
+    }
+  }
+}

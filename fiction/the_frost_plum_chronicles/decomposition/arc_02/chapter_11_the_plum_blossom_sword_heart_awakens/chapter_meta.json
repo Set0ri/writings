@@ -1,0 +1,87 @@
+{
+  "id": "chapter_11_the_plum_blossom_sword_heart_awakens",
+  "title": "The Plum Blossom Sword Heart Awakens",
+  "order": 11,
+  "status": "merged",
+  "compositeScore": 0.951,
+  "scenes": [
+    {
+      "id": "scene_01_non_computable_sword_mechanics",
+      "title": "Non-Computable Sword Mechanics",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.947,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.938
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.954
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.948
+        }
+      }
+    },
+    {
+      "id": "scene_02_the_first_true_petal",
+      "title": "The First True Petal",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.95,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.943
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.954
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.952
+        }
+      }
+    },
+    {
+      "id": "scene_03_baek_cheon_rebirth_righteous_sword",
+      "title": "Baek Cheon's Rebirth as the Righteous Sword",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.956,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.954
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.954
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.959
+        }
+      }
+    }
+  ]
+}

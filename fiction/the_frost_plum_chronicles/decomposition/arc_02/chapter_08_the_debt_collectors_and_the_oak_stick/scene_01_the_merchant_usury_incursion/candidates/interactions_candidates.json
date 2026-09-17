@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Guild Master Kang tapped the pigskin ledger. 'The contractual clause states a penalty of three hundred silver taels per lunar cycle. Since you cannot liquidate the balance, the Merchant Syndicate hereby stakes claim to the southern orchard and Lotus Peak burial grounds.'",
+    "critique": "Sanderson/Gosu: Contractual legalism, cold bureaucratic theft.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.9,
+      "sensory": 0.87,
+      "feral": 0.85,
+      "total": 0.892
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"The burial grounds?\" Hyun Jong’s voice broke, brittle as winter grass. \"You would dig up our ancestors' bones for copper? Have you no fear of heaven?\" Kang laughed, a wet, rattling sound. \"Heaven doesn't lend silver, Sect Leader. I do.\"",
+    "critique": "Rothfuss/Inoue: Superb poetic cruelty, haunting moral clash.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.86,
+      "sensory": 0.97,
+      "feral": 0.89,
+      "total": 0.926
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Heaven? Who gives a damn about heaven?\" Kang spat betel juice directly onto Hyun Jong's slipper. \"Sign the deed, old man! Sign it before my boys start breaking your disciples' fingers one by one!\"\nIn the corner of the veranda, Jin leaned against a pillar, biting into a sour plum, his eyes turning yellow as a wolf at midnight.",
+    "critique": "Biga/Studio LICO: Peak villainous arrogance, Jin lurking with feral menace.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.944
+    },
+    "iteration": 2
+  }
+]

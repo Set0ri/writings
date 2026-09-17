@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Cold rain fell across the front courtyard of Mount Hua, turning the clay soil into thick, grey slurry. Heavy iron-studded wagon wheels churned the mud into eight-inch ruts. Twenty armed guards in boiled leather armor stood in flanking formation, their iron cudgels resting on their shoulders.",
+    "critique": "Sanderson/Gosu: Tactical wagon formation, precise mechanical mud depth.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.94,
+      "sensory": 0.86,
+      "feral": 0.82,
+      "total": 0.89
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The morning tasted of rust and cold grease. Rain fell in thick, sluggish sheets, washing the red mud of Shaanxi over the white granite steps. The front gates of Mount Hua stood wide open, violated by the clinking iron chains and heavy boots of men who carried ledgers instead of swords, measuring the soul of an ancient sect in sacks of copper coin.",
+    "critique": "Rothfuss/Inoue: Evocative moral violation, lyrical texture.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.924
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Greasy bastards. That was the only word for them. Rolling into the mountain courtyard with three big wagons, splashing muddy water all over the clean porch, chewing dried betel nut and spitting the red gunk right onto the stone paving. The fat merchant at the front had five gold rings on one hand and a smile that made your knuckles itch to cave his face in.",
+    "critique": "Biga/Studio LICO: Visceral disdain, immediate urge to punch, sharp sensory insults.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.92,
+      "feral": 0.98,
+      "total": 0.938
+    },
+    "iteration": 2
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "chapter_12_the_first_bloom",
+  "title": "The First Bloom",
+  "order": 12,
+  "status": "merged",
+  "compositeScore": 0.956,
+  "scenes": [
+    {
+      "id": "scene_01_the_southern_edge_vanguard_incursion",
+      "title": "The Southern Edge Vanguard Incursion",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.949,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.944
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.957
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.946
+        }
+      }
+    },
+    {
+      "id": "scene_02_senior_brother_han_psychological_dismantling",
+      "title": "Senior Brother Han's Psychological Dismantling",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.953,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.944
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.959
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.957
+        }
+      }
+    },
+    {
+      "id": "scene_03_the_wooden_stick_blooms",
+      "title": "The Wooden Stick Blooms",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.966,
+      "leafOrder": [
+        "environment",
+        "actions",
+        "interactions"
+      ],
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.964
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.966
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.969
+        }
+      }
+    }
+  ]
+}

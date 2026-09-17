@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon drove his heels into the granite, aligning his skeletal frame to absorb three hundred foot-pounds of torque. His sword cut through the 'Seven Wave Cascade.' Three distinct petal vortices formed at the perimeter, maintaining coherence for one point two seconds.",
+    "critique": "Sanderson/Gosu: Skeletal torque alignment, vortex coherence time.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.97,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.914
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "He did not fight the sword; he became its breath. His blade sang with the heavy, unyielding roar of a great tree bending before a winter blizzard. As his steel snapped through the air, three crimson blossoms unfolded from the blade tip, dancing like sparks from a roaring hearth.",
+    "critique": "Rothfuss/Inoue: Grand romantic resonance, roaring hearth imagery.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.941
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Roaring like an angry tiger, Baek Cheon stepped forward and slashed. *BOOM!* The air detonated. A cluster of pink petals blasted forward, striking the solid oak training dummy twenty paces away. The iron-bound post didn't just split—it shattered into thousands of fragrant, flying chips!",
+    "critique": "Biga/Studio LICO: Explosive power, shattered dummy post, roaring tiger energy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.959
+    },
+    "iteration": 2
+  }
+]

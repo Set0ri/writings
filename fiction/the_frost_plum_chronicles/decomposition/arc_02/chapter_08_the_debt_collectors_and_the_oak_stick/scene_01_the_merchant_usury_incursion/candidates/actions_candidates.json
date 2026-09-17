@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "A lead enforcer slammed his eight-sided iron mace onto the stone step with five hundred foot-pounds of kinetic force. The stone fractured into four radiating shards. 'Pay the interest!' he barked, shoving young disciple Jo Gul backward into the slush.",
+    "critique": "Sanderson/Gosu: Precise impact calculations, sharp kinetic vectoring.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.96,
+      "sensory": 0.85,
+      "feral": 0.86,
+      "total": 0.898
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The blow cracked the quiet of the mountain like lightning breaking a dead tree. Jo Gul fell into the freezing mire, the breath knocked from his ribs, his hands clawing at the mud as he struggled to rise, tears of helpless humiliation burning his cheeks.",
+    "critique": "Rothfuss/Inoue: Tragic physical humiliation, poignant emotional weight.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.89,
+      "sensory": 0.95,
+      "feral": 0.88,
+      "total": 0.921
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The thug didn't just push him; he kicked mud right into Jo Gul's face. \"Move, beggar!\" Sect Leader Hyun Jong came rushing down the wooden steps, tripping on his hem in his haste to bow. \"Guild Master Kang, please! Have mercy! We only need two more weeks to gather the harvest!\"",
+    "critique": "Biga/Studio LICO: Brutal street disrespect, elder desperation.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.91,
+      "feral": 0.97,
+      "total": 0.937
+    },
+    "iteration": 2
+  }
+]

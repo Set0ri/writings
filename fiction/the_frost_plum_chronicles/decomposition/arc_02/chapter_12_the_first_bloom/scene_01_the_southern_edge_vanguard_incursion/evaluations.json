@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_the_southern_edge_vanguard_incursion",
+  "title": "The Southern Edge Vanguard Incursion",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.93,
+        "feral": 0.98,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.957 >= 0.85). Grand public spectacle and visceral atmospheric tension.",
+      "critiqueSummary": "Biga/Studio LICO: Peacock and dung-fly metaphors, hilarious street disdain."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.92,
+        "sensory": 0.93,
+        "feral": 1,
+        "total": 0.957
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.968 >= 0.85). Total comedic disrespect obliterating Southern Edge's pompous majesty.",
+      "critiqueSummary": "Biga/Studio LICO: Sweet potato peel disrespect, ancestor trash bin insults."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.92,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.946
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.959 >= 0.85). Hilarious contrast between pompous peacock flourish and Jin's potato-chewing boredom.",
+      "critiqueSummary": "Biga/Studio LICO: Mirror practice mockery, sweet potato chewing nonchalance."
+    }
+  },
+  "compositeSceneScore": 0.949,
+  "timestamp": "2026-09-17T16:51:12.704Z"
+}

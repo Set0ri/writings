@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c10-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Beneath the false foundation lay a subterranean vault twenty paces square, excavated from solid quartz bedrock. Temperature: 11 degrees Celsius. Preserved in vacuum seals, nine jade tablets emitted a continuous phosphorescent green luminescence at 520 nanometers.",
+    "critique": "Sanderson/Gosu: Vacuum seal metrics, wavelength luminance.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.94,
+      "sensory": 0.87,
+      "feral": 0.82,
+      "total": 0.893
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c10-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The subterranean vault smelled of cold clean stone, ancient mountain water, and untouched time. A soft, celestial green glow emanated from nine jade tablets mounted upon pillars of white marble, resting in silent vigil beneath five thousand years of dust.",
+    "critique": "Rothfuss/Inoue: Sacred sanctuary atmosphere, timeless jade reverence.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.927
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c10-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Gold! Well, not gold, but jade! Real, massive slabs of mutton-fat white jade! Jin nearly wept with joy. \"Look at this! Those Southern Edge idiots stole paper while the real treasures were sleeping under their boots! Hwang would have five heart attacks if he saw this!\"",
+    "critique": "Biga/Studio LICO: Hilarious treasure joy, Elder Hwang heart-attack callbacks.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.92,
+      "feral": 0.99,
+      "total": 0.944
+    },
+    "iteration": 2
+  }
+]

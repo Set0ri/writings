@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The courtyard atmospheric conditions shifted violently. Local air pressure surged by zero point one atmospheres as non-linear Qi vortices generated twenty-four atmospheric micro-fronts. The acoustic blast of shattering Damascus steel exceeded one hundred and twenty decibels.",
+    "critique": "Sanderson/Gosu: Dynamic barometric front, decibel acoustic blast.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.96,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.908
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "And then, Mount Hua bloomed.\n\nIt was not one petal, nor ten. It was a tempest. A roaring, radiant blizzard of ten thousand pink plum blossoms woven of starlight, sword Qi, and ancient pride. The fragrance was overwhelming—the wild, untamed scent of mountain spring sweeping over the barren peaks, drowning the bitter stench of money and greed in a sea of sacred flowers.",
+    "critique": "Rothfuss/Inoue: Overwhelming lyrical blossom blizzard, tearful majesty.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 1,
+      "feral": 0.92,
+      "total": 0.961
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "BOOM! Pink petals everywhere! In their eyes, in their mouths, down their silk collars! Southern Edge prodigies were flying through the air like discarded cabbage leaves, their fancy swords snapping into pieces like cheap peanut brittle! The roar of Mount Hua shook the very clouds!",
+    "critique": "Biga/Studio LICO: Peanut brittle swords, flying disciples, explosive hype.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.964
+    },
+    "iteration": 2
+  }
+]

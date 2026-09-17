@@ -23,15 +23,15 @@ Unlike traditional boxy cruisers, the *Hummingbird* literally resembles an iride
 * **Ventral Hangar Bays**: Massive cavernous drop bays on its underside, large enough to carry and launch heavy planetary assault craft like [[Elder Brother|The Giant Turtle Mech-Ship]].
 
 ## 2. Strategic Position at Kurukshetra & The Scale Reveal
-During the events of [[arcs/Arc 01 - The Frost Plum of Southfall|the Kurukshetra catastrophe]], the *Hummingbird* was stationed in **cislunar orbit floating directly beside the Moon**, framed against the blinding flares of the distant sun. 
+During the events of [[Arc 01 - The Frost Plum of Southfall|the Kurukshetra catastrophe]], the *Hummingbird* was stationed in **cislunar orbit floating directly beside the Moon**, framed against the blinding flares of the distant sun. 
 
-Seen from across the cosmos, it appeared deceptively delicate and small. Yet upon zooming in, its colossal scale was revealed: [[Elder Brother]] lay casually sleeping on his back atop the warm titanium plumage with his red coat fluttering into the abyss, while [[Chung Jin]] stood beside him holding a handheld brass spyglass to observe the vanguard at [[locations/Mount Kailash|Mount Kailash]].
+Seen from across the cosmos, it appeared deceptively delicate and small. Yet upon zooming in, its colossal scale was revealed: [[Elder Brother]] lay casually sleeping on his back atop the warm titanium plumage with his red coat fluttering into the abyss, while [[Chung Jin]] stood beside him holding a handheld brass spyglass to observe the vanguard at [[Mount Kailash]].
 
 It was from the exterior hull of the *Hummingbird* that [[Chung Jin]] stepped off into the void, descending feet-first with arms crossed through the mesosphere to strike the earth.
 
 ## Related Notes
 * [[Elder Brother]]
 * [[Chung Jin]]
-* [[locations/Mount Kailash]]
-* [[lore_systems/The Solar Lotus & The Two Keys]]
+* [[Mount Kailash]]
+* [[The Solar Lotus & The Two Keys]]
 * [[00_Index]]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin planted his stick into the stage. 'The Southern Edge challenge is terminated. The territorial claim is voided under Article Seven.' The merchant bosses hastily tore up their foreclosure contracts.",
+    "critique": "Sanderson/Gosu: Crisp legal resolution, debt voided.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.91,
+      "sensory": 0.88,
+      "feral": 0.89,
+      "total": 0.902
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin stood amidst the raining pink petals, his ragged hemp robe billowing around him. Behind him, Sect Leader Hyun Jong wept openly, falling to his knees as Elder Hwang embraced the disciples in tearful joy. Jin looked up toward the autumn sky, where the blue seemed infinite, and whispered: 'Elder Brother... do you see this? Mount Hua has not fallen.'",
+    "critique": "Rothfuss/Inoue: Moving fraternal tribute to Kamina, tearful ancestral triumph.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.92,
+      "sensory": 0.99,
+      "feral": 0.93,
+      "total": 0.961
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Anyone else?!\" Jin roared, brandishing his stick at the terrified Southern Edge disciples huddled below the stage. \"Come on! I have three more sweet potatoes and plenty of firewood! Who else wants an education?!\"\nBaek Cheon, Yu Iseol, Jo Gul, and Yoon Jong stepped onto the stage, drawing their swords with a united roar: \"MOUNT HUA!\"",
+    "critique": "Biga/Studio LICO: Roaring challenge, united disciple vanguard, unbridled hype.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.94,
+      "feral": 1,
+      "total": 0.966
+    },
+    "iteration": 2
+  }
+]

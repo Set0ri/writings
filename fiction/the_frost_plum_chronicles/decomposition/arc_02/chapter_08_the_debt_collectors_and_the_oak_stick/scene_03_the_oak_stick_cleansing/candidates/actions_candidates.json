@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin moved with zero wasted momentum. His knotted oak branch intercepted the lead thug's mace at a forty-five-degree angle, redirecting the four-hundred-pound force downward into the enforcer's knee. With a twist of his hips, Jin pivoted on his left ball, delivering a horizontal strike that fractured the second enforcer's collarbone.",
+    "critique": "Sanderson/Gosu: Flawless mechanical redirection, kinetic bio-leverage.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.98,
+      "sensory": 0.86,
+      "feral": 0.89,
+      "total": 0.917
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin was a shadow dancing through rain. The branch in his hands became an extension of the mountain's ancient wrath, striking with the weight of granite and the fluid mercy of a winter torrent. In three breaths, seven men lay broken.",
+    "critique": "Rothfuss/Inoue: Poetic martial dance, mythic grace.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.91,
+      "total": 0.934
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin didn't just beat them; he beat them like dusty carpets on spring cleaning day. *Smack!* \"Trespassing!\" *Crack!* \"Spitting on the steps!\" *Crunch!* \"Looking at me with those ugly pig eyes!\" He swept three men off their feet with one low spin, kicked a fourth directly into the wagon wheel, and hopped on top of the guild master's chest with a wolf-grin.",
+    "critique": "Biga/Studio LICO: Peak Chung Myung verbal abuse combined with devastating, merciless cudgel work.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.964
+    },
+    "iteration": 2
+  }
+]

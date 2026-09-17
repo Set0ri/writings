@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_02_the_first_true_petal",
+  "title": "The First True Petal",
+  "order": 2,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.9,
+        "sensory": 0.99,
+        "feral": 0.88,
+        "total": 0.943
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.962 >= 0.85). Sublime olfactory transcendence heralding Mount Hua's signature miracle.",
+      "critiqueSummary": "Rothfuss/Inoue: Hauntingly beautiful olfactory return, mythic fragrance."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.93,
+        "sensory": 0.92,
+        "feral": 1,
+        "total": 0.954
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.978 >= 0.85). Emotional catharsis at its absolute peak, seamlessly transitioning into hysterical, brotherly motivation.",
+      "critiqueSummary": "Biga/Studio LICO: Hysterical disciple panic, eyebrow shaving threats."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.95,
+        "sensory": 0.93,
+        "feral": 0.97,
+        "total": 0.952
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.971 >= 0.85). Visual, acoustic, and kinetic perfection of Mount Hua's legendary sword bloom.",
+      "critiqueSummary": "Biga/Studio LICO: Explosive impact, dynamic sword petal slash."
+    }
+  },
+  "compositeSceneScore": 0.95,
+  "timestamp": "2026-09-17T16:51:12.659Z"
+}

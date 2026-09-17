@@ -2,8 +2,8 @@
 arc_number: 2
 title: "The Mud & The Blossom"
 tags: [arc, book_1, mount_hua_rebuilding, training_from_hell, comedy, southern_edge]
-status: "Planned (Chapters 7–16 / Word Target: 25,000 words)"
-chapters: 10
+status: "Completed (Chapters 07–12 / Fully Decomposed & Merged)"
+chapters: 6
 setting: "[[Mount Hua (Hwasan)]], Lotus Blossom Peak, Shaanxi Commercial District"
 primary_characters:
   - "[[Chung Jin]]"
@@ -19,6 +19,7 @@ primary_antagonists:
 emotional_payoffs:
   - "The shock and despair of seeing Mount Hua reduced to an impoverished ruin."
   - "The hilarious, terrifying wooden-stick training sequences."
+  - "Senior Brother Han's Reigen/King psychological bluffing masterclass."
   - "Mount Hua's first public victory over Southern Edge in two centuries."
 ---
 
@@ -28,12 +29,19 @@ emotional_payoffs:
 
 ---
 
-## 📖 Narrative Summary
-Jin crosses the inland seas and journeys to Mount Hua in Shaanxi province, expecting to see the mighty mountain fortress of his past life. Instead, he discovers weed-choked courtyards, leaking roofs, twenty emaciated disciples wearing patched rags, and an ancestral shrine stripped of its brass ornaments to pay off debts to local usurers. Worse, regional bards proclaim Mount Hua as "the ruined heretics who betrayed the Central Plains."
+## 📖 Canonical Chapters & Upward Synthesis
+* **Chapter 07: The Weeds of Mount Hua** ($S = 0.938$): Jin's arrival at the crumbling 3,000 stairs of Lotus Blossom Peak; confronting Sect Leader Hyun Jong and Elder Hwang; furious reaction to the 42,000 tael debt; joining as the lowliest third-class disciple in coarse hemp robes.
+* **Chapter 08: The Debt Collectors & The Oak Stick** ($S = 0.949$): The Shaanxi Merchant Guild incursion; Senior Brother Han's breathtaking Reigen bluffer masterclass with his near-sighted "Dragon Glare"; Jin's winter oak stick ambush and 5,000 silver tael reverse-extortion.
+* **Chapter 09: The Courtyard of Broken Bones** ($S = 0.954$): Mocking Baek Cheon's hollow aristocratic sword forms; the 30-second wooden stick baptism; the agonizing 50-pound granite boulder run up Lotus Peak; forging the unbreakable disciple brotherhood.
+* **Chapter 10: The Sealed Library & The Stolen Scrolls** ($S = 0.946$): Uncovering Southern Edge's theft of the ancient manuals; confronting the Moon AI's historical redaction classifying Mount Hua as traitors; unlocking the subterranean ancestral vault and the 5,000-year-old mutton-fat jade stele.
+* **Chapter 11: The Plum Blossom Sword Heart Awakens** ($S = 0.951$): Teaching non-computable biological sword oscillation; Yu Iseol's sword tip blooming the first fragrant pink plum petal in 200 years; Baek Cheon's ego-shattering catharsis and rebirth as the Righteous Sword.
+* **Chapter 12: The First Bloom** ($S = 0.956$): Southern Edge Sect's public territorial challenge; Senior Brother Han's psychological dismantling of Elder Jinbaek; Jin's thirty-six movement petal blizzard shattering Song Won's Damascus blade; Mount Hua's resurrection proclaimed to the world.
 
-### Key Arc Progression:
-* **Arrival & Shock (Ch. 7–8)**: Jin confronts Sect Leader Hyun Jong and [[Elder Hwang]]. Discovers Mount Hua owes forty thousand silver taels. Jin weeps in private, then flies into a towering rage. He joins as a "humble third-class disciple" named Chung Jin.
-* **The Wooden Stick Reign of Terror (Ch. 9–11)**: Jin takes a heavy oak branch and ambushes the disciples during morning practice. He breaks the pompous vanity of [[Baek Cheon]], matches the silent fanaticism of [[Yu Iseol]], and forces [[Jo Gul]] and [[Yoon Jong]] into grueling conditioning loops.
-* **The Reigen Dynamic Emerges (Ch. 12)**: Jin partners with [[Senior Brother Han]]. While Han bluffs debt collectors with chilling aristocratic elegance, Jin ambushes dishonest merchant enforcers in back alleys to reclaim stolen sect property.
-* **The Shaanxi Sword Conference (Ch. 13–15)**: The arrogant [[Southern Edge Sect (The Usurpers)]] arrives at Mount Hua to demand the complete surrender of Lotus Peak. In the public sparring arena, Southern Edge mocks Mount Hua's "beggar swordsmanship."
-* **The Petals Bloom (Ch. 16 Climax)**: Jin steps onto the stage with a notched wooden practice sword. In front of thousands of spectators, he executes the true, uncorrupted [[Plum Blossom Sword Technique (Mae-hwa Geom)]]. The wooden stick unleashes a fragrant storm of pink petal mirages, snapping the swords of three Southern Edge prodigies in a single breath. Southern Edge is publicly humiliated, Mount Hua's name is restored, and the first steps of resurrection are cemented.
+---
+
+## 🏛️ Council Verification & Topology Architecture
+* **Decomposition**: 18 Scenes, 54 Tripartite Leaf Nodes ($\mathcal{I}^*, \mathcal{A}^*, \mathcal{E}^*$).
+* **Council Composite Score**: $\bar{S} = 0.949$ (All leaves $\ge 0.85$ threshold across Sanderson, Rothfuss, and Biga rubrics).
+* **Topology DAG**: Plan `arc-02-the-mud-and-the-blossom` (104 nodes, 156 edges, 100% completed).
+* **Master Arc Manuscript**: `fiction/the_frost_plum_chronicles/decomposition/arc_02/resolved_arc_02.md`.
+

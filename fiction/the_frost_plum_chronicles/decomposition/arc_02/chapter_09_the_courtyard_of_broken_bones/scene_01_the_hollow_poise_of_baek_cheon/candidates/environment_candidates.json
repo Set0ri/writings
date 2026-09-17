@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Dawn broke over the main sparring courtyard of Mount Hua at 5:14 AM. The temperature was four degrees Celsius with ninety-two percent humidity, condensing heavy moisture onto the quartz flagstones. Twelve first-class disciples stood in linear ranks, three paces apart, their steel blades catching the early refracted sunlight.",
+    "critique": "Sanderson/Gosu: Precise atmospheric and geometric alignment.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.86,
+      "feral": 0.8,
+      "total": 0.883
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Dawn on Lotus Blossom Peak was a quiet thing, stitched together from grey mist, wet cedar needles, and the cold pale blue of the early sky. Dew clung to the grass like seed pearls. In the center of the training yard, twenty swords moved in unison, their polished steel singing a high, reedy note that vanished into the valley mists.",
+    "critique": "Rothfuss/Inoue: Lyrical morning atmosphere, musical sword steel.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.923
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The crack of dawn was cold enough to freeze your spit before it hit the dirt. And what were Mount Hua's 'greatest geniuses' doing? Prancing around in embroidered silk slippers like a troupe of traveling opera dancers, waving their thin little swords at the clouds while checking their hair in the water buckets.",
+    "critique": "Biga/Studio LICO: Feral mockery, hilarious contrast of vanity against cold mountain dirt.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.92,
+      "feral": 0.98,
+      "total": 0.938
+    },
+    "iteration": 2
+  }
+]

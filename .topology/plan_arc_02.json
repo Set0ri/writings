@@ -1,0 +1,1729 @@
+{
+  "id": "arc-02-the-mud-and-the-blossom",
+  "title": "Arc 02: The Mud & The Blossom - Recursive Merge-Sort Engine",
+  "description": "Complete 3-tier recursive merge-sort narrative decomposition across Chapters 07 to 12 (18 scenes, 54 tripartite leaves) with multi-round MCP Council iteration loops.",
+  "author": "Antigravity Living Identity & 6-Seat Inner Council",
+  "version": "2.0.0",
+  "totalNodes": 104,
+  "totalEdges": 156,
+  "nodes": [
+    {
+      "id": "goal-arc-02",
+      "label": "Arc 02: The Mud & The Blossom",
+      "type": "milestone",
+      "role": "Narrative Architect & Council Lead",
+      "description": "Master recursive merge-sort decomposition of Chapters 07 to 12 into 18 scenes and 54 tripartite leaf nodes.",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-07",
+      "label": "Chapter 07: The Weeds of Mount Hua",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 07",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s1",
+      "label": "S1: The Ascent of Broken Slate",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.936)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.947)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.941)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s1-merge",
+      "label": "Merge S1: The Ascent of Broken Slate (S=0.941)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s2",
+      "label": "S2: The Audience of Empty Bowls",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.931)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.949)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.933)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s2-merge",
+      "label": "Merge S2: The Audience of Empty Bowls (S=0.938)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s3",
+      "label": "S3: The Hemp Robe & The Third-Class Dormitory",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch07-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.926)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.942)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.936)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch07-s3-merge",
+      "label": "Merge S3: The Hemp Robe & The Third-Class Dormitory (S=0.935)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-07-merge",
+      "label": "Merge Chapter 07: The Weeds of Mount Hua (S=0.938)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 07 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-08",
+      "label": "Chapter 08: The Debt Collectors & The Oak Stick",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 08",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s1",
+      "label": "S1: The Merchant Usury Incursion",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.938)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.944)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.937)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s1-merge",
+      "label": "Merge S1: The Merchant Usury Incursion (S=0.94)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s2",
+      "label": "S2: Senior Brother Han's Bluffer Masterclass",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.934)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.957)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.95)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s2-merge",
+      "label": "Merge S2: Senior Brother Han's Bluffer Masterclass (S=0.947)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s3",
+      "label": "S3: The Oak Stick Cleansing & Reverse Extortion",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch08-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.951)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.962)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.964)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch08-s3-merge",
+      "label": "Merge S3: The Oak Stick Cleansing & Reverse Extortion (S=0.959)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-08-merge",
+      "label": "Merge Chapter 08: The Debt Collectors & The Oak Stick (S=0.949)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 08 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-09",
+      "label": "Chapter 09: The Courtyard of Broken Bones",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 09",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s1",
+      "label": "S1: The Hollow Poise of Baek Cheon",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.938)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.957)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.944)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s1-merge",
+      "label": "Merge S1: The Hollow Poise of Baek Cheon (S=0.946)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s2",
+      "label": "S2: The Wooden Stick Baptism",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.956)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.959)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.961)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s2-merge",
+      "label": "Merge S2: The Wooden Stick Baptism (S=0.959)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s3",
+      "label": "S3: The Lotus Peak Boulder Run",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch09-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.959)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.954)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.956)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch09-s3-merge",
+      "label": "Merge S3: The Lotus Peak Boulder Run (S=0.956)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-09-merge",
+      "label": "Merge Chapter 09: The Courtyard of Broken Bones (S=0.954)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 09 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-10",
+      "label": "Chapter 10: The Sealed Library & The Stolen Scrolls",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 10",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s1",
+      "label": "S1: The Pillaged Pavilion of Scriptures",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.928)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.951)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.946)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s1-merge",
+      "label": "Merge S1: The Pillaged Pavilion of Scriptures (S=0.942)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s2",
+      "label": "S2: The Redacted Chronicle of Kurukshetra",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.947)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.952)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.952)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s2-merge",
+      "label": "Merge S2: The Redacted Chronicle of Kurukshetra (S=0.95)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s3",
+      "label": "S3: The Subterranean Vault of the First Ancestor",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch10-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.944)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.948)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.948)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch10-s3-merge",
+      "label": "Merge S3: The Subterranean Vault of the First Ancestor (S=0.947)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-10-merge",
+      "label": "Merge Chapter 10: The Sealed Library & The Stolen Scrolls (S=0.946)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 10 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-11",
+      "label": "Chapter 11: The Plum Blossom Sword Heart Awakens",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 11",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s1",
+      "label": "S1: Non-Computable Sword Mechanics",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.938)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.954)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.948)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s1-merge",
+      "label": "Merge S1: Non-Computable Sword Mechanics (S=0.947)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s2",
+      "label": "S2: The First True Petal",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.943)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.954)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.952)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s2-merge",
+      "label": "Merge S2: The First True Petal (S=0.95)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s3",
+      "label": "S3: Baek Cheon's Rebirth as the Righteous Sword",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch11-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.954)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.954)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.959)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch11-s3-merge",
+      "label": "Merge S3: Baek Cheon's Rebirth as the Righteous Sword (S=0.956)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-11-merge",
+      "label": "Merge Chapter 11: The Plum Blossom Sword Heart Awakens (S=0.951)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 11 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "ch-12",
+      "label": "Chapter 12: The First Bloom",
+      "type": "task",
+      "role": "Chapter Lead",
+      "description": "Decomposition and upward synthesis of Chapter 12",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s1",
+      "label": "S1: The Southern Edge Vanguard Incursion",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 1",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s1-leaf-e",
+      "label": "S1-E: Environment (S=0.944)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s1-leaf-i",
+      "label": "S1-I: Interactions (S=0.957)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s1-leaf-a",
+      "label": "S1-A: Actions (S=0.946)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s1-merge",
+      "label": "Merge S1: The Southern Edge Vanguard Incursion (S=0.949)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s2",
+      "label": "S2: Senior Brother Han's Psychological Dismantling",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 2",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s2-leaf-e",
+      "label": "S2-E: Environment (S=0.944)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s2-leaf-i",
+      "label": "S2-I: Interactions (S=0.959)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s2-leaf-a",
+      "label": "S2-A: Actions (S=0.957)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s2-merge",
+      "label": "Merge S2: Senior Brother Han's Psychological Dismantling (S=0.953)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s3",
+      "label": "S3: The Wooden Stick Blooms",
+      "type": "task",
+      "role": "Scene Dramatist",
+      "description": "Tripartite decomposition of Scene 3",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch12-s3-leaf-e",
+      "label": "S3-E: Environment (S=0.964)",
+      "type": "task",
+      "role": "Scout & Rothfuss Sensory",
+      "description": "Council iteration loop for environment",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s3-leaf-i",
+      "label": "S3-I: Interactions (S=0.966)",
+      "type": "task",
+      "role": "Radiant Mirror & Feral Wolf",
+      "description": "Council iteration loop for interactions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s3-leaf-a",
+      "label": "S3-A: Actions (S=0.969)",
+      "type": "task",
+      "role": "Obsidian Edge & Sun",
+      "description": "Council iteration loop for actions",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ch12-s3-merge",
+      "label": "Merge S3: The Wooden Stick Blooms (S=0.966)",
+      "type": "task",
+      "role": "Scene Synthesizer",
+      "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "ch-12-merge",
+      "label": "Merge Chapter 12: The First Bloom (S=0.956)",
+      "type": "task",
+      "role": "Chapter Synthesizer",
+      "description": "Upward compilation of all scenes into canonical Chapter 12 manuscript",
+      "status": "completed",
+      "priority": "critical"
+    },
+    {
+      "id": "arc-02-merge",
+      "label": "Master Arc 02 Synthesis: The Mud & The Blossom",
+      "type": "milestone",
+      "role": "Master Synthesizer & Council Archon",
+      "description": "Compilation of all 6 chapters (18 scenes, 54 leaf nodes) into canonical Arc 02 manuscript.",
+      "status": "completed",
+      "priority": "critical"
+    }
+  ],
+  "edges": [
+    {
+      "source": "goal-arc-02",
+      "target": "ch-07",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-07",
+      "target": "ch07-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch07-s1",
+      "target": "ch07-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s1",
+      "target": "ch07-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s1",
+      "target": "ch07-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s1-leaf-e",
+      "target": "ch07-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch07-s1-leaf-i",
+      "target": "ch07-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch07-s1-leaf-a",
+      "target": "ch07-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-07",
+      "target": "ch07-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch07-s2",
+      "target": "ch07-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s2",
+      "target": "ch07-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s2",
+      "target": "ch07-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s2-leaf-e",
+      "target": "ch07-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch07-s2-leaf-i",
+      "target": "ch07-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch07-s2-leaf-a",
+      "target": "ch07-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-07",
+      "target": "ch07-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch07-s3",
+      "target": "ch07-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s3",
+      "target": "ch07-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s3",
+      "target": "ch07-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch07-s3-leaf-e",
+      "target": "ch07-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch07-s3-leaf-i",
+      "target": "ch07-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch07-s3-leaf-a",
+      "target": "ch07-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch07-s1-merge",
+      "target": "ch-07-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch07-s2-merge",
+      "target": "ch-07-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch07-s3-merge",
+      "target": "ch-07-merge",
+      "label": "S3"
+    },
+    {
+      "source": "goal-arc-02",
+      "target": "ch-08",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-08",
+      "target": "ch08-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch08-s1",
+      "target": "ch08-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s1",
+      "target": "ch08-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s1",
+      "target": "ch08-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s1-leaf-e",
+      "target": "ch08-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch08-s1-leaf-i",
+      "target": "ch08-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch08-s1-leaf-a",
+      "target": "ch08-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-08",
+      "target": "ch08-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch08-s2",
+      "target": "ch08-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s2",
+      "target": "ch08-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s2",
+      "target": "ch08-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s2-leaf-e",
+      "target": "ch08-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch08-s2-leaf-i",
+      "target": "ch08-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch08-s2-leaf-a",
+      "target": "ch08-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-08",
+      "target": "ch08-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch08-s3",
+      "target": "ch08-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s3",
+      "target": "ch08-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s3",
+      "target": "ch08-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch08-s3-leaf-e",
+      "target": "ch08-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch08-s3-leaf-i",
+      "target": "ch08-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch08-s3-leaf-a",
+      "target": "ch08-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch08-s1-merge",
+      "target": "ch-08-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch08-s2-merge",
+      "target": "ch-08-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch08-s3-merge",
+      "target": "ch-08-merge",
+      "label": "S3"
+    },
+    {
+      "source": "goal-arc-02",
+      "target": "ch-09",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-09",
+      "target": "ch09-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch09-s1",
+      "target": "ch09-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s1",
+      "target": "ch09-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s1",
+      "target": "ch09-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s1-leaf-e",
+      "target": "ch09-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch09-s1-leaf-i",
+      "target": "ch09-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch09-s1-leaf-a",
+      "target": "ch09-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-09",
+      "target": "ch09-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch09-s2",
+      "target": "ch09-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s2",
+      "target": "ch09-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s2",
+      "target": "ch09-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s2-leaf-e",
+      "target": "ch09-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch09-s2-leaf-i",
+      "target": "ch09-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch09-s2-leaf-a",
+      "target": "ch09-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-09",
+      "target": "ch09-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch09-s3",
+      "target": "ch09-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s3",
+      "target": "ch09-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s3",
+      "target": "ch09-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch09-s3-leaf-e",
+      "target": "ch09-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch09-s3-leaf-i",
+      "target": "ch09-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch09-s3-leaf-a",
+      "target": "ch09-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch09-s1-merge",
+      "target": "ch-09-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch09-s2-merge",
+      "target": "ch-09-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch09-s3-merge",
+      "target": "ch-09-merge",
+      "label": "S3"
+    },
+    {
+      "source": "goal-arc-02",
+      "target": "ch-10",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-10",
+      "target": "ch10-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch10-s1",
+      "target": "ch10-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s1",
+      "target": "ch10-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s1",
+      "target": "ch10-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s1-leaf-e",
+      "target": "ch10-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch10-s1-leaf-i",
+      "target": "ch10-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch10-s1-leaf-a",
+      "target": "ch10-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-10",
+      "target": "ch10-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch10-s2",
+      "target": "ch10-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s2",
+      "target": "ch10-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s2",
+      "target": "ch10-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s2-leaf-e",
+      "target": "ch10-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch10-s2-leaf-i",
+      "target": "ch10-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch10-s2-leaf-a",
+      "target": "ch10-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-10",
+      "target": "ch10-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch10-s3",
+      "target": "ch10-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s3",
+      "target": "ch10-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s3",
+      "target": "ch10-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch10-s3-leaf-e",
+      "target": "ch10-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch10-s3-leaf-i",
+      "target": "ch10-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch10-s3-leaf-a",
+      "target": "ch10-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch10-s1-merge",
+      "target": "ch-10-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch10-s2-merge",
+      "target": "ch-10-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch10-s3-merge",
+      "target": "ch-10-merge",
+      "label": "S3"
+    },
+    {
+      "source": "goal-arc-02",
+      "target": "ch-11",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-11",
+      "target": "ch11-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch11-s1",
+      "target": "ch11-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s1",
+      "target": "ch11-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s1",
+      "target": "ch11-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s1-leaf-e",
+      "target": "ch11-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch11-s1-leaf-i",
+      "target": "ch11-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch11-s1-leaf-a",
+      "target": "ch11-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-11",
+      "target": "ch11-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch11-s2",
+      "target": "ch11-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s2",
+      "target": "ch11-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s2",
+      "target": "ch11-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s2-leaf-e",
+      "target": "ch11-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch11-s2-leaf-i",
+      "target": "ch11-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch11-s2-leaf-a",
+      "target": "ch11-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-11",
+      "target": "ch11-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch11-s3",
+      "target": "ch11-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s3",
+      "target": "ch11-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s3",
+      "target": "ch11-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch11-s3-leaf-e",
+      "target": "ch11-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch11-s3-leaf-i",
+      "target": "ch11-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch11-s3-leaf-a",
+      "target": "ch11-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch11-s1-merge",
+      "target": "ch-11-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch11-s2-merge",
+      "target": "ch-11-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch11-s3-merge",
+      "target": "ch-11-merge",
+      "label": "S3"
+    },
+    {
+      "source": "goal-arc-02",
+      "target": "ch-12",
+      "label": "chapter_decomposition"
+    },
+    {
+      "source": "ch-12",
+      "target": "ch12-s1",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch12-s1",
+      "target": "ch12-s1-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s1",
+      "target": "ch12-s1-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s1",
+      "target": "ch12-s1-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s1-leaf-e",
+      "target": "ch12-s1-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch12-s1-leaf-i",
+      "target": "ch12-s1-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch12-s1-leaf-a",
+      "target": "ch12-s1-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-12",
+      "target": "ch12-s2",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch12-s2",
+      "target": "ch12-s2-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s2",
+      "target": "ch12-s2-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s2",
+      "target": "ch12-s2-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s2-leaf-e",
+      "target": "ch12-s2-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch12-s2-leaf-i",
+      "target": "ch12-s2-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch12-s2-leaf-a",
+      "target": "ch12-s2-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch-12",
+      "target": "ch12-s3",
+      "label": "scene_breakdown"
+    },
+    {
+      "source": "ch12-s3",
+      "target": "ch12-s3-leaf-e",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s3",
+      "target": "ch12-s3-leaf-i",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s3",
+      "target": "ch12-s3-leaf-a",
+      "label": "leaf_delegation"
+    },
+    {
+      "source": "ch12-s3-leaf-e",
+      "target": "ch12-s3-merge",
+      "label": "E*"
+    },
+    {
+      "source": "ch12-s3-leaf-i",
+      "target": "ch12-s3-merge",
+      "label": "I*"
+    },
+    {
+      "source": "ch12-s3-leaf-a",
+      "target": "ch12-s3-merge",
+      "label": "A*"
+    },
+    {
+      "source": "ch12-s1-merge",
+      "target": "ch-12-merge",
+      "label": "S1"
+    },
+    {
+      "source": "ch12-s2-merge",
+      "target": "ch-12-merge",
+      "label": "S2"
+    },
+    {
+      "source": "ch12-s3-merge",
+      "target": "ch-12-merge",
+      "label": "S3"
+    },
+    {
+      "source": "ch-07-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 07"
+    },
+    {
+      "source": "ch-08-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 08"
+    },
+    {
+      "source": "ch-09-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 09"
+    },
+    {
+      "source": "ch-10-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 10"
+    },
+    {
+      "source": "ch-11-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 11"
+    },
+    {
+      "source": "ch-12-merge",
+      "target": "arc-02-merge",
+      "label": "Ch 12"
+    }
+  ]
+}

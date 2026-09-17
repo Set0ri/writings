@@ -67,9 +67,13 @@ Chung Jin is **not** a quiet, brooding, polite protagonist. He is modeled direct
   * **Chapter 4: The Elder Tribunal & The Ledger Extortion**: Kang moves to foreclose on Daesung's plum orchard; Jin exposes Kang's smuggling ledgers with the oak stick, winning 300 sacks of winter grain for the village.
   * **Chapter 5: The Night of Plum Shadows**: Winter barley porridge feast; midnight blizzard attack by cybernetic iron-jaw wolves and bandits; Jin's kitchen cleaver Plum Blossom slaughter barefoot in the snow.
   * **Chapter 6: The First Frost & The Synthetic Coolant**: Cliffside duel against Kang's vibro-machete; non-computable Qi strike severs Kang's throat; white synthetic coolant sprays across the snow; Kang transmits telemetry to the Moon; Jin departs to restore Mount Hua.
-* **Arc 2: The Mud & The Blossom (Clan Revival)**
-  * Mount Hua rebuilding: Jin finds the clan's bankrupt, weed-covered ruins. 
-  * Discovers history remembers them as "evil heretics." Jin institutes chaotic training, beats disciples with wooden sticks, and hustles money to pay debts.
+* **Arc 2: The Mud & The Blossom (Mount Hua Revival & The Southern Edge Clash)**
+  * **Chapter 7: The Weeds of Mount Hua**: Jin reaches the weed-choked 3,000 stairs of Lotus Peak; confronts Sect Leader Hyun Jong and Elder Hwang over the 42,000-tael debt; joins as lowliest third-class disciple.
+  * **Chapter 8: The Debt Collectors & The Oak Stick**: Shaanxi Merchant Guild incursion; Senior Brother Han's breathtaking Reigen bluffer masterclass; Jin's winter oak stick reverse-extorts 5,000 silver taels.
+  * **Chapter 9: The Courtyard of Broken Bones**: Morning practice deflated; 30-second wooden stick baptism breaking Baek Cheon's vanity; grueling 50-pound granite boulder run up Lotus Peak.
+  * **Chapter 10: The Sealed Library & The Stolen Scrolls**: Disclosing Southern Edge's theft of manuals; discovering the Moon AI's historical erasure classifying Mount Hua as traitors; unlocking the subterranean ancestral vault and 5,000-year-old mutton-fat jade stele.
+  * **Chapter 11: The Plum Blossom Sword Heart Awakens**: Non-computable biological sword oscillation theory; Yu Iseol blooms the first fragrant pink plum blossom in 200 years; Baek Cheon's tearful catharsis and rebirth as Righteous Sword.
+  * **Chapter 12: The First Bloom**: Southern Edge Sect's public territorial challenge; Senior Brother Han psychologically destroys Elder Jinbaek; Jin's thirty-six movement petal blizzard shatters Song Won's Damascus sword; Mount Hua's resurrection proclaimed to the Central Plains.
 * **Arc 3: Imperial Tournament & Academy Infiltration**
   * Infiltrating the prestigious tournament. Uncovering that academies cull human geniuses.
   * Daring heist to rescue the imprisoned **Good AI**.

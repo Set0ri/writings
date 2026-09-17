@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon squinted, analyzing the arc. 'If the tip oscillates non-linearly, the recoil torque must be absorbed entirely by the dantian and wrist tendons.' Jin nodded. 'Correct. That is why I had you carry fifty pounds of granite up the stairs. Your forearms are finally dense enough to endure the recoil.'",
+    "critique": "Sanderson/Gosu: Biomechanical torque explanation, training payoff.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.95,
+      "sensory": 0.88,
+      "feral": 0.88,
+      "total": 0.915
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Yu Iseol stepped forward, her dark eyes reflecting the charcoal embers. She drew her chipped iron sword. Without a word, she mimicked the curve, her blade whispering through the night air. The tip trembled, catching the firelight. Jin smiled—a rare, honest thing. 'Good,' he murmured. 'She understands without speech.'",
+    "critique": "Rothfuss/Inoue: Wordless martial communion, delicate intimacy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.943
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Did you hear that, Dong-ryong?\" Jin shouted, smacking Baek Cheon on the arm. \"The granite wasn't just to make you suffer, though watching you cry was very entertaining! Your body is ready! Pick up your sword! Stop staring at me like a lovesick carp!\"\nBaek Cheon wiped a bead of sweat from his nose, his eyes blazing. \"I will master it before dawn.\"",
+    "critique": "Biga/Studio LICO: Comedic confession of torment, lovesick carp insults.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.93,
+      "sensory": 0.92,
+      "feral": 1,
+      "total": 0.954
+    },
+    "iteration": 2
+  }
+]

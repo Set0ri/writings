@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Baek Cheon lunged with an upper-tier thrust. Jin shifted his axis by three inches, allowing the blade to pass harmlessly over his right trapezius. The oak branch whipped across in a compact ninety-degree arc, impacting Baek Cheon's wrist with ninety foot-pounds of blunt force, dislodging the hilt instantly.",
+    "critique": "Sanderson/Gosu: Angular evasion, exact kinetic force redirection.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.98,
+      "sensory": 0.86,
+      "feral": 0.88,
+      "total": 0.912
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin moved not like a swordsman, but like the storm itself. The branch hummed as it drew dark, merciless circles through the cold air. Wherever Baek Cheon’s blade reached, the branch was already waiting, striking with the weight of five thousand years of unbroken memory.",
+    "critique": "Rothfuss/Inoue: Timeless martial grace, lyrical inevitability.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.91,
+      "total": 0.938
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin didn't just disarm him; he clobbered him. *Smack!* \"Drop your shoulder!\" *Whack!* \"Fix your foot!\" *THUMP!* The knot of the oak branch cracked Baek Cheon directly on the crown of his skull, leaving a goose egg the size of a walnut. Jo Gul charged with a broadsword; Jin swept his legs out from under him, kicking his rear into the air so hard Jo Gul did a full flip into a cabbage barrel.",
+    "critique": "Biga/Studio LICO: Non-stop educational beatdown, walnut lump, barrel toss.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.92,
+      "feral": 1,
+      "total": 0.961
+    },
+    "iteration": 2
+  }
+]

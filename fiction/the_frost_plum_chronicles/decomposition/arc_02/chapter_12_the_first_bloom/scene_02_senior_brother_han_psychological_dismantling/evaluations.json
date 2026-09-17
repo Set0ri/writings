@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_02_senior_brother_han_psychological_dismantling",
+  "title": "Senior Brother Han's Psychological Dismantling",
+  "order": 2,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.93,
+        "feral": 0.98,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.955 >= 0.85). Visual godhood establishing the grand stage for Han's bluff.",
+      "critiqueSummary": "Biga/Studio LICO: Collective gulp comedy, floating immortal robes."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.92,
+        "sensory": 0.94,
+        "feral": 1,
+        "total": 0.959
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.977 >= 0.85). The undisputed masterpiece of Reigen/King psychological warfare.",
+      "critiqueSummary": "Biga/Studio LICO: The King / Reigen perfection: internal stomach terror vs. god-tier external arrogance."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.93,
+        "sensory": 0.93,
+        "feral": 0.99,
+        "total": 0.957
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.966 >= 0.85). Visual and comedic perfection of the ultimate psychological scam.",
+      "critiqueSummary": "Biga/Studio LICO: Kneecap drum solo, casual dismissal, supreme comedy."
+    }
+  },
+  "compositeSceneScore": 0.953,
+  "timestamp": "2026-09-17T16:51:12.715Z"
+}

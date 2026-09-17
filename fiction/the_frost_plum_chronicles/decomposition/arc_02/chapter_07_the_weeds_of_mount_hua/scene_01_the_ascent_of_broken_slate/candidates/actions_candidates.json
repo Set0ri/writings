@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin planted his knotted oak branch into the gravel, using it as a biological lever to propel his ninety-pound frame up the nine-hundredth stair. His quadriceps burned with lactic acid buildup; his heart pumped at one hundred and sixty beats per minute. Clogged meridians along his lower lumbar twitched under the strain, threatening tendon failure if he forced his circulation. He paced his breathing to a strict five-count rhythm, forcing oxygen into malnourished muscle fibers.",
+    "critique": "Sanderson/Gosu: Exact kinetic vector limits, bio-energetic costs, highly rigorous physics.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.97,
+      "sensory": 0.88,
+      "feral": 0.85,
+      "total": 0.912
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Every step was an iron toll extracted from a body made of kindling. Jin leaned upon the winter oak stick, his knuckles white against the dark grain, listening to the thin wheeze of his lungs. He walked not like a boy of fifteen, but like an ancient ghost dragging three lifetimes of iron armor behind him, each footfall grinding stone dust into the frost.",
+    "critique": "Rothfuss/Inoue: Lyrical gravity, poignant somatic rhythm.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.89,
+      "total": 0.927
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin dragged his feet up the stone steps, each knee making a noise like dry firewood snapping under a mule's cart. He leaned on the knotted branch, spitting into the weeds. His left eye was twitching so hard his eyebrow looked like an inchworm having a seizure. If he had known reincarnating into an anchovy meant climbing three thousand stairs on a stomach filled with three dried turnip slices, he would have stayed dead.",
+    "critique": "Biga/Studio LICO: Peak Mount Hua comedic misery, physical slapstick, unhinged facial tics.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.92,
+      "feral": 0.98,
+      "total": 0.941
+    },
+    "iteration": 2
+  }
+]

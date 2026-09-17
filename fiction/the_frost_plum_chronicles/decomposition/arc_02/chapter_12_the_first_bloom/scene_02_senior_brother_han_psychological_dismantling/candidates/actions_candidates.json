@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jinbaek took two uneven steps backward, his weight collapsing toward his damaged left heel. Han remained motionless, maintaining an absolute vertical spine angle, projecting zero kinetic anticipation.",
+    "critique": "Sanderson/Gosu: Center-of-gravity collapse tracking, zero-motion stance.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.96,
+      "sensory": 0.87,
+      "feral": 0.86,
+      "total": 0.909
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Han swept his sleeve, the dark silk whispering like the wing of an owl. He turned his back upon the trembling elder with absolute, humiliating finality, leaving Jinbaek standing alone in the burning sun, stripped of his dignity before all of Shaanxi.",
+    "critique": "Rothfuss/Inoue: Grand theatrical dismissal, sovereign contempt.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.89,
+      "total": 0.931
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Han casually flicked his wrist toward the ring. \"A junior of Mount Hua will handle this garbage. I cannot be bothered to soil my hands with thieves.\" Inside his robes, Han’s legs were shaking so hard his kneecaps were playing a drum solo. He turned around and walked slowly toward the shade, praying with every step he wouldn't trip on his hem.",
+    "critique": "Biga/Studio LICO: Kneecap drum solo, casual dismissal, supreme comedy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.93,
+      "feral": 0.99,
+      "total": 0.957
+    },
+    "iteration": 2
+  }
+]

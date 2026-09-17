@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c8-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Article Fourteen of the Shaanxi Commercial Charter,\" Han said, his voice deep and baritone. \"Seizure of religious land without provincial seal constitutes treason against the Imperial Crown.\" Kang blinked, his thugs lowering their maces. \"Who are you?\"",
+    "critique": "Sanderson/Gosu: Legal precision, deep vocal resonance.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.89,
+      "sensory": 0.87,
+      "feral": 0.86,
+      "total": 0.888
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c8-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"You walk upon ground blessed by ten generations of saints,\" Han spoke, each word falling like an iron bell. \"You bring ledgers into a sanctuary where stars once bowed. Step back, merchant, before the mountain remembers its wrath.\"",
+    "critique": "Rothfuss/Inoue: Mythic gravitas, profound dignity.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.85,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.913
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c8-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Are you finished barking?\" Han asked, his voice calm, majestic, and so full of unfathomable contempt that Kang broke out into cold sweat.\n*(Oh gods, oh ancestors, oh mother, where is Jin?!)* Han screamed internally, his stomach churning into knots. *(If that feral monster doesn't hit them right now I am going to faint directly into this pig manure!)*\nOutwardly, Han merely narrowed his eyes into a terrifying, icy glare.",
+    "critique": "Biga/Studio LICO: Flawless King/Reigen internal panic vs. god-tier external bluster.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.92,
+      "sensory": 0.94,
+      "feral": 0.99,
+      "total": 0.957
+    },
+    "iteration": 2
+  }
+]

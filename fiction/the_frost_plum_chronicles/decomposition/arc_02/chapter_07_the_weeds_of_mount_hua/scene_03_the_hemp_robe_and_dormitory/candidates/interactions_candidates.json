@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c7-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Yoon Jong, senior third-class disciple, handed Jin a bundled hemp garment. 'This is your robe. Morning drills begin at the fifth watch. Do not be late.' Jin tested the weave. 'Coarse hemp, forty percent cotton blend. It will chafe during high-velocity swings.' Yoon Jong sighed. 'It is all the sect can afford.'",
+    "critique": "Sanderson/Gosu: Material breakdown, crisp pragmatic dialogue.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.92,
+      "sensory": 0.85,
+      "feral": 0.82,
+      "total": 0.88
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c7-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Wear it with honor,\" Yoon Jong said quietly, holding out the robe with both hands as though presenting spun silk. \"Many have worn this before you, and many have shed blood for it.\" Jin took the cloth. Under his fingers, the faded threads of the plum crest felt warm, like the memory of an old fire that refused to die.",
+    "critique": "Rothfuss/Inoue: Mythic reverence, emotional resonance.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.86,
+      "sensory": 0.96,
+      "feral": 0.87,
+      "total": 0.914
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c7-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"What kind of sandpaper is this?!\"\nJin held up the hemp uniform like he was holding a dead rat.\n\"Hey, dormitory head! Are you trying to exfoliate my skin off before breakfast?!\"\nYoon Jong rubbed his aching temples. \"Chung Jin, please. Keep your voice down. The second-class disciples are sleeping next door. If Baek Cheon hears you...\"\n\"Baek Cheon? Who's that, some fancy prince? Tell him to come over here so I can check if his head is as hard as this fabric!\"",
+    "critique": "Biga/Studio LICO: Classic Chung Myung complaints, disrespecting hierarchy, pure comedic swagger.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.942
+    },
+    "iteration": 2
+  }
+]

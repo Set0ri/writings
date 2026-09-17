@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin picked up a dry pine twig and drew a spiral in the frozen dirt. 'Southern Edge calculates swordsmanship along Newtonian linear vectors: Point A to Point B with maximum velocity. The Moon AI algorithm predicts this trajectory with ninety-nine point nine percent confidence. Mount Hua does not use lines. We use non-computable oscillatory loops.'",
+    "critique": "Sanderson/Gosu: Non-linear dynamic geometry, predictive algorithm counter.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.97,
+      "sensory": 0.88,
+      "feral": 0.87,
+      "total": 0.921
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin's twig traced the shape of a flower upon the frost-dusted ground. With each curve, the lines seemed to breathe, turning from geometry into song. He did not explain with words alone; his wrists moved with the fluid memory of water flowing around stone, turning hardness into petals.",
+    "critique": "Rothfuss/Inoue: Poetic calligraphy, organic martial flow.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.929
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin poked Baek Cheon in the forehead with the twig. \"Think with your gut, not your empty aristocratic skull! Southern Edge strikes straight like a charging pig! What do you do when a pig charges? You step aside and plant a branch in its rear! Watch!\" He flicked the twig, creating three phantom arcs in the firelight.",
+    "critique": "Biga/Studio LICO: Charging pig metaphor, twig poke, pure Mount Hua grit.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.948
+    },
+    "iteration": 2
+  }
+]

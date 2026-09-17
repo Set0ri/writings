@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Breathe through the diaphragm,\" Jin commanded. \"Three counts in, three counts hold, three counts out. If you hyperventilate, you forfeit glucose delivery to your motor units.\" Yoon Jong gasped, synchronizing his breathing, feeling his burning calves stabilize.",
+    "critique": "Sanderson/Gosu: Scientific respiratory regulation, martial coaching.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.94,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.903
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Why do we climb?\" Baek Cheon wheezed, his vision blurring with tears as he reached the two-thousandth stair. Jin walked beside him, his voice suddenly quiet, stripped of mockery. \"Because when Southern Edge took your pride, they didn't just take your gold. They made you believe you were small. Today, you carry the mountain. Tomorrow, the mountain carries you.\"",
+    "critique": "Rothfuss/Inoue: Tear-inducing inspirational heart, profound brotherly oath.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.946
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Look at this magnificent sight!\" Jin shouted through a hollow bamboo tube from the summit. \"A line of caterpillars dragging rocks up a cliff! Hey! If anyone drops their stone, they start over from the bottom! No dinner until every single boulder is stacked in the ancestor courtyard!\"\nBaek Cheon ground his molars so hard a spark nearly flew. \"Chung Jin... I swear... when I get to the top... I'm going to kill you...\"\nJin beamed. \"That's the spirit! Now hurry up!\"",
+    "critique": "Biga/Studio LICO: Pure motivation through homicidal spite, bamboo horn taunts.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.954
+    },
+    "iteration": 2
+  }
+]

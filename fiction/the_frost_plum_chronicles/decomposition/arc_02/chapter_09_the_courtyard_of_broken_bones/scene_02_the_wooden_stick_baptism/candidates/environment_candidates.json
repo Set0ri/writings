@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c9-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The courtyard arena became a vortex of kinetic displacement. Flagstone gravel skipped across the stone pavers like shrapnel. The sound of wood impacting steel registered at one hundred and twelve decibels.",
+    "critique": "Sanderson/Gosu: Decibel measurement, acoustic velocity.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.95,
+      "sensory": 0.86,
+      "feral": 0.87,
+      "total": 0.899
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c9-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The mist was torn into shreds by the fury of ancient wood. The courtyard rang like a blacksmith's shop at dusk—sharp iron notes answering the dull, heavy thrum of oak, while white flower petals of frost were stripped from the boughs and scattered upon the mud.",
+    "critique": "Rothfuss/Inoue: Poetic resonance, blacksmith metaphor.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.9,
+      "total": 0.932
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c9-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Crack! Whack! Thud! Squeals of agony, flying teeth, and the glorious sound of arrogant young masters eating dirt. Disciples were ricocheting off the courtyard walls like dry beans tossed into a frying pan. It wasn't a duel; it was an industrial-scale beating delivered by a gremlin with an oak club.",
+    "critique": "Biga/Studio LICO: Slapstick devastation, comedic violence, unhinged energy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.95,
+      "sensory": 0.93,
+      "feral": 0.99,
+      "total": 0.956
+    },
+    "iteration": 2
+  }
+]

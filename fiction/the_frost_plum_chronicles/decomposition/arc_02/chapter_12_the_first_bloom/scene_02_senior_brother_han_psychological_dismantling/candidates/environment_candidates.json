@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The crowd fell silent across a forty-meter perimeter. Ambient sound dropped from seventy-eight decibels to thirty-four decibels. The afternoon heat shimmered above the stone arena, distorting optical lines.",
+    "critique": "Sanderson/Gosu: Precise acoustic drop, heat mirage metrics.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.92,
+      "sensory": 0.86,
+      "feral": 0.82,
+      "total": 0.882
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "A hush swept across the courtyard like shadow passing over ripe barley. The gathered spectators—merchants, warriors, imperial magistrates—felt the shift in the wind before they saw the man who caused it. It was the crushing weight of an ancient mountain waking from sleep.",
+    "critique": "Rothfuss/Inoue: Breathtaking psychological grandeur, rolling shadow.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.86,
+      "total": 0.925
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Two hundred people swallowed at once. The sound of that collective gulp was magnificent. Out walked Senior Brother Han, floating across the stone like an immortal cloud, with sleeves wide enough to hide a small village.",
+    "critique": "Biga/Studio LICO: Collective gulp comedy, floating immortal robes.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.93,
+      "feral": 0.98,
+      "total": 0.944
+    },
+    "iteration": 2
+  }
+]

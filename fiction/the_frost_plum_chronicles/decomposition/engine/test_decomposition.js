@@ -145,7 +145,69 @@ test('Each chapter contains exactly 3 scenes with tripartite leaf nodes and cand
   assert.strictEqual(totalLeaves, 54, 'Total leaf nodes must be 54');
 });
 
-// 4. Non-Degradation Invariant & Synthesis Verification
+// 4. Arc 02 Structural Completeness (6 chapters, 18 scenes, 54 leaf nodes)
+const arc02Dir = path.resolve(__dirname, '../arc_02');
+test('Arc 02 directory structure contains exactly 6 chapters', () => {
+  assert.ok(fs.existsSync(arc02Dir), 'arc_02 dir must exist');
+  const entries = fs.readdirSync(arc02Dir, { withFileTypes: true });
+  const chapterDirs = entries.filter(e => e.isDirectory() && e.name.startsWith('chapter_'));
+  assert.strictEqual(chapterDirs.length, 6, 'Arc 02 must have 6 chapters');
+});
+
+test('Arc 02: Each chapter contains exactly 3 scenes with tripartite leaf nodes and candidates', () => {
+  const chapterDirs = fs.readdirSync(arc02Dir, { withFileTypes: true })
+    .filter(e => e.isDirectory() && e.name.startsWith('chapter_'))
+    .map(e => path.join(arc02Dir, e.name));
+
+  let totalScenes = 0;
+  let totalLeaves = 0;
+
+  chapterDirs.forEach(chapDir => {
+    const sceneDirs = fs.readdirSync(chapDir, { withFileTypes: true })
+      .filter(e => e.isDirectory() && e.name.startsWith('scene_'))
+      .map(e => path.join(chapDir, e.name));
+
+    assert.strictEqual(sceneDirs.length, 3, `Chapter ${path.basename(chapDir)} must have 3 scenes`);
+    totalScenes += sceneDirs.length;
+
+    sceneDirs.forEach(sceneDir => {
+      // Check metadata and evaluations
+      assert.ok(fs.existsSync(path.join(sceneDir, 'scene_meta.json')), 'scene_meta.json must exist');
+      assert.ok(fs.existsSync(path.join(sceneDir, 'evaluations.json')), 'evaluations.json must exist');
+      assert.ok(fs.existsSync(path.join(sceneDir, 'resolved_scene.md')), 'resolved_scene.md must exist');
+
+      // Check leaf files
+      const leafTypes = ['environment', 'interactions', 'actions'];
+      leafTypes.forEach(lType => {
+        const leafPath = path.join(sceneDir, `leaf_${lType}.md`);
+        assert.ok(fs.existsSync(leafPath), `${leafPath} must exist`);
+        const leafContent = fs.readFileSync(leafPath, 'utf8');
+        assert.ok(leafContent.includes('# Leaf Node:'), 'Leaf must have markdown header');
+        assert.ok(leafContent.includes('Score:'), 'Leaf must include score');
+        totalLeaves++;
+      });
+
+      // Check candidate files
+      const candDir = path.join(sceneDir, 'candidates');
+      assert.ok(fs.existsSync(candDir), 'candidates dir must exist');
+      leafTypes.forEach(lType => {
+        const candPath = path.join(candDir, `${lType}_candidates.json`);
+        assert.ok(fs.existsSync(candPath), `${candPath} must exist`);
+        const cands = JSON.parse(fs.readFileSync(candPath, 'utf8'));
+        assert.strictEqual(cands.length, 3, 'Must have 3 candidate variants per leaf node');
+      });
+
+      // Check score threshold
+      const meta = JSON.parse(fs.readFileSync(path.join(sceneDir, 'scene_meta.json'), 'utf8'));
+      assert.ok(meta.compositeScore >= 0.85, `Scene score ${meta.compositeScore} must be >= 0.85`);
+    });
+  });
+
+  assert.strictEqual(totalScenes, 18, 'Total Arc 02 scenes must be 18');
+  assert.strictEqual(totalLeaves, 54, 'Total Arc 02 leaf nodes must be 54');
+});
+
+// 5. Non-Degradation Invariant & Synthesis Verification
 test('Non-Degradation Invariant: resolved_arc_01.md contains all scene texts without truncation', () => {
   const arcPath = path.join(arcDir, 'resolved_arc_01.md');
   assert.ok(fs.existsSync(arcPath), 'resolved_arc_01.md must exist');
@@ -174,8 +236,40 @@ test('Non-Degradation Invariant: resolved_arc_01.md contains all scene texts wit
   assert.ok(wordCount >= 4000, `Arc word count (${wordCount}) must exceed 4,000 words`);
 });
 
-// 5. Topology Plan Validation
-test('Topology plan contains complete 104-node DAG with 100% valid referential integrity', () => {
+test('Non-Degradation Invariant: resolved_arc_02.md contains all scene texts without truncation', () => {
+  const arcPath = path.join(arc02Dir, 'resolved_arc_02.md');
+  assert.ok(fs.existsSync(arcPath), 'resolved_arc_02.md must exist');
+  const arcText = fs.readFileSync(arcPath, 'utf8');
+
+  // Verify critical sensory, kinetic, and narrative anchors across Arc 02 (Ch 07 to 12)
+  const criticalAnchors = [
+    'Lotus Blossom Peak',                                 // Ch 07
+    'forty-two thousand',                                 // Ch 07
+    'Senior Brother Han',                                 // Ch 08
+    'Dragon\'s Glare',                                    // Ch 08
+    'Guild Master Kang',                                  // Ch 08
+    'Baek Cheon',                                         // Ch 09
+    'pregnant duck',                                      // Ch 09
+    'fifty-pound granite',                                // Ch 09
+    'Pavilion of Scriptures',                             // Ch 10
+    'Twenty-Four Movement',                               // Ch 10
+    'Yu Iseol',                                           // Ch 11
+    'wild plum blossoms',                                 // Ch 11
+    'Southern Edge',                                      // Ch 12
+    'Elder Jinbaek',                                      // Ch 12
+    'Song Won'                                            // Ch 12
+  ];
+
+  criticalAnchors.forEach(anchor => {
+    assert.ok(arcText.toLowerCase().includes(anchor.toLowerCase()), `Master Arc 02 text must contain anchor: "${anchor}"`);
+  });
+
+  const wordCount = arcText.split(/\s+/).length;
+  assert.ok(wordCount >= 4000, `Arc 02 word count (${wordCount}) must exceed 4,000 words`);
+});
+
+// 6. Topology Plan Validation for Arc 01 and Arc 02
+test('Topology plan for Arc 01 contains complete 104-node DAG', () => {
   assert.ok(fs.existsSync(topologyFile), '.topology/plan.json must exist');
   const plan = JSON.parse(fs.readFileSync(topologyFile, 'utf8'));
 
@@ -183,20 +277,35 @@ test('Topology plan contains complete 104-node DAG with 100% valid referential i
   const nodeIds = new Set(plan.nodes.map(n => n.id));
   assert.strictEqual(nodeIds.size, 104, 'All node IDs must be unique');
 
-  // Validate all edge sources and targets exist in nodeIds
   plan.edges.forEach((edge, idx) => {
     assert.ok(nodeIds.has(edge.source), `Edge ${idx} source '${edge.source}' must exist in nodeIds`);
     assert.ok(nodeIds.has(edge.target), `Edge ${idx} target '${edge.target}' must exist in nodeIds`);
   });
 
-  // Verify all nodes are marked completed
   const incomplete = plan.nodes.filter(n => n.status !== 'completed');
   assert.strictEqual(incomplete.length, 0, 'All nodes in plan must be completed');
 });
 
-// 6. Obsidian Story Bible Link Integrity
+test('Topology plan for Arc 02 contains complete 104-node DAG with 100% valid referential integrity', () => {
+  const plan02File = path.join(rootDir, '.topology/plan_arc_02.json');
+  assert.ok(fs.existsSync(plan02File), '.topology/plan_arc_02.json must exist');
+  const plan = JSON.parse(fs.readFileSync(plan02File, 'utf8'));
+
+  assert.strictEqual(plan.nodes.length, 104, 'Arc 02 must have 104 nodes in DAG');
+  const nodeIds = new Set(plan.nodes.map(n => n.id));
+  assert.strictEqual(nodeIds.size, 104, 'All Arc 02 node IDs must be unique');
+
+  plan.edges.forEach((edge, idx) => {
+    assert.ok(nodeIds.has(edge.source), `Edge ${idx} source '${edge.source}' must exist in nodeIds`);
+    assert.ok(nodeIds.has(edge.target), `Edge ${idx} target '${edge.target}' must exist in nodeIds`);
+  });
+
+  const incomplete = plan.nodes.filter(n => n.status !== 'completed');
+  assert.strictEqual(incomplete.length, 0, 'All nodes in Arc 02 plan must be completed');
+});
+
+// 7. Obsidian Story Bible Link Integrity
 test('Obsidian Link Integrity: all wikilinks in generated files resolve to valid vault notes', () => {
-  // Collect all valid note names in obsidian vault
   const validNotes = new Set();
   function scanDir(dir) {
     const entries = fs.readdirSync(dir, { withFileTypes: true });
@@ -211,17 +320,19 @@ test('Obsidian Link Integrity: all wikilinks in generated files resolve to valid
   }
   scanDir(obsidianDir);
 
-  // Scan generated chapter and arc files
   const filesToScan = [
-    path.join(arcDir, 'resolved_arc_01.md')
+    path.join(arcDir, 'resolved_arc_01.md'),
+    path.join(arc02Dir, 'resolved_arc_02.md')
   ];
 
-  const chapterDirs = fs.readdirSync(arcDir, { withFileTypes: true })
-    .filter(e => e.isDirectory() && e.name.startsWith('chapter_'))
-    .map(e => path.join(arcDir, e.name));
+  [arcDir, arc02Dir].forEach(aDir => {
+    const chapterDirs = fs.readdirSync(aDir, { withFileTypes: true })
+      .filter(e => e.isDirectory() && e.name.startsWith('chapter_'))
+      .map(e => path.join(aDir, e.name));
 
-  chapterDirs.forEach(c => {
-    filesToScan.push(path.join(c, 'resolved_chapter.md'));
+    chapterDirs.forEach(c => {
+      filesToScan.push(path.join(c, 'resolved_chapter.md'));
+    });
   });
 
   const brokenLinks = [];
@@ -251,3 +362,4 @@ console.log('================================================================\n'
 if (passedTests !== totalTests) {
   process.exit(1);
 }
+

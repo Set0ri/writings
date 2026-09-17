@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c11-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Yu Iseol thrust her sword. The blade vibrated at one hundred and forty hertz, generating twenty-four minute vortex rings at the tip. A falling dry pine needle drifted into the vortex, sliced into five equilateral segments by non-linear cavitation pressure.",
+    "critique": "Sanderson/Gosu: Cavitation physics, vortex oscillation frequency.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.97,
+      "sensory": 0.88,
+      "feral": 0.84,
+      "total": 0.91
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c11-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "She stepped forward as if stepping onto water. Her sword sang, a single pure note that hung suspended in the starlight. The steel blurred, and for a fleeting, breathless heartbeat, a five-petaled pink blossom opened in the empty air—a flower woven of light, will, and pure memory.",
+    "critique": "Rothfuss/Inoue: Breathtaking visual poetry, ethereal sword blossom.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.89,
+      "total": 0.944
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c11-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Yu Iseol didn't just swing; she slashed with everything in her soul. The blade hummed, whipped, and *FLASH*—a pink petal burst in the air, slicing a falling dry leaf into five clean pieces before scattering into scented light. She stumbled forward, catching her breath, her eyes blazing like twin stars.",
+    "critique": "Biga/Studio LICO: Explosive impact, dynamic sword petal slash.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.95,
+      "sensory": 0.93,
+      "feral": 0.97,
+      "total": 0.952
+    },
+    "iteration": 2
+  }
+]

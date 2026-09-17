@@ -1,0 +1,26 @@
+{
+  "id": "scene_01_the_southern_edge_vanguard_incursion",
+  "title": "The Southern Edge Vanguard Incursion",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.949,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.944
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.957
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.946
+    }
+  }
+}

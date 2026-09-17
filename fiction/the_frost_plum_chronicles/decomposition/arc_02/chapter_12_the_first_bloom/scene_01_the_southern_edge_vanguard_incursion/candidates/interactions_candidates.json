@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c12-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Sect Leader Hyun Jong stepped forward. 'The treaty allows for territorial claims only if three consecutive duels are conceded.' Elder Jinbaek scoffed. 'Conceded? You have twelve half-starved orphans who don't even possess steel blades. Why waste the afternoon?'",
+    "critique": "Sanderson/Gosu: Procedural legal treaty terms, arrogant dismissal.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.89,
+      "sensory": 0.88,
+      "feral": 0.86,
+      "total": 0.894
+    },
+    "iteration": 1
+  },
+  {
+    "id": "c12-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Do you look upon us and see only beggars?\" Hyun Jong asked, his voice shaking with sorrow. \"We see men who have outlived their time,\" Jinbaek replied coldly. \"The glory of Mount Hua was buried five thousand years ago. Surrender the peak, old man, and let the living inherit the earth.\"",
+    "critique": "Rothfuss/Inoue: Tragic existential dismissal, poetic sorrow.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.87,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.921
+    },
+    "iteration": 2
+  },
+  {
+    "id": "c12-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Hey, old goat!\" Jin's voice cut through the arena like a butcher's knife through fat. He tossed his sweet potato skin into Jinbaek's silk shoe. \"You talk an awful lot for a sect that built its reputation on stolen scrolls! Did you wash your hands before touching that sword? Because everything you have smells like our ancestors' trash bin!\"",
+    "critique": "Biga/Studio LICO: Sweet potato peel disrespect, ancestor trash bin insults.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.92,
+      "sensory": 0.93,
+      "feral": 1,
+      "total": 0.957
+    },
+    "iteration": 2
+  }
+]

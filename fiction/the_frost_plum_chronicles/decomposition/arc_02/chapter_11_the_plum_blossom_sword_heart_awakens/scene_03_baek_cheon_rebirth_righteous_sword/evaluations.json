@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_baek_cheon_rebirth_righteous_sword",
+  "title": "Baek Cheon's Rebirth as the Righteous Sword",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.94,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.954
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.956 >= 0.85). Glorious visual evolution from haughty aristocrat to hardened warrior.",
+      "critiqueSummary": "Biga/Studio LICO: Ragged transformation, burning resolve, pure martial grit."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.91,
+        "sensory": 0.98,
+        "feral": 0.94,
+        "total": 0.954
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.981 >= 0.85). The absolute crowning moment of brotherhood, rebirth, and the unbreakable Radiant Oath.",
+      "critiqueSummary": "Rothfuss/Inoue: Profound brotherly fealty, tearful oath of the Righteous Sword."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.96,
+        "sensory": 0.92,
+        "feral": 0.99,
+        "total": 0.959
+      },
+      "councilConsensus": "Passed with high distinction (S = 0.974 >= 0.85). Monumental kinetic explosion of true Mount Hua power.",
+      "critiqueSummary": "Biga/Studio LICO: Explosive power, shattered dummy post, roaring tiger energy."
+    }
+  },
+  "compositeSceneScore": 0.956,
+  "timestamp": "2026-09-17T16:51:12.671Z"
+}

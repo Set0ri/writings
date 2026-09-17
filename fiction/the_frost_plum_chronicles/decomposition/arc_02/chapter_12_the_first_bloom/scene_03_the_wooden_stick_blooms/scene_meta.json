@@ -1,0 +1,26 @@
+{
+  "id": "scene_03_the_wooden_stick_blooms",
+  "title": "The Wooden Stick Blooms",
+  "order": 3,
+  "status": "merged",
+  "compositeScore": 0.966,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.964
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.966
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.969
+    }
+  }
+}
