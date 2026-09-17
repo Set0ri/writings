@@ -1,7 +1,19 @@
 # Leaf Node: Environment (E*)
-**Scene:** Boar-Spear Roar: The Wolf Pack at the Sluice Breach
-**Council Score:** Total 0.938 (Canon: 0.97, Kinetics: 0.91, Sensory: 0.98, Feral: 0.87)
+**Scene:** Pack at the Breach: Cleavers from the Hearth
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-The muster yard was an abattoir. The fire from burning grain barns cast jagged, dancing shadows across the mud, turning the center of Southfall into a pit of red hell. Thick, greasy smoke choked the air, smelling of burning barley, scorched timber, and the sulfuric tang of pitch. Outside, an inhuman, bone-chilling howl echoed through the smoke—a deep, multi-throated baying that vibrated through the mud floor beneath our boots. *Aroo-oo-oo-agh!* "The wolves," Daesung whispered, all color draining from his face. "The fire drew the iron-jaw wolves from the deep pine."
+Daesung ripped the cedar boards up from the hearth, shoving Yeon down into the dark, earth-scented cellar. 
+
+"Daesung, please!" Yeon wept, clutching his sleeve from below. "Don't go out there! Let the Sector Council fight!"
+
+"The Council is five old men and Kang!" Daesung shouted back, his face illuminated by the growing orange glare outside the paper window. "The third trench is manned by boys! If I don't hold the gate, the cutthroats will butcher every child in the lane!"
+
+He kissed her forehead, pried her fingers from his cuff, and slammed the heavy oak hatch shut, throwing the iron drop-bolt into place.
+
+He turned toward me, his spear gripped tightly in both hands. "Jin, get in the—"
+
+He stopped.
+
+I was standing by the open doorway. The rusted filleting knife was tucked casually into my right hand, hanging loose at my side.

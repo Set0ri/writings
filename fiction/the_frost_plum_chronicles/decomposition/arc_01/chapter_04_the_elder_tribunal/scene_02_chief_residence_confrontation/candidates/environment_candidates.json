@@ -2,40 +2,43 @@
   {
     "id": "c4-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The Chief's residence featured slate tiles with an insulation R-value triple that of village huts. The hearth burned Pinus resinosa logs, generating 12 kilowatts of thermal energy. Desk dimensions: 2.2 by 1.1 meters of polished cedar.",
-    "critique": "Sanderson: Thermal and material specifications accurate.",
+    "content": "He didn't jump. He didn't startle. He didn't even drop the goose-quill pen held between his thick fingers.\n\nHe simply paused mid-stroke, his eyes lifting from the sheepskin parchment with a smooth, unhurried precision th [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.92,
-      "sensory": 0.81,
-      "feral": 0.74,
-      "total": 0.845
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c4-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The Sector Chief’s residence was the only building in Southfall with a slate-tiled roof, sitting on a raised mound of crushed limestone. Inside, cedar walls smelled of beeswax and rich pine smoke. Rolls of sheepskin ledgers, brass weights, and wooden abacuses covered a grand desk. Behind it sat Uncle Kang, the fire in the stone hearth casting long shadows across his unmoving face.",
-    "critique": "Rothfuss: Tactile luxury contrasting with village squalor.",
+    "content": "He didn't jump. He didn't startle. He didn't even drop the goose-quill pen held between his thick fingers.\n\nHe simply paused mid-stroke, his eyes lifting from the sheepskin parchment with a smooth, unhurried precision that made the hair on my arms stand straight up.\n\n\"Jin,\" Kang said. \n\nHis voice was deep, resonant, and completely devoid of inflection. It sounded like an actor reciting lines he had rehearsed ten thousand times. \n\n\"You should not be standing. The village apothecary reported that your cranium suffered structural fracture. Returning to rest is the optimal course of action.\"\n\n*Optimal course of action,* I noted, my inner wolf grinning through the cold. *Not 'how are you feeling, nephew?' Not 'what are you doing here?' Just raw, cold efficiency.*\n\nI didn't answer. I strolled across the room, dragging my muddy boots across his clean cedar floorboards, and pulled a heavy wooden chair up to the front of his desk. \n\nI turned the chair backward, straddled it, and rested my chin on my folded arms, looking at him with that pleasant, completely disrespectful Mount Hua smirk.\n\n\"Nice office, Uncle,\" I said cheerfully. \"Very warm. Very dry. Down in Sector Three, the rain leaks right onto my father’s face while he sleeps. But here? You’ve got pine logs burning like it’s a festival day.\"\n\nKang set the quill down on a brass stand.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.89,
-      "sensory": 0.96,
-      "feral": 0.85,
-      "total": 0.92
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c4-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The Chief’s house had warm floors, cedar walls, and dried fruit on the sideboards, while the villagers down the hill were boiling marsh weeds! I dragged my muddy boots right across his pretty cedar floorboards with great satisfaction.",
-    "critique": "Biga: Hilarious spiteful mud-tracking and food complaints.",
+    "content": "He didn't jump. He didn't startle. He didn't even drop the goose-quill pen held between his thick fingers.\n\nHe simply paused mid-stroke, his eyes lifting from the sheepskin parchment with a smooth, unhurried precision that made the hair on  If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.87,
-      "sensory": 0.9,
-      "feral": 0.97,
-      "total": 0.913
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

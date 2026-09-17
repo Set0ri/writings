@@ -2,40 +2,43 @@
   {
     "id": "c1-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The room measured three by four meters, bounded by unhewn pine timber and dried coastal moss chinking. The ambient temperature was nine degrees Celsius, with heavy maritime humidity condensing along the roof slats.",
-    "critique": "Sanderson: Precise dimensional layout, needs the foul odors and sensory texture.",
+    "content": "The room seemed to tilt on its axis. \n\nTwo centuries. \n\n*My brother...* \n\nA sudden, suffocating cold wrapped around my lungs. What happened after I hesitated? Did my brother smash the enemy line? Did he survive? Where wa [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.86,
-      "sensory": 0.8,
-      "feral": 0.72,
-      "total": 0.823
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c1-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Rain hammered against rotting pine planks with the rhythm of an annoying drum. The air smelled foul: rancid fish guts, damp red clay, and wet dog. Gray daylight seeped through the cracks in the wall, illuminating dust motes dancing over a straw pallet caked with old sweat and willow bark shavings.",
-    "critique": "Rothfuss: Rich sensory desolation and acoustic grounding.",
+    "content": "The room seemed to tilt on its axis. \n\nTwo centuries. \n\n*My brother...* \n\nA sudden, suffocating cold wrapped around my lungs. What happened after I hesitated? Did my brother smash the enemy line? Did he survive? Where was he?!\n\n\"What about the Heaven's Blade Clan?\" I demanded, pushing myself onto my elbows despite the agonizing protests of my cracked ribs. \"The Northern Spire! The Plum Blossom masters! Where are they?!\"\n\nDaesung shook his head, looking at me with pity.\n\n\"Sects? Jin, those are just nursery tales to scare children. The old stories say the Heaven's Blade were wiped out during the fall. Some say the survivors turned into bloodthirsty bandits and heretics before the forests swallowed their ruins. Nobody cares about ancient sword-clans anymore. You can't eat a sword.\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.88,
-      "sensory": 0.96,
-      "feral": 0.86,
-      "total": 0.917
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c1-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The hut smelled like someone had pickled a dead carp inside a dirty gym sock and left it by the fire. Water dripped from the ceiling right onto my forehead with a relentless *plop-plop-plop*, mocking my glorious grandmaster resurrection.",
-    "critique": "Biga: Hilarious comedic misery, matches Chung Myung disgust.",
+    "content": "The room seemed to tilt on its axis. \n\nTwo centuries. \n\n*My brother...* \n\nA sudden, suffocating cold wrapped around my lungs. What happened after I hesitated? Did my brother smash the enemy line? Did he survive? Where was he?!\n\n\"What about  If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.9,
-      "kinetics": 0.84,
-      "sensory": 0.91,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.899
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

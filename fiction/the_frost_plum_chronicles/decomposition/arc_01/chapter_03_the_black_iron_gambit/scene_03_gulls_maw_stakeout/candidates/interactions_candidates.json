@@ -2,40 +2,43 @@
   {
     "id": "c3-s3-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Kang delivered the patrol coordinates: \"Eastern ditch unlatched at 03:00. Burn two silos, inflict non-lethal wounds on three perimeter units, execute two elder nodes to induce twenty-two percent behavioral variance. Exceeding four civilian casualties results in kinetic vessel termination.\"",
-    "critique": "Sanderson: Precise synthetic execution parameters.",
+    "content": "He reached inside his cloak and pulled out a rolled parchment bound in brass wire.\n\n\"The patrol rosters for the fourth sector,\" Kang said, his voice completely flat, lacking any trace of human inflection. \"The outer wire at the eastern ditc \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.96,
+      "canon": 0.91,
       "kinetics": 0.94,
-      "sensory": 0.83,
-      "feral": 0.8,
-      "total": 0.89
-    }
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c3-s3-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"You're a cold bastard, Kang,\" the bandit leader murmured, shivering despite his chainmail. \"Burning your own kin's barns? Ordering the slaughter of your own elders just to keep the sector panicked?\" Kang's eyes didn't blink. \"Fear maintains vigilance. Vigilance drives compliance. If the villagers do not fear the wild, they stop digging the trenches.\"",
-    "critique": "Rothfuss: Chilling moral horror and mechanical dispassion.",
+    "content": "He reached inside his cloak and pulled out a rolled parchment bound in brass wire.\n\n\"The patrol rosters for the fourth sector,\" Kang said, his voice completely flat, lacking any trace of human inflection. \"The outer wire at the eastern ditch will be unlatched at the third hour before dawn. You will enter through the grain sluice.\"\n\nThe bandit leader snatched the parchment, unrolling it with a greedy grin. \"Good. And the return?\"\n\n\"You will burn two storage barns,\" Kang recited, as if reading from an invisible ledger. \"You will wound three perimeter guards. You will kill no fewer than two elders. You will take thirty sacks of dried grain and ten kegs of preserved pork. In exchange, you will leave two crates of refined iron rods in the outer trench.\"\n\nThe bandit leader paused, squinting at Kang with a look of genuine unease.\n\n\"You're a cold bastard, Kang,\" the bandit murmured, shivering slightly. \"Burning your own kin's barns? Ordering the slaughter of your own village elders just to keep the sector panicked?\"\n\nKang's eyes didn't blink. The lantern light reflected off his pupils with an unnatural, glassy sheen.\n\n\"Fear maintains vigilance,\" Kang replied, his voice dropping into a mechanical monotone. \"Vigilance drives compliance. The sector requires twenty-two percent behavioral variance to meet the quota. If the villagers do not fear the wild, they stop digging the trenches.\"\n\nHe took a step forward, towering over the bandit.\n\n\"Deliver the iron crates to the designated coordinates. Do not deviate from the script. If your men kill more than four civilians, your cutter will be scuttled before it clears the reef.\"\n\nThe bandit leader swallowed hard, backing toward his rowboat. \"Crazy bastard... you talk like an imperial judge instead of a fisherman's son. Fine. Two hours before dawn. The barns burn.\"\n\nThe bandits pushed their rowboat into the churning black surf and vanished into the night.\n\nHigh above on the basalt shelf, I lay in the shadows, my heart hammering against my ribs.\n\nNot with fear.\n\nWith a cold, blinding, apocalyptic rage.\n\n*He isn't just double-dipping with bandits,* I realized, staring down at the man who called himself my father's brother. *He is orchestrating the raids. He is feeding his own people to beasts and cutthroats to keep them trapped in fear, working the ditches, sorting the slates, harvesting their sweat for whatever sits out in the dark.*\n\nDown below, Kang turned to walk back up the rocky path.\n\nAs he passed directly beneath my ledge, a stray gust of wind caught his hair, lifting the locks away from the base of his skull.\n\nIn the faint, flickering light of the dying lantern, my ancient eyes caught it.\n\nJust beneath his right ear, half-buried under the flesh, was a thin, silvery seam. A line of cold, polished metal, pulsing with a microscopic blue light that beat like an artificial heart.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.9,
-      "sensory": 0.96,
-      "feral": 0.88,
-      "total": 0.932
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c3-s3-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "High above on the ledge, my teeth nearly cracked from grinding. \"You cold-blooded lump of scrap iron... burning your own brother's grain and butchering village grandpas just to hit a quota?! When I get my hands on you, I'm carving you into fish bait!\"",
-    "critique": "Biga: Unbridled Chung Myung fury at betrayal of kin.",
+    "content": "He reached inside his cloak and pulled out a rolled parchment bound in brass wire.\n\n\"The patrol rosters for the fourth sector,\" Kang said, his voice completely flat, lacking any trace of human inflection. \"The outer wire at the eastern ditc \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.93,
-      "kinetics": 0.88,
-      "sensory": 0.89,
-      "feral": 0.98,
-      "total": 0.917
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

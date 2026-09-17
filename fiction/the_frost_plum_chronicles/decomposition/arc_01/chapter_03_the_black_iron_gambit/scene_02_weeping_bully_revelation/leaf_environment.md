@@ -1,7 +1,15 @@
 # Leaf Node: Environment (E*)
-**Scene:** The Weeping Bully: Algorithmic Bruises & Iron Crates
-**Council Score:** Total 0.925 (Canon: 0.96, Kinetics: 0.9, Sensory: 0.96, Feral: 0.86)
+**Scene:** The Weeping Bully & The Secret Rendezvous
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-Cold coastal daylight illuminated the exposed flesh beneath Bao's leather collar. In the gray drizzle, the bruise was unmistakable: four distinct, purplish-black indentations crushed deep into the muscle beside his windpipe. It was not from a fist or a drunken brawl. It was a clamp—a grip of unnatural, immovable force that hadn't yielded even as the boy choked. Rain trickled down the boy's tear-stained neck, washing gray mud into his open collar.
+"Your father isn't here, Bao," I whispered, my voice dropping its playful edge, turning flat and razor-sharp. "And even if he were... he wouldn't save you. Would he?"
+
+Bao's flailing stopped instantly.
+
+His broad back went rigid under my pole.
+
+I reached out with my left hand and hooked two fingers into the collar of his padded leather vest, pulling the dyed wool back just enough to expose his neck.
+
+In the cold daylight, the bruise was unmistakable. Four distinct, purplish-black indentations, crushed deep into the muscle beside his windpipe.

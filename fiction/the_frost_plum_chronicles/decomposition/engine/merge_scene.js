@@ -16,16 +16,21 @@ function mergeScene(sceneDir) {
   const cleanA = leafA.replace(/^# Leaf Node:.*?\n---\n\n/s, '').trim();
   const cleanE = leafE.replace(/^# Leaf Node:.*?\n---\n\n/s, '').trim();
 
+  const leafMap = {
+    interactions: cleanI,
+    actions: cleanA,
+    environment: cleanE
+  };
+
+  const leafOrder = meta.leafOrder || ['environment', 'interactions', 'actions'];
+  const orderedSections = leafOrder.map(k => leafMap[k]).filter(Boolean);
+
   const mergedProse = `### ${meta.title}
 **Composite Council Score:** ${meta.compositeScore}
 
 ---
 
-${cleanE}
-
-${cleanI}
-
-${cleanA}
+${orderedSections.join('\n\n')}
 `;
 
   fs.writeFileSync(path.join(sceneDir, 'resolved_scene.md'), mergedProse, 'utf8');

@@ -2,40 +2,43 @@
   {
     "id": "c2-s1-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Jin, why are you on the ground?\" Yeon queried. \"I was conducting isometric load testing, Mother.\" \"You are consuming dirt. Drink this protein broth; it will accelerate osteoblast synthesis.\"",
-    "critique": "Sanderson: Too anachronistically clinical.",
+    "content": "The wooden door swung open, and my mother hurried inside carrying a rough clay bowl covered with a clean rag. Dropping to her knees, she grabbed me under the armpits and hauled me back onto the straw mat as if I were a sack of dry grain.\n\n\" \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.84,
-      "kinetics": 0.89,
-      "sensory": 0.76,
-      "feral": 0.75,
-      "total": 0.815
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s1-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Jin? What are you doing on the floor?!\" My mother dropped to her knees, hauling me back onto the straw like a bundle of dry hemp. \"I was... meditating, Mother,\" I wheezed. \"You were eating dirt,\" Yeon said softly, wiping mud from my chin with her sleeve. She pressed the wooden spoon into my fingers. \"Drink it, Jin. Your father traded our evening salt ration for those minnows so your ribs would knit.\"",
-    "critique": "Rothfuss: Deeply touching maternal tenderness and unvarnished truth.",
+    "content": "The wooden door swung open, and my mother hurried inside carrying a rough clay bowl covered with a clean rag. Dropping to her knees, she grabbed me under the armpits and hauled me back onto the straw mat as if I were a sack of dry grain.\n\n\"I was... meditating, Mother,\" I wheezed, trying to maintain some shred of dignity.\n\n\"You were eating dirt,\" Yeon said bluntly, wiping a smear of mud from my chin with her sleeve. \"Lie still. The apothecary said the bone behind your ear is still tender. If you start twitching like that, the humors will unbalance.\"\n\nShe set the bowl down between us. Inside was a pale, watery broth with three dried minnows floating among pieces of boiled marsh weed. It didn't smell like much, but my stomach let out a ferocious growl that echoed through the entire room.\n\nYeon smiled—a faint, tired thing that barely touched her dark eyes—and pressed a wooden spoon into my hand.\n\n\"Eat. Your father traded our evening salt ration to get those minnows from the south wharf.\"\n\nMy hand stopped halfway to the bowl.\n\n\"He traded the salt?\"\n\nIn a frontier settlement like Southfall, salt wasn't seasoning. It was currency. Without salt, you couldn't preserve fish for the winter frosts, and you couldn't trade for iron nails at the central forge.\n\n\"Your father cares more about your ribs knitting than salt in a barrel,\" Yeon said softly. She looked down at her lap, her calloused fingers unconsciously pleating the hem of her apron. \"Drink it all, Jin. He took the double watch at the trench today so Sector Chief Kang wouldn't mark down our household.\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.89,
-      "sensory": 0.96,
-      "feral": 0.88,
-      "total": 0.929
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s1-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Meditating!\" I squawked, coughing out a mouthful of dirt. \"A martial grandmaster is communing with the earth!\" \"You look like a dead flounder,\" Mother said, shoving a wooden spoon into my face. \"Drink the fish water before I smack your ear.\"",
-    "critique": "Biga: Great comedy, slightly too disrespectful toward gentle Yeon.",
+    "content": "The wooden door swung open, and my mother hurried inside carrying a rough clay bowl covered with a clean rag. Dropping to her knees, she grabbed me under the armpits and hauled me back onto the straw mat as if I were a sack of dry grain.\n\n\" \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
       "canon": 0.89,
-      "kinetics": 0.86,
-      "sensory": 0.87,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.891
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

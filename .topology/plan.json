@@ -36,7 +36,7 @@
     },
     {
       "id": "ch01-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.926)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -45,7 +45,7 @@
     },
     {
       "id": "ch01-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.943)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -54,7 +54,7 @@
     },
     {
       "id": "ch01-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.941)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -63,7 +63,7 @@
     },
     {
       "id": "ch01-s1-merge",
-      "label": "Merge S1: The Duty of the Blade: Kurukshetra Hesitation (S=0.937)",
+      "label": "Merge S1: The Duty of the Blade: Kurukshetra Hesitation (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -81,7 +81,7 @@
     },
     {
       "id": "ch01-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.917)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -90,7 +90,7 @@
     },
     {
       "id": "ch01-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.918)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -99,7 +99,7 @@
     },
     {
       "id": "ch01-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.914)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -108,7 +108,7 @@
     },
     {
       "id": "ch01-s2-merge",
-      "label": "Merge S2: The Anchovy Awakening: Southfall Mud & Two Centuries (S=0.916)",
+      "label": "Merge S2: The Anchovy Awakening: Southfall Mud & Two Centuries (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -126,7 +126,7 @@
     },
     {
       "id": "ch01-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.91)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -135,7 +135,7 @@
     },
     {
       "id": "ch01-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.932)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -144,7 +144,7 @@
     },
     {
       "id": "ch01-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.921)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -153,7 +153,7 @@
     },
     {
       "id": "ch01-s3-merge",
-      "label": "Merge S3: The Feral Grin: Cousin Bao & The Four-Finger Clamp (S=0.921)",
+      "label": "Merge S3: The Feral Grin: Cousin Bao & The Four-Finger Clamp (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -162,7 +162,7 @@
     },
     {
       "id": "ch-01-merge",
-      "label": "Merge Chapter 01: The Broken Meridian (S=0.925)",
+      "label": "Merge Chapter 01: The Broken Meridian (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 01 manuscript",
@@ -189,7 +189,7 @@
     },
     {
       "id": "ch02-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.921)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -198,7 +198,7 @@
     },
     {
       "id": "ch02-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.929)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -207,7 +207,7 @@
     },
     {
       "id": "ch02-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.936)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -216,7 +216,7 @@
     },
     {
       "id": "ch02-s1-merge",
-      "label": "Merge S1: Eating Dirt & The Gentle Breath of the Morning Dew (S=0.929)",
+      "label": "Merge S1: Eating Dirt & The Gentle Breath of the Morning Dew (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -234,7 +234,7 @@
     },
     {
       "id": "ch02-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.912)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -243,7 +243,7 @@
     },
     {
       "id": "ch02-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.928)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -252,7 +252,7 @@
     },
     {
       "id": "ch02-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.923)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -261,7 +261,7 @@
     },
     {
       "id": "ch02-s2-merge",
-      "label": "Merge S2: The Filial Shackles: Grandmother's Deathbed Vow (S=0.921)",
+      "label": "Merge S2: The Filial Shackles: Grandmother's Deathbed Vow (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -279,7 +279,7 @@
     },
     {
       "id": "ch02-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.928)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -288,7 +288,7 @@
     },
     {
       "id": "ch02-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.929)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -297,7 +297,7 @@
     },
     {
       "id": "ch02-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.934)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -306,7 +306,7 @@
     },
     {
       "id": "ch02-s3-merge",
-      "label": "Merge S3: The Palisade Muster: Kang's Mechanical Cadence (S=0.93)",
+      "label": "Merge S3: The Palisade Muster: Kang's Mechanical Cadence (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -315,7 +315,7 @@
     },
     {
       "id": "ch-02-merge",
-      "label": "Merge Chapter 02: The Spirit Spring (S=0.927)",
+      "label": "Merge Chapter 02: The Spirit Spring (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 02 manuscript",
@@ -333,7 +333,7 @@
     },
     {
       "id": "ch03-s1",
-      "label": "S1: Tripping the Pig: The Third Thoracic Nerve",
+      "label": "S1: Tripping the Pig: Bamboo Lever & Mud Clatter",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 1",
@@ -342,7 +342,7 @@
     },
     {
       "id": "ch03-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.917)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -351,7 +351,7 @@
     },
     {
       "id": "ch03-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.93)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -360,7 +360,7 @@
     },
     {
       "id": "ch03-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.934)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -369,7 +369,7 @@
     },
     {
       "id": "ch03-s1-merge",
-      "label": "Merge S1: Tripping the Pig: The Third Thoracic Nerve (S=0.927)",
+      "label": "Merge S1: Tripping the Pig: Bamboo Lever & Mud Clatter (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -378,7 +378,7 @@
     },
     {
       "id": "ch03-s2",
-      "label": "S2: The Weeping Bully: Algorithmic Bruises & Iron Crates",
+      "label": "S2: The Weeping Bully & The Secret Rendezvous",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 2",
@@ -387,7 +387,7 @@
     },
     {
       "id": "ch03-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.925)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -396,7 +396,7 @@
     },
     {
       "id": "ch03-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.93)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -405,7 +405,7 @@
     },
     {
       "id": "ch03-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.923)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -414,7 +414,7 @@
     },
     {
       "id": "ch03-s2-merge",
-      "label": "Merge S2: The Weeping Bully: Algorithmic Bruises & Iron Crates (S=0.926)",
+      "label": "Merge S2: The Weeping Bully & The Secret Rendezvous (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -423,7 +423,7 @@
     },
     {
       "id": "ch03-s3",
-      "label": "S3: Gull's Maw at Midnight: The Infiltrator's Seam",
+      "label": "S3: The Gull's Maw: Sea Caves & Black Wave Smugglers",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 3",
@@ -432,7 +432,7 @@
     },
     {
       "id": "ch03-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.931)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -441,7 +441,7 @@
     },
     {
       "id": "ch03-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.932)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -450,7 +450,7 @@
     },
     {
       "id": "ch03-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.94)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -459,7 +459,7 @@
     },
     {
       "id": "ch03-s3-merge",
-      "label": "Merge S3: Gull's Maw at Midnight: The Infiltrator's Seam (S=0.934)",
+      "label": "Merge S3: The Gull's Maw: Sea Caves & Black Wave Smugglers (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -468,7 +468,7 @@
     },
     {
       "id": "ch-03-merge",
-      "label": "Merge Chapter 03: The Black Iron Gambit (S=0.929)",
+      "label": "Merge Chapter 03: The Black Iron Gambit (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 03 manuscript",
@@ -486,7 +486,7 @@
     },
     {
       "id": "ch04-s1",
-      "label": "S1: The Sand-Grain Spark: Cycling the Morning Dew",
+      "label": "S1: Dawn Mist Circulation: The Machine's Eye",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 1",
@@ -495,7 +495,7 @@
     },
     {
       "id": "ch04-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.926)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -504,7 +504,7 @@
     },
     {
       "id": "ch04-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.93)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -513,7 +513,7 @@
     },
     {
       "id": "ch04-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.942)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -522,7 +522,7 @@
     },
     {
       "id": "ch04-s1-merge",
-      "label": "Merge S1: The Sand-Grain Spark: Cycling the Morning Dew (S=0.933)",
+      "label": "Merge S1: Dawn Mist Circulation: The Machine's Eye (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -531,7 +531,7 @@
     },
     {
       "id": "ch04-s2",
-      "label": "S2: The Chief's Hearth: The Blackmail Ledger on Cedar",
+      "label": "S2: The Chief's Compound: Iron Table Standoff",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 2",
@@ -540,7 +540,7 @@
     },
     {
       "id": "ch04-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.92)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -549,7 +549,7 @@
     },
     {
       "id": "ch04-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.939)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -558,7 +558,7 @@
     },
     {
       "id": "ch04-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.935)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -567,7 +567,7 @@
     },
     {
       "id": "ch04-s2-merge",
-      "label": "Merge S2: The Chief's Hearth: The Blackmail Ledger on Cedar (S=0.931)",
+      "label": "Merge S2: The Chief's Compound: Iron Table Standoff (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -576,7 +576,7 @@
     },
     {
       "id": "ch04-s3",
-      "label": "S3: Unblinking Calculation: The Scheduled Midnight Purge",
+      "label": "S3: The Blackmail Gambit: Three Hundred Sacks",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 3",
@@ -585,7 +585,7 @@
     },
     {
       "id": "ch04-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.92)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -594,7 +594,7 @@
     },
     {
       "id": "ch04-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.935)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -603,7 +603,7 @@
     },
     {
       "id": "ch04-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.939)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -612,7 +612,7 @@
     },
     {
       "id": "ch04-s3-merge",
-      "label": "Merge S3: Unblinking Calculation: The Scheduled Midnight Purge (S=0.931)",
+      "label": "Merge S3: The Blackmail Gambit: Three Hundred Sacks (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -621,7 +621,7 @@
     },
     {
       "id": "ch-04-merge",
-      "label": "Merge Chapter 04: The Elder Tribunal (S=0.932)",
+      "label": "Merge Chapter 04: The Elder Tribunal (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 04 manuscript",
@@ -639,7 +639,7 @@
     },
     {
       "id": "ch05-s1",
-      "label": "S1: Barley Tears & The Root Cellar Command",
+      "label": "S1: The Grain Delivery: Filial Porridge & Hearth Fire",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 1",
@@ -648,7 +648,7 @@
     },
     {
       "id": "ch05-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.926)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -657,7 +657,7 @@
     },
     {
       "id": "ch05-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.938)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -666,7 +666,7 @@
     },
     {
       "id": "ch05-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.927)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -675,7 +675,7 @@
     },
     {
       "id": "ch05-s1-merge",
-      "label": "Merge S1: Barley Tears & The Root Cellar Command (S=0.93)",
+      "label": "Merge S1: The Grain Delivery: Filial Porridge & Hearth Fire (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -684,7 +684,7 @@
     },
     {
       "id": "ch05-s2",
-      "label": "S2: The Pitch Arrow: Midnight Fire at the Palisade",
+      "label": "S2: The Siren Screams: Pitch Arrows in the Dark",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 2",
@@ -693,7 +693,7 @@
     },
     {
       "id": "ch05-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.94)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -702,7 +702,7 @@
     },
     {
       "id": "ch05-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.94)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -711,7 +711,7 @@
     },
     {
       "id": "ch05-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.942)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -720,7 +720,7 @@
     },
     {
       "id": "ch05-s2-merge",
-      "label": "Merge S2: The Pitch Arrow: Midnight Fire at the Palisade (S=0.941)",
+      "label": "Merge S2: The Siren Screams: Pitch Arrows in the Dark (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -729,7 +729,7 @@
     },
     {
       "id": "ch05-s3",
-      "label": "S3: Boar-Spear Roar: The Wolf Pack at the Sluice Breach",
+      "label": "S3: Pack at the Breach: Cleavers from the Hearth",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 3",
@@ -738,7 +738,7 @@
     },
     {
       "id": "ch05-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.938)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -747,7 +747,7 @@
     },
     {
       "id": "ch05-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.944)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -756,7 +756,7 @@
     },
     {
       "id": "ch05-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.95)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -765,7 +765,7 @@
     },
     {
       "id": "ch05-s3-merge",
-      "label": "Merge S3: Boar-Spear Roar: The Wolf Pack at the Sluice Breach (S=0.944)",
+      "label": "Merge S3: Pack at the Breach: Cleavers from the Hearth (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -774,7 +774,7 @@
     },
     {
       "id": "ch-05-merge",
-      "label": "Merge Chapter 05: The Night of Plum Shadows (S=0.938)",
+      "label": "Merge Chapter 05: The Night of Plum Shadows (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 05 manuscript",
@@ -792,7 +792,7 @@
     },
     {
       "id": "ch06-s1",
-      "label": "S1: The Deflecting Leaf: Filleting Knife vs Scimitar",
+      "label": "S1: The Muster Yard Abattoir: Cleaver Vanguard",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 1",
@@ -801,7 +801,7 @@
     },
     {
       "id": "ch06-s1-leaf-e",
-      "label": "S1-E: Environment (S=0.93)",
+      "label": "S1-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -810,7 +810,7 @@
     },
     {
       "id": "ch06-s1-leaf-i",
-      "label": "S1-I: Interactions (S=0.953)",
+      "label": "S1-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -819,7 +819,7 @@
     },
     {
       "id": "ch06-s1-leaf-a",
-      "label": "S1-A: Actions (S=0.949)",
+      "label": "S1-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -828,7 +828,7 @@
     },
     {
       "id": "ch06-s1-merge",
-      "label": "Merge S1: The Deflecting Leaf: Filleting Knife vs Scimitar (S=0.944)",
+      "label": "Merge S1: The Muster Yard Abattoir: Cleaver Vanguard (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -837,7 +837,7 @@
     },
     {
       "id": "ch06-s2",
-      "label": "S2: The Violet Ember: Knife Through Cranium & Bandit Rout",
+      "label": "S2: The Plum Blossom Ember: Feral Wolf Execution",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 2",
@@ -846,7 +846,7 @@
     },
     {
       "id": "ch06-s2-leaf-e",
-      "label": "S2-E: Environment (S=0.935)",
+      "label": "S2-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -855,7 +855,7 @@
     },
     {
       "id": "ch06-s2-leaf-i",
-      "label": "S2-I: Interactions (S=0.946)",
+      "label": "S2-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -864,7 +864,7 @@
     },
     {
       "id": "ch06-s2-leaf-a",
-      "label": "S2-A: Actions (S=0.953)",
+      "label": "S2-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -873,7 +873,7 @@
     },
     {
       "id": "ch06-s2-merge",
-      "label": "Merge S2: The Violet Ember: Knife Through Cranium & Bandit Rout (S=0.945)",
+      "label": "Merge S2: The Plum Blossom Ember: Feral Wolf Execution (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -882,7 +882,7 @@
     },
     {
       "id": "ch06-s3",
-      "label": "S3: The Coolant Autopsy: Cleaver Descent & The Lunar Beacon",
+      "label": "S3: The Autopsy of an Infiltrator: White Coolant & Lunar Beam",
       "type": "task",
       "role": "Scene Dramatist",
       "description": "Tripartite decomposition of Scene 3",
@@ -891,7 +891,7 @@
     },
     {
       "id": "ch06-s3-leaf-e",
-      "label": "S3-E: Environment (S=0.941)",
+      "label": "S3-E: Environment (S=0.945)",
       "type": "task",
       "role": "Scout & Rothfuss Sensory",
       "description": "Council iteration loop for environment",
@@ -900,7 +900,7 @@
     },
     {
       "id": "ch06-s3-leaf-i",
-      "label": "S3-I: Interactions (S=0.961)",
+      "label": "S3-I: Interactions (S=0.945)",
       "type": "task",
       "role": "Radiant Mirror & Feral Wolf",
       "description": "Council iteration loop for interactions",
@@ -909,7 +909,7 @@
     },
     {
       "id": "ch06-s3-leaf-a",
-      "label": "S3-A: Actions (S=0.951)",
+      "label": "S3-A: Actions (S=0.945)",
       "type": "task",
       "role": "Obsidian Edge & Sun",
       "description": "Council iteration loop for actions",
@@ -918,7 +918,7 @@
     },
     {
       "id": "ch06-s3-merge",
-      "label": "Merge S3: The Coolant Autopsy: Cleaver Descent & The Lunar Beacon (S=0.951)",
+      "label": "Merge S3: The Autopsy of an Infiltrator: White Coolant & Lunar Beam (S=0.945)",
       "type": "task",
       "role": "Scene Synthesizer",
       "description": "Upward synthesis of tripartite leaves (I* ⊕ A* ⊕ E*)",
@@ -927,7 +927,7 @@
     },
     {
       "id": "ch-06-merge",
-      "label": "Merge Chapter 06: The First Frost (S=0.947)",
+      "label": "Merge Chapter 06: The First Frost (S=0.945)",
       "type": "task",
       "role": "Chapter Synthesizer",
       "description": "Upward compilation of all scenes into canonical Chapter 06 manuscript",

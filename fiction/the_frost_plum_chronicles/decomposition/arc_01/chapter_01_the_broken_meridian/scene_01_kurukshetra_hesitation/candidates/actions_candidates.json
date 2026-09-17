@@ -2,40 +2,43 @@
   {
     "id": "c1-s1-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "My thumb hovered over the secondary brass detent. The cylinder’s compression spring required forty-five Newtons of downward pressure. Across the dirt, the vanguard accelerated to six meters per second. My flexor pollicis locked; the biological impulse failed to cross the neuromuscular junction.",
-    "critique": "Sanderson: Accurate biomechanical vector, needs the visceral scream of the boots.",
+    "content": "My fingers gripped the brass cylinder. The metal was freezing cold.\n\nAcross the dirt, I saw the faces of the people I had sworn to protect, charging forward with bloodlust in their eyes. \n\n*Turn it,* my brother's voice echoed in my skull. * [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.89,
-      "kinetics": 0.95,
-      "sensory": 0.84,
-      "feral": 0.8,
-      "total": 0.874
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c1-s1-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "He grabbed my hand, slamming it down onto the freezing brass cylinder locked at my waist—the weapon capable of leveling the entire valley. The plains shuddered as three million boots began to march. My brother laughed—a glorious, barking sound that challenged thunder—and leaped off the chariot straight toward the incoming horde. My thumb touched the firing latch. My breath caught. My hand trembled. I... I can't.",
-    "critique": "Rothfuss: Heart-stopping hesitation and tragic emotional crescendo.",
+    "content": "My fingers gripped the brass cylinder. The metal was freezing cold.\n\nAcross the dirt, I saw the faces of the people I had sworn to protect, charging forward with bloodlust in their eyes. \n\n*Turn it,* my brother's voice echoed in my skull. *Do your duty!*\n\nMy thumb touched the firing latch. \n\nMy breath caught. My hand trembled.\n\n*I... I can't.*",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.93,
-      "sensory": 0.96,
-      "feral": 0.9,
-      "total": 0.941
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c1-s1-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "My brother kicked the chariot railing off, howling like a maniac, and dove into the spear-wall like a lunatic jumping into a cold bath. Down below, my fingers shook so hard on the brass latch I almost dropped the damn thing in the chariot grease.",
-    "critique": "Biga: Punchy kinetic energy, lacks the terrible solemnity of the hesitation.",
+    "content": "My fingers gripped the brass cylinder. The metal was freezing cold.\n\nAcross the dirt, I saw the faces of the people I had sworn to protect, charging forward with bloodlust in their eyes. \n\n*Turn it,* my brother's voice echoed in my skull. * A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.87,
-      "kinetics": 0.88,
-      "sensory": 0.82,
-      "feral": 0.95,
-      "total": 0.876
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

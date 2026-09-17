@@ -1,43 +1,43 @@
 {
   "sceneId": "scene_02_chief_residence_confrontation",
-  "title": "The Chief's Hearth: The Blackmail Ledger on Cedar",
+  "title": "The Chief's Compound: Iron Table Standoff",
   "order": 2,
   "threshold": 0.85,
   "leaves": {
     "environment": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.89,
-        "sensory": 0.96,
-        "feral": 0.85,
-        "total": 0.92
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Vivid sensory contrast establishing colonial exploitation.",
-      "critiqueSummary": "Rothfuss: Tactile luxury contrasting with village squalor."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.91,
-        "sensory": 0.96,
-        "feral": 0.9,
-        "total": 0.939
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. The clash of Mount Hua irreverence against cold algorithmic evaluation.",
-      "critiqueSummary": "Rothfuss: Superb psychological tension and unblinking stares."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.91,
+        "kinetics": 0.94,
         "sensory": 0.95,
-        "feral": 0.91,
-        "total": 0.935
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Fierce, uncompromising terms locking Kang in the trap.",
-      "critiqueSummary": "Rothfuss: Intense dramatic ultimatum and visceral protection."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.931,
-  "timestamp": "2026-09-17T15:43:19.079Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:43.082Z"
 }

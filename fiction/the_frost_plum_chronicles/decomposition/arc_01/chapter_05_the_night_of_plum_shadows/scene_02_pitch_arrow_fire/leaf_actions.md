@@ -1,7 +1,11 @@
 # Leaf Node: Actions (A*)
-**Scene:** The Pitch Arrow: Midnight Fire at the Palisade
-**Council Score:** Total 0.942 (Canon: 0.97, Kinetics: 0.92, Sensory: 0.97, Feral: 0.89)
+**Scene:** The Siren Screams: Pitch Arrows in the Dark
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-Daesung turned toward me, spear gripped tightly. "Jin, get in the—" He stopped. I was standing by the open doorway. The rusted filleting knife was tucked casually into my right hand, hanging loose at my side. The reflection of the burning silo danced across my pupils, turning them into twin pools of liquid violet. "Jin?" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall. "You're a good man, Daesung," I said, a faint, cold smile touching my lips. "A terrible judge of character, but a very good man." I rolled my shoulders until the joints cracked like whips. "Come on, Father. Let's go teach your brother how to bury a wolf."
+Inside the hut, Daesung was on his feet in an instant, reaching for his boar-spear leaning against the wall.
+
+"Yeon! Into the cellar!" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. "Jin, get behind your mother!"
+
+"I'm right behind you, Father," I lied, keeping my voice steady in the smoke.

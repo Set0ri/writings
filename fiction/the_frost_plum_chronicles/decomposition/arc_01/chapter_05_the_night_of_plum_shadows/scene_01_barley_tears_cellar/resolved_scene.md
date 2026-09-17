@@ -1,10 +1,82 @@
-### Barley Tears & The Root Cellar Command
-**Composite Council Score:** 0.93
+### The Grain Delivery: Filial Porridge & Hearth Fire
+**Composite Council Score:** 0.945
 
 ---
 
-Dusk fell over Southfall like a wet wool blanket. Just as Kang had promised, two laborers had grunted under the weight of a fifty-pound sack of polished barley and two heavy clay jars of white coastal salt. For the first time in years, the little shack smelled of rich, steaming porridge instead of boiled marsh weeds. The hearth fire crackled with golden warmth, and the aroma of salt pork simmered with cracked grain drifted into every drafty corner, pushing back the bitter sea-chill.
+# Chapter 5: The Night the Palisade Burned
 
-When Daesung walked through the door, he stopped dead. His shovel slipped from his calloused hand, clattering against the threshold. He slowly dropped to both knees before the sack, plunging his thick, scarred fingers into the barley, inhaling the dusty scent. A single, heavy tear leaked from his eye into his rough stubble. "Mother," he choked out. "Mother... you see? He remembered. My brother remembered." Twenty years of digging ditches in freezing clay, taking midnight watches, watching his wife’s hands crack from frostbite—all forgiven in a single second because his brother tossed him a sack of grain. I stood in the corner, fists clenching until knuckles turned white. *You glorious, soft-hearted, stubborn fool. He didn't remember your mother's vow. He doesn't even have a mother. He's fattening you up so the knives cut deeper tonight.* I picked up my spoon, took a bite of porridge, and swallowed. It tasted of ash. "Father," I said quietly. "Tonight, I want you and Mother to sleep with your boots on. When the warning gong sounds, get into the root cellar, bolt it from the inside, and do not open it until sunrise. For once in your life, let your son carry the shovel."
+Dusk fell over Southfall like a wet wool blanket.
 
-Daesung stared at me for a long moment, searching my face. He saw no fever in my eyes. He saw only an ancient, chilling stillness that made the hair on the back of his neck prickle—an authority older than the village, older than the ruins in the deep pine. Slowly, without another word, he nodded. "We will keep our boots on," Daesung said softly. He reached down, tightened his rawhide bootlaces, and checked the drop-bolt on the subterranean cellar hatch.
+Just as Kang had promised, two village laborers had arrived at our door an hour before sunset, grunting under the weight of a fifty-pound sack of polished white barley and two heavy clay jars of coastal salt. 
+
+They didn't look me in the eye. They set the goods down on our dirt floor, mumbled that the Sector Chief had sent his compliments, and practically ran back into the lane.
+
+When my father walked through the door after the evening bell, he stopped dead in his tracks.
+
+His shovel slipped from his calloused hand, clattering against the threshold. He stared at the sack of grain, then at the sealed jars of salt, his mouth slightly open.
+
+"Yeon?" Daesung asked, his voice shaking like a child's. "What... where did this come from?"
+
+"Kang sent it," my mother whispered, coming out from behind the woven partition, her hands trembling as she smoothed her apron. "He sent two porters from the central stores. They said... they said it was your family share."
+
+Daesung didn't speak. 
+
+He slowly walked across the room, dropped to both knees before the sack, and plunged his thick, scarred fingers into the barley. He lifted a handful of the white grains to his nose, inhaling the sweet, dusty scent.
+
+A single, heavy tear leaked from the corner of his eye, rolling down into his rough stubble.
+
+"Mother," he choked out, staring down at the grain. "Mother... you see? He remembered. My brother remembered."
+
+He bowed his head, resting his forehead against the coarse burlap sack, his massive shoulders heaving in silent, shuddering sobs. 
+
+Twenty years of being ground into the dirt. Twenty years of digging ditches in freezing clay, taking the midnight shifts, eating boiled marsh-weeds, watching his wife’s hands crack from frostbite—all forgiven in a single second because his younger brother had tossed him a sack of grain from the communal stores.
+
+I stood in the corner of the hut, leaning my shoulder against the cedar post, watching my father weep.
+
+My hands curled into fists until my knuckles turned white.
+
+*You fool,* I thought, an unbearable, burning sorrow twisting in my gut. *You glorious, soft-hearted, stubborn fool. He didn't remember your mother's vow. He doesn't even have a mother. He's fattening you up so the knives cut deeper tonight.*
+
+Yeon wiped her eyes with her sleeve, smiling through her tears as she stoked the fire pit. For the first time in years, the little hut smelled of steaming white porridge instead of boiled turnip peelings. She scooped a generous portion of salt into the pot, stirring with a wooden ladle as the broth thickened into a rich, fragrant stew.
+
+When she placed the wooden bowl in front of me, it was filled to the brim, topped with three chunks of salt pork Daesung had insisted on trading for at the butcher's shed.
+
+"Eat, Jin," my father said, wiping his face with the back of his dirty sleeve, grinning at me like an idiot. "Eat until your belly is round. Tomorrow, your old man will ask Kang to assign you as a storekeeper's apprentice. No more roaming past the fences. We're going to build a proper life for you."
+
+I looked down at the steaming porridge. 
+
+It looked delicious. To a fifteen-year-old body that had known only hunger, it was a feast fit for a king.
+
+I picked up the wooden spoon, took a bite, and swallowed. 
+
+It tasted of ash.
+
+"Father," I said quietly, setting the spoon down.
+
+Daesung looked up, his spoon halfway to his mouth. "What is it, son? Is it too salty?"
+
+"Tonight," I said, looking straight into his tired, gentle eyes, "I want you and Mother to sleep with your boots on."
+
+Daesung frowned. "With our boots on? Why in the world would we sleep with our boots on?"
+
+"The air smells of pitch," I said, my voice dropping into that calm, commanding cadence that brooked no argument. "The wind is blowing from the east. If the warning gong sounds tonight, do not go to the muster square. Do not run to the palisade."
+
+"Jin, what nonsense are you—"
+
+"Listen to me, Daesung," I snapped, cutting him off with the authority of an elder brother scolding a foolish junior. 
+
+Daesung blinked, startled by the sheer weight behind the words.
+
+"You take Mother," I said, pointing toward the heavy cedar trapdoor hidden beneath the hearth stones, "and you get into the winter root cellar. You bolt it from the inside. And you do not open it until sunrise, no matter who screams outside. You understand me?"
+
+Yeon set her bowl down, her face turning pale. "Jin... did you see something on the ridge?"
+
+"The wolves are hungry," I replied smoothly, picking my spoon back up and shoving a mouthful of pork into my cheeks. "And when wolves get hungry, they don't care about family vows. Just do as I say, Father. For once in your life, let your son carry the shovel."
+
+Daesung stared at me for a long moment, searching my face. He saw no fever in my eyes. He saw only an ancient, chilling stillness that made the hair on the back of his neck prickle.
+
+Slowly, without another word, he nodded.
+
+"We will keep our boots on," Daesung said softly.
+
+***

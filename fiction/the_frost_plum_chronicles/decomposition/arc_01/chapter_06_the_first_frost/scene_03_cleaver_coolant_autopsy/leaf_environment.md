@@ -1,7 +1,31 @@
 # Leaf Node: Environment (E*)
-**Scene:** The Coolant Autopsy: Cleaver Descent & The Lunar Beacon
-**Council Score:** Total 0.941 (Canon: 0.98, Kinetics: 0.92, Sensory: 0.98, Feral: 0.86)
+**Scene:** The Autopsy of an Infiltrator: White Coolant & Lunar Beam
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-Through the drifting curtain of black smoke stepped **Uncle Kang**. He was dressed in polished iron mail; his boots were clean, his beard neatly combed. In his right hand, he carried a heavy iron execution cleaver. He didn't look at the dead bandits or the burning barns; his glassy eyes were locked onto the back of my father's exposed neck. Daesung reached out with his good hand: "Kang! Thank the heavens you're alive! Jin fought them off—" Kang raised the cleaver with both hands, knuckles locking into position above Daesung's skull—a strike designed to execute an incapacitated brother from behind to be blamed on the retreating bandits. *A clean purge. Eliminate emotional variables. Restore sector variance.* "KANG?!" Daesung cried out, confusion turning into raw, agonizing horror.
+Daesung screamed—a soul-shattering shriek of pure, fraternal agony: "NO! JIN, HE IS YOUR UNCLE! WHAT HAVE YOU DONE?!"
+
+Around the square, villagers who had emerged from the cellars dropped to their knees in horror, watching a fifteen-year-old boy murder the Sector Chief in cold blood.
+
+"Jin killed Kang!" an elder wailed. "The boy has gone mad!"
+
+Kang’s body did not fall.
+
+His arms remained locked in the air, the cleaver hovering motionless above Daesung.
+
+And then, with a sound like a punctured steam boiler, the corpse began to hiss.
+
+*PSHHHHT.*
+
+From the puncture wound beneath Kang's jaw, a jet of pressurized, milky-white coolant sprayed into the rain, hissing as it hit the hot coals of the burning barn.
+
+There was no blood.
+
+Not a single drop.
+
+Kang’s eyes rolled back—not into his skull, but clicking inward like revolving lenses. 
+
+*BZZZT.*
+
+A shower of blinding blue electrical sparks erupted from his severed collar. From beneath his torn flesh, bundles of woven fiber-optic conduits and polished chrome servomotors spilled out onto the mud.

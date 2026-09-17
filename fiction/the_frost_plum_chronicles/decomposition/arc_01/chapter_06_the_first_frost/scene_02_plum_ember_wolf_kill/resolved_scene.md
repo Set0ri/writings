@@ -1,10 +1,104 @@
-### The Violet Ember: Knife Through Cranium & Bandit Rout
+### The Plum Blossom Ember: Feral Wolf Execution
 **Composite Council Score:** 0.945
 
 ---
 
-From the burning breach, a second shadow-wolf caught the scent of fresh blood and locked its yellow, multi-faceted eyes onto me. It let out a guttural, rattling hiss, bunched its six powerful legs, and launched its two-hundred-pound bulk through the air, jaws wide enough to swallow my torso whole. "JIN!" Daesung screamed, reaching out with his good hand to drag me back. The smoke parted around the beast's black trajectory like water split by an arrow.
+The iron didn't glow. It didn't crackle with theatrical lightning.
 
-The muster yard went dead silent. The crackle of burning barns was the only sound left in the world. The remaining fifteen bandits froze in their tracks. They looked at their dead captain. They looked at the giant six-legged wolf killed by a single strike. Then they looked at the scrawny boy standing in the mud, casually flicking black gore off a six-inch kitchen knife with a bored, insolent smirk. "Well?" I asked, tilting my head with that feral, unhinged Mount Hua glint. "Are you waiting for an invitation? Or do you want me to carve the rest of you into fish bait too?" "Demon," one whimpered, dropping his torch. "That's an ancient blood demon! RUN! TO THE CUTTERS!" The bandits broke, throwing down their spears, scrambling over the palisade in pure animal terror. Daesung sat in the mud, staring up at me with uncomprehending shock. "Jin... what are you? Where did you learn to move like that?" I knelt in the mud, ripping a strip of linen to tie off his shoulder bleed. "I told you, Father. I was meditating. You didn't believe me."
+It simply *disappeared*. 
 
-I closed my eyes for half a heartbeat. Deep in the frozen, ruined wasteland of my lower abdomen, the tiny violet ember of the **Plum Blossom Sword Heart** flared. *Just one drop. One breath.* I gathered the microscopic bead of non-algorithmic Qi, guided it up through my central meridian, down the frayed nerves of my arm, and poured it directly into the pitted blade. The iron didn't glow with theatrical fireworks. It simply *disappeared*. The knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter. I opened my eyes and thrust. *THWIP.* The filleting knife entered the leaping wolf’s left eye socket, slid effortlessly through the bone plates of its skull, and exited the back of its cranium, severing the brain-stem in a fraction of a microsecond. The monster’s momentum died instantly. The six-legged horror crashed to the mud at my feet, limp and dead before its belly touched the ground.
+The knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter.
+
+I opened my eyes and thrust.
+
+*THWIP.*
+
+The rusted filleting knife entered the leaping wolf’s left eye socket, slid effortlessly through the bone plates of its skull, and exited through the back of its cranium, severing the brain-stem in a fraction of a microsecond.
+
+The monster’s momentum died instantly.
+
+The six-legged horror crashed to the mud at my feet, completely limp, dead before its belly touched the ground.
+
+The muster yard went dead silent.
+
+The crackle of the burning barns was the only sound left in the world. 
+
+The remaining fifteen bandits, who had been torching the surrounding huts, froze in their tracks. They looked at their dead captain lying in a pool of dark blood. They looked at the giant six-legged wolf killed by a single strike. 
+
+Then they looked at the scrawny, fifteen-year-old boy standing in the mud, casually flicking black gore off a six-inch kitchen knife with a bored, insolent smirk.
+
+"Well?" I asked, tilting my head with that feral, unhinged Mount Hua glint in my eye. "Are you waiting for an invitation? Or do you want me to carve the rest of you into fish bait too?"
+
+"Demon," one of the bandits whimpered, dropping his torch into a puddle. "That's not a kid... that's an ancient blood demon!"
+
+"RUN! TO THE CUTTERS! RUN!"
+
+The bandits broke. 
+
+They dropped their stolen grain, threw down their spears, and scrambled over the palisade in pure, blind, animal terror, tumbling head-over-heels toward the coastal rocks.
+
+The village was saved.
+
+Daesung sat in the mud, holding his bleeding shoulder, staring up at me with an expression of pure, uncomprehending shock.
+
+"Jin..." his voice trembled, thick with awe and fear. "What... what are you? Where did you learn to move like that?"
+
+I looked down at him, my heart softening. I knelt in the mud, ripping a clean strip of linen from my tunic to tie off the arterial bleed on his shoulder.
+
+"I told you, Father," I said gently, tightening the knot until he winced. "I was meditating. You didn't believe me."
+
+"Jin—"
+
+Before he could finish, a heavy, measured step crunched against the gravel behind us.
+
+Through the drifting curtain of black smoke stepped **Uncle Kang**.
+
+He was dressed in his polished iron mail. His boots were clean. His beard was neatly combed. He hadn't fought a single wolf; he hadn't thrown a single spear. 
+
+In his right hand, he carried a heavy iron execution cleaver.
+
+He didn't look at the dead bandits. He didn't look at the charred grain silos. 
+
+His eyes were fixed with cold, glassy precision directly onto the back of my father's exposed neck.
+
+"Kang!" Daesung gasped, letting out a ragged sigh of relief, reaching up with his good hand toward his younger brother. "Kang, thank the heavens you're alive! The eastern breach is cleared! Jin... our Jin fought them off—"
+
+Kang didn't speak.
+
+His face was a mask of carved wax. 
+
+He raised the iron cleaver with both hands, his knuckles locking into position directly above Daesung's skull.
+
+A strike designed to execute an incapacitated man from behind, to be blamed on the retreating bandits.
+
+*A clean purge.*
+*Eliminate the emotional variables.*
+*Restore the sector's behavioral variance.*
+
+"KANG?!" Daesung cried out, the confusion turning into raw, agonizing horror as he saw the murderous descent of his own brother's blade.
+
+Time slowed to a crawl.
+
+In the burning smoke, the phantom of the plains of Kurukshetra flashed across my vision. 
+
+*My older brother's voice, roaring over the thunder of three million soldiers:*
+
+*“When the world goes crazy, the man with the sword doesn't get to sit down and cry about it! He cuts through the storm! ...Believe in the blade, Jin! Fulfill your duty!”*
+
+*Two hundred years ago, I hesitated.*
+*My brother died because I wanted to keep my hands clean.*
+
+*Not this time.*
+*Never again.*
+
+My body moved before thought could even form.
+
+I didn't shout. I didn't warn him.
+
+I threw my entire fifteen-year-old weight forward, driving the rusted filleting knife straight upward beneath Kang's chin, through the soft palate, and directly into the center of his skull.
+
+*KRRR-CLANG.*
+
+The knife hit something inside his head that was not bone.
+
+It felt like driving an iron nail into solid brass.

@@ -2,40 +2,43 @@
   {
     "id": "c1-s3-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Bao's center of gravity shifted rearward by fifteen centimeters. His boots snagged on his hem; friction coefficients failed and he stumbled into the hearth perimeter before retreating at three meters per second.",
-    "critique": "Sanderson: Clean kinematic description, lacks the comedic squeak.",
+    "content": "My clan turned to dust.\nMy brother gone.\nMy family under the thumb of an abusive uncle and an arrogant cousin who needed a sound beating with a blunt stick.\n\nDeep in the hollow cavern of my chest, past the cracked ribs and rusted meridians, [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
+      "canon": 0.91,
       "kinetics": 0.94,
-      "sensory": 0.81,
-      "feral": 0.79,
-      "total": 0.86
-    }
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c1-s3-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Bao took an involuntary step back, clutching his throat where the bruised flesh burned. His bravado vanished like mist in a sudden draft. He turned and fled into the rain, his lackeys scrambling behind him as if the dead had reached up through the floorboards.",
-    "critique": "Rothfuss: Atmospheric retreat, needs more slapstick dramatic collapse.",
+    "content": "My clan turned to dust.\nMy brother gone.\nMy family under the thumb of an abusive uncle and an arrogant cousin who needed a sound beating with a blunt stick.\n\nDeep in the hollow cavern of my chest, past the cracked ribs and rusted meridians, a tiny, stubborn spark of violet light stirred to life.\n\n*The Plum Blossom Sword Heart.*\n\nI smiled into the dark.\n\n*Just you wait, world.*\n\n*You thought the Heaven's Blade Clan was dead?*\n\n*I'm going to drag this sect back from the grave by its hair—and God help anyone who stands in my way.*",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.9,
-      "sensory": 0.94,
-      "feral": 0.87,
-      "total": 0.916
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c1-s3-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Y-You're crazy!\" Bao squeaked, voice cracking into a panicked shriek as he tripped over his own feet, nearly face-planting into the fire pit. He bolted into the rain. The second the door clicked shut, I collapsed like a deflated bladder: \"Ahhh! My ribs! Father, bring more soup! Your son is wasting away!\"",
-    "critique": "Biga: Golden comedic timing and dramatic moaning for soup.",
+    "content": "My clan turned to dust.\nMy brother gone.\nMy family under the thumb of an abusive uncle and an arrogant cousin who needed a sound beating with a blunt stick.\n\nDeep in the hollow cavern of my chest, past the cracked ribs and rusted meridians, A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.88,
-      "sensory": 0.89,
-      "feral": 0.98,
-      "total": 0.921
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

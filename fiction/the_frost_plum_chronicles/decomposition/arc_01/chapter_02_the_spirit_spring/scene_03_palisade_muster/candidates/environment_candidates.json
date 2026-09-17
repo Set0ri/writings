@@ -2,40 +2,43 @@
   {
     "id": "c2-s3-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The palisade was constructed from Pinus densiflora logs, average diameter 28 centimeters, sharpened to forty-five-degree points. Claw marks at heights of 1.82, 1.83, and 1.81 meters indicated non-random algorithmic testing of the perimeter defense.",
-    "critique": "Sanderson: Brilliant insight into measured beast claw marks.",
+    "content": "Southfall Village was not a village.\n\nIt was a fortress built by desperate men with dull tools.\n\nThe huts—clumps of unhewn logs, turf roofs, and mud-chinked walls—were clustered tightly inside a massive circular palisade [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.95,
-      "sensory": 0.83,
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
       "feral": 0.78,
-      "total": 0.883
-    }
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s3-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Southfall was a fortress built by desperate men with dull tools. Huts of turf and unhewn logs clustered behind a massive circular palisade of sharpened pine. The air smelled of crushed needles, woodsmoke, and sour beast dung. Through murder-holes, hollow-faced guards stared out into the dense, black treeline beyond the ditch.",
-    "critique": "Rothfuss: Atmospheric grimness and evocative defensive fortress textures.",
+    "content": "Southfall Village was not a village.\n\nIt was a fortress built by desperate men with dull tools.\n\nThe huts—clumps of unhewn logs, turf roofs, and mud-chinked walls—were clustered tightly inside a massive circular palisade made of sharpened pine trunks. Above the pointed stakes, the sky hung gray and heavy, smelling of crushed pine needles, woodsmoke, and the sour stench of beast dung.\n\nEvery twenty paces along the inner wall, men with drawn, hollow faces stood guard holding crude spears tipped with chipped flint or rusted iron. Their eyes weren't watching the village streets. They were staring out through the murder-holes into the dense, black treeline beyond the trench.\n\nI leaned on my bamboo pole, shuffling through the mud of the central lane like a half-healed invalid. \n\nNobody paid attention to a scrawny boy with a bandaged head. They were too busy working. Two men dragged a dead, six-legged wolf across the square, its coarse gray fur matted with black, tar-like blood. A blacksmith's hammer rang out rhythmically from an open-sided shed, reshaping a bent iron pitchfork.\n\n*The beasts are aggressive,* I observed, reading the signs like a seasoned scout. *The claw marks on the palisade aren't random scrambles. They're targeted. Every three feet along the north gate, the wood has been scraped at the exact same height. As if something was measuring the grain.*\n\n\"Stand fast, men of the Third Sector!\"\n\nA booming, resonant voice cut across the muster yard.\n\nI paused behind the timber frame of a grain silo, peering around the corner.\n\nIn the center of the square, standing on an elevated wooden platform above the defensive trenches, was a man in polished iron mail. He was tall, thick in the chest, with a well-groomed black beard and a red sash tied across his shoulder.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.91,
-      "sensory": 0.97,
-      "feral": 0.85,
-      "total": 0.928
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s3-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The village looked like someone had thrown mud, logs, and cabbage at a swamp and declared it a fortress. Villagers were dragging a dead six-legged wolf through the mud, while the blacksmith hammered bent pitchforks like he was trying to kill an invisible fly.",
-    "critique": "Biga: Great colorful village description, matches Chung Myung perspective.",
+    "content": "Southfall Village was not a village.\n\nIt was a fortress built by desperate men with dull tools.\n\nThe huts—clumps of unhewn logs, turf roofs, and mud-chinked walls—were clustered tightly inside a massive circular palisade made of sharpened p If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.86,
-      "sensory": 0.9,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.905
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

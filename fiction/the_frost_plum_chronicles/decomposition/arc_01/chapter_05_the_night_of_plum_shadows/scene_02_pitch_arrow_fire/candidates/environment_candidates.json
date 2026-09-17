@@ -2,40 +2,43 @@
   {
     "id": "c5-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The incendiary projectile struck at 02:58:14. Pitch combustion generated a flame front expanding at 1.8 meters per second across the dry straw thatch. Thermal radiation was visible across the entire 400-meter sector radius.",
-    "critique": "Sanderson: Precise temporal and combustion physics.",
+    "content": "Midnight passed.\n\nThen the second watch.\n\nThe village of Southfall was silent as a tomb. Outside our hut, the heavy coastal fog had rolled in so thick you couldn't see your hand at arm's length. The only sound was the di [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
       "canon": 0.91,
-      "kinetics": 0.95,
-      "sensory": 0.83,
+      "kinetics": 0.94,
+      "sensory": 0.82,
       "feral": 0.78,
-      "total": 0.874
-    }
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Midnight passed, then the second watch. Outside, coastal fog rolled in thick as wet wool, smelling of salt and damp pine. Then: FWHOOSH. A streak of fiery orange ripped through the gray fog. A heavy, pitch-soaked arrow slammed into the grain silo fifty paces away, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furnace.",
-    "critique": "Rothfuss: Breathtaking visual explosion and fiery sensory terror.",
+    "content": "Midnight passed.\n\nThen the second watch.\n\nThe village of Southfall was silent as a tomb. Outside our hut, the heavy coastal fog had rolled in so thick you couldn't see your hand at arm's length. The only sound was the distant, rhythmic roar of the surf crashing against the western cliffs.\n\nI sat in the dark beside the window, my back against the wall, my father’s iron filleting knife resting across my knees.\n\nIt was a crude tool. Eight inches of pitted carbon steel, sharpened so many times the blade had developed a concave curve near the hilt. But it was balanced. The balance of a weapon that had butchered ten thousand fish.\n\n*Two hours before dawn.*\n\nRight on schedule.\n\n*FWHOOSH.*\n\nA streak of fiery orange ripped through the gray fog.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.92,
-      "sensory": 0.98,
-      "feral": 0.87,
-      "total": 0.94
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "Right on time, the sky lit up like a festival bonfire, only instead of fireworks, it was fifty paces away turning our winter food into charcoal! CLANG! CLANG! CLANG! The alarm gong screamed like a stuck hog.",
-    "critique": "Biga: Great punchy alarm similes and immediate urgency.",
+    "content": "Midnight passed.\n\nThen the second watch.\n\nThe village of Southfall was silent as a tomb. Outside our hut, the heavy coastal fog had rolled in so thick you couldn't see your hand at arm's length. The only sound was the distant, rhythmic roar If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.89,
-      "sensory": 0.91,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.918
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

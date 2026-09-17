@@ -2,40 +2,43 @@
   {
     "id": "c2-s2-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Why does Daesung yield to Kang?\" Jin asked. \"Kang's physical output is fifty percent lower.\" Yeon explained: \"A binding deathbed promise made thirty years ago enforces Daesung's compliance regardless of systemic inefficiency.\"",
-    "critique": "Sanderson: Efficient behavioral economic summary, lacks emotional resonance.",
+    "content": "\"He is your father's younger brother, Jin.\"\n\n\"He's a tyrant,\" I said plainly. \"A tyrant who sends his fat son to shake down his own kin for ration markers. Father could snap Kang's neck with two fingers. I saw the way Father stood when Bao  \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.86,
-      "sensory": 0.77,
-      "feral": 0.75,
-      "total": 0.822
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s2-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Why does Father bow to him?\" I asked. Yeon's posture stiffened. She looked toward the closed door with eyes carrying the weight of twenty bitter winters. \"Your father was a hunter in the high ridges, Jin. The strongest man in the valley. But when his mother lay dying, she made him swear an oath on her ancestral tablet: 'No matter how harsh the world becomes, you must keep your brother alive. You are the elder. You must carry him.' To your father, enduring Kang's greed is his filial duty. If he breaks his brother, he breaks his vow to the dead.\"",
-    "critique": "Rothfuss: Poignant filial tragedy; the core anchor of Daesung's character.",
+    "content": "\"He is your father's younger brother, Jin.\"\n\n\"He's a tyrant,\" I said plainly. \"A tyrant who sends his fat son to shake down his own kin for ration markers. Father could snap Kang's neck with two fingers. I saw the way Father stood when Bao kicked the door. His footing was rooted. His shoulders have iron in them.\"\n\nYeon let out a soft, sad sigh that carried the weight of twenty bitter winters.\n\n\"Your father was a hunter in the high ridges before you were born. He was the strongest man in the valley. But when his mother lay dying of the winter rot, she held his hands until the skin turned cold. She made him swear an oath on her ancestral tablet.\"\n\nHer voice dropped to a near whisper.\n\n\"She made him promise: *'No matter what happens, no matter how harsh the world becomes, you must keep your brother alive. You are the elder. You must carry him.'*\"\n\nYeon looked at me, her eyes shining with unshed tears.\n\n\"Your father is a man who keeps his word, Jin. Kang knows it. He has fed on that promise since the day the dirt was shoveled over your grandmother's grave. To your father, enduring Kang's greed is his filial duty. If he breaks his brother, he breaks his vow to the dead.\"\n\n*Dharma,* I thought, staring into the dark broth.\n\nThe word returned to me with a bitter, familiar bite. My brother from the plains of Kurukshetra had spoken of duty as an unyielding blade. But here, in this rotting hut on the edge of the world, duty was a rusted chain wrapped around a good man's throat, choking him slowly so a parasite could grow fat.\n\n\"Eat, Jin,\" Yeon urged gently, tapping the bowl. \"Don't trouble your head with the affairs of grown men. Eat and rest.\"\n\nI looked at the three minnows. I looked at my mother's cracked, red knuckles.\n\n\"Yes, Mother,\" I said softly.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.9,
-      "sensory": 0.96,
-      "feral": 0.86,
-      "total": 0.928
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s2-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"He's letting a fat parasite drink his blood because of an old promise?!\" I fumed, grinding my molars. \"If my master made me promise to carry an idiot who steals my salt, I'd dig up his grave and complain! Good men always get choked by their own soft hearts!\"",
-    "critique": "Biga: Terrific Chung Myung fury at unnecessary filial martyrdom.",
+    "content": "\"He is your father's younger brother, Jin.\"\n\n\"He's a tyrant,\" I said plainly. \"A tyrant who sends his fat son to shake down his own kin for ration markers. Father could snap Kang's neck with two fingers. I saw the way Father stood when Bao  \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.93,
-      "kinetics": 0.87,
-      "sensory": 0.89,
-      "feral": 0.97,
-      "total": 0.913
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

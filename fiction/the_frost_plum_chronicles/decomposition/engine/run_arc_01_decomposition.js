@@ -175,6 +175,7 @@ ${leafData.winningProse}
       order: scene.order,
       status: 'ready_to_merge',
       compositeScore: compSceneScore,
+      leafOrder: scene.leafOrder || ['environment', 'interactions', 'actions'],
       leaves: leafScores
     };
 

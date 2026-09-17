@@ -1,7 +1,35 @@
 # Leaf Node: Interactions (I*)
-**Scene:** The Violet Ember: Knife Through Cranium & Bandit Rout
-**Council Score:** Total 0.946 (Canon: 0.98, Kinetics: 0.92, Sensory: 0.96, Feral: 0.91)
+**Scene:** The Plum Blossom Ember: Feral Wolf Execution
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-The muster yard went dead silent. The crackle of burning barns was the only sound left in the world. The remaining fifteen bandits froze in their tracks. They looked at their dead captain. They looked at the giant six-legged wolf killed by a single strike. Then they looked at the scrawny boy standing in the mud, casually flicking black gore off a six-inch kitchen knife with a bored, insolent smirk. "Well?" I asked, tilting my head with that feral, unhinged Mount Hua glint. "Are you waiting for an invitation? Or do you want me to carve the rest of you into fish bait too?" "Demon," one whimpered, dropping his torch. "That's an ancient blood demon! RUN! TO THE CUTTERS!" The bandits broke, throwing down their spears, scrambling over the palisade in pure animal terror. Daesung sat in the mud, staring up at me with uncomprehending shock. "Jin... what are you? Where did you learn to move like that?" I knelt in the mud, ripping a strip of linen to tie off his shoulder bleed. "I told you, Father. I was meditating. You didn't believe me."
+The iron didn't glow. It didn't crackle with theatrical lightning.
+
+It simply *disappeared*. 
+
+The knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter.
+
+I opened my eyes and thrust.
+
+*THWIP.*
+
+The rusted filleting knife entered the leaping wolf’s left eye socket, slid effortlessly through the bone plates of its skull, and exited through the back of its cranium, severing the brain-stem in a fraction of a microsecond.
+
+The monster’s momentum died instantly.
+
+The six-legged horror crashed to the mud at my feet, completely limp, dead before its belly touched the ground.
+
+The muster yard went dead silent.
+
+The crackle of the burning barns was the only sound left in the world. 
+
+The remaining fifteen bandits, who had been torching the surrounding huts, froze in their tracks. They looked at their dead captain lying in a pool of dark blood. They looked at the giant six-legged wolf killed by a single strike. 
+
+Then they looked at the scrawny, fifteen-year-old boy standing in the mud, casually flicking black gore off a six-inch kitchen knife with a bored, insolent smirk.
+
+"Well?" I asked, tilting my head with that feral, unhinged Mount Hua glint in my eye. "Are you waiting for an invitation? Or do you want me to carve the rest of you into fish bait too?"
+
+"Demon," one of the bandits whimpered, dropping his torch into a puddle. "That's not a kid... that's an ancient blood demon!"
+
+"RUN! TO THE CUTTERS! RUN!"

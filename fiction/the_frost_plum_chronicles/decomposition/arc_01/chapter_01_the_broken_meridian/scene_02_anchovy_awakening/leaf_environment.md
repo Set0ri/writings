@@ -1,7 +1,19 @@
 # Leaf Node: Environment (E*)
 **Scene:** The Anchovy Awakening: Southfall Mud & Two Centuries
-**Council Score:** Total 0.917 (Canon: 0.95, Kinetics: 0.88, Sensory: 0.96, Feral: 0.86)
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-Rain hammered against rotting pine planks with the maddening rhythm of an out-of-tune war drum. The air smelled foul: rancid mackerel guts, damp red clay, and wet dog. I lay on a bed of scratchy, moldy straw, staring up at water dripping through moss-chinked roof beams. Gray coastal daylight leaked through the timber gaps, illuminating dust motes dancing over an earth floor beaten hard by decades of impoverished bare feet. *Did the Netherworld run out of budget? Where is the Sea of Fire? Why does the afterlife smell like spoiled fish?!*
+The room seemed to tilt on its axis. 
+
+Two centuries. 
+
+*My brother...* 
+
+A sudden, suffocating cold wrapped around my lungs. What happened after I hesitated? Did my brother smash the enemy line? Did he survive? Where was he?!
+
+"What about the Heaven's Blade Clan?" I demanded, pushing myself onto my elbows despite the agonizing protests of my cracked ribs. "The Northern Spire! The Plum Blossom masters! Where are they?!"
+
+Daesung shook his head, looking at me with pity.
+
+"Sects? Jin, those are just nursery tales to scare children. The old stories say the Heaven's Blade were wiped out during the fall. Some say the survivors turned into bloodthirsty bandits and heretics before the forests swallowed their ruins. Nobody cares about ancient sword-clans anymore. You can't eat a sword."

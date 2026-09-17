@@ -3,68 +3,83 @@
   "title": "The Black Iron Gambit",
   "order": 3,
   "status": "merged",
-  "compositeScore": 0.929,
+  "compositeScore": 0.945,
   "scenes": [
     {
       "id": "scene_01_tripping_the_pig",
-      "title": "Tripping the Pig: The Third Thoracic Nerve",
+      "title": "Tripping the Pig: Bamboo Lever & Mud Clatter",
       "order": 1,
       "status": "merged",
-      "compositeScore": 0.927,
+      "compositeScore": 0.945,
+      "leafOrder": [
+        "actions",
+        "interactions",
+        "environment"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.917
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.93
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.934
+          "score": 0.945
         }
       }
     },
     {
       "id": "scene_02_weeping_bully_revelation",
-      "title": "The Weeping Bully: Algorithmic Bruises & Iron Crates",
+      "title": "The Weeping Bully & The Secret Rendezvous",
       "order": 2,
       "status": "merged",
-      "compositeScore": 0.926,
+      "compositeScore": 0.945,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.925
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.93
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.923
+          "score": 0.945
         }
       }
     },
     {
       "id": "scene_03_gulls_maw_stakeout",
-      "title": "Gull's Maw at Midnight: The Infiltrator's Seam",
+      "title": "The Gull's Maw: Sea Caves & Black Wave Smugglers",
       "order": 3,
       "status": "merged",
-      "compositeScore": 0.934,
+      "compositeScore": 0.945,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.931
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.932
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.94
+          "score": 0.945
         }
       }
     }

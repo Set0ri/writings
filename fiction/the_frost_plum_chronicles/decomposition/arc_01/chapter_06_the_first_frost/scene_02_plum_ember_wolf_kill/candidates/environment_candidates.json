@@ -2,40 +2,43 @@
   {
     "id": "c6-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "A 95-kilogram shadow-wolf accelerated at 8.2 m/s² across ten meters. Optical sensors detected non-algorithmic violet bioluminescence in the iron substrate, wavelength 405 nanometers.",
-    "critique": "Sanderson: Strong velocity and wavelength data for the Qi infusion.",
+    "content": "*“When the world goes crazy, the man with the sword doesn't get to sit down and cry about it! He cuts through the storm! ...Believe in the blade, Jin! Fulfill your duty!”*\n\n*Two hundred years ago, I hesitated.*\n*My broth [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.96,
-      "sensory": 0.83,
-      "feral": 0.79,
-      "total": 0.882
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c6-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The muster yard fell into a strange, ringing silence, broken only by the crackle of burning barley. Across the mud, fifteen cutthroats dropped their torches, looking from their dead captain to the giant six-legged monster lying dead at the feet of a child. The rain fell through the smoke in gentle, shimmering needles.",
-    "critique": "Rothfuss: Majestic stillness following the violence; atmospheric rain.",
+    "content": "*“When the world goes crazy, the man with the sword doesn't get to sit down and cry about it! He cuts through the storm! ...Believe in the blade, Jin! Fulfill your duty!”*\n\n*Two hundred years ago, I hesitated.*\n*My brother died because I wanted to keep my hands clean.*\n\n*Not this time.*\n*Never again.*\n\nMy body moved before thought could even form.\n\nI didn't shout. I didn't warn him.\n\nI threw my entire fifteen-year-old weight forward, driving the rusted filleting knife straight upward beneath Kang's chin, through the soft palate, and directly into the center of his skull.\n\n*KRRR-CLANG.*\n\nThe knife hit something inside his head that was not bone.\n\nIt felt like driving an iron nail into solid brass.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.91,
-      "sensory": 0.97,
-      "feral": 0.87,
-      "total": 0.935
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c6-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The remaining bandits were shaking so hard their chainmail jingled like sacks of copper coins! One of them dropped his spear into a puddle and wailed: \"That's no boy! That's an ancient mountain demon!\"",
-    "critique": "Biga: Hilarious jingling chainmail and superstitious bandit panic.",
+    "content": "*“When the world goes crazy, the man with the sword doesn't get to sit down and cry about it! He cuts through the storm! ...Believe in the blade, Jin! Fulfill your duty!”*\n\n*Two hundred years ago, I hesitated.*\n*My brother died because I wa If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.89,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.925
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

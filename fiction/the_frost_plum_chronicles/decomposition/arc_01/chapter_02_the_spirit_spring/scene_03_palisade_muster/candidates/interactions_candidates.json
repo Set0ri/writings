@@ -2,40 +2,43 @@
   {
     "id": "c2-s3-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "On the platform, Sector Chief Kang paced with invariant intervals: three strides left (2.4 seconds), two-second pause, three strides right. When a scout reported breached snare lines, Kang's ocular blink frequency was zero. He diverted grain from Sector Three with an algorithmic latency of 180 milliseconds.",
-    "critique": "Sanderson: Superb mechanical pacing diagnostics and latency analysis.",
+    "content": "**Uncle Kang.**\n\nAround him, fifty exhausted villagers leaned on their shovels and pickaxes, their breath pluming white in the freezing mist. Among them, knee-deep in gray clay at the bottom of the trench, stood my father, his bare arms sme \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.96,
-      "sensory": 0.84,
-      "feral": 0.8,
-      "total": 0.892
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s3-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Stand fast, men of the Third Sector!\" Kang shouted. He was tall, thick-chested, dressed in polished iron mail. Around him, fifty exhausted villagers leaned on pickaxes, Daesung knee-deep in gray clay hoisting an oak foundation log. \"The night-howlers breached the ditch at dawn! Give your sweat to the trench, and the Council will keep your hearths warm!\" But as a scout reported cut wires, Kang didn't flinch. His eyelids didn't even flutter. His face was a mask of carved wax.",
-    "critique": "Rothfuss: Dramatic rhetoric contrast with hollow, synthetic interior.",
+    "content": "**Uncle Kang.**\n\nAround him, fifty exhausted villagers leaned on their shovels and pickaxes, their breath pluming white in the freezing mist. Among them, knee-deep in gray clay at the bottom of the trench, stood my father, his bare arms smeared with mud as he hoisted a heavy oak foundation log into place.\n\n\"The night-howlers breached the eastern ditch at dawn,\" Kang shouted, pacing the platform with slow, theatrical strides. \"Three storage sheds burned. Two of our cousins are in the infirmary. But through the vigilance of the Sector Council, through our unwavering discipline, we held the perimeter!\"\n\nThe villagers looked up, their faces numb with fatigue, but several nodded solemnly.\n\n\"Remember the creed of our ancestors!\" Kang's voice rang out with ringing authority. \"The wild does not sleep, and neither do we! If we lay down the shovel, the beasts swallow our children! Give your sweat to the trench, and the Council will ensure your hearths stay warm!\"\n\nHe raised his hand. The crowd broke into weary, scattered cheers.\n\nI stood behind the silo, watching Kang's face.\n\nMy skin prickled with an icy, instinctive warning.\n\nIn my past life, I had watched hundreds of generals rally their troops. I knew what a charismatic leader looked like. Their eyes shifted. Their chests heaved with genuine emotion. Their voices carried the ragged, vibrating edge of adrenaline, fear, or bloodlust.\n\nKang had none of that.\n\nHe paced the wooden boards with an eerie, mechanical rhythm—three steps left, pause for two seconds, three steps right, pause. \n\nHis chest barely moved. Even as he bellowed to the back row of the crowd, his neck muscles didn't strain. His eyes swept across the exhausted faces of the men below with the cold, sweeping precision of a surveyor scanning a stone quarry.\n\nAnd then a scout ran up the ladder, gasping for breath, clutching a blood-stained leather pouch.\n\n\"Sector Chief! The outer snare lines in Sector Two! The wire was cut from the inside! A pack of shadow-cats slipped past the ridge!\"\n\nA normal leader would flinch. A normal man would curse, his eyes widening with sudden panic.\n\nKang didn't blink.\n\nHis eyelids didn't even twitch. For half a second, his face went completely blank—a mask of carved wax. Then, smoothly, as if turning a page in an invisible ledger, his brows knit into an expression of stern concern.\n\n\"Calm yourself, scout,\" Kang said, his voice modulating to the exact pitch of measured reassurance. \"Reinforce Sector Two with four spearmen. Divert the evening grain rations from Sector Three to cover the loss. The Council will handle the rest.\"\n\n*He diverted the food from my father's sector,* I noted. *Without a second's thought.*\n\nMore than that.\n\nI touched the base of my throat, feeling the subtle resonance of my revived Sword Heart.\n\nEvery living creature—beast, man, or demon—possesses a pulse of life. An internal heat. Even an exhausted peasant knee-deep in mud radiates a faint, messy halo of biological warmth.\n\nAs Kang turned to descend the ladder, my vision narrowed, focusing on his back.\n\nAround his collar, beneath the thick leather and iron links, there was no warmth.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.9,
-      "sensory": 0.96,
-      "feral": 0.88,
-      "total": 0.929
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s3-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Look at this pompous bastard,\" I sneered behind the grain silo. \"Preaching about ancestral sweat while wearing polished iron, then stealing my father's dinner to make up for his own incompetence! I swear, every village in the world has at least one of these blowhards who needs an oak stick across his chin!\"",
-    "critique": "Biga: Classic Chung Myung rage at hypocritical corrupt chieftains.",
+    "content": "**Uncle Kang.**\n\nAround him, fifty exhausted villagers leaned on their shovels and pickaxes, their breath pluming white in the freezing mist. Among them, knee-deep in gray clay at the bottom of the trench, stood my father, his bare arms sme \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.87,
-      "sensory": 0.88,
-      "feral": 0.98,
-      "total": 0.909
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

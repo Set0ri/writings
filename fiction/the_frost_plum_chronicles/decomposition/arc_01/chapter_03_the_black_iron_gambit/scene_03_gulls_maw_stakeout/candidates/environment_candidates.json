@@ -2,40 +2,43 @@
   {
     "id": "c3-s3-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Gull’s Maw was a basalt sea cavern formed by volcanic outflow, situated at 38° 14' N. The tide flooded at 0.4 meters per hour, leaving forty minutes of navigable cavern floor before inundation. Ambient luminescence was 15 lumens from an animal fat lantern.",
-    "critique": "Sanderson: Strong tidal timing and geological accuracy.",
+    "content": "Midnight came without stars.\n\nThe heavy coastal clouds hung low over Southfall, smothering the moon in a blanket of wet slate. Down in the village, the cooking fires had died to gray embers, leaving only the torches alon [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.89,
+      "canon": 0.91,
       "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.76,
-      "total": 0.859
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c3-s3-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Midnight came without stars. Heavy coastal clouds smothered the moon in wet slate. At the base of the western sea-cliffs lay the Gull's Maw: a half-submerged cave accessible only at dead low tide. Inside, a single oil lantern burned against wet stalactites, casting amber ripples across the black surf crashing on basalt reefs.",
-    "critique": "Rothfuss: Gorgeous maritime atmospheric dread and sensory texture.",
+    "content": "Midnight came without stars.\n\nThe heavy coastal clouds hung low over Southfall, smothering the moon in a blanket of wet slate. Down in the village, the cooking fires had died to gray embers, leaving only the torches along the outer palisade flickering against the wind.\n\nI slipped out through the drainage gap beneath our hut's back wall.\n\nMy ribs still complained with every step, but the Gentle Breath of the Morning Dew had done its work. The hairline fractures were knitting, glued together by stubborn, freshly circulated marrow. \n\nI kept low, moving through the shadows of the storage sheds like an alley cat. \n\nFive minutes later, I spotted him.\n\nA tall figure in a dark hooded cloak slipped out of the Sector Chief's residence. He didn't carry a lantern. He didn't use a walking stick. He moved with an eerie, level glide, his boots making almost no sound against the wet stones.\n\nI trailed him at fifty paces, keeping downwind.\n\nKang didn't head toward the palisade gates. He moved toward the western sea-cliffs—toward the jagged volcanic blowholes where the island met the crashing waves of the Gray Expanse. \n\nAt the base of the cliffs lay the **Gull’s Maw**: a half-submerged sea cave accessible only at dead low tide.\n\nI flattened myself against a shelf of black basalt ten paces above the cave mouth, peering down into the darkness.\n\nInside the cavern, a single oil lantern was burning, casting amber light across wet stalactites. \n\nStanding beside the lantern were three men in salt-stained leather armor, armed with hooked scimitars and crossbows. Across their cloaks was the emblem of a broken wave—the **Black Wave Bandits**, the scourge of the coastal trade lanes.\n\nUncle Kang stood before them, his hood pulled back.\n\n\"You're late, Chief Kang,\" the lead bandit sneered, spitting into the rising tide. \"The tide turns in forty minutes. My cutter won't wait on your island schedule.\"\n\nKang didn't apologize. He didn't shift his weight.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.91,
-      "sensory": 0.98,
-      "feral": 0.84,
-      "total": 0.931
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c3-s3-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The sea cave smelled of wet seaweed, bat droppings, and rotten fish. Down below, three ugly cutthroats with bad haircuts were whispering with Kang like a bunch of rats dividing stolen cabbage.",
-    "critique": "Biga: Great comedic flavor for the bandits, lacks the cosmic technological chill.",
+    "content": "Midnight came without stars.\n\nThe heavy coastal clouds hung low over Southfall, smothering the moon in a blanket of wet slate. Down in the village, the cooking fires had died to gray embers, leaving only the torches along the outer palisade If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
       "canon": 0.89,
-      "kinetics": 0.86,
-      "sensory": 0.89,
-      "feral": 0.95,
-      "total": 0.895
-    }
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

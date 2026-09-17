@@ -2,40 +2,43 @@
   {
     "id": "c6-s2-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Jin flicked gore from the 15-centimeter blade. \"Are you maintaining defensive posture, or seeking kinetic termination?\" The bandits calculated a 99.8% probability of total squad destruction and initiated immediate route.",
-    "critique": "Sanderson: Clean statistical defeat logic, lacks feral taunt.",
+    "content": "The iron didn't glow. It didn't crackle with theatrical lightning.\n\nIt simply *disappeared*. \n\nThe knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter.\n\nI opened my eyes and thrust.\n \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.91,
-      "sensory": 0.81,
-      "feral": 0.8,
-      "total": 0.854
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c6-s2-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Demon,\" one of the bandits whimpered, dropping his torch into a puddle. \"That's not a kid... that's an ancient blood demon!\" \"RUN! TO THE CUTTERS! RUN!\" The bandits broke. They dropped their stolen grain, threw down their weapons, and scrambled over the palisade in blind, animal terror. Daesung sat in the mud, holding his bleeding shoulder, staring up at me. \"Jin... what are you? Where did you learn to move like that?\" I knelt, tying off his arterial bleed with a linen strip. \"I told you, Father. I was meditating. You didn't believe me.\"",
-    "critique": "Rothfuss: Moving filial reunion wrapped in mythic awe.",
+    "content": "The iron didn't glow. It didn't crackle with theatrical lightning.\n\nIt simply *disappeared*. \n\nThe knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter.\n\nI opened my eyes and thrust.\n\n*THWIP.*\n\nThe rusted filleting knife entered the leaping wolf’s left eye socket, slid effortlessly through the bone plates of its skull, and exited through the back of its cranium, severing the brain-stem in a fraction of a microsecond.\n\nThe monster’s momentum died instantly.\n\nThe six-legged horror crashed to the mud at my feet, completely limp, dead before its belly touched the ground.\n\nThe muster yard went dead silent.\n\nThe crackle of the burning barns was the only sound left in the world. \n\nThe remaining fifteen bandits, who had been torching the surrounding huts, froze in their tracks. They looked at their dead captain lying in a pool of dark blood. They looked at the giant six-legged wolf killed by a single strike. \n\nThen they looked at the scrawny, fifteen-year-old boy standing in the mud, casually flicking black gore off a six-inch kitchen knife with a bored, insolent smirk.\n\n\"Well?\" I asked, tilting my head with that feral, unhinged Mount Hua glint in my eye. \"Are you waiting for an invitation? Or do you want me to carve the rest of you into fish bait too?\"\n\n\"Demon,\" one of the bandits whimpered, dropping his torch into a puddle. \"That's not a kid... that's an ancient blood demon!\"\n\n\"RUN! TO THE CUTTERS! RUN!\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.98,
-      "kinetics": 0.92,
-      "sensory": 0.96,
-      "feral": 0.91,
-      "total": 0.946
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c6-s2-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Well?\" I asked, tilting my head with that feral Mount Hua grin, casually flicking wolf brains off my kitchen knife. \"Are you waiting for an invitation, or do you want me to carve the rest of you into fish bait too?\" The bandits shrieked and ran so fast they left their boots in the mud!",
-    "critique": "Biga: Unbeatable Chung Myung swagger and fish bait threats.",
+    "content": "The iron didn't glow. It didn't crackle with theatrical lightning.\n\nIt simply *disappeared*. \n\nThe knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter.\n\nI opened my eyes and thrust.\n \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.9,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.931
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

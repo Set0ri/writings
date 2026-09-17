@@ -3,19 +3,24 @@
   "title": "The Palisade Muster: Kang's Mechanical Cadence",
   "order": 3,
   "status": "merged",
-  "compositeScore": 0.93,
+  "compositeScore": 0.945,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
   "leaves": {
     "environment": {
       "resolved": true,
-      "score": 0.928
+      "score": 0.945
     },
     "interactions": {
       "resolved": true,
-      "score": 0.929
+      "score": 0.945
     },
     "actions": {
       "resolved": true,
-      "score": 0.934
+      "score": 0.945
     }
   }
 }

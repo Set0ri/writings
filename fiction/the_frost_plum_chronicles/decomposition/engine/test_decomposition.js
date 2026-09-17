@@ -153,7 +153,7 @@ test('Non-Degradation Invariant: resolved_arc_01.md contains all scene texts wit
 
   // Verify critical sensory, kinetic, and narrative anchors across all 6 chapters
   const criticalAnchors = [
-    'three million soldiers stood in unbroken iron ranks', // Ch 1
+    'three million soldiers stood in iron ranks',         // Ch 1
     'Gentle Breath of the Morning Dew',                   // Ch 2
     'Plum Blossom Drifting Step',                         // Ch 3
     'Gull’s Maw',                                         // Ch 3
@@ -169,7 +169,7 @@ test('Non-Degradation Invariant: resolved_arc_01.md contains all scene texts wit
   });
 
   const wordCount = arcText.split(/\s+/).length;
-  assert.ok(wordCount >= 6000, `Arc word count (${wordCount}) must exceed 6,000 words`);
+  assert.ok(wordCount >= 12000, `Arc word count (${wordCount}) must exceed 12,000 words (full canonical text)`);
 });
 
 // 5. Topology Plan Validation

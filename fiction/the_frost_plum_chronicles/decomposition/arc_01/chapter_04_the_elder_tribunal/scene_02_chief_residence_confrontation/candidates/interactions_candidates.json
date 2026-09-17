@@ -2,40 +2,43 @@
   {
     "id": "c4-s2-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Jin,\" Kang said. \"Optimal protocol requires you to rest. Probability of nocturnal surveillance across coastal cliffs: 0.04%. Causal variance unaccounted for.\"",
-    "critique": "Sanderson: Perfect synthetic surprise calculation.",
+    "content": "His eyes were dark, perfectly centered, and fixed directly on the bridge of my nose. He didn't blink. One second. Two seconds. Three seconds. Exactly four seconds passed before his eyelids fluttered once and reopened.\n\n\"Daesung is currently \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.91,
+      "canon": 0.91,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.8,
-      "total": 0.877
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c4-s2-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "I pulled up a chair, straddled it backward, and tossed the duplicate Gull's Maw roster onto the desk between his ledgers. \"The Gull’s Maw is very scenic at dead low tide,\" I remarked. \"And the Black Wave Bandits are very punctual businessmen. Isn't that right, Uncle?\" Kang didn't turn pale. A human crook would sweat, deny it, or reach for a dagger. Kang simply stared, a glassy film passing over his pupils.",
-    "critique": "Rothfuss: Superb psychological tension and unblinking stares.",
+    "content": "His eyes were dark, perfectly centered, and fixed directly on the bridge of my nose. He didn't blink. One second. Two seconds. Three seconds. Exactly four seconds passed before his eyelids fluttered once and reopened.\n\n\"Daesung is currently assigned to the third drainage trench,\" Kang stated evenly. \"His labor is required to maintain the perimeter barrier. If you have come to request an exemption on his behalf, the request is denied. Sector Three is running a four percent deficit in defensive earthworks.\"\n\n\"I don't give a damn about your earthworks, Uncle,\" I said, my voice dropping into a casual, venomous drawl. \n\nI reached into my shirt.\n\nKang’s fingers twitched slightly on the desk—a micro-movement, no more than two millimeters, but his knuckles locked like iron clamps.\n\nI pulled out a small, rolled scrap of parchment. \n\nIt was a piece of charcoal paper I had found tucked under the basalt shelf in Gull's Maw at midnight—a duplicate of the patrol roster Kang had handed to the Black Wave Bandits.\n\nI tossed it onto the desk. It unrolled slowly between two stacks of grain ledgers.\n\nKang looked down at the parchment.\n\nFor half a second, the room went so silent I could hear the embers in the hearth crumbling to ash.\n\n\"The Gull’s Maw is very scenic at dead low tide,\" I remarked, resting my cheek on my hand. \"The waves make a lovely sound against the basalt. And the Black Wave Bandits are very punctual businessmen. Forty minutes before the tide turns. Isn't that right, Uncle?\"\n\nKang didn't flinch. \n\nHe didn't turn pale. A human politician caught selling out his own kin to cutthroats would sweat, shout, deny it, or reach for a dagger to silence the witness.\n\nKang did none of those things.\n\nInstead, his eyes unfocused for a fraction of a second. A strange, glassy film seemed to pass over his pupils, like oil on water.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.91,
-      "sensory": 0.96,
-      "feral": 0.9,
-      "total": 0.939
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c4-s2-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Nice office, Uncle!\" I laughed, resting my chin on my arms. \"Very warm! Down in Sector Three, rain leaks right onto Father’s face while he sleeps, but here you've got pine logs burning like festival day! Let's talk about your little midnight date with the cutthroats.\"",
-    "critique": "Biga: Unbeatable Mount Hua swagger and shameless intimidation.",
+    "content": "His eyes were dark, perfectly centered, and fixed directly on the bridge of my nose. He didn't blink. One second. Two seconds. Three seconds. Exactly four seconds passed before his eyelids fluttered once and reopened.\n\n\"Daesung is currently \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.88,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.923
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

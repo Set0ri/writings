@@ -2,40 +2,43 @@
   {
     "id": "c5-s3-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Hold the defensive line!\" Daesung bellowed. \"Evacuate non-combatants to the central well!\" Forty bandit units entered through the sluice breach, weaponized with curved steel.",
-    "critique": "Sanderson: Tactical command structure, lacks the visceral roar.",
+    "content": "The reflection of the burning grain silo danced across my pupils, turning them into twin pools of liquid violet.\n\n\"Jin?\" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall.\n\n\"You're a good man, Daesung, \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.91,
-      "sensory": 0.8,
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
       "feral": 0.78,
-      "total": 0.848
-    }
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s3-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Hold the ditch!\" Daesung roared over the screaming. Knee-deep in bloody clay, his linen tunic ripped to shreds, he locked his seven-foot boar-spear under his arm. A shadow-wolf lunged at two teenage village boys huddled against a grain cart. Daesung didn't hesitate. He stepped into the beast's path, planting the iron butt against a sunken boulder and dropping his weight.",
-    "critique": "Rothfuss: Unflinching paternal heroism and desperate village defense.",
+    "content": "The reflection of the burning grain silo danced across my pupils, turning them into twin pools of liquid violet.\n\n\"Jin?\" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall.\n\n\"You're a good man, Daesung,\" I said, a faint, cold smile touching my lips. \"A terrible judge of character, but a very good man.\"\n\nOutside, an inhuman, bone-chilling howl echoed through the smoke.\n\nIt wasn't a man. It wasn't a bandit.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.93,
-      "sensory": 0.96,
-      "feral": 0.9,
-      "total": 0.944
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s3-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "Daesung looked like an enraged mountain bear who had just been woken from his winter nap! \"Get behind the well, you brats!\" he roared, shaking the mud off his boots like he was about to flatten the whole pack with his bare fists.",
-    "critique": "Biga: Mountain bear energy and fierce protective bluster.",
+    "content": "The reflection of the burning grain silo danced across my pupils, turning them into twin pools of liquid violet.\n\n\"Jin?\" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall.\n\n\"You're a good man, Daesung, \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.9,
-      "sensory": 0.89,
-      "feral": 0.97,
-      "total": 0.923
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

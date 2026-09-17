@@ -1,10 +1,38 @@
-### The Pitch Arrow: Midnight Fire at the Palisade
-**Composite Council Score:** 0.941
+### The Siren Screams: Pitch Arrows in the Dark
+**Composite Council Score:** 0.945
 
 ---
 
-Midnight passed. Then the second watch. Southfall was silent as a tomb. Outside our hut, the coastal fog had rolled in so thick you couldn't see your hand at arm's length. *Two hours before dawn. Right on schedule.* *FWHOOSH.* A streak of fiery orange ripped through the gray fog. A heavy, pitch-soaked arrow slammed into the thatched roof of the communal grain silo fifty paces from our door. The dry straw caught instantly, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furnace. *CLANG! CLANG! CLANG!* The iron alarm bell at the watchtower began to shriek, its erratic clangs tearing through the village.
+Midnight passed.
 
-"RAID!" someone screamed from the palisade. "THE SLUICE GATE IS BREACHED! CUTTHROATS IN THE EASTERN TRENCH!" Before the watchman could strike the gong a fourth time, a wet, choking gurgle cut through the night; the bell went dead. Inside, Daesung was on his feet in an instant, seizing his boar-spear. "Yeon! Into the cellar!" he bellowed, his voice returning to the roaring authority of a veteran hunter. "Jin, get behind your mother!" "I'm right behind you, Father," I lied, keeping my voice steady. Daesung ripped up the hearth boards, shoving weeping Yeon down into the dark, earth-scented cellar. "Daesung, please!" she wept, clutching his cuff. "Let the Council fight!" "The Council is five old men and Kang!" Daesung shouted, face bathed in orange fire. "The third trench is manned by boys! If I don't hold the gate, the cutthroats butcher every child in the lane!" He kissed her forehead, pried her fingers loose, and slammed the heavy oak hatch shut, throwing the iron drop-bolt.
+Then the second watch.
 
-Daesung turned toward me, spear gripped tightly. "Jin, get in the—" He stopped. I was standing by the open doorway. The rusted filleting knife was tucked casually into my right hand, hanging loose at my side. The reflection of the burning silo danced across my pupils, turning them into twin pools of liquid violet. "Jin?" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall. "You're a good man, Daesung," I said, a faint, cold smile touching my lips. "A terrible judge of character, but a very good man." I rolled my shoulders until the joints cracked like whips. "Come on, Father. Let's go teach your brother how to bury a wolf."
+The village of Southfall was silent as a tomb. Outside our hut, the heavy coastal fog had rolled in so thick you couldn't see your hand at arm's length. The only sound was the distant, rhythmic roar of the surf crashing against the western cliffs.
+
+I sat in the dark beside the window, my back against the wall, my father’s iron filleting knife resting across my knees.
+
+It was a crude tool. Eight inches of pitted carbon steel, sharpened so many times the blade had developed a concave curve near the hilt. But it was balanced. The balance of a weapon that had butchered ten thousand fish.
+
+*Two hours before dawn.*
+
+Right on schedule.
+
+*FWHOOSH.*
+
+A streak of fiery orange ripped through the gray fog.
+
+A heavy, pitch-soaked arrow slammed into the thatched roof of the communal grain silo fifty paces from our door. The dry straw caught instantly, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furnace.
+
+*CLANG! CLANG! CLANG!*
+
+The iron alarm bell at the watchtower began to shriek, its erratic, panicked clangs tearing through the village.
+
+"RAID!" someone screamed from the palisade. "THE SLUICE GATE IS BREACHED! BLACK WAVE CUTTHROATS IN THE EASTERN TRENCH!"
+
+Before the watchman could strike the gong a fourth time, a wet, choking gurgle cut through the night. The bell went dead.
+
+Inside the hut, Daesung was on his feet in an instant, reaching for his boar-spear leaning against the wall.
+
+"Yeon! Into the cellar!" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. "Jin, get behind your mother!"
+
+"I'm right behind you, Father," I lied, keeping my voice steady in the smoke.

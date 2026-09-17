@@ -1,43 +1,43 @@
 {
   "sceneId": "scene_03_gulls_maw_stakeout",
-  "title": "Gull's Maw at Midnight: The Infiltrator's Seam",
+  "title": "The Gull's Maw: Sea Caves & Black Wave Smugglers",
   "order": 3,
   "threshold": 0.85,
   "leaves": {
     "environment": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.91,
-        "sensory": 0.98,
-        "feral": 0.84,
-        "total": 0.931
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Inoue-level mood setting and maritime atmospheric dread.",
-      "critiqueSummary": "Rothfuss: Gorgeous maritime atmospheric dread and sensory texture."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.9,
-        "sensory": 0.96,
-        "feral": 0.88,
-        "total": 0.932
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. The terrifying revelation of the Reinforcement Learning Camp protocol.",
-      "critiqueSummary": "Rothfuss: Chilling moral horror and mechanical dispassion."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.92,
-        "sensory": 0.97,
-        "feral": 0.88,
-        "total": 0.94
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. The definitive climax of Chapter 3, locking the skin-walker reveal.",
-      "critiqueSummary": "Rothfuss: Lyrical and chilling visual reveal of the skin-walker."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.934,
-  "timestamp": "2026-09-17T15:43:19.041Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:43.045Z"
 }

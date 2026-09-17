@@ -2,40 +2,43 @@
   {
     "id": "c5-s1-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Daesung processed Jin’s vocal cadence; finding no physiological indicators of fever, his amygdala accepted the protective command. He inspected the cellar hatch, confirming the iron bolt was lubricated.",
-    "critique": "Sanderson: Efficient cognitive assessment of authority.",
+    "content": "\"The air smells of pitch,\" I said, my voice dropping into that calm, commanding cadence that brooked no argument. \"The wind is blowing from the east. If the warning gong sounds tonight, do not go to the muster square. Do not run to the pali [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.89,
-      "kinetics": 0.93,
+      "canon": 0.91,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.79,
-      "total": 0.863
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s1-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Daesung stared at me for a long moment, searching my face. He saw no fever in my eyes. He saw only an ancient, chilling stillness that made the hair on the back of his neck prickle. Slowly, without another word, he nodded. \"We will keep our boots on,\" he said softly.",
-    "critique": "Rothfuss: Subtle, powerful submission to ancient authority.",
+    "content": "\"The air smells of pitch,\" I said, my voice dropping into that calm, commanding cadence that brooked no argument. \"The wind is blowing from the east. If the warning gong sounds tonight, do not go to the muster square. Do not run to the palisade.\"\n\n\"Jin, what nonsense are you—\"\n\n\"Listen to me, Daesung,\" I snapped, cutting him off with the authority of an elder brother scolding a foolish junior. \n\nDaesung blinked, startled by the sheer weight behind the words.\n\n\"You take Mother,\" I said, pointing toward the heavy cedar trapdoor hidden beneath the hearth stones, \"and you get into the winter root cellar. You bolt it from the inside. And you do not open it until sunrise, no matter who screams outside. You understand me?\"\n\nYeon set her bowl down, her face turning pale. \"Jin... did you see something on the ridge?\"\n\n\"The wolves are hungry,\" I replied smoothly, picking my spoon back up and shoving a mouthful of pork into my cheeks. \"And when wolves get hungry, they don't care about family vows. Just do as I say, Father. For once in your life, let your son carry the shovel.\"\n\nDaesung stared at me for a long moment, searching my face. He saw no fever in my eyes. He saw only an ancient, chilling stillness that made the hair on the back of his neck prickle.\n\nSlowly, without another word, he nodded.\n\n\"We will keep our boots on,\" Daesung said softly.\n\n***",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.91,
+      "kinetics": 0.94,
       "sensory": 0.95,
-      "feral": 0.87,
-      "total": 0.927
-    }
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s1-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "Daesung looked at me like I had grown a second head, but my grandmaster glare could make a stone wall back down. He swallowed his protests, shoved a big chunk of pork into his mouth, and tightened his bootlaces.",
-    "critique": "Biga: Great comedic glare and boot tightening.",
+    "content": "\"The air smells of pitch,\" I said, my voice dropping into that calm, commanding cadence that brooked no argument. \"The wind is blowing from the east. If the warning gong sounds tonight, do not go to the muster square. Do not run to the pali A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.89,
-      "sensory": 0.88,
-      "feral": 0.97,
-      "total": 0.913
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

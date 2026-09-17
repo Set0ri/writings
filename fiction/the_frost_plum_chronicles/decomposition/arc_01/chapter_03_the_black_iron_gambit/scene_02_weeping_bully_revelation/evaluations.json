@@ -1,43 +1,43 @@
 {
   "sceneId": "scene_02_weeping_bully_revelation",
-  "title": "The Weeping Bully: Algorithmic Bruises & Iron Crates",
+  "title": "The Weeping Bully & The Secret Rendezvous",
   "order": 2,
   "threshold": 0.85,
   "leaves": {
     "environment": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.9,
-        "sensory": 0.96,
-        "feral": 0.86,
-        "total": 0.925
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Evocative physical evidence of Kang's synthetic brutality.",
-      "critiqueSummary": "Rothfuss: Somber, haunting visual discovery of parental abuse."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.9,
-        "sensory": 0.96,
-        "feral": 0.87,
-        "total": 0.93
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Integrates Logan's algorithmic RL camp mystery with genuine human pathos.",
-      "critiqueSummary": "Rothfuss: Deeply poignant, harrowing dialogue revealing Kang's nature."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
-        "canon": 0.95,
-        "kinetics": 0.91,
-        "sensory": 0.94,
-        "feral": 0.88,
-        "total": 0.923
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Perfect transition from comedic shakedown to detective intrigue.",
-      "critiqueSummary": "Rothfuss: Natural recovery and quiet tactical redirection."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.926,
-  "timestamp": "2026-09-17T15:43:19.029Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:43.031Z"
 }

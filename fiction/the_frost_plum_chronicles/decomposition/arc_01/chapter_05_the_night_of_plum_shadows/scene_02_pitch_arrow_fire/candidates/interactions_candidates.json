@@ -2,40 +2,43 @@
   {
     "id": "c5-s2-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Raid!\" voices screamed. \"Sluice gate breached!\" Daesung grabbed his boar-spear. Jin directed Yeon into the cellar: \"Secure the lock. Secondary defensive vectors are engaged.\"",
-    "critique": "Sanderson: Efficient and tactical, lacks emotional farewell.",
+    "content": "A heavy, pitch-soaked arrow slammed into the thatched roof of the communal grain silo fifty paces from our door. The dry straw caught instantly, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furna \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.89,
-      "sensory": 0.8,
-      "feral": 0.77,
-      "total": 0.841
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s2-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Yeon! Into the cellar!\" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. \"Jin, get behind your mother!\" \"I'm right behind you, Father,\" I lied. Daesung shoved Yeon into the dark, earth-scented cellar. \"Daesung, please!\" she wept. \"Don't go! Let the Council fight!\" \"The Council is five old men and Kang!\" Daesung shouted back, his face lit by the orange glare. \"If I don't hold the gate, the cutthroats butcher every child in the lane!\"",
-    "critique": "Rothfuss: Noble paternal valor and tragic family separation.",
+    "content": "A heavy, pitch-soaked arrow slammed into the thatched roof of the communal grain silo fifty paces from our door. The dry straw caught instantly, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furnace.\n\n*CLANG! CLANG! CLANG!*\n\nThe iron alarm bell at the watchtower began to shriek, its erratic, panicked clangs tearing through the village.\n\n\"RAID!\" someone screamed from the palisade. \"THE SLUICE GATE IS BREACHED! BLACK WAVE CUTTHROATS IN THE EASTERN TRENCH!\"\n\nBefore the watchman could strike the gong a fourth time, a wet, choking gurgle cut through the night. The bell went dead.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.98,
-      "kinetics": 0.91,
-      "sensory": 0.97,
-      "feral": 0.88,
-      "total": 0.94
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s2-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"Jin, get in the cellar!\" Daesung roared. He stopped dead. I was standing in the doorway with a kitchen knife, smiling like a demon looking forward to breakfast. \"You're a good man, Daesung. A terrible judge of character, but a very good man.\"",
-    "critique": "Biga: Supreme Mount Hua banter in the face of imminent slaughter.",
+    "content": "A heavy, pitch-soaked arrow slammed into the thatched roof of the communal grain silo fifty paces from our door. The dry straw caught instantly, exploding into a roaring tower of crimson flame that turned the night sky into a blinding furna \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.89,
-      "sensory": 0.91,
-      "feral": 0.98,
-      "total": 0.931
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

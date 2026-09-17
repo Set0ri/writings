@@ -2,40 +2,43 @@
   {
     "id": "c5-s3-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Three hexapedal canid organisms breached the north-northeast perimeter. Average mass: 90 kilograms. The combustion of barley released 18,000 BTUs per minute, creating an ash-density of 400 particles per cubic meter.",
-    "critique": "Sanderson: Strong biological and combustion specifications.",
+    "content": "Daesung ripped the cedar boards up from the hearth, shoving Yeon down into the dark, earth-scented cellar. \n\n\"Daesung, please!\" Yeon wept, clutching his sleeve from below. \"Don't go out there! Let the Sector Council figh [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
       "canon": 0.91,
-      "kinetics": 0.95,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.79,
-      "total": 0.873
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s3-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The muster yard was an abattoir. Fire from burning barns cast long, jagged shadows across the mud, turning Southfall into a pit of red hell. Thick smoke choked the air, smelling of burning barley, scorched flesh, and the sulfuric tang of pitch. And then, an inhuman howl echoed from the dark treeline—a deep, multi-throated baying that shook the mud under our boots.",
-    "critique": "Rothfuss: Terrifying apocalyptic battlefield ambiance and acoustics.",
+    "content": "Daesung ripped the cedar boards up from the hearth, shoving Yeon down into the dark, earth-scented cellar. \n\n\"Daesung, please!\" Yeon wept, clutching his sleeve from below. \"Don't go out there! Let the Sector Council fight!\"\n\n\"The Council is five old men and Kang!\" Daesung shouted back, his face illuminated by the growing orange glare outside the paper window. \"The third trench is manned by boys! If I don't hold the gate, the cutthroats will butcher every child in the lane!\"\n\nHe kissed her forehead, pried her fingers from his cuff, and slammed the heavy oak hatch shut, throwing the iron drop-bolt into place.\n\nHe turned toward me, his spear gripped tightly in both hands. \"Jin, get in the—\"\n\nHe stopped.\n\nI was standing by the open doorway. The rusted filleting knife was tucked casually into my right hand, hanging loose at my side.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.91,
-      "sensory": 0.98,
-      "feral": 0.87,
-      "total": 0.938
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s3-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The whole yard was a circus of screams, fire, and flying embers! Forty cutthroats were pouring through the broken ditch waving swords, while three giant, ugly six-legged wolves bounded over the fences like runaway boulders!",
-    "critique": "Biga: Great chaotic scale and runaway boulder similes.",
+    "content": "Daesung ripped the cedar boards up from the hearth, shoving Yeon down into the dark, earth-scented cellar. \n\n\"Daesung, please!\" Yeon wept, clutching his sleeve from below. \"Don't go out there! Let the Sector Council fight!\"\n\n\"The Council is If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.9,
-      "sensory": 0.89,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.915
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

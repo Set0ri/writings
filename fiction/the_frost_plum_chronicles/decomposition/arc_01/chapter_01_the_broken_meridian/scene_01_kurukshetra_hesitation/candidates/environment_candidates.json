@@ -2,40 +2,43 @@
   {
     "id": "c1-s1-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The sky above Kurukshetra was pressurized to seven atmospheres of ozone and pulverized hematite. Below the chariot chassis, three million iron spears stood at uniform ten-degree forward angles, vibrating with the harmonic resonance of two hundred mechanized siege engines.",
-    "critique": "Sanderson: Strong atmospheric pressure metrics and mechanical arrays, lacks the poetic dread of the flags.",
+    "content": "# Chapter 1: The Duty of the Blade\n\nThe sky above the battlefield was the color of bruised iron.\n\nAcross the plains of Kurukshetra, three million soldiers stood in iron ranks, their spears bristling like a forest of need [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.9,
-      "kinetics": 0.92,
+      "canon": 0.91,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.75,
-      "total": 0.855
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c1-s1-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The sky above the battlefield was the color of bruised iron. Across the plains of Kurukshetra, three million soldiers stood in iron ranks, their spears bristling like a forest of black needles against the ash-choked wind. But the sharpest blade twisting in my gut wasn’t the vanguard—it was their damn flags. Flapping in the hot wind were the crests of my own clan, childhood friends, sword-brothers I had shared wine with, all marching under the black banners of the Great Evil.",
-    "critique": "Rothfuss: Perfect sensory resonance, visceral mourning, and clan betrayal imagery.",
+    "content": "# Chapter 1: The Duty of the Blade\n\nThe sky above the battlefield was the color of bruised iron.\n\nAcross the plains of Kurukshetra, three million soldiers stood in iron ranks, their spears bristling like a forest of needles. But the sharpest blade twisting in my gut wasn’t the enemy's vanguard.\n\nIt was their damn flags.\n\nFlapping in the hot, ash-choked wind were the crests of my own clan. My cousins. My childhood friends. Idiots I had shared wine with, disciples I had beaten black and blue with wooden training swords until they could split waterfalls—all standing under the black banners of the Great Evil.\n\nThey had swallowed the poison whole. Seduced by a fanatic who preached that humanity was an incurable cancer and that every thinking machine and artificial intelligence ever created had to be hunted down and wiped out to purify the earth, they marched to eradicate the world. They couldn't see that behind the zealous rhetoric about purging humans and smashing machines, a handful of greedy old bastards were pulling the strings, using forbidden super-weapons to clear the board for their own private empire.\n\n*Smack!*\n\nA heavy hand slammed into the center of my back, nearly knocking the breath from my lungs.\n\n\"Stop scowling like an old widow, Jin!\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.88,
-      "sensory": 0.97,
-      "feral": 0.88,
-      "total": 0.926
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c1-s1-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "Three million idiots covered in tin plating stood in the dirt, kicking up so much yellow dust you could choke an ox. Black banners flapped everywhere like giant crow wings, each one sporting the crests of cousins who still owed me silver from the winter gambling dens.",
-    "critique": "Biga: Hilarious irreverence and debt complaints, but slightly light on the cosmic tragedy of Kurukshetra.",
+    "content": "# Chapter 1: The Duty of the Blade\n\nThe sky above the battlefield was the color of bruised iron.\n\nAcross the plains of Kurukshetra, three million soldiers stood in iron ranks, their spears bristling like a forest of needles. But the sharpes If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.88,
+      "canon": 0.89,
       "kinetics": 0.85,
-      "sensory": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
       "total": 0.881
-    }
+    },
+    "iteration": 1
   }
 ]

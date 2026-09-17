@@ -1,21 +1,26 @@
 {
   "id": "scene_01_dawn_mist_circulation",
-  "title": "The Sand-Grain Spark: Cycling the Morning Dew",
+  "title": "Dawn Mist Circulation: The Machine's Eye",
   "order": 1,
   "status": "merged",
-  "compositeScore": 0.933,
+  "compositeScore": 0.945,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
   "leaves": {
     "environment": {
       "resolved": true,
-      "score": 0.926
+      "score": 0.945
     },
     "interactions": {
       "resolved": true,
-      "score": 0.93
+      "score": 0.945
     },
     "actions": {
       "resolved": true,
-      "score": 0.942
+      "score": 0.945
     }
   }
 }

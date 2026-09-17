@@ -2,40 +2,43 @@
   {
     "id": "c4-s3-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The ambient airflow exited the residence through the doorway at 1.2 meters per second. Outside, the atmospheric pressure gradient indicated an imminent coastal squall within eighteen hours.",
-    "critique": "Sanderson: Meteorological precision, lacks the ominous chill.",
+    "content": "He had simply marked my family’s hut as the primary target for the fire.\n\nI reached down to my waistband, touching the cold iron chisel strapped against my forearm. \n\n*Let them come,* I thought, a manic, feral thrill hum [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.87,
-      "kinetics": 0.9,
-      "sensory": 0.8,
-      "feral": 0.74,
-      "total": 0.834
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c4-s3-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The morning air outside was heavy and cold, smelling of wet slate and encroaching storm. Down the lane, exhausted villagers were trudging to the ditches with wooden shovels, while behind me in the warm room, Kang sat motionless like an iron statue cast in the likeness of a man.",
-    "critique": "Rothfuss: Haunting image of the iron statue in the doorway.",
+    "content": "He had simply marked my family’s hut as the primary target for the fire.\n\nI reached down to my waistband, touching the cold iron chisel strapped against my forearm. \n\n*Let them come,* I thought, a manic, feral thrill humming through the marrow of my bones.\n\n*Tonight, Southfall Village is going to learn how to bleed.*",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.89,
-      "sensory": 0.96,
-      "feral": 0.85,
-      "total": 0.92
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c4-s3-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The village mud sucked at my bare toes. Up in the watchtower, the alarm bell hung quiet for now, but my nose caught the scent of old pitch and iron. \"A storm's brewing, and it's not just the weather.\"",
-    "critique": "Biga: Great sensory foreshadowing from the protagonist's nose.",
+    "content": "He had simply marked my family’s hut as the primary target for the fire.\n\nI reached down to my waistband, touching the cold iron chisel strapped against my forearm. \n\n*Let them come,* I thought, a manic, feral thrill humming through the mar If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.87,
-      "sensory": 0.9,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.907
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

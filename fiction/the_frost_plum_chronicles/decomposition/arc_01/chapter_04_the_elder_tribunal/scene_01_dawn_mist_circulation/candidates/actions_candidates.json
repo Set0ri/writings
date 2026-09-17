@@ -2,40 +2,43 @@
   {
     "id": "c4-s1-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "I sat cross-legged, initiating the Gentle Breath algorithm. Inhale: 4.2 liters of air at 7°C. Circulation: through the celiac plexus to the L2 vertebra. The violet ember condensed to 0.8 millimeters, yielding a 40% reduction in fifth-rib nociceptive firing.",
-    "critique": "Sanderson: Exceptional physiological tracking of Qi cultivation.",
+    "content": "The Sector Chief’s residence was the only building in Southfall with a slate-tiled roof. \n\nIt sat on a raised mound of crushed limestone near the northern palisade, flanked by two drying barns and a grain warehouse. While the rest of the vi [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.97,
-      "sensory": 0.84,
-      "feral": 0.8,
-      "total": 0.888
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c4-s1-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Sitting cross-legged on the straw mat, I took a slow breath through my teeth and began cycling the Gentle Breath of the Morning Dew. Inhale: cold mist, salt, and pine ash. Circulate: down through the throat, past the cracked collarbone, into the lower abdomen. Compress: igniting the tiny, stubborn violet ember resting against my spine. A drop of condensed life-force, no larger than a grain of sand. But a single spark in dry grass can burn a forest.",
-    "critique": "Rothfuss: Lyrical meditation on the spark in dry grass.",
+    "content": "The Sector Chief’s residence was the only building in Southfall with a slate-tiled roof. \n\nIt sat on a raised mound of crushed limestone near the northern palisade, flanked by two drying barns and a grain warehouse. While the rest of the village lived in drafty huts smelling of damp thatch, the Chief’s house had solid cedar walls, oiled paper windows, and a heavy oak door reinforced with iron bands.\n\nTwo village guards leaned against the porch posts, holding rusted boar-spears. Both were half-asleep, their chins tucked into their wool collars to escape the damp wind.\n\nThey didn't even notice me walk up the wooden steps.\n\nI didn't knock. I simply kicked the heavy oak door open with the flat of my bare heel.\n\n*THUD.*\n\nThe door swung inward, banging loudly against the interior wall.\n\nInside, the room was vast and eerily quiet. A large cedar desk dominated the center, stacked neatly with rolls of sheepskin ledgers, brass weights, and small wooden abacuses. A fire crackled in a stone hearth, casting long, dancing shadows across the polished floorboards.\n\nSitting behind the desk was Uncle Kang.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.93,
-      "sensory": 0.97,
-      "feral": 0.88,
-      "total": 0.942
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c4-s1-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "By the third watchman bell, my fifth rib stopped yelling like an angry mother-in-law. I washed my face in the icy rain barrel, strapped my father's iron chisel to the inside of my right forearm with a strip of leather, and grinned. \"Time to go pay Uncle Kang a little family visit.\"",
-    "critique": "Biga: Great preparation momentum and mother-in-law humor.",
+    "content": "The Sector Chief’s residence was the only building in Southfall with a slate-tiled roof. \n\nIt sat on a raised mound of crushed limestone near the northern palisade, flanked by two drying barns and a grain warehouse. While the rest of the vi A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.93,
-      "kinetics": 0.9,
-      "sensory": 0.89,
-      "feral": 0.98,
-      "total": 0.923
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

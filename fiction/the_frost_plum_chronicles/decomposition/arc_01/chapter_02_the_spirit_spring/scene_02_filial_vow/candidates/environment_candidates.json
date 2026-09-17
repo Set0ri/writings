@@ -2,40 +2,43 @@
   {
     "id": "c2-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The acoustic dampening of the cedar partition reduced speech volume by twelve decibels. Outside, the atmospheric pressure dropped as coastal storm clouds approached from the southwest at fifteen knots.",
-    "critique": "Sanderson: Accurate meteorological physics, lacks the intimate melancholy.",
+    "content": "*** [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.85,
-      "kinetics": 0.87,
-      "sensory": 0.78,
-      "feral": 0.72,
-      "total": 0.811
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Rainwater dripped from the eaves into an empty stone trough, each drop echoing in the small room like the ticking of an iron clock. The cedar partition was dark with damp, and through the paper lattice window, the gray sky seemed to press against the thatched roof.",
-    "critique": "Rothfuss: Beautiful acoustic melancholy and temporal dread.",
+    "content": "***",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.88,
-      "sensory": 0.96,
-      "feral": 0.82,
-      "total": 0.912
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The room was quiet enough to hear an ant sneeze. Outside, the muddy ditch water was rising, and the smell of wet thatch reminded me of an old goat barn before the spring slaughter.",
-    "critique": "Biga: Funny ant similes, lacks the heavy filial tragedy.",
+    "content": "*** If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
       "canon": 0.89,
-      "kinetics": 0.84,
-      "sensory": 0.88,
-      "feral": 0.94,
-      "total": 0.885
-    }
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

@@ -2,40 +2,43 @@
   {
     "id": "c5-s2-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "Daesung locked the bolt. He rotated to face Jin, but stopped: Jin was holding a carbon-steel filleting knife, mass 210 grams, grip reversed, optical reflectance matching ultraviolet excitation.",
-    "critique": "Sanderson: Knife mass and optical reflectance diagnostics.",
+    "content": "Inside the hut, Daesung was on his feet in an instant, reaching for his boar-spear leaning against the wall.\n\n\"Yeon! Into the cellar!\" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. \"Jin, get behind your moth [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
       "canon": 0.91,
-      "kinetics": 0.96,
-      "sensory": 0.83,
-      "feral": 0.81,
-      "total": 0.883
-    }
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s2-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "He turned toward me, spear gripped tightly. \"Jin, get in the—\" He stopped. I was standing by the open doorway. The rusted filleting knife was tucked casually in my right hand. The reflection of the burning grain silo danced across my pupils, turning them into twin pools of liquid violet. \"Jin?\" Daesung breathed, as if I were a stranger who had stepped through the wall.",
-    "critique": "Rothfuss: Lyrical transformation from frail boy to ancient sword master.",
+    "content": "Inside the hut, Daesung was on his feet in an instant, reaching for his boar-spear leaning against the wall.\n\n\"Yeon! Into the cellar!\" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. \"Jin, get behind your mother!\"\n\n\"I'm right behind you, Father,\" I lied, keeping my voice steady in the smoke.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.92,
-      "sensory": 0.97,
-      "feral": 0.89,
-      "total": 0.942
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s2-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "I stepped onto the porch into the flying embers, rolling my shoulders until the joints cracked like whips. \"Kang's little script just caught fire. Come on, Father. Let's go teach your brother how to bury a wolf.\"",
-    "critique": "Biga: Unbeatable hype line and bone-cracking shoulder rolls.",
+    "content": "Inside the hut, Daesung was on his feet in an instant, reaching for his boar-spear leaning against the wall.\n\n\"Yeon! Into the cellar!\" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. \"Jin, get behind your moth A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.92,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.936
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

@@ -1,7 +1,25 @@
 # Leaf Node: Actions (A*)
-**Scene:** The Chief's Hearth: The Blackmail Ledger on Cedar
-**Council Score:** Total 0.935 (Canon: 0.96, Kinetics: 0.91, Sensory: 0.95, Feral: 0.91)
+**Scene:** The Chief's Compound: Iron Table Standoff
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-"Listen closely," I said, leaning over the desk until our faces were six inches apart. "First: my father doesn't dig the double watch anymore. He sleeps in his own bed at night. Second: our household gets double rations of rice and three jars of salt every week, delivered to our door without your fat brat Bao showing up to collect tax. Third: you stop choking your son in the dark. If I see another bruise on that idiot’s neck, I won't just tell the Council—I’ll take my father’s hunting axe and chop off your fingers one by one." I smiled, showing all my teeth. "You understand the terms, Uncle?"
+"Observation," Kang muttered, his lips moving without any corresponding warmth in his cheeks. "Subject Chung Jin was categorized as low-threat biological unit. Probability of nocturnal surveillance across coastal cliffs: 0.04 percent. Causal variance unaccounted for."
+
+He focused his eyes back on me. 
+
+"How did you reach the western shelf without triggering the trip-wires?"
+
+I let out a loud, mocking laugh that echoed through the high cedar rafters.
+
+"Trip-wires? You think some frayed hemp string tied to rusted cowbells can keep me out? Uncle, when I was ten years old, I used to sneak into the forbidden plum orchards of Mount Hua past three layers of wind-detecting spirit arrays just to steal peaches! Your little wires are cute, though. Very rustic."
+
+Kang stared at me. 
+
+His head tilted slightly to the right—an angle of exactly fifteen degrees. 
+
+"Mount Hua," Kang repeated. The word seemed to hit an internal barrier inside his skull. "Querying historical database. Sector reference: zero. Clan designation: ancient extinct classification. Status: irrecoverable heresy."
+
+He leaned forward, placing his thick, scarred palms flat on the wood.
+
+"What are your terms, subject?"

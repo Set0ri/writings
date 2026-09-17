@@ -1,10 +1,40 @@
-### Boar-Spear Roar: The Wolf Pack at the Sluice Breach
-**Composite Council Score:** 0.944
+### Pack at the Breach: Cleavers from the Hearth
+**Composite Council Score:** 0.945
 
 ---
 
-The muster yard was an abattoir. The fire from burning grain barns cast jagged, dancing shadows across the mud, turning the center of Southfall into a pit of red hell. Thick, greasy smoke choked the air, smelling of burning barley, scorched timber, and the sulfuric tang of pitch. Outside, an inhuman, bone-chilling howl echoed through the smoke—a deep, multi-throated baying that vibrated through the mud floor beneath our boots. *Aroo-oo-oo-agh!* "The wolves," Daesung whispered, all color draining from his face. "The fire drew the iron-jaw wolves from the deep pine."
+Daesung ripped the cedar boards up from the hearth, shoving Yeon down into the dark, earth-scented cellar. 
 
-At the eastern palisade breach, forty Black Wave Bandits had swarmed through the shattered sluice gate, waving curved scimitars and shouting bloodthirsty oaths. But they weren't in control. Behind them, leaping through the burning wreckage of the wooden stakes, were three massive, six-legged beasts—**Iron-Jaw Shadow Wolves**. Long strings of black, viscous saliva dripped from jaws reinforced with exterior bone plates that could crack an oak shield like a walnut. "Hold the ditch!" Daesung roared, his voice echoing over the screaming. My father was a terrifying sight. Knee-deep in bloody clay, his tunic ripped to shreds, he held his seven-foot boar-spear locked under his arm, placing himself squarely between the jaws of the wild and the fleeing children of the village.
+"Daesung, please!" Yeon wept, clutching his sleeve from below. "Don't go out there! Let the Sector Council fight!"
 
-*CRUNCH.* The charging wolf impaled itself on the heavy iron spearhead. The impact lifted Daesung six inches off the ground, the ash-wood groaning under the force, but my father’s boots bit into the clay and held. With a feral roar of pure paternal fury, he twisted the spear-shaft, cracking the monster's spine with a sickening snap and kicking the dying carcass into the ditch. "Fall back to the stone well!" Daesung bellowed to the terrified boys. "Run!" But before he could wrench his spear free from the dead beast, a lean, scarred bandit captain stepped over a burning timber, slashing a notched scimitar across Daesung’s right shoulder. *SHHK.* Blood sprayed into the mud, and my father stumbled back against a broken cart, his right arm hanging limp.
+"The Council is five old men and Kang!" Daesung shouted back, his face illuminated by the growing orange glare outside the paper window. "The third trench is manned by boys! If I don't hold the gate, the cutthroats will butcher every child in the lane!"
+
+He kissed her forehead, pried her fingers from his cuff, and slammed the heavy oak hatch shut, throwing the iron drop-bolt into place.
+
+He turned toward me, his spear gripped tightly in both hands. "Jin, get in the—"
+
+He stopped.
+
+I was standing by the open doorway. The rusted filleting knife was tucked casually into my right hand, hanging loose at my side.
+
+The reflection of the burning grain silo danced across my pupils, turning them into twin pools of liquid violet.
+
+"Jin?" Daesung breathed, looking at me as if I were a stranger who had stepped through the wall.
+
+"You're a good man, Daesung," I said, a faint, cold smile touching my lips. "A terrible judge of character, but a very good man."
+
+Outside, an inhuman, bone-chilling howl echoed through the smoke.
+
+It wasn't a man. It wasn't a bandit.
+
+It was a deep, multi-throated baying that vibrated through the mud floor beneath our boots. A sound that belonged to the ancient, savage dark.
+
+*Aroo-oo-oo-agh!*
+
+"The wolves," Daesung whispered, all color draining from his face. "The blood... the fire drew the iron-jaw wolves from the deep pine."
+
+I stepped out onto the porch, smelling the burning pitch and the metallic stench of fresh blood.
+
+"Kang’s little script just caught fire," I murmured, rolling my shoulders until the joints cracked like whips. 
+
+"Come on, Father. Let's go teach your brother how to bury a wolf."

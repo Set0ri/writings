@@ -2,40 +2,43 @@
   {
     "id": "c3-s2-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The dermal tissue of Bao’s cervical zone exhibited four elliptical hematomas, diameter 18 millimeters, with tissue compression depth of four millimeters. The pattern corresponded to mechanical steel clamp jaws rather than human fingers.",
-    "critique": "Sanderson: Rigorous forensic analysis of the bruising.",
+    "content": "\"Your father isn't here, Bao,\" I whispered, my voice dropping its playful edge, turning flat and razor-sharp. \"And even if he were... he wouldn't save you. Would he?\"\n\nBao's flailing stopped instantly.\n\nHis broad back we [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.95,
-      "sensory": 0.84,
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
       "feral": 0.78,
-      "total": 0.885
-    }
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c3-s2-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Cold daylight shone on the boy's exposed neck. The bruise was dark, purplish-black, stamped into the muscle beside his windpipe. It wasn't the mess of a human fist—it was four distinct indentations, a mechanical clamp that hadn't loosened even when the boy choked.",
-    "critique": "Rothfuss: Somber, haunting visual discovery of parental abuse.",
+    "content": "\"Your father isn't here, Bao,\" I whispered, my voice dropping its playful edge, turning flat and razor-sharp. \"And even if he were... he wouldn't save you. Would he?\"\n\nBao's flailing stopped instantly.\n\nHis broad back went rigid under my pole.\n\nI reached out with my left hand and hooked two fingers into the collar of his padded leather vest, pulling the dyed wool back just enough to expose his neck.\n\nIn the cold daylight, the bruise was unmistakable. Four distinct, purplish-black indentations, crushed deep into the muscle beside his windpipe.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.9,
-      "sensory": 0.96,
-      "feral": 0.86,
-      "total": 0.925
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c3-s2-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The big tough bully was bawling like a lost calf in the briars, snot and ditch-water running down his fat cheeks into the collar of his grease-stained vest.",
-    "critique": "Biga: Great visceral patheticness, matches Chung Myung disgust.",
+    "content": "\"Your father isn't here, Bao,\" I whispered, my voice dropping its playful edge, turning flat and razor-sharp. \"And even if he were... he wouldn't save you. Would he?\"\n\nBao's flailing stopped instantly.\n\nHis broad back went rigid under my po If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.86,
-      "sensory": 0.89,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.903
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

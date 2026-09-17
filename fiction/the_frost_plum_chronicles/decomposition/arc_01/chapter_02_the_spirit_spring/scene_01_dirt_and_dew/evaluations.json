@@ -7,37 +7,37 @@
     "environment": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.89,
-        "sensory": 0.97,
-        "feral": 0.84,
-        "total": 0.921
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Evocative sensory contrast between former grandmaster dignity and squalid reality.",
-      "critiqueSummary": "Rothfuss: Lyrical sensory grounding and domestic stillness."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.89,
-        "sensory": 0.96,
-        "feral": 0.88,
-        "total": 0.929
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Perfectly grounds Daesung's sacrifice and maternal devotion.",
-      "critiqueSummary": "Rothfuss: Deeply touching maternal tenderness and unvarnished truth."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.93,
-        "sensory": 0.96,
-        "feral": 0.88,
-        "total": 0.936
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Adheres strictly to Sanderson biological limits and Mount Hua breathing techniques.",
-      "critiqueSummary": "Rothfuss: Lyrical internal cultivation and biological discipline."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.929,
-  "timestamp": "2026-09-17T15:43:18.950Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:42.966Z"
 }

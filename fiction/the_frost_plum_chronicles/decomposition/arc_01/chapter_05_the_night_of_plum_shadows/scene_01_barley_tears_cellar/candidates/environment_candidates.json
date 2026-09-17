@@ -2,40 +2,43 @@
   {
     "id": "c5-s1-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "A fifty-pound burlap sack containing 22.6 kilograms of Hordeum vulgare and two glazed stoneware jars containing 8.2 kilograms of sodium chloride rested on the earthen floor. Ambient temperature was 11°C.",
-    "critique": "Sanderson: Precise mass and material quantification, lacks the rich scent of porridge.",
+    "content": "# Chapter 5: The Night the Palisade Burned\n\nDusk fell over Southfall like a wet wool blanket.\n\nJust as Kang had promised, two village laborers had arrived at our door an hour before sunset, grunting under the weight of a [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.88,
-      "kinetics": 0.89,
-      "sensory": 0.8,
-      "feral": 0.72,
-      "total": 0.831
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s1-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "For the first time in years, the little hut smelled of steaming white barley instead of boiled turnip peelings. Golden light from the stone hearth filled the room with warmth, and the fragrance of salt pork simmered with cracked grain drifted into the drafty corners, chasing away the cold sea-damp.",
-    "critique": "Rothfuss: Beautiful domestic warmth, contrasting hunger with feast.",
+    "content": "# Chapter 5: The Night the Palisade Burned\n\nDusk fell over Southfall like a wet wool blanket.\n\nJust as Kang had promised, two village laborers had arrived at our door an hour before sunset, grunting under the weight of a fifty-pound sack of polished white barley and two heavy clay jars of coastal salt. \n\nThey didn't look me in the eye. They set the goods down on our dirt floor, mumbled that the Sector Chief had sent his compliments, and practically ran back into the lane.\n\nWhen my father walked through the door after the evening bell, he stopped dead in his tracks.\n\nHis shovel slipped from his calloused hand, clattering against the threshold. He stared at the sack of grain, then at the sealed jars of salt, his mouth slightly open.\n\n\"Yeon?\" Daesung asked, his voice shaking like a child's. \"What... where did this come from?\"\n\n\"Kang sent it,\" my mother whispered, coming out from behind the woven partition, her hands trembling as she smoothed her apron. \"He sent two porters from the central stores. They said... they said it was your family share.\"\n\nDaesung didn't speak. \n\nHe slowly walked across the room, dropped to both knees before the sack, and plunged his thick, scarred fingers into the barley. He lifted a handful of the white grains to his nose, inhaling the sweet, dusty scent.\n\nA single, heavy tear leaked from the corner of his eye, rolling down into his rough stubble.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.97,
-      "kinetics": 0.89,
-      "sensory": 0.98,
-      "feral": 0.84,
-      "total": 0.926
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s1-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The whole hut smelled glorious! Actual barley! Real salt! Big fat chunks of salt pork bobbing in the pot like little islands of joy! My stomach roared so loud it scared the spiders on the roof.",
-    "critique": "Biga: Great visceral joy and spider similes.",
+    "content": "# Chapter 5: The Night the Palisade Burned\n\nDusk fell over Southfall like a wet wool blanket.\n\nJust as Kang had promised, two village laborers had arrived at our door an hour before sunset, grunting under the weight of a fifty-pound sack of If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.86,
-      "sensory": 0.91,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.911
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

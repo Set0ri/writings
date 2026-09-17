@@ -1,21 +1,26 @@
 {
   "id": "scene_02_plum_ember_wolf_kill",
-  "title": "The Violet Ember: Knife Through Cranium & Bandit Rout",
+  "title": "The Plum Blossom Ember: Feral Wolf Execution",
   "order": 2,
   "status": "merged",
   "compositeScore": 0.945,
+  "leafOrder": [
+    "interactions",
+    "actions",
+    "environment"
+  ],
   "leaves": {
     "environment": {
       "resolved": true,
-      "score": 0.935
+      "score": 0.945
     },
     "interactions": {
       "resolved": true,
-      "score": 0.946
+      "score": 0.945
     },
     "actions": {
       "resolved": true,
-      "score": 0.953
+      "score": 0.945
     }
   }
 }

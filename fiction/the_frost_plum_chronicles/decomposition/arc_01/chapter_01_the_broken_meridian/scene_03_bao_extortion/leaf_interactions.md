@@ -1,7 +1,87 @@
 # Leaf Node: Interactions (I*)
 **Scene:** The Feral Grin: Cousin Bao & The Four-Finger Clamp
-**Council Score:** Total 0.932 (Canon: 0.96, Kinetics: 0.9, Sensory: 0.95, Feral: 0.91)
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-"Well, look at that," Bao sneered, kicking my mother's wash basin aside with a wet clatter. "The dead boy woke up. Uncle Daesung, my father wants to know why you're sitting around gossiping. The south defense ditch isn't digging itself. Report to the palisade or my father cuts your ration markers." Daesung set his wooden bowl down, his broad shoulders curling forward in quiet submission: "I am coming, Bao. I will take the double shift." Bao sneered, then leaned over my straw mat: "Next time you fall, cousin, make sure you land on your throat. Save the village the grain." As he leaned in, my sharp eyes caught something beneath his collar: a dark, purplish bruise shaped like the crushing clamp of four adult fingers. *Oho. The little pig gets choked at home by his dear Sector Chief father, and comes here to play big tiger?* A slow, wide, completely unhinged grin spread across my bruised face. "You know, little cousin," I whispered, voice dripping with honeyed venom, "you talk an awful lot for a pig that's already been bruised for the butcher. Get your muddy boots off my floor before I rip your ears off and feed them to the iron-jaw wolves."
+Before I could plot out the logistics of beating historians, the front door rattled violently.
+
+*KABAM.*
+
+The wooden door slammed open so hard the leather hinges groaned, smacking flat against the clay wall.
+
+Muddy wind blew into the shack. Standing in the threshold was a thick, round-faced youth about sixteen, wearing a heavy leather vest that smelled strongly of pig lard. His boots were thick with red clay, which he deliberately tracked across our clean dirt floor.
+
+Behind him loomed two older boys leaning on iron-tipped hunting spears, smirking like hyenas.
+
+"Well, look at that," the boy at the front sneered, kicking my mother's wash basin out of his way with a wet *clatter*. "The dead boy woke up. Uncle Daesung, my father wants to know why you're sitting around gossiping. The south defense ditch isn't digging itself."
+
+Yeon hurried to her feet, instinctively bowing her head. "Bao. Jin only just opened his eyes. His father was only giving him his medicine—"
+
+"Did I ask you, Auntie?" Bao barked rudely, puffing out his chest. "My father is the Sector Chief. When the Sector Chief blows the horn, every man reports to the palisade. If your house doesn't dig, my father cuts your ration markers for tonight. You know the rules."
+
+Daesung didn't shout. He didn't curse. He just set the wooden bowl down on the dirt, his broad shoulders curling forward in quiet, familiar submission.
+
+"I am coming, Bao," Daesung said in a low, even voice. "Tell your father I will take the double shift."
+
+I lay on my mat, watching the exchange.
+
+*Look at this,* I thought, my disgust mounting by the second. 
+
+My father was a veteran hunter with shoulders like stone slabs. If he threw a single honest punch, he could drive this arrogant meatball through the wall. Yet he took the disrespect lying down, swallowing his pride because the Sector Chief was his direct younger brother—a brother he had sworn on their mother's deathbed to shelter and protect.
+
+Bao sneered, satisfied with Daesung's submission. Then his eyes drifted down to me.
+
+He took a heavy step toward my pallet.
+
+As he got closer, my sharp eyes caught something peeking out from under the collar of his leather vest.
+
+A dark, purplish bruise. Not from a fist or a spar—it was shaped like the brutal, crushing grip of four adult fingers.
+
+*Oho,* I thought, my mind clicking the pieces together instantly. *So the little pig gets beaten at home by his dear Sector Chief father, and comes here to play the big tiger?*
+
+Bao leaned down, his foul breath washing over my face.
+
+"Next time you wander out past the boundary wall, cousin," Bao hissed, "make sure you land on your throat. It'll save the village the grain of feeding another useless cripple."
+
+I didn't cower. I didn't flinch.
+
+Instead, a slow, wide, completely unhinged grin spread across my bruised face.
+
+It was the classic, terrifying Mount Hua smile. The smile Chung Myung gave right before he broke every bone in a rival disciple's body and stole their purse.
+
+Bao's sneer froze mid-twist.
+
+I tilted my head, looking straight into his pupils.
+
+"You know, little cousin," I whispered, my voice dripping with honeyed, venomous cheer. "You talk an awful lot for a pig that's already been bruised for the butcher."
+
+Bao gasped. His hand flew instinctively to his collar, trying to cover the bruise.
+
+"W-What did you say?!" he stammered, his bravado vanishing like smoke in a gale.
+
+I leaned forward just an inch, my eyes glittering with the feral light of a veteran who had killed kings.
+
+"I said: get your muddy boots off my floor before I rip your ears off and feed them to the iron-jaw wolves."
+
+Bao took an involuntary step back. His boots tangled in the hem of his own coat, and he nearly tumbled backward into the fire pit. His skin turned the color of curdled milk. 
+
+He didn't know why. He was sixteen, armed, twice my size, and I was a bedridden shrimp with cracked ribs. But every primal, animal instinct in his hindbrain was screaming that if he took one more step toward that bed, he was going to die.
+
+"Y-You're crazy," Bao squeaked, his voice cracking into a panicked shriek. He backed away toward the door, shoving his two spear-wielding lackeys out of the way. "Uncle Daesung! Control your brat! Three minutes at the ditch, or my father will take all your salt!"
+
+He turned and bolted into the rain as if the demons of the Netherworld were biting his heels.
+
+Daesung stood by the door, completely dumbfounded, staring at the empty lane, then looking back at me with wide, bewildered eyes.
+
+"Jin... what in the world was that?"
+
+"Nothing, Father," I said cheerfully, collapsing back against the straw with a dramatic groan. "Ahhh! My ribs! My back! Father, bring me some more soup! Your son is wasting away!"
+
+Daesung stared at me for three more seconds, shook his head in utter disbelief, and grabbed his shovel. "I will be back by dusk, Yeon. Keep an eye on him. I think the fall knocked a screw loose in his head."
+
+The door clicked shut.
+
+I closed my eyes, listening to the rain drumming on the roof.
+
+Two hundred years.

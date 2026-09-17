@@ -2,40 +2,43 @@
   {
     "id": "c5-s1-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Daesung, sleep with footwear secured,\" Jin commanded. \"Statistical variance indicates high probability of incendiary incursion at 03:00.\" Daesung looked at the grain: \"My brother fulfilled his filial agreement.\"",
-    "critique": "Sanderson: Logical threat forecasting, lacks Daesung's heartbreaking weeping.",
+    "content": "\"Mother,\" he choked out, staring down at the grain. \"Mother... you see? He remembered. My brother remembered.\"\n\nHe bowed his head, resting his forehead against the coarse burlap sack, his massive shoulders heaving in silent, shuddering sobs \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.89,
-      "kinetics": 0.88,
-      "sensory": 0.8,
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
       "feral": 0.78,
-      "total": 0.843
-    }
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c5-s1-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "Daesung dropped his shovel, plunging his thick, scarred fingers into the barley, lifting a handful to his nose. A single, heavy tear rolled into his rough stubble. \"Mother... you see? He remembered. My brother remembered.\" Twenty years of being ground into the dirt, forgiven in a single second because his younger brother tossed him a sack of grain from communal stores. I looked at the porridge. It tasted of ash. \"Father,\" I said quietly. \"Tonight, I want you and Mother to sleep with your boots on.\"",
-    "critique": "Rothfuss: Deeply moving, heartbreaking filial innocence and ash metaphor.",
+    "content": "\"Mother,\" he choked out, staring down at the grain. \"Mother... you see? He remembered. My brother remembered.\"\n\nHe bowed his head, resting his forehead against the coarse burlap sack, his massive shoulders heaving in silent, shuddering sobs. \n\nTwenty years of being ground into the dirt. Twenty years of digging ditches in freezing clay, taking the midnight shifts, eating boiled marsh-weeds, watching his wife’s hands crack from frostbite—all forgiven in a single second because his younger brother had tossed him a sack of grain from the communal stores.\n\nI stood in the corner of the hut, leaning my shoulder against the cedar post, watching my father weep.\n\nMy hands curled into fists until my knuckles turned white.\n\n*You fool,* I thought, an unbearable, burning sorrow twisting in my gut. *You glorious, soft-hearted, stubborn fool. He didn't remember your mother's vow. He doesn't even have a mother. He's fattening you up so the knives cut deeper tonight.*\n\nYeon wiped her eyes with her sleeve, smiling through her tears as she stoked the fire pit. For the first time in years, the little hut smelled of steaming white porridge instead of boiled turnip peelings. She scooped a generous portion of salt into the pot, stirring with a wooden ladle as the broth thickened into a rich, fragrant stew.\n\nWhen she placed the wooden bowl in front of me, it was filled to the brim, topped with three chunks of salt pork Daesung had insisted on trading for at the butcher's shed.\n\n\"Eat, Jin,\" my father said, wiping his face with the back of his dirty sleeve, grinning at me like an idiot. \"Eat until your belly is round. Tomorrow, your old man will ask Kang to assign you as a storekeeper's apprentice. No more roaming past the fences. We're going to build a proper life for you.\"\n\nI looked down at the steaming porridge. \n\nIt looked delicious. To a fifteen-year-old body that had known only hunger, it was a feast fit for a king.\n\nI picked up the wooden spoon, took a bite, and swallowed. \n\nIt tasted of ash.\n\n\"Father,\" I said quietly, setting the spoon down.\n\nDaesung looked up, his spoon halfway to his mouth. \"What is it, son? Is it too salty?\"\n\n\"Tonight,\" I said, looking straight into his tired, gentle eyes, \"I want you and Mother to sleep with your boots on.\"\n\nDaesung frowned. \"With our boots on? Why in the world would we sleep with our boots on?\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.98,
-      "kinetics": 0.9,
-      "sensory": 0.97,
-      "feral": 0.88,
-      "total": 0.938
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c5-s1-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "*You glorious, soft-hearted, stubborn fool,* I thought, fists clenching until my knuckles cracked. *He didn't remember your mother! He doesn't even have a mother! He's fattening you up so the butcher's knife cuts deeper!* \"Listen to me, Daesung,\" I barked like an elder brother. \"Get in the root cellar tonight. For once in your life, let your son carry the shovel!\"",
-    "critique": "Biga: Unbeatable Chung Myung protective fury and filial reversal.",
+    "content": "\"Mother,\" he choked out, staring down at the grain. \"Mother... you see? He remembered. My brother remembered.\"\n\nHe bowed his head, resting his forehead against the coarse burlap sack, his massive shoulders heaving in silent, shuddering sobs \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.88,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.926
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

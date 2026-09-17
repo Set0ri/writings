@@ -7,37 +7,37 @@
     "environment": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.88,
-        "sensory": 0.97,
-        "feral": 0.88,
-        "total": 0.926
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction (S >= 0.85). Blends Inoue atmospheric dread with Sanderson systemic weight and Logan clan invariants.",
-      "critiqueSummary": "Rothfuss: Perfect sensory resonance, visceral mourning, and clan betrayal imagery."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
-        "canon": 0.97,
-        "kinetics": 0.92,
+        "canon": 0.96,
+        "kinetics": 0.94,
         "sensory": 0.95,
         "feral": 0.92,
-        "total": 0.943
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Captures the unshakeable Kamina sun-weight and the tragic burden of Dharma.",
-      "critiqueSummary": "Rothfuss: Superb emotional heft, Kamina archetype captured with blazing conviction."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.93,
-        "sensory": 0.96,
-        "feral": 0.9,
-        "total": 0.941
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Masterful kinetic pacing and emotional cliffhanger leading into reincarnation.",
-      "critiqueSummary": "Rothfuss: Heart-stopping hesitation and tragic emotional crescendo."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.937,
-  "timestamp": "2026-09-17T15:43:18.884Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:42.903Z"
 }

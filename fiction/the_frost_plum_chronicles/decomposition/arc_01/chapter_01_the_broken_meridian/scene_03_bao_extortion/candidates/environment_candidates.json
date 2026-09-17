@@ -2,40 +2,43 @@
   {
     "id": "c1-s3-e-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "The door unlatched under forty kilograms of shear force. The intruder tracked approximately two kilograms of moist red clay across the dry floorboards, introducing high levels of particulate grit.",
-    "critique": "Sanderson: Too mechanical, misses the greasy lard smell and rain gust.",
+    "content": "My eye twitched again. This time, it didn't stop.\n\n*Bandits?*\n*Heretics?!*\n\n*Those ungrateful, rotten, brain-dead bastards!* \n\nWe bled for that continent! We stood in the mud and took the brunt of the black banners so th [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.86,
-      "kinetics": 0.91,
-      "sensory": 0.79,
-      "feral": 0.74,
-      "total": 0.831
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c1-s3-e-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "A gust of cold, muddy wind blasted through the open threshold, smelling of pig lard, wet wool, and old iron. Red clay smeared the clean floor where heavy boots stomped, and the fire in the stone hearth flickered violently against the sudden draft.",
-    "critique": "Rothfuss: Atmospheric and tactile, sets up the hostile intrusion well.",
+    "content": "My eye twitched again. This time, it didn't stop.\n\n*Bandits?*\n*Heretics?!*\n\n*Those ungrateful, rotten, brain-dead bastards!* \n\nWe bled for that continent! We stood in the mud and took the brunt of the black banners so their ancestors could sleep in peace, and they turned us into bedtime monsters?!\n\n*Just wait,* I fumed silently, my fists clenching the straw until my knuckles popped. *Just you wait. When I find what’s left of my sect, I'm going to track down whoever wrote those history books and beat them with a wooden stick until they can't sit for a month!*",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.88,
+      "canon": 0.96,
+      "kinetics": 0.94,
       "sensory": 0.95,
-      "feral": 0.85,
-      "total": 0.91
-    }
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c1-s3-e-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "KABAM. The door banged flat against the clay wall, vibrating the entire shack. In barged a round, greasy teenager who looked like he had been dipped in pig fat, trailing mud everywhere like a wandering buffalo.",
-    "critique": "Biga: Great comedic punchiness and caricatured bully entrance.",
+    "content": "My eye twitched again. This time, it didn't stop.\n\n*Bandits?*\n*Heretics?!*\n\n*Those ungrateful, rotten, brain-dead bastards!* \n\nWe bled for that continent! We stood in the mud and took the brunt of the black banners so their ancestors could  If the Netherworld had a sewer, it smelled better than this.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.86,
-      "sensory": 0.89,
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
       "feral": 0.96,
-      "total": 0.903
-    }
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

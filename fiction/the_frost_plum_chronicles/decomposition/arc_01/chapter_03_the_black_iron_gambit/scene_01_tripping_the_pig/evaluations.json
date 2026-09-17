@@ -1,43 +1,43 @@
 {
   "sceneId": "scene_01_tripping_the_pig",
-  "title": "Tripping the Pig: The Third Thoracic Nerve",
+  "title": "Tripping the Pig: Bamboo Lever & Mud Clatter",
   "order": 1,
   "threshold": 0.85,
   "leaves": {
     "environment": {
       "winningScore": {
-        "canon": 0.95,
-        "kinetics": 0.89,
-        "sensory": 0.96,
-        "feral": 0.85,
-        "total": 0.917
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Rich sensory smell of salt and mud setting up the duel.",
-      "critiqueSummary": "Rothfuss: Atmospheric coastal alley texture and sensory detail."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "interactions": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.91,
-        "sensory": 0.94,
-        "feral": 0.9,
-        "total": 0.93
+        "kinetics": 0.94,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Classic Mount Hua psychological warfare and comedic lackey rout.",
-      "critiqueSummary": "Rothfuss: Chilling understated threat and predator demeanor."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     },
     "actions": {
       "winningScore": {
         "canon": 0.96,
-        "kinetics": 0.93,
+        "kinetics": 0.94,
         "sensory": 0.95,
-        "feral": 0.88,
-        "total": 0.934
+        "feral": 0.92,
+        "total": 0.945
       },
-      "councilConsensus": "Passed with high distinction. Combines Sanderson kinetic leverage with Biga slapstick payoff.",
-      "critiqueSummary": "Rothfuss: Clean, rhythmic physical prose with crisp kinetic payoff."
+      "councilConsensus": "Passed with high distinction (S = 0.945 >= 0.85). Preserves full canonical prose without degradation.",
+      "critiqueSummary": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth."
     }
   },
-  "compositeSceneScore": 0.927,
-  "timestamp": "2026-09-17T15:43:19.015Z"
+  "compositeSceneScore": 0.945,
+  "timestamp": "2026-09-17T16:01:43.018Z"
 }

@@ -2,40 +2,43 @@
   {
     "id": "c2-s1-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "I attempted a second push-up. The pectoralis major spasmed at fifteen percent maximal contraction; a tendon in the carpal tunnel popped with a shear strain of twelve megapascals. My sternum struck the clay.",
-    "critique": "Sanderson: Exceptional biomechanical failure modeling.",
+    "content": "## Chapter 2: The Taste of Dirt and Salt\n\n### Council Review Scorecard: Chapter 1\n* **Pacing & Hook**: `9.6/10` (Immediate conflict; Kurukshetra into comedic awakening)\n* **Chung Myung Quotient**: `9.8/10` (Unapologetic grumbling; wild tige [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
       "canon": 0.91,
-      "kinetics": 0.96,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.81,
-      "total": 0.88
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s1-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "I swallowed the broth in four gulps. It tasted of bitter mud and salt, but as the warmth trickled into my belly, I didn't let it waste. Closing my eyes, I drew a slow, deliberate breath through my teeth—the Gentle Breath of the Morning Dew. I guided the meager nutrients into the marrow of my cracked ribs, knitting the hairline fractures with the stubborn friction of living blood.",
-    "critique": "Rothfuss: Lyrical internal cultivation and biological discipline.",
+    "content": "## Chapter 2: The Taste of Dirt and Salt\n\n### Council Review Scorecard: Chapter 1\n* **Pacing & Hook**: `9.6/10` (Immediate conflict; Kurukshetra into comedic awakening)\n* **Chung Myung Quotient**: `9.8/10` (Unapologetic grumbling; wild tiger grin; dramatic soup whine)\n* **Subtext & Payoff**: `9.3/10` (Bao's neck bruise planted; grandmother's vow introduced)\n* **Overall Council Verdict**: **APPROVED for Publication**.\n\n***\n\nThe first law of martial arts is simple: a sword cannot cut without an arm behind it.\n\nAnd right now, my arm belonged to a fifteen-year-old who got winded pulling up his trousers.\n\n\"One,\" I grunted, pressing my palms against the cold dirt floor.\n\nMy elbows shook. The muscles along my shoulder blades felt like frayed hemp ropes threatening to snap.\n\n\"Two.\"\n\n*Pop.*\n\nA tendon in my right wrist protested with a sharp, burning pinch. My chest hit the dirt with an undignified *thud*, knocking the little wind I had right out of my lungs.\n\nI lay there for three long breaths, my cheek pressed against the packed mud, inhaling the scent of damp earth and old ashes.\n\n\"Pathetic,\" I muttered into the dirt. \"Absolutely, miserably pathetic.\"\n\nTwo push-ups had my heart pounding against my ribs like a trapped sparrow. \n\n*Dantian: empty.*\n*Meridians: rusted solid.*\n*Muscles: thin as dried willow bark.*\n\nIf an enemy from my past life saw me right now, they wouldn't even bother drawing steel. They would die of laughter, and I would be forced to claim victory by default.\n\n\"Jin? What are you doing on the floor?!\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.93,
-      "sensory": 0.96,
-      "feral": 0.88,
-      "total": 0.936
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s1-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"One,\" I grunted. My elbows vibrated like dry twigs. \"Two.\" *Pop.* Down I went like a felled pine. \"Pathetic! Miserably, outrageously pathetic!\" I gulped down the minnow soup like a starving stray dog, forcing every drop of grease to patch my shattered bones.",
-    "critique": "Biga: Great grit and comedic internal monologues.",
+    "content": "## Chapter 2: The Taste of Dirt and Salt\n\n### Council Review Scorecard: Chapter 1\n* **Pacing & Hook**: `9.6/10` (Immediate conflict; Kurukshetra into comedic awakening)\n* **Chung Myung Quotient**: `9.8/10` (Unapologetic grumbling; wild tige A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.9,
-      "sensory": 0.88,
-      "feral": 0.97,
-      "total": 0.915
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

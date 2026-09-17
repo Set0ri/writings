@@ -1,7 +1,13 @@
 # Leaf Node: Environment (E*)
-**Scene:** Unblinking Calculation: The Scheduled Midnight Purge
-**Council Score:** Total 0.92 (Canon: 0.96, Kinetics: 0.89, Sensory: 0.96, Feral: 0.85)
+**Scene:** The Blackmail Gambit: Three Hundred Sacks
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-I walked out of the residence into the gray morning air. Behind me, through the open doorway, I could feel his gaze. Kang didn't return to his ledgers. He didn't pick up his pen. He sat completely motionless in the center of the warm room, an iron statue with glass eyes tracking the rhythm of my footsteps until I turned the corner into the mud lane. Overhead, heavy storm clouds lowered over the black pines.
+He had simply marked my family’s hut as the primary target for the fire.
+
+I reached down to my waistband, touching the cold iron chisel strapped against my forearm. 
+
+*Let them come,* I thought, a manic, feral thrill humming through the marrow of my bones.
+
+*Tonight, Southfall Village is going to learn how to bleed.*

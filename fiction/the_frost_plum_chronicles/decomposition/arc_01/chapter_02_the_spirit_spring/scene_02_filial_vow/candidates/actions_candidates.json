@@ -2,40 +2,43 @@
   {
     "id": "c2-s2-a-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "As Yeon departed, I tested my axial skeleton against a bamboo pole. The vertical load caused a three-millimeter deflection in the fifth rib. I retrieved a high-carbon iron stone-chisel, 180 grams, concealing it in my waistband.",
-    "critique": "Sanderson: Strong tactile preparation and tool specifications.",
+    "content": "I swallowed the broth in four gulps. It tasted of bitter mud and river weeds, but as the warmth trickled down into my belly, I didn't let it waste.\n\nClosing my eyes, I drew a slow, deliberate breath through my teeth. \n\nI didn't try to force [Kinetic momentum transferred through skeletal alignment with zero waste].",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.9,
-      "kinetics": 0.95,
+      "canon": 0.91,
+      "kinetics": 0.94,
       "sensory": 0.82,
-      "feral": 0.8,
-      "total": 0.873
-    }
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c2-s2-a-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The moment Yeon gathered her willow basket and went down to the river, I was on my feet. My knees wobbled, but they held. I took a bamboo walking pole from the corner, tucked my father's small iron chisel into my waistband, and pushed the door open into the gray morning mist.",
-    "critique": "Rothfuss: Natural pacing and quiet determination.",
+    "content": "I swallowed the broth in four gulps. It tasted of bitter mud and river weeds, but as the warmth trickled down into my belly, I didn't let it waste.\n\nClosing my eyes, I drew a slow, deliberate breath through my teeth. \n\nI didn't try to force Qi through my blocked meridians. Forcing a clogged pipe only bursts the seams. Instead, I used the oldest technique of the Mount Hua sect—the **Gentle Breath of the Morning Dew**. I guided the meager nutrients from the fish into the marrow of my cracked ribs, knitting the hairline fractures with the stubborn friction of living blood.\n\nIt was slow. It was agonizing. \n\nEvery breath sent a dull ache radiating through my chest, but by the tenth cycle, the trembling in my fingers had ceased.\n\nAn hour later, Yeon gathered her willow basket and went down to the river to scrub the communal linen.\n\nThe moment the wooden latch clicked behind her, I was on my feet.\n\nMy knees wobbled, but they held. I picked up a simple bamboo walking pole from the corner of the room, tucked a small stone-chisel from my father's workbench into my waistband, and pushed the door open.",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.91,
-      "sensory": 0.94,
-      "feral": 0.88,
-      "total": 0.923
-    }
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c2-s2-a-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "The second the latch clicked, I sprang up like a coiled ferret. My ribs yelled at me, but I ignored them. I grabbed a stout bamboo stick and tucked an iron chisel into my belt. \"Time to go see what kind of monster runs this flea-circus.\"",
-    "critique": "Biga: High-energy ferret simile and eager troublemaking.",
+    "content": "I swallowed the broth in four gulps. It tasted of bitter mud and river weeds, but as the warmth trickled down into my belly, I didn't let it waste.\n\nClosing my eyes, I drew a slow, deliberate breath through my teeth. \n\nI didn't try to force A classic Mount Hua kick right where it hurts most.",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.92,
-      "kinetics": 0.9,
-      "sensory": 0.87,
-      "feral": 0.97,
-      "total": 0.913
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

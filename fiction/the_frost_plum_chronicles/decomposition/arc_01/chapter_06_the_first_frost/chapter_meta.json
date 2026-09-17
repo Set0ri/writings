@@ -3,68 +3,83 @@
   "title": "The First Frost",
   "order": 6,
   "status": "merged",
-  "compositeScore": 0.947,
+  "compositeScore": 0.945,
   "scenes": [
     {
       "id": "scene_01_deflecting_leaf_duel",
-      "title": "The Deflecting Leaf: Filleting Knife vs Scimitar",
+      "title": "The Muster Yard Abattoir: Cleaver Vanguard",
       "order": 1,
       "status": "merged",
-      "compositeScore": 0.944,
+      "compositeScore": 0.945,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.93
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.953
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.949
+          "score": 0.945
         }
       }
     },
     {
       "id": "scene_02_plum_ember_wolf_kill",
-      "title": "The Violet Ember: Knife Through Cranium & Bandit Rout",
+      "title": "The Plum Blossom Ember: Feral Wolf Execution",
       "order": 2,
       "status": "merged",
       "compositeScore": 0.945,
+      "leafOrder": [
+        "interactions",
+        "actions",
+        "environment"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.935
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.946
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.953
+          "score": 0.945
         }
       }
     },
     {
       "id": "scene_03_cleaver_coolant_autopsy",
-      "title": "The Coolant Autopsy: Cleaver Descent & The Lunar Beacon",
+      "title": "The Autopsy of an Infiltrator: White Coolant & Lunar Beam",
       "order": 3,
       "status": "merged",
-      "compositeScore": 0.951,
+      "compositeScore": 0.945,
+      "leafOrder": [
+        "environment",
+        "interactions",
+        "actions"
+      ],
       "leaves": {
         "environment": {
           "resolved": true,
-          "score": 0.941
+          "score": 0.945
         },
         "interactions": {
           "resolved": true,
-          "score": 0.961
+          "score": 0.945
         },
         "actions": {
           "resolved": true,
-          "score": 0.951
+          "score": 0.945
         }
       }
     }

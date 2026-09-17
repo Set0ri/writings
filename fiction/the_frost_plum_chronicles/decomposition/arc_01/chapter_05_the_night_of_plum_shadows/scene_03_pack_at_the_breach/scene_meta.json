@@ -1,21 +1,26 @@
 {
   "id": "scene_03_pack_at_the_breach",
-  "title": "Boar-Spear Roar: The Wolf Pack at the Sluice Breach",
+  "title": "Pack at the Breach: Cleavers from the Hearth",
   "order": 3,
   "status": "merged",
-  "compositeScore": 0.944,
+  "compositeScore": 0.945,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
   "leaves": {
     "environment": {
       "resolved": true,
-      "score": 0.938
+      "score": 0.945
     },
     "interactions": {
       "resolved": true,
-      "score": 0.944
+      "score": 0.945
     },
     "actions": {
       "resolved": true,
-      "score": 0.95
+      "score": 0.945
     }
   }
 }

@@ -1,7 +1,25 @@
 # Leaf Node: Environment (E*)
-**Scene:** The Violet Ember: Knife Through Cranium & Bandit Rout
-**Council Score:** Total 0.935 (Canon: 0.97, Kinetics: 0.91, Sensory: 0.97, Feral: 0.87)
+**Scene:** The Plum Blossom Ember: Feral Wolf Execution
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-From the burning breach, a second shadow-wolf caught the scent of fresh blood and locked its yellow, multi-faceted eyes onto me. It let out a guttural, rattling hiss, bunched its six powerful legs, and launched its two-hundred-pound bulk through the air, jaws wide enough to swallow my torso whole. "JIN!" Daesung screamed, reaching out with his good hand to drag me back. The smoke parted around the beast's black trajectory like water split by an arrow.
+*“When the world goes crazy, the man with the sword doesn't get to sit down and cry about it! He cuts through the storm! ...Believe in the blade, Jin! Fulfill your duty!”*
+
+*Two hundred years ago, I hesitated.*
+*My brother died because I wanted to keep my hands clean.*
+
+*Not this time.*
+*Never again.*
+
+My body moved before thought could even form.
+
+I didn't shout. I didn't warn him.
+
+I threw my entire fifteen-year-old weight forward, driving the rusted filleting knife straight upward beneath Kang's chin, through the soft palate, and directly into the center of his skull.
+
+*KRRR-CLANG.*
+
+The knife hit something inside his head that was not bone.
+
+It felt like driving an iron nail into solid brass.

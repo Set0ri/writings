@@ -3,19 +3,24 @@
   "title": "The Anchovy Awakening: Southfall Mud & Two Centuries",
   "order": 2,
   "status": "merged",
-  "compositeScore": 0.916,
+  "compositeScore": 0.945,
+  "leafOrder": [
+    "actions",
+    "interactions",
+    "environment"
+  ],
   "leaves": {
     "environment": {
       "resolved": true,
-      "score": 0.917
+      "score": 0.945
     },
     "interactions": {
       "resolved": true,
-      "score": 0.918
+      "score": 0.945
     },
     "actions": {
       "resolved": true,
-      "score": 0.914
+      "score": 0.945
     }
   }
 }

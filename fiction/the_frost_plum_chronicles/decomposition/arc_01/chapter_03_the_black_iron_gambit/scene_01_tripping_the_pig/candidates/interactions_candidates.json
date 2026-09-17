@@ -2,40 +2,43 @@
   {
     "id": "c3-s1-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Your angular velocity is unbalanced,\" Jin stated. Bao snarled: \"I'll crack your ribs again!\" Jin depressed the third thoracic nerve: \"Biochemical signal transmission is suspended.\"",
-    "critique": "Sanderson: Mechanically accurate, misses the feral mockery.",
+    "content": "Bao’s teeth slammed together so hard sparks must have danced behind his eyes. His boots flew out from under him, and all two hundred pounds of round, greasy village bully crashed face-first into the cold gray clay.\n\n*SPLAT.*\n\nMud splashed t \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.85,
-      "kinetics": 0.93,
-      "sensory": 0.77,
-      "feral": 0.76,
-      "total": 0.832
-    }
+      "canon": 0.91,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c3-s1-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "\"Touch that spear,\" I said to the lackeys in a soft, musical purr, \"and I'll shove it so far down your throat you'll be picking iron shavings out of your breakfast tomorrow.\" The lackeys looked at Bao groaning in the mud, dropped their spears, and bolted.",
-    "critique": "Rothfuss: Chilling understated threat and predator demeanor.",
+    "content": "Bao’s teeth slammed together so hard sparks must have danced behind his eyes. His boots flew out from under him, and all two hundred pounds of round, greasy village bully crashed face-first into the cold gray clay.\n\n*SPLAT.*\n\nMud splashed three feet in every direction.\n\nHis two spear-carrying lackeys froze mid-smirk, their jaws dropping until they looked like village idiots staring at a solar eclipse.\n\n\"Bao!\" one of them shouted, raising his hunting spear. \"You little bastard, you tripped him—!\"\n\nI turned my head toward them.\n\nI didn't yell. I didn't raise my stick.\n\nI just smiled that wide, unhinged, predatory Mount Hua grin, letting my eyes glaze over with pure, manic madness.\n\n\"Touch that spear,\" I said in a soft, musical purr, \"and I'll shove it so far down your throat you'll be picking iron shavings out of your breakfast tomorrow.\"\n\nThe spearman's hands began to shake violently. He looked at the spear. He looked at me. He looked at Bao groaning in the mud.\n\nHe dropped the spear.\n\n\"R-Run,\" the other lackey squeaked. \n\nBoth boys turned around and sprinted down the lane as if a pack of dire-wolves had materialized behind them, their boots splashing frantically in the puddles.\n\n\"Reliable friends you've got there, cousin,\" I chuckled, planting the tip of my bamboo pole squarely between Bao's shoulder blades.\n\nBao spat a mouthful of foul ditch-clay onto the dirt, trying to push himself up. \"You... I'll kill you! My father is the Chief! He'll have you whipped at the post—!\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
       "canon": 0.96,
-      "kinetics": 0.91,
-      "sensory": 0.94,
-      "feral": 0.9,
-      "total": 0.93
-    }
+      "kinetics": 0.94,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c3-s1-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "I smiled that wide, unhinged, predatory Mount Hua grin, letting my eyes glaze over with pure madness. \"Touch that spear, and I'll use your ribs as chopsticks!\" The lackey squeaked like a stepped-on mouse and ran so fast his boots threw mud fifty paces.",
-    "critique": "Biga: Peak Chung Myung lunacy and chopstick threats.",
+    "content": "Bao’s teeth slammed together so hard sparks must have danced behind his eyes. His boots flew out from under him, and all two hundred pounds of round, greasy village bully crashed face-first into the cold gray clay.\n\n*SPLAT.*\n\nMud splashed t \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.94,
-      "kinetics": 0.88,
-      "sensory": 0.89,
-      "feral": 0.98,
-      "total": 0.921
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

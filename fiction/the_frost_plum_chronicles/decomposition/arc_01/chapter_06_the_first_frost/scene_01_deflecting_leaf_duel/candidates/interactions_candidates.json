@@ -2,40 +2,43 @@
   {
     "id": "c6-s1-i-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "\"Your stance is mechanically deficient,\" Jin noted. \"Right calcaneus flared outward thirty degrees; center of gravity displaced forward.\" The captain snarled: \"Die, shrimp!\"",
-    "critique": "Sanderson: Biomechanical critique accurate, misses Mount Hua comedic sting.",
+    "content": "\"Well, well. Look at the big boar in the ditch,\" a raspy voice sneered through the smoke.\n\nThe bandit captain stepped over a burning timber. He was a lean, scarred cutthroat clad in stolen chainmail, twirling a notched steel scimitar drippi \"Every decision follows deterministic game theory,\" Jin calculated.",
+    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
     "score": {
-      "canon": 0.89,
+      "canon": 0.91,
       "kinetics": 0.94,
-      "sensory": 0.8,
-      "feral": 0.81,
-      "total": 0.864
-    }
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.869
+    },
+    "iteration": 1
   },
   {
     "id": "c6-s1-i-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "The bandit raised his scimitar with both hands. \"Your Chief promised an easy raid, old man. Thanks for the sport.\" He brought the blade down. *Ting.* It was not the sound of steel splitting bone. It was the clear, bell-like chime of iron kissing iron. The blade stopped dead two inches from Daesung's neck. Standing there was a scrawny boy holding a kitchen knife in a reverse grip. \"Your stance is atrocious,\" I sighed, clicking my tongue. \"Did you learn swordplay by watching drunken fishermen gut eels?\"",
-    "critique": "Rothfuss: Majestic chime of iron kissing iron and supreme grandmaster disdain.",
+    "content": "\"Well, well. Look at the big boar in the ditch,\" a raspy voice sneered through the smoke.\n\nThe bandit captain stepped over a burning timber. He was a lean, scarred cutthroat clad in stolen chainmail, twirling a notched steel scimitar dripping with dark blood.\n\nBefore Daesung could wrench his spear free from the dead wolf, the bandit captain lunged, slashing his blade across Daesung’s right shoulder.\n\n*SHHK.*\n\nBlood sprayed into the mud. Daesung grunted in agony, stumbling backward against the broken grain cart, his right arm hanging limp.\n\nThe bandit captain raised his scimitar with both hands, grinning through yellowed teeth. \"Your Chief promised an easy raid, old man. Thanks for the sport.\"\n\nHe brought the blade down toward my father's neck.\n\n*Ting.*\n\nIt was not the sound of steel splitting bone.\n\nIt was the clear, bell-like chime of iron kissing iron.\n\nThe bandit captain’s scimitar stopped dead two inches from Daesung's throat, vibrating violently as if it had struck an anvil.\n\nStanding between the cutthroat and my bleeding father was a scrawny, fifteen-year-old boy in a frayed hemp shirt.\n\nI held my father’s rusted iron filleting knife in a reverse grip. The edge was angled at exactly forty-three degrees—the precise geometric deflection of the **Plum Blossom Deflecting Leaf**.\n\nThe bandit captain blinked, staring at me in sheer, dumbfounded disbelief. \"A... a shrimp?\"\n\n\"Your stance is atrocious,\" I sighed, clicking my tongue in utter disgust. \"Look at your right foot. Flared outward like a crippled duck. And your grip? Too tight on the pommel. Did your master teach you how to swing a blade, or did you learn swordplay by watching drunken fishermen gut eels?\"",
+    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
     "score": {
-      "canon": 0.98,
-      "kinetics": 0.93,
-      "sensory": 0.97,
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.95,
       "feral": 0.92,
-      "total": 0.953
-    }
+      "total": 0.945
+    },
+    "iteration": 2
   },
   {
     "id": "c6-s1-i-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "\"A shrimp?!\" the bandit sputtered. \"Look at your footing!\" I barked, shaking my head in disgust. \"Flared out like a crippled duck! My sect's third-rate water-carriers had better sword forms than you! Come here, let me fix your posture!\"",
-    "critique": "Biga: Classic Chung Myung lecture in the middle of a death-match.",
+    "content": "\"Well, well. Look at the big boar in the ditch,\" a raspy voice sneered through the smoke.\n\nThe bandit captain stepped over a burning timber. He was a lean, scarred cutthroat clad in stolen chainmail, twirling a notched steel scimitar drippi \"You talk big for someone whose teeth I haven't collected yet!\"",
+    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
     "score": {
-      "canon": 0.95,
-      "kinetics": 0.89,
-      "sensory": 0.9,
-      "feral": 0.98,
-      "total": 0.928
-    }
+      "canon": 0.89,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.96,
+      "total": 0.881
+    },
+    "iteration": 1
   }
 ]

@@ -1,7 +1,35 @@
 # Leaf Node: Interactions (I*)
-**Scene:** The Chief's Hearth: The Blackmail Ledger on Cedar
-**Council Score:** Total 0.939 (Canon: 0.97, Kinetics: 0.91, Sensory: 0.96, Feral: 0.9)
+**Scene:** The Chief's Compound: Iron Table Standoff
+**Council Score:** Total 0.945 (Canon: 0.96, Kinetics: 0.94, Sensory: 0.95, Feral: 0.92)
 
 ---
 
-I kicked the heavy oak door open with the flat of my bare heel. *THUD.* I strolled across the room, dragging muddy boots across his clean cedar boards, pulled a heavy chair to his desk, turned it backward, and straddled it with that pleasant, completely disrespectful Mount Hua smirk. "Nice office, Uncle. Very warm. Very dry. Down in Sector Three, rain leaks onto Father’s face, but here you’ve got logs burning like a festival day." Kang set his quill down, unblinking. "Jin. Subject was categorized as low-threat biological unit. Probability of nocturnal surveillance: 0.04 percent. Causal variance unaccounted for." I pulled out the rolled charcoal parchment from Gull's Maw and tossed it between his ledgers. "The Gull’s Maw is scenic at low tide. And your Black Wave Bandit friends are punctual. Forty minutes before the tide turns, right, Uncle?" Kang didn't sweat. He didn't reach for a dagger. A glassy film passed over his pupils: "Mount Hua... Sector reference zero. Clan designation: ancient extinct classification. Status: irrecoverable heresy. Specify requirements for informational suppression."
+His eyes were dark, perfectly centered, and fixed directly on the bridge of my nose. He didn't blink. One second. Two seconds. Three seconds. Exactly four seconds passed before his eyelids fluttered once and reopened.
+
+"Daesung is currently assigned to the third drainage trench," Kang stated evenly. "His labor is required to maintain the perimeter barrier. If you have come to request an exemption on his behalf, the request is denied. Sector Three is running a four percent deficit in defensive earthworks."
+
+"I don't give a damn about your earthworks, Uncle," I said, my voice dropping into a casual, venomous drawl. 
+
+I reached into my shirt.
+
+Kang’s fingers twitched slightly on the desk—a micro-movement, no more than two millimeters, but his knuckles locked like iron clamps.
+
+I pulled out a small, rolled scrap of parchment. 
+
+It was a piece of charcoal paper I had found tucked under the basalt shelf in Gull's Maw at midnight—a duplicate of the patrol roster Kang had handed to the Black Wave Bandits.
+
+I tossed it onto the desk. It unrolled slowly between two stacks of grain ledgers.
+
+Kang looked down at the parchment.
+
+For half a second, the room went so silent I could hear the embers in the hearth crumbling to ash.
+
+"The Gull’s Maw is very scenic at dead low tide," I remarked, resting my cheek on my hand. "The waves make a lovely sound against the basalt. And the Black Wave Bandits are very punctual businessmen. Forty minutes before the tide turns. Isn't that right, Uncle?"
+
+Kang didn't flinch. 
+
+He didn't turn pale. A human politician caught selling out his own kin to cutthroats would sweat, shout, deny it, or reach for a dagger to silence the witness.
+
+Kang did none of those things.
+
+Instead, his eyes unfocused for a fraction of a second. A strange, glassy film seemed to pass over his pupils, like oil on water.
