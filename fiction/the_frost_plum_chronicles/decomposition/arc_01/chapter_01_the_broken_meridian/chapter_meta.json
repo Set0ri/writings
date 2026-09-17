@@ -1,0 +1,72 @@
+{
+  "id": "chapter_01_the_broken_meridian",
+  "title": "The Broken Meridian",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.925,
+  "scenes": [
+    {
+      "id": "scene_01_kurukshetra_hesitation",
+      "title": "The Duty of the Blade: Kurukshetra Hesitation",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.937,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.926
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.943
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.941
+        }
+      }
+    },
+    {
+      "id": "scene_02_anchovy_awakening",
+      "title": "The Anchovy Awakening: Southfall Mud & Two Centuries",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.916,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.917
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.918
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.914
+        }
+      }
+    },
+    {
+      "id": "scene_03_bao_extortion",
+      "title": "The Feral Grin: Cousin Bao & The Four-Finger Clamp",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.921,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.91
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.932
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.921
+        }
+      }
+    }
+  ]
+}

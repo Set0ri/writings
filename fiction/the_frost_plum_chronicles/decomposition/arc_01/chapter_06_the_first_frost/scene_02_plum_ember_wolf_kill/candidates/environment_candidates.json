@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "A 95-kilogram shadow-wolf accelerated at 8.2 m/s² across ten meters. Optical sensors detected non-algorithmic violet bioluminescence in the iron substrate, wavelength 405 nanometers.",
+    "critique": "Sanderson: Strong velocity and wavelength data for the Qi infusion.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.96,
+      "sensory": 0.83,
+      "feral": 0.79,
+      "total": 0.882
+    }
+  },
+  {
+    "id": "c6-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The muster yard fell into a strange, ringing silence, broken only by the crackle of burning barley. Across the mud, fifteen cutthroats dropped their torches, looking from their dead captain to the giant six-legged monster lying dead at the feet of a child. The rain fell through the smoke in gentle, shimmering needles.",
+    "critique": "Rothfuss: Majestic stillness following the violence; atmospheric rain.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.935
+    }
+  },
+  {
+    "id": "c6-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The remaining bandits were shaking so hard their chainmail jingled like sacks of copper coins! One of them dropped his spear into a puddle and wailed: \"That's no boy! That's an ancient mountain demon!\"",
+    "critique": "Biga: Hilarious jingling chainmail and superstitious bandit panic.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.89,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.925
+    }
+  }
+]

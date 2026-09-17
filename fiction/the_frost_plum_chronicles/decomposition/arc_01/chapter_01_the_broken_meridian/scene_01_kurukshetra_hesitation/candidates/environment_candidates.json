@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The sky above Kurukshetra was pressurized to seven atmospheres of ozone and pulverized hematite. Below the chariot chassis, three million iron spears stood at uniform ten-degree forward angles, vibrating with the harmonic resonance of two hundred mechanized siege engines.",
+    "critique": "Sanderson: Strong atmospheric pressure metrics and mechanical arrays, lacks the poetic dread of the flags.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.92,
+      "sensory": 0.82,
+      "feral": 0.75,
+      "total": 0.855
+    }
+  },
+  {
+    "id": "c1-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The sky above the battlefield was the color of bruised iron. Across the plains of Kurukshetra, three million soldiers stood in iron ranks, their spears bristling like a forest of black needles against the ash-choked wind. But the sharpest blade twisting in my gut wasn’t the vanguard—it was their damn flags. Flapping in the hot wind were the crests of my own clan, childhood friends, sword-brothers I had shared wine with, all marching under the black banners of the Great Evil.",
+    "critique": "Rothfuss: Perfect sensory resonance, visceral mourning, and clan betrayal imagery.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.926
+    }
+  },
+  {
+    "id": "c1-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Three million idiots covered in tin plating stood in the dirt, kicking up so much yellow dust you could choke an ox. Black banners flapped everywhere like giant crow wings, each one sporting the crests of cousins who still owed me silver from the winter gambling dens.",
+    "critique": "Biga: Hilarious irreverence and debt complaints, but slightly light on the cosmic tragedy of Kurukshetra.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.85,
+      "sensory": 0.85,
+      "feral": 0.96,
+      "total": 0.881
+    }
+  }
+]

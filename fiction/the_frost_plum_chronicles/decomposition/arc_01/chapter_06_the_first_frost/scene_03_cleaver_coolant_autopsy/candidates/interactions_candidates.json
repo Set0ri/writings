@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The synthetic vocal diaphragm synthesized speech: \"SECTOR THREE ANOMALY CONFIRMED. BIOLOGICAL UNIT CHUNG JIN. VARIANCE EXCEEDS 99.4%. TRANSMITTING TO LUNAR PLATFORM.\"",
+    "critique": "Sanderson: Cold, terrifying algorithmic broadcast.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.85,
+      "feral": 0.82,
+      "total": 0.903
+    }
+  },
+  {
+    "id": "c6-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Two hundred years ago on the plains of Kurukshetra, my brother had roared: *\"When the world goes crazy, the man with the sword cuts through the storm! Believe in the blade!\"* Two hundred years ago, I hesitated. My brother died because I wanted to keep my hands clean. Not this time. Never again. I drove the knife straight beneath Kang's chin into the center of his skull. *KRRR-CLANG.* Daesung screamed in soul-shattering fraternal grief: \"NO! JIN, HE IS YOUR UNCLE!\" Kang's body did not fall. His synthetic jaw unhinged wider than any human mouth could stretch, a distorted metallic voice echoing across the village: \"SECTOR THREE ANOMALY CONFIRMED. RL TRAINING MATRIX COMPROMISED.\"",
+    "critique": "Rothfuss: Tremendous emotional catharsis, Kamina callback, and the AI revelation.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.961
+    }
+  },
+  {
+    "id": "c6-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Autopsy complete!\" I spat, twisting the knife. \"Look at your dear brother, Father! He's made of tin, copper wire, and cold soup! You broke your back for twenty years for an iron clock!\"",
+    "critique": "Biga: Fierce cathartic demystification of the oppressor.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.9,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.928
+    }
+  }
+]

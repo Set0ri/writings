@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_pack_at_the_breach",
+  "title": "Boar-Spear Roar: The Wolf Pack at the Sluice Breach",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.91,
+        "sensory": 0.98,
+        "feral": 0.87,
+        "total": 0.938
+      },
+      "councilConsensus": "Passed with high distinction. Establishes the horrific double-threat of bandits and monstrous wildlife.",
+      "critiqueSummary": "Rothfuss: Terrifying apocalyptic battlefield ambiance and acoustics."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.93,
+        "sensory": 0.96,
+        "feral": 0.9,
+        "total": 0.944
+      },
+      "councilConsensus": "Passed with high distinction. Highlights Daesung's true martial strength and moral courage.",
+      "critiqueSummary": "Rothfuss: Unflinching paternal heroism and desperate village defense."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.94,
+        "sensory": 0.96,
+        "feral": 0.92,
+        "total": 0.95
+      },
+      "councilConsensus": "Passed with high distinction. Visceral kinetic combat setting up Jin's knife intervention in Chapter 6.",
+      "critiqueSummary": "Rothfuss: Bone-crunching physical impact and paternal fury."
+    }
+  },
+  "compositeSceneScore": 0.944,
+  "timestamp": "2026-09-17T15:43:19.133Z"
+}

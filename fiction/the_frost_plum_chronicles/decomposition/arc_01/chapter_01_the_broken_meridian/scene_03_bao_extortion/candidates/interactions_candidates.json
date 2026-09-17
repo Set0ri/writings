@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Uncle Daesung, report to the ditch,\" Bao stated. \"Failure to comply results in a twenty-percent ration reduction.\" Jin calculated the stress vectors: Daesung’s submission was driven by filial conditioning, not lack of physical strength.",
+    "critique": "Sanderson: Analytical and clear, lacks the feral banter.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.88,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.84
+    }
+  },
+  {
+    "id": "c1-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Next time you wander past the boundary wall, cousin,\" Bao hissed, leaning over my bed, \"make sure you land on your throat. Save the village the grain of feeding another useless cripple.\" I didn't flinch. I looked at his collar, spotting the dark, purplish bruise shaped like four crushing adult fingers. \"You talk an awful lot, little cousin,\" I whispered, \"for a pig already bruised for the butcher.\"",
+    "critique": "Rothfuss: Superb tension and psychological deduction.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.95,
+      "feral": 0.91,
+      "total": 0.932
+    }
+  },
+  {
+    "id": "c1-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "A slow, deranged grin spread across my bruised face—the classic Mount Hua wolf-smile that made grown martial grandmasters wet their silk robes. \"Get your muddy boots off my floor before I rip your ears off and feed them to the iron-jaw wolves.\" Bao's face turned the color of curdled tofu.",
+    "critique": "Biga: Unbeatable Chung Myung intimidation and curdled tofu similes.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.926
+    }
+  }
+]

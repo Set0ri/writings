@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Jin-ah!\" A woman knelt by the pallet. \"You have been comatose for forty-eight hours following cranial trauma from a ten-foot descent.\" A man held a wooden bowl. \"The Great War concluded 73,000 days ago. The Heaven's Blade Clan exists only as an extinct taxonomic entry in folklore.\"",
+    "critique": "Sanderson: Clinical and robotic dialogue, misses human maternal warmth and Jin's fury.",
+    "score": {
+      "canon": 0.86,
+      "kinetics": 0.84,
+      "sensory": 0.75,
+      "feral": 0.75,
+      "total": 0.805
+    }
+  },
+  {
+    "id": "c1-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Jin-ah! Oh, thank the ancestors, you're alive!\" A thin woman in a faded hemp tunic buried her wet face against my collarbone. Behind her, a broad-shouldered hunter with raw knuckles sank to his knees, his eyes brimming with tears. \"The Great War, Jin? That ended two hundred years ago. The old dynasties collapsed into the sea. Nobody cares about ancient sword-clans anymore. You can't eat a sword.\"",
+    "critique": "Rothfuss: Heartbreaking domestic warmth and historical melancholy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.95,
+      "feral": 0.86,
+      "total": 0.918
+    }
+  },
+  {
+    "id": "c1-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Bandits?! Heretics?!\" My left eye twitched until my cheek ached. \"Those ungrateful, rotten, brain-dead bastards! We bled on the plains so their great-grandfathers could pick their noses in peace, and they call us bedtime monsters?! Just wait. When I find the historian who wrote that, I'm beating him with an oak stick until he can't sit for a month!\"",
+    "critique": "Biga: Unbeatable Mount Hua feral rage and stick-beating vows.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.88,
+      "feral": 0.98,
+      "total": 0.918
+    }
+  }
+]

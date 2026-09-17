@@ -1,0 +1,21 @@
+{
+  "id": "scene_01_kurukshetra_hesitation",
+  "title": "The Duty of the Blade: Kurukshetra Hesitation",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.937,
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.926
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.943
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.941
+    }
+  }
+}

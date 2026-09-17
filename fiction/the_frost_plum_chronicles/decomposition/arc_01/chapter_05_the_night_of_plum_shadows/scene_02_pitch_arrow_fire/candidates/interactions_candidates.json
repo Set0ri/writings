@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c5-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Raid!\" voices screamed. \"Sluice gate breached!\" Daesung grabbed his boar-spear. Jin directed Yeon into the cellar: \"Secure the lock. Secondary defensive vectors are engaged.\"",
+    "critique": "Sanderson: Efficient and tactical, lacks emotional farewell.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.89,
+      "sensory": 0.8,
+      "feral": 0.77,
+      "total": 0.841
+    }
+  },
+  {
+    "id": "c5-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Yeon! Into the cellar!\" Daesung bellowed, his voice returning to the booming roar of a veteran hunter. \"Jin, get behind your mother!\" \"I'm right behind you, Father,\" I lied. Daesung shoved Yeon into the dark, earth-scented cellar. \"Daesung, please!\" she wept. \"Don't go! Let the Council fight!\" \"The Council is five old men and Kang!\" Daesung shouted back, his face lit by the orange glare. \"If I don't hold the gate, the cutthroats butcher every child in the lane!\"",
+    "critique": "Rothfuss: Noble paternal valor and tragic family separation.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.94
+    }
+  },
+  {
+    "id": "c5-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Jin, get in the cellar!\" Daesung roared. He stopped dead. I was standing in the doorway with a kitchen knife, smiling like a demon looking forward to breakfast. \"You're a good man, Daesung. A terrible judge of character, but a very good man.\"",
+    "critique": "Biga: Supreme Mount Hua banter in the face of imminent slaughter.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.89,
+      "sensory": 0.91,
+      "feral": 0.98,
+      "total": 0.931
+    }
+  }
+]

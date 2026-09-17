@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The captain swung horizontally at 14 meters per second. I stepped into his interior radius—the Plum Blossom Drifting Step—and executed three rapid incisions with the filleting blade: lateral hamstring tendon, popliteal artery, and femoral sheath.",
+    "critique": "Sanderson: Surgical kinetic precision and anatomical targeting.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.98,
+      "sensory": 0.84,
+      "feral": 0.82,
+      "total": 0.901
+    }
+  },
+  {
+    "id": "c6-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "To the bandit, I didn't move like a human boy. I seemed to blur—a gray plum petal sliding through the current of a cold autumn stream. His heavy steel whistled through empty air. I stepped into his blind spot, pivoting on the ball of my left foot. The rusted knife didn't chop; it flowed. A single, razor-thin arc of cold motion kissed his right knee, severed the hamstring, and opened the femoral artery. *SH-SH-SHHK.* Three cuts in the time it took him to blink.",
+    "critique": "Rothfuss: Lyrical martial grace and lethal flow.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.95,
+      "sensory": 0.97,
+      "feral": 0.89,
+      "total": 0.949
+    }
+  },
+  {
+    "id": "c6-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Before he could even curse, my knife blurred like a dragonfly's wing! His eyes bugged out, his scimitar flew into the mud, and he collapsed face-first with a wet splat, dead before his nose hit the clay.",
+    "critique": "Biga: Great dragonfly wing speed and face-first splat.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.91,
+      "sensory": 0.89,
+      "feral": 0.97,
+      "total": 0.923
+    }
+  }
+]

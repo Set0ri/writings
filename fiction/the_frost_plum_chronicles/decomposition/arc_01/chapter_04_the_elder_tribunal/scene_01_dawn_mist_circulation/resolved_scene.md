@@ -1,0 +1,10 @@
+### The Sand-Grain Spark: Cycling the Morning Dew
+**Composite Council Score:** 0.933
+
+---
+
+The rain stopped an hour before dawn, leaving Southfall wrapped in a cold, suffocating blanket of gray sea-fog. Inside our hut, the quiet, rhythmic breathing of my parents filled the dark room. My father lay on his side, his large frame curled protectively around my mother to shield her from the draft whistling through the unhewn floorboards. Even in sleep, his brow was knit with worry; his rough hands, resting open on the coarse blanket, twitched occasionally—the involuntary spasms of a man whose muscles spent twelve hours a day fighting wet clay and heavy foundation logs.
+
+I looked at him for a long time in the shadows. *Two hundred years ago, people like you ruled empires,* I thought, pulling a dry rag over my shivering shoulders. *Now you starve in the mud so a hollow thing in iron mail can hit an algorithmic quota.* I didn't sleep. Sleeping was a luxury for people who didn't have to rebuild an entire martial lineage from the marrow of their bones. *Just you wait, Father. When Mount Hua is done with Kang, you won't have to touch a shovel for ten lifetimes.*
+
+Sitting cross-legged on the straw, I took a slow, deliberate breath through my teeth and cycled the **Gentle Breath of the Morning Dew**. *Inhale: cold mist, salt, and the faint tang of pine ashes. Circulate: down through the throat, past the cracked collarbone, into the hollow cavern of the lower abdomen. Compress: igniting the tiny, stubborn violet ember resting against my spine.* Every cycle sent a pulse of liquid warmth through my chest. It was not the roaring river of Qi I had wielded at Kurukshetra; it was a single drop, no larger than a grain of sand. But a single spark in dry grass is enough to burn a mountain. By the time the third morning bell clanged from the watchtower, the stabbing ache in my fifth rib had subsided to a manageable throb. I washed my face in the rain barrel, tied my father’s iron stone-chisel to the inside of my forearm with a leather strip, and stepped into the lane.

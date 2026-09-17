@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c5-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Three hexapedal canid organisms breached the north-northeast perimeter. Average mass: 90 kilograms. The combustion of barley released 18,000 BTUs per minute, creating an ash-density of 400 particles per cubic meter.",
+    "critique": "Sanderson: Strong biological and combustion specifications.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.95,
+      "sensory": 0.82,
+      "feral": 0.79,
+      "total": 0.873
+    }
+  },
+  {
+    "id": "c5-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The muster yard was an abattoir. Fire from burning barns cast long, jagged shadows across the mud, turning Southfall into a pit of red hell. Thick smoke choked the air, smelling of burning barley, scorched flesh, and the sulfuric tang of pitch. And then, an inhuman howl echoed from the dark treeline—a deep, multi-throated baying that shook the mud under our boots.",
+    "critique": "Rothfuss: Terrifying apocalyptic battlefield ambiance and acoustics.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.98,
+      "feral": 0.87,
+      "total": 0.938
+    }
+  },
+  {
+    "id": "c5-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The whole yard was a circus of screams, fire, and flying embers! Forty cutthroats were pouring through the broken ditch waving swords, while three giant, ugly six-legged wolves bounded over the fences like runaway boulders!",
+    "critique": "Biga: Great chaotic scale and runaway boulder similes.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.9,
+      "sensory": 0.89,
+      "feral": 0.96,
+      "total": 0.915
+    }
+  }
+]

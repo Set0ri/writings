@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_cleaver_coolant_autopsy",
+  "title": "The Coolant Autopsy: Cleaver Descent & The Lunar Beacon",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.98,
+        "kinetics": 0.92,
+        "sensory": 0.98,
+        "feral": 0.86,
+        "total": 0.941
+      },
+      "councilConsensus": "Passed with high distinction. The terrifying climax of betrayal and fraternal horror.",
+      "critiqueSummary": "Rothfuss: Haunting synthesis of tragedy and technological unmasking."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.99,
+        "kinetics": 0.94,
+        "sensory": 0.98,
+        "feral": 0.92,
+        "total": 0.961
+      },
+      "councilConsensus": "Passed with high distinction. The supreme emotional and thematic climax of Arc 01.",
+      "critiqueSummary": "Rothfuss: Tremendous emotional catharsis, Kamina callback, and the AI revelation."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.99,
+        "kinetics": 0.93,
+        "sensory": 0.98,
+        "feral": 0.88,
+        "total": 0.951
+      },
+      "councilConsensus": "Passed with high distinction. The definitive upward synthesis resolving Arc 01 and launching Arc 02.",
+      "critiqueSummary": "Rothfuss: Heartbreaking, sublime resolution of the filial tragedy."
+    }
+  },
+  "compositeSceneScore": 0.951,
+  "timestamp": "2026-09-17T15:43:19.185Z"
+}

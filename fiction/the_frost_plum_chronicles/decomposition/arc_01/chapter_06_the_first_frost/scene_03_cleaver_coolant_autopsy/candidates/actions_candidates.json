@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "A blue laser diode at Kang’s parietal lobe discharged a five-millisecond optical telemetry burst toward orbit. The internal micro-relays short-circuited; the synthetic skin-walker collapsed into 78 kilograms of titanium alloy and polymer scrap.",
+    "critique": "Sanderson: Precise electronic burnout and telemetry burst description.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.85,
+      "feral": 0.8,
+      "total": 0.903
+    }
+  },
+  {
+    "id": "c6-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "A pulse of high-frequency blue light shot straight up from the open wound in his head, piercing through the smoke into the cloud cover—toward the moon. Then the relays burned out. The synthetic flesh went limp. The hollow shell that had worn Uncle Kang’s face collapsed into the mud with the heavy, dead clatter of scrap metal. Daesung sat frozen, slowly reaching forward to touch the sparking chrome plates beneath his brother’s ear, weeping for a brother who had died long before the machine took his skin.",
+    "critique": "Rothfuss: Heartbreaking, sublime resolution of the filial tragedy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.88,
+      "total": 0.951
+    }
+  },
+  {
+    "id": "c6-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The tin can clattered to the dirt like a dropped kettle! I yanked my knife out, wiped the white coolant on Kang's iron armor, and looked up at the moon with a wolf-grin. \"Transmission received, you celestial bastards. Mount Hua is awake. Start running.\"",
+    "critique": "Biga: Unbeatable, exhilarating series-level declaration of war against the Moon.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.91,
+      "feral": 0.99,
+      "total": 0.944
+    }
+  }
+]

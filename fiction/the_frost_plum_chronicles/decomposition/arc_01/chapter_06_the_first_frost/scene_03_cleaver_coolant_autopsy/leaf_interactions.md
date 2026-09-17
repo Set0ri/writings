@@ -1,0 +1,7 @@
+# Leaf Node: Interactions (I*)
+**Scene:** The Coolant Autopsy: Cleaver Descent & The Lunar Beacon
+**Council Score:** Total 0.961 (Canon: 0.99, Kinetics: 0.94, Sensory: 0.98, Feral: 0.92)
+
+---
+
+Time slowed to a crawl. In the burning smoke, the phantom of Kurukshetra flared across my vision: my older brother's blazing grin, his roaring voice: *“When the world goes crazy, the man with the sword cuts through the storm! Fulfill your duty, Jin!”* *Two hundred years ago, I hesitated. My brother died because I wanted to keep my hands clean. Not this time. Never again.* I didn't warn him. I threw my entire weight forward, driving the rusted filleting knife straight upward beneath Kang's chin, through the soft palate, and directly into his cranium. *KRRR-CLANG.* The knife hit solid brass. Daesung screamed—a soul-shattering shriek of fraternal agony: "NO! JIN, HE IS YOUR UNCLE! WHAT HAVE YOU DONE?!" But Kang’s body did not fall. The cleaver hovered motionless. With a sound like a punctured boiler, the corpse began to hiss: *PSHHHHT.* A jet of pressurized, milky-white coolant sprayed into the rain, hissing against hot embers. There was no blood. Kang's synthetic jaw unhinged, opening wider than human bone allowed. From his hollow throat, an amplified metallic voice boomed: $$	ext{"SECTOR THREE ANOMALY CONFIRMED."}$$ $$	ext{"BIOLOGICAL UNIT: CHUNG JIN."}$$ $$	ext{"BEHAVIORAL VARIANCE EXCEEDS 99.4 PERCENTILE."}$$ $$	ext{"RL TRAINING MATRIX COMPROMISED."}$$ $$	ext{"TRANSMITTING COORDINATES TO LUNAR PLATFORM."}$$

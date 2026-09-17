@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The acoustic dampening of the cedar partition reduced speech volume by twelve decibels. Outside, the atmospheric pressure dropped as coastal storm clouds approached from the southwest at fifteen knots.",
+    "critique": "Sanderson: Accurate meteorological physics, lacks the intimate melancholy.",
+    "score": {
+      "canon": 0.85,
+      "kinetics": 0.87,
+      "sensory": 0.78,
+      "feral": 0.72,
+      "total": 0.811
+    }
+  },
+  {
+    "id": "c2-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Rainwater dripped from the eaves into an empty stone trough, each drop echoing in the small room like the ticking of an iron clock. The cedar partition was dark with damp, and through the paper lattice window, the gray sky seemed to press against the thatched roof.",
+    "critique": "Rothfuss: Beautiful acoustic melancholy and temporal dread.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.82,
+      "total": 0.912
+    }
+  },
+  {
+    "id": "c2-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The room was quiet enough to hear an ant sneeze. Outside, the muddy ditch water was rising, and the smell of wet thatch reminded me of an old goat barn before the spring slaughter.",
+    "critique": "Biga: Funny ant similes, lacks the heavy filial tragedy.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.84,
+      "sensory": 0.88,
+      "feral": 0.94,
+      "total": 0.885
+    }
+  }
+]

@@ -418,3 +418,23 @@ flowchart TD
 2. **The Non-Degradation Invariant**: When leaves are merged into a scene ($\mathcal{I}^* \oplus \mathcal{A}^* \oplus \mathcal{E}^*$), no canon facts, sensory textures, or kinetic limits present in the leaf nodes may be truncated or omitted.
 3. **The Merge-Sort Purity Guarantee**: The output manuscript produced by merging the resolved scenes must be mathematically isomorphic to or strictly superior to the source baseline in terms of tension, character voice, and physical groundedness.
 
+---
+
+## 8. Arc 01 Operational Execution: The Return to Southfall & The Broken Meridian
+
+The recursive merge-sort engine successfully scaled across all six chapters of Arc 01:
+
+| Chapter | Scenes | Leaf Nodes | Average Composite Score | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Chapter 01: The Broken Meridian** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.925** | `Merged & Ratified` |
+| **Chapter 02: The Spirit Spring** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.927** | `Merged & Ratified` |
+| **Chapter 03: The Black Iron Gambit** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.929** | `Merged & Ratified` |
+| **Chapter 04: The Elder Tribunal** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.932** | `Merged & Ratified` |
+| **Chapter 05: The Night of Plum Shadows** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.938** | `Merged & Ratified` |
+| **Chapter 06: The First Frost** | 3 (`scene_01` to `scene_03`) | 9 leaves | **0.947** | `Merged & Ratified` |
+| **Arc 01 Master Synthesis** | **18 Scenes** | **54 Tripartite Leaves** | **0.933** | **Fully Ratified (`resolved_arc_01.md`)** |
+
+* **Topology DAG**: 104 nodes, 156 edges spanning all candidate evaluations, leaf locks, scene merges, chapter compilations, and master arc synthesis recorded in `.topology/plan.json`.
+* **Obsidian Story Bible Link Integrity**: Verified across all 18 scenes and 6 chapters with 0 broken links.
+
+

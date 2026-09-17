@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The ambient airflow exited the residence through the doorway at 1.2 meters per second. Outside, the atmospheric pressure gradient indicated an imminent coastal squall within eighteen hours.",
+    "critique": "Sanderson: Meteorological precision, lacks the ominous chill.",
+    "score": {
+      "canon": 0.87,
+      "kinetics": 0.9,
+      "sensory": 0.8,
+      "feral": 0.74,
+      "total": 0.834
+    }
+  },
+  {
+    "id": "c4-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The morning air outside was heavy and cold, smelling of wet slate and encroaching storm. Down the lane, exhausted villagers were trudging to the ditches with wooden shovels, while behind me in the warm room, Kang sat motionless like an iron statue cast in the likeness of a man.",
+    "critique": "Rothfuss: Haunting image of the iron statue in the doorway.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.85,
+      "total": 0.92
+    }
+  },
+  {
+    "id": "c4-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The village mud sucked at my bare toes. Up in the watchtower, the alarm bell hung quiet for now, but my nose caught the scent of old pitch and iron. \"A storm's brewing, and it's not just the weather.\"",
+    "critique": "Biga: Great sensory foreshadowing from the protagonist's nose.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.87,
+      "sensory": 0.9,
+      "feral": 0.96,
+      "total": 0.907
+    }
+  }
+]

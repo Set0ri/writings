@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "On the platform, Sector Chief Kang paced with invariant intervals: three strides left (2.4 seconds), two-second pause, three strides right. When a scout reported breached snare lines, Kang's ocular blink frequency was zero. He diverted grain from Sector Three with an algorithmic latency of 180 milliseconds.",
+    "critique": "Sanderson: Superb mechanical pacing diagnostics and latency analysis.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.96,
+      "sensory": 0.84,
+      "feral": 0.8,
+      "total": 0.892
+    }
+  },
+  {
+    "id": "c2-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Stand fast, men of the Third Sector!\" Kang shouted. He was tall, thick-chested, dressed in polished iron mail. Around him, fifty exhausted villagers leaned on pickaxes, Daesung knee-deep in gray clay hoisting an oak foundation log. \"The night-howlers breached the ditch at dawn! Give your sweat to the trench, and the Council will keep your hearths warm!\" But as a scout reported cut wires, Kang didn't flinch. His eyelids didn't even flutter. His face was a mask of carved wax.",
+    "critique": "Rothfuss: Dramatic rhetoric contrast with hollow, synthetic interior.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.929
+    }
+  },
+  {
+    "id": "c2-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Look at this pompous bastard,\" I sneered behind the grain silo. \"Preaching about ancestral sweat while wearing polished iron, then stealing my father's dinner to make up for his own incompetence! I swear, every village in the world has at least one of these blowhards who needs an oak stick across his chin!\"",
+    "critique": "Biga: Classic Chung Myung rage at hypocritical corrupt chieftains.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.87,
+      "sensory": 0.88,
+      "feral": 0.98,
+      "total": 0.909
+    }
+  }
+]

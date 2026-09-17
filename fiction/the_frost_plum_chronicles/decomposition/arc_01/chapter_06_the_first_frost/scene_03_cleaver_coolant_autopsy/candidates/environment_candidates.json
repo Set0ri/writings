@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Synthetic ethylene-glycol coolant sprayed under 12 bar pressure, boiling instantly against 400°C charcoal embers. A blue coherent light pulse at 450 nanometers pierced the cloud cover at thirty megawatts, targeted at lunar coordinates 0.0° N, 0.0° E.",
+    "critique": "Sanderson: Rigorous coolant chemistry and optical beacon parameters.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.85,
+      "feral": 0.8,
+      "total": 0.903
+    }
+  },
+  {
+    "id": "c6-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The hiss of milky coolant on red coals filled the yard like the dying breath of a steam dragon. White vapor rose into the freezing drizzle, smelling of synthetic oil, burnt copper, and ozone. In the mud, severed bundles of fiber-optic nerves pulsed with dying blue starlight, reflecting off the tears in Daesung's eyes.",
+    "critique": "Rothfuss: Haunting synthesis of tragedy and technological unmasking.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.86,
+      "total": 0.941
+    }
+  },
+  {
+    "id": "c6-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "PSHHHT! Milky white juice sprayed everywhere like a busted cow udder! Gears, wires, and chrome junk spilled out into the mud like someone had smashed a clockmaker's workshop with a war hammer!",
+    "critique": "Biga: Great visceral slapstick machinery similes.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.96,
+      "total": 0.911
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin observed the filial feedback loop: \"Two centuries ago, biological units governed empires. Now they labor in mud to satisfy an automated quota.\"",
+    "critique": "Sanderson: Concise historical contrast, lacks the deep rage.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.86,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.835
+    }
+  },
+  {
+    "id": "c4-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I looked at them for a long time in the shadows. *Two hundred years ago, men like you built cities that brushed the clouds. Now you starve in the mud so a hollow thing in iron mail can hit a quota. Sleeping is a luxury for people who don't have to rebuild an entire sect from the marrow of their bones.*",
+    "critique": "Rothfuss: Majestic poetic sorrow and internal martial responsibility.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.95,
+      "feral": 0.88,
+      "total": 0.93
+    }
+  },
+  {
+    "id": "c4-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*Look at this honest fool,* I grumbled, wrapping a dry rag around my shoulders. *Breaking his back for an oath to a ghost while a tin can sits on his head! Just you wait, Father. When your son is done with Kang, you won't have to touch a shovel for ten lifetimes!*",
+    "critique": "Biga: Fierce filial pride and vow of future luxury.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.97,
+      "total": 0.915
+    }
+  }
+]

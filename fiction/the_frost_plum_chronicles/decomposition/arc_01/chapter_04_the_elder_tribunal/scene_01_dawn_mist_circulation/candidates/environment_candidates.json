@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Dawn humidity reached saturation at 98%. The dark cottage contained two sleeping biological units emitting baseline thermal signatures of 36.8°C. Ambient charcoal combustion particulates were minimal.",
+    "critique": "Sanderson: Thermal and humidity measurements, lacking emotional domestic warmth.",
+    "score": {
+      "canon": 0.86,
+      "kinetics": 0.9,
+      "sensory": 0.79,
+      "feral": 0.72,
+      "total": 0.825
+    }
+  },
+  {
+    "id": "c4-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The rain stopped an hour before dawn, leaving the village wrapped in a cold, suffocating blanket of gray sea-fog. Inside our hut, the rhythmic, exhausted breathing of my parents filled the dark room. My father lay curled around my mother to shield her from the draft whistling through the floorboards, his broad hands twitching with the spasms of twelve hours spent fighting clay and pine logs.",
+    "critique": "Rothfuss: Moving portrayal of parental sacrifice and damp coastal dawn.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.926
+    }
+  },
+  {
+    "id": "c4-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The sea-fog was thick enough to chew on. Inside, Father was snoring like a broken bellows, exhausted from being worked to the bone by that mechanical phony across the lane.",
+    "critique": "Biga: Great snore similes, needs the quiet internal vows.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.85,
+      "sensory": 0.88,
+      "feral": 0.95,
+      "total": 0.893
+    }
+  }
+]

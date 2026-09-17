@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The engagement zone was bordered by a burning grain cart emitting localized temperatures of 320°C. Mud depth was 8 centimeters. Atmospheric illumination varied with wind-driven flame pulses.",
+    "critique": "Sanderson: Thermal parameters and terrain depth clear, lacks sensory acoustics.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.93,
+      "sensory": 0.81,
+      "feral": 0.75,
+      "total": 0.849
+    }
+  },
+  {
+    "id": "c6-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Embers rained down like dying red fireflies against the dark mud. The air smelled of burning pine, hot iron, and fresh arterial blood. Behind us, the burning grain cart creaked, its wooden wheels hissing as grease boiled in the hubs.",
+    "critique": "Rothfuss: Lyrical and lethal atmosphere of the burning muster yard.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.86,
+      "total": 0.93
+    }
+  },
+  {
+    "id": "c6-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Sparks were flying everywhere, and the bandit captain stood grinning with teeth so yellow they looked like old corn kernels. In the red light of the fire, my little kitchen knife looked like a toothpick compared to his big ugly scimitar.",
+    "critique": "Biga: Great comedic tooth similes and toothpick knife contrast.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.96,
+      "total": 0.913
+    }
+  }
+]

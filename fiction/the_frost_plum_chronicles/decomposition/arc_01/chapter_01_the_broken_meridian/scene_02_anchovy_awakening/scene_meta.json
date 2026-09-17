@@ -1,0 +1,21 @@
+{
+  "id": "scene_02_anchovy_awakening",
+  "title": "The Anchovy Awakening: Southfall Mud & Two Centuries",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.916,
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.917
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.918
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.914
+    }
+  }
+}

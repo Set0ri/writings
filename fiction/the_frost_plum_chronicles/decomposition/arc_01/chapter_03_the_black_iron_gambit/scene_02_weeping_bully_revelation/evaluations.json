@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_02_weeping_bully_revelation",
+  "title": "The Weeping Bully: Algorithmic Bruises & Iron Crates",
+  "order": 2,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.9,
+        "sensory": 0.96,
+        "feral": 0.86,
+        "total": 0.925
+      },
+      "councilConsensus": "Passed with high distinction. Evocative physical evidence of Kang's synthetic brutality.",
+      "critiqueSummary": "Rothfuss: Somber, haunting visual discovery of parental abuse."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.9,
+        "sensory": 0.96,
+        "feral": 0.87,
+        "total": 0.93
+      },
+      "councilConsensus": "Passed with high distinction. Integrates Logan's algorithmic RL camp mystery with genuine human pathos.",
+      "critiqueSummary": "Rothfuss: Deeply poignant, harrowing dialogue revealing Kang's nature."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.91,
+        "sensory": 0.94,
+        "feral": 0.88,
+        "total": 0.923
+      },
+      "councilConsensus": "Passed with high distinction. Perfect transition from comedic shakedown to detective intrigue.",
+      "critiqueSummary": "Rothfuss: Natural recovery and quiet tactical redirection."
+    }
+  },
+  "compositeSceneScore": 0.926,
+  "timestamp": "2026-09-17T15:43:19.029Z"
+}

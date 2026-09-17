@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_tripping_the_pig",
+  "title": "Tripping the Pig: The Third Thoracic Nerve",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.89,
+        "sensory": 0.96,
+        "feral": 0.85,
+        "total": 0.917
+      },
+      "councilConsensus": "Passed with high distinction. Rich sensory smell of salt and mud setting up the duel.",
+      "critiqueSummary": "Rothfuss: Atmospheric coastal alley texture and sensory detail."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.94,
+        "feral": 0.9,
+        "total": 0.93
+      },
+      "councilConsensus": "Passed with high distinction. Classic Mount Hua psychological warfare and comedic lackey rout.",
+      "critiqueSummary": "Rothfuss: Chilling understated threat and predator demeanor."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.93,
+        "sensory": 0.95,
+        "feral": 0.88,
+        "total": 0.934
+      },
+      "councilConsensus": "Passed with high distinction. Combines Sanderson kinetic leverage with Biga slapstick payoff.",
+      "critiqueSummary": "Rothfuss: Clean, rhythmic physical prose with crisp kinetic payoff."
+    }
+  },
+  "compositeSceneScore": 0.927,
+  "timestamp": "2026-09-17T15:43:19.015Z"
+}

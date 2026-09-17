@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I focused my refined sensory nodes on Kang's cervical spine. Biological heat emission was absent; instead, a thirty-hertz acoustic oscillation emanated from his carotid region—a liquid coolant circulation pump operating at sub-zero temperatures.",
+    "critique": "Sanderson: Precise synthetic coolant vibration detection.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.95,
+      "sensory": 0.86,
+      "feral": 0.82,
+      "total": 0.901
+    }
+  },
+  {
+    "id": "c2-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I touched the base of my throat, feeling the subtle resonance of my revived Sword Heart. Every living creature radiates a messy halo of biological warmth. As Kang turned, my vision narrowed. Beneath his collar and iron links, there was no warmth. There was only a cold, faint hum—like water running through frozen lead pipes.",
+    "critique": "Rothfuss: Lyrical perception of synthetic absence.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.934
+    }
+  },
+  {
+    "id": "c2-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "A heavy hand clamped on my shoulder, spinning me into the mud. \"Well, well, look at the little rat,\" Bao sneered, pulling a wooden club. I pushed myself to one knee, wiping mud from my teeth. \"You know, cousin, whenever a pig squeals this loud in my old days, we didn't give it a lesson. We just hung it from the rafters.\"",
+    "critique": "Biga: Explosive cliffhanger hook into Chapter 3 fight.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.91,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.927
+    }
+  }
+]

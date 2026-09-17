@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Jin,\" Kang said. \"Optimal protocol requires you to rest. Probability of nocturnal surveillance across coastal cliffs: 0.04%. Causal variance unaccounted for.\"",
+    "critique": "Sanderson: Perfect synthetic surprise calculation.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.82,
+      "feral": 0.8,
+      "total": 0.877
+    }
+  },
+  {
+    "id": "c4-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I pulled up a chair, straddled it backward, and tossed the duplicate Gull's Maw roster onto the desk between his ledgers. \"The Gull’s Maw is very scenic at dead low tide,\" I remarked. \"And the Black Wave Bandits are very punctual businessmen. Isn't that right, Uncle?\" Kang didn't turn pale. A human crook would sweat, deny it, or reach for a dagger. Kang simply stared, a glassy film passing over his pupils.",
+    "critique": "Rothfuss: Superb psychological tension and unblinking stares.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.96,
+      "feral": 0.9,
+      "total": 0.939
+    }
+  },
+  {
+    "id": "c4-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Nice office, Uncle!\" I laughed, resting my chin on my arms. \"Very warm! Down in Sector Three, rain leaks right onto Father’s face while he sleeps, but here you've got pine logs burning like festival day! Let's talk about your little midnight date with the cutthroats.\"",
+    "critique": "Biga: Unbeatable Mount Hua swagger and shameless intimidation.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.923
+    }
+  }
+]

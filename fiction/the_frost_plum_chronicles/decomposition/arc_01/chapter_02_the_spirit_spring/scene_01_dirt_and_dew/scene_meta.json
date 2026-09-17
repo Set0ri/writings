@@ -1,0 +1,21 @@
+{
+  "id": "scene_01_dirt_and_dew",
+  "title": "Eating Dirt & The Gentle Breath of the Morning Dew",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.929,
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.921
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.929
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.936
+    }
+  }
+}

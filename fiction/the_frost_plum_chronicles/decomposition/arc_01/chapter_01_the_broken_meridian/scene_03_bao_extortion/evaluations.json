@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_bao_extortion",
+  "title": "The Feral Grin: Cousin Bao & The Four-Finger Clamp",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.94,
+        "kinetics": 0.88,
+        "sensory": 0.95,
+        "feral": 0.85,
+        "total": 0.91
+      },
+      "councilConsensus": "Passed with high distinction. Crisp sensory intrusion establishing Bao's obnoxious entrance.",
+      "critiqueSummary": "Rothfuss: Atmospheric and tactile, sets up the hostile intrusion well."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.9,
+        "sensory": 0.95,
+        "feral": 0.91,
+        "total": 0.932
+      },
+      "councilConsensus": "Passed with high distinction. Masterful balance of filial heartbreak, detective deduction, and feral comedy.",
+      "critiqueSummary": "Rothfuss: Superb tension and psychological deduction."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.94,
+        "kinetics": 0.88,
+        "sensory": 0.89,
+        "feral": 0.98,
+        "total": 0.921
+      },
+      "councilConsensus": "Passed with high distinction. Flawless comedic reset followed by the sacred martial oath.",
+      "critiqueSummary": "Biga: Golden comedic timing and dramatic moaning for soup."
+    }
+  },
+  "compositeSceneScore": 0.921,
+  "timestamp": "2026-09-17T15:43:18.916Z"
+}

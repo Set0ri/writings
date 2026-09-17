@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Bao's center of gravity shifted rearward by fifteen centimeters. His boots snagged on his hem; friction coefficients failed and he stumbled into the hearth perimeter before retreating at three meters per second.",
+    "critique": "Sanderson: Clean kinematic description, lacks the comedic squeak.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.94,
+      "sensory": 0.81,
+      "feral": 0.79,
+      "total": 0.86
+    }
+  },
+  {
+    "id": "c1-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Bao took an involuntary step back, clutching his throat where the bruised flesh burned. His bravado vanished like mist in a sudden draft. He turned and fled into the rain, his lackeys scrambling behind him as if the dead had reached up through the floorboards.",
+    "critique": "Rothfuss: Atmospheric retreat, needs more slapstick dramatic collapse.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.9,
+      "sensory": 0.94,
+      "feral": 0.87,
+      "total": 0.916
+    }
+  },
+  {
+    "id": "c1-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Y-You're crazy!\" Bao squeaked, voice cracking into a panicked shriek as he tripped over his own feet, nearly face-planting into the fire pit. He bolted into the rain. The second the door clicked shut, I collapsed like a deflated bladder: \"Ahhh! My ribs! Father, bring more soup! Your son is wasting away!\"",
+    "critique": "Biga: Golden comedic timing and dramatic moaning for soup.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.921
+    }
+  }
+]

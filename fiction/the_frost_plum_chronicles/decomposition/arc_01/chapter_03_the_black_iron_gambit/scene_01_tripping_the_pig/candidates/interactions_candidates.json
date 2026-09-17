@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Your angular velocity is unbalanced,\" Jin stated. Bao snarled: \"I'll crack your ribs again!\" Jin depressed the third thoracic nerve: \"Biochemical signal transmission is suspended.\"",
+    "critique": "Sanderson: Mechanically accurate, misses the feral mockery.",
+    "score": {
+      "canon": 0.85,
+      "kinetics": 0.93,
+      "sensory": 0.77,
+      "feral": 0.76,
+      "total": 0.832
+    }
+  },
+  {
+    "id": "c3-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Touch that spear,\" I said to the lackeys in a soft, musical purr, \"and I'll shove it so far down your throat you'll be picking iron shavings out of your breakfast tomorrow.\" The lackeys looked at Bao groaning in the mud, dropped their spears, and bolted.",
+    "critique": "Rothfuss: Chilling understated threat and predator demeanor.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.94,
+      "feral": 0.9,
+      "total": 0.93
+    }
+  },
+  {
+    "id": "c3-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "I smiled that wide, unhinged, predatory Mount Hua grin, letting my eyes glaze over with pure madness. \"Touch that spear, and I'll use your ribs as chopsticks!\" The lackey squeaked like a stepped-on mouse and ran so fast his boots threw mud fifty paces.",
+    "critique": "Biga: Peak Chung Myung lunacy and chopstick threats.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.921
+    }
+  }
+]

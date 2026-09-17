@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Jin, why are you on the ground?\" Yeon queried. \"I was conducting isometric load testing, Mother.\" \"You are consuming dirt. Drink this protein broth; it will accelerate osteoblast synthesis.\"",
+    "critique": "Sanderson: Too anachronistically clinical.",
+    "score": {
+      "canon": 0.84,
+      "kinetics": 0.89,
+      "sensory": 0.76,
+      "feral": 0.75,
+      "total": 0.815
+    }
+  },
+  {
+    "id": "c2-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Jin? What are you doing on the floor?!\" My mother dropped to her knees, hauling me back onto the straw like a bundle of dry hemp. \"I was... meditating, Mother,\" I wheezed. \"You were eating dirt,\" Yeon said softly, wiping mud from my chin with her sleeve. She pressed the wooden spoon into my fingers. \"Drink it, Jin. Your father traded our evening salt ration for those minnows so your ribs would knit.\"",
+    "critique": "Rothfuss: Deeply touching maternal tenderness and unvarnished truth.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.929
+    }
+  },
+  {
+    "id": "c2-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Meditating!\" I squawked, coughing out a mouthful of dirt. \"A martial grandmaster is communing with the earth!\" \"You look like a dead flounder,\" Mother said, shoving a wooden spoon into my face. \"Drink the fish water before I smack your ear.\"",
+    "critique": "Biga: Great comedy, slightly too disrespectful toward gentle Yeon.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.86,
+      "sensory": 0.87,
+      "feral": 0.96,
+      "total": 0.891
+    }
+  }
+]

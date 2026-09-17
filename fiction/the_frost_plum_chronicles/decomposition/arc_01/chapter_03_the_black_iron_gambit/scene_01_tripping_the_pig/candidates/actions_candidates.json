@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I executed a four-inch lateral pivot along the Plum Blossom vector. The club passed through empty coordinates. I hooked the distal curve of the bamboo pole behind his calcaneus, applying twenty Newtons of tension while applying an upward palm strike to his mandibular notch.",
+    "critique": "Sanderson: Flawless physics and biomechanical leverage.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.83,
+      "feral": 0.82,
+      "total": 0.89
+    }
+  },
+  {
+    "id": "c3-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I slid my lead foot four inches to the left—the basic Plum Blossom Drifting Step. Whoosh. The club whistled through empty air, brushing my ear. I hooked the bamboo pole behind his ankle and gave it a polite yank, simultaneously slapping my left palm upward against his chin. Clack. Bao's teeth slammed together, and all two hundred pounds of greasy village bully splashed face-first into the mud.",
+    "critique": "Rothfuss: Clean, rhythmic physical prose with crisp kinetic payoff.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.95,
+      "feral": 0.88,
+      "total": 0.934
+    }
+  },
+  {
+    "id": "c3-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "SPLAT. Bao hit the dirt face-first with the sound of a wet melon falling off a wagon. When he tried to push up, swearing bloody murder, I pressed the tip of my bamboo stick into his upper back with two pounds of pressure. His legs turned to noodles and he squeaked like a boiled pig.",
+    "critique": "Biga: Hilarious sound effects, noodle legs, and boiled pig squeals.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.9,
+      "sensory": 0.9,
+      "feral": 0.97,
+      "total": 0.923
+    }
+  }
+]

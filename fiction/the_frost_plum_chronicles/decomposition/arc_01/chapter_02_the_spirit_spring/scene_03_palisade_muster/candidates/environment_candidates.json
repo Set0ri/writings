@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The palisade was constructed from Pinus densiflora logs, average diameter 28 centimeters, sharpened to forty-five-degree points. Claw marks at heights of 1.82, 1.83, and 1.81 meters indicated non-random algorithmic testing of the perimeter defense.",
+    "critique": "Sanderson: Brilliant insight into measured beast claw marks.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.95,
+      "sensory": 0.83,
+      "feral": 0.78,
+      "total": 0.883
+    }
+  },
+  {
+    "id": "c2-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Southfall was a fortress built by desperate men with dull tools. Huts of turf and unhewn logs clustered behind a massive circular palisade of sharpened pine. The air smelled of crushed needles, woodsmoke, and sour beast dung. Through murder-holes, hollow-faced guards stared out into the dense, black treeline beyond the ditch.",
+    "critique": "Rothfuss: Atmospheric grimness and evocative defensive fortress textures.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.928
+    }
+  },
+  {
+    "id": "c2-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The village looked like someone had thrown mud, logs, and cabbage at a swamp and declared it a fortress. Villagers were dragging a dead six-legged wolf through the mud, while the blacksmith hammered bent pitchforks like he was trying to kill an invisible fly.",
+    "critique": "Biga: Great colorful village description, matches Chung Myung perspective.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.86,
+      "sensory": 0.9,
+      "feral": 0.96,
+      "total": 0.905
+    }
+  }
+]

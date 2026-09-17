@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I attempted to rotate the glenohumeral joint. The fifth and sixth ribs radiated acute pain, indicating a thirty percent reduction in structural integrity. My forearm diameter was 4.2 centimeters. Muscular atrophy was severe; force generation was negligible.",
+    "critique": "Sanderson: Strong biomechanical diagnostics, lacks the hilarious squawking.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.95,
+      "sensory": 0.82,
+      "feral": 0.8,
+      "total": 0.867
+    }
+  },
+  {
+    "id": "c1-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "My hand whipped toward my hip to draw my sword. Crack. Blinding pain shot through my ribs, and my arm flopped uselessly to my side. I raised a trembling hand to my face. The fingers were pale, scrawny, and completely devoid of sword calluses—the hands of a sickly child.",
+    "critique": "Rothfuss: Evocative physical fragility and sensory shock.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.9,
+      "sensory": 0.94,
+      "feral": 0.86,
+      "total": 0.914
+    }
+  },
+  {
+    "id": "c1-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"GAAAH!\" The sound that flew out of my throat was a strangled squawk, like a wet chicken being stepped on by an ox. \"What is this?! Chopsticks?! I have chopsticks for arms?! Where are my forearms?! Where are my damn muscles?!\"",
+    "critique": "Biga: Hilarious anchovy despair and physical slapstick.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.97,
+      "total": 0.913
+    }
+  }
+]

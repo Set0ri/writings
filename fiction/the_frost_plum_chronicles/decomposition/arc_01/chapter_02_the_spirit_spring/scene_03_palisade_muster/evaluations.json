@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_03_palisade_muster",
+  "title": "The Palisade Muster: Kang's Mechanical Cadence",
+  "order": 3,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.91,
+        "sensory": 0.97,
+        "feral": 0.85,
+        "total": 0.928
+      },
+      "councilConsensus": "Passed with high distinction. Integrates the subtle RL testing clue with visceral frontier grimness.",
+      "critiqueSummary": "Rothfuss: Atmospheric grimness and evocative defensive fortress textures."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.9,
+        "sensory": 0.96,
+        "feral": 0.88,
+        "total": 0.929
+      },
+      "councilConsensus": "Passed with high distinction. Flawlessly plants the algorithmic, robotic demeanor of Uncle Kang.",
+      "critiqueSummary": "Rothfuss: Dramatic rhetoric contrast with hollow, synthetic interior."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.92,
+        "sensory": 0.97,
+        "feral": 0.87,
+        "total": 0.934
+      },
+      "councilConsensus": "Passed with high distinction. Delivers both the chilling synthetic discovery and the action cliffhanger.",
+      "critiqueSummary": "Rothfuss: Lyrical perception of synthetic absence."
+    }
+  },
+  "compositeSceneScore": 0.93,
+  "timestamp": "2026-09-17T15:43:18.985Z"
+}

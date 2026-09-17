@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "As Yeon departed, I tested my axial skeleton against a bamboo pole. The vertical load caused a three-millimeter deflection in the fifth rib. I retrieved a high-carbon iron stone-chisel, 180 grams, concealing it in my waistband.",
+    "critique": "Sanderson: Strong tactile preparation and tool specifications.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.95,
+      "sensory": 0.82,
+      "feral": 0.8,
+      "total": 0.873
+    }
+  },
+  {
+    "id": "c2-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The moment Yeon gathered her willow basket and went down to the river, I was on my feet. My knees wobbled, but they held. I took a bamboo walking pole from the corner, tucked my father's small iron chisel into my waistband, and pushed the door open into the gray morning mist.",
+    "critique": "Rothfuss: Natural pacing and quiet determination.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.94,
+      "feral": 0.88,
+      "total": 0.923
+    }
+  },
+  {
+    "id": "c2-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The second the latch clicked, I sprang up like a coiled ferret. My ribs yelled at me, but I ignored them. I grabbed a stout bamboo stick and tucked an iron chisel into my belt. \"Time to go see what kind of monster runs this flea-circus.\"",
+    "critique": "Biga: High-energy ferret simile and eager troublemaking.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.9,
+      "sensory": 0.87,
+      "feral": 0.97,
+      "total": 0.913
+    }
+  }
+]

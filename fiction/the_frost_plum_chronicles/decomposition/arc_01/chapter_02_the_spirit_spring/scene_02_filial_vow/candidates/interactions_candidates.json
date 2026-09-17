@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Why does Daesung yield to Kang?\" Jin asked. \"Kang's physical output is fifty percent lower.\" Yeon explained: \"A binding deathbed promise made thirty years ago enforces Daesung's compliance regardless of systemic inefficiency.\"",
+    "critique": "Sanderson: Efficient behavioral economic summary, lacks emotional resonance.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.86,
+      "sensory": 0.77,
+      "feral": 0.75,
+      "total": 0.822
+    }
+  },
+  {
+    "id": "c2-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Why does Father bow to him?\" I asked. Yeon's posture stiffened. She looked toward the closed door with eyes carrying the weight of twenty bitter winters. \"Your father was a hunter in the high ridges, Jin. The strongest man in the valley. But when his mother lay dying, she made him swear an oath on her ancestral tablet: 'No matter how harsh the world becomes, you must keep your brother alive. You are the elder. You must carry him.' To your father, enduring Kang's greed is his filial duty. If he breaks his brother, he breaks his vow to the dead.\"",
+    "critique": "Rothfuss: Poignant filial tragedy; the core anchor of Daesung's character.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.86,
+      "total": 0.928
+    }
+  },
+  {
+    "id": "c2-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"He's letting a fat parasite drink his blood because of an old promise?!\" I fumed, grinding my molars. \"If my master made me promise to carry an idiot who steals my salt, I'd dig up his grave and complain! Good men always get choked by their own soft hearts!\"",
+    "critique": "Biga: Terrific Chung Myung fury at unnecessary filial martyrdom.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.87,
+      "sensory": 0.89,
+      "feral": 0.97,
+      "total": 0.913
+    }
+  }
+]

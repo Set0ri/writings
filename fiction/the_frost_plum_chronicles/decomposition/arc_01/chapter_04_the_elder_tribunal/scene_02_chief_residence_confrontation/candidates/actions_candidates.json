@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Kang’s digital flexors locked; compressive force against the desk increased by 150 Newtons. His acoustic emissions revealed a sub-harmonic frequency of forty hertz—internal cryogenic pump acceleration.",
+    "critique": "Sanderson: Great acoustic tracking of mechanical internals.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.96,
+      "sensory": 0.85,
+      "feral": 0.8,
+      "total": 0.895
+    }
+  },
+  {
+    "id": "c4-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I leaned forward until our faces were six inches apart. \"First: my father doesn't dig double watches. Second: double rations of rice and three jars of salt every week, delivered without Bao showing up. Third: stop choking your son in the dark. If I see another bruise on that boy's neck, I won't just tell the Council—I'll chop off your fingers one by one.\"",
+    "critique": "Rothfuss: Intense dramatic ultimatum and visceral protection.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.91,
+      "sensory": 0.95,
+      "feral": 0.91,
+      "total": 0.935
+    }
+  },
+  {
+    "id": "c4-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "I smiled, showing every single tooth in my head. \"You understand the terms, Uncle? If you mess with my family's dinner, I'll dismantle you into spare parts and sell them to the scrap peddler!\"",
+    "critique": "Biga: Feral wolf-grin and scrap metal threats.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.89,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.923
+    }
+  }
+]

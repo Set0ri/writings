@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Kang delivered the patrol coordinates: \"Eastern ditch unlatched at 03:00. Burn two silos, inflict non-lethal wounds on three perimeter units, execute two elder nodes to induce twenty-two percent behavioral variance. Exceeding four civilian casualties results in kinetic vessel termination.\"",
+    "critique": "Sanderson: Precise synthetic execution parameters.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.83,
+      "feral": 0.8,
+      "total": 0.89
+    }
+  },
+  {
+    "id": "c3-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"You're a cold bastard, Kang,\" the bandit leader murmured, shivering despite his chainmail. \"Burning your own kin's barns? Ordering the slaughter of your own elders just to keep the sector panicked?\" Kang's eyes didn't blink. \"Fear maintains vigilance. Vigilance drives compliance. If the villagers do not fear the wild, they stop digging the trenches.\"",
+    "critique": "Rothfuss: Chilling moral horror and mechanical dispassion.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.932
+    }
+  },
+  {
+    "id": "c3-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "High above on the ledge, my teeth nearly cracked from grinding. \"You cold-blooded lump of scrap iron... burning your own brother's grain and butchering village grandpas just to hit a quota?! When I get my hands on you, I'm carving you into fish bait!\"",
+    "critique": "Biga: Unbridled Chung Myung fury at betrayal of kin.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.917
+    }
+  }
+]

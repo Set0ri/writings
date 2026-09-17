@@ -22,14 +22,19 @@ export interface CandidateVariant {
   iteration: number;
 }
 
-export interface EvaluationRecord {
+export interface LeafEvaluationSummary {
+  winningScore: CouncilScore;
+  councilConsensus: string;
+  critiqueSummary: string;
+}
+
+export interface SceneEvaluationsRecord {
   sceneId: string;
-  leafType: LeafType;
-  iterations: number;
+  title: string;
+  order: number;
   threshold: number;
-  candidates: CandidateVariant[];
-  winningVariantId: string;
-  resolvedContent: string;
+  leaves: Record<LeafType, LeafEvaluationSummary>;
+  compositeSceneScore: number;
   timestamp: string;
 }
 
@@ -44,14 +49,25 @@ export interface SceneMetadata {
   id: string;
   title: string;
   order: number;
+  compositeScore?: number;
   leaves: Record<LeafType, SceneLeafState>;
+  status: 'pending' | 'in_progress' | 'ready_to_merge' | 'merged';
+}
+
+export interface ChapterMetadata {
+  id: string;
+  title: string;
+  order: number;
+  compositeScore?: number;
+  scenes: SceneMetadata[];
   status: 'pending' | 'in_progress' | 'ready_to_merge' | 'merged';
 }
 
 export interface ArcDecomposition {
   id: string;
   title: string;
-  scenes: SceneMetadata[];
+  chapters?: ChapterMetadata[];
+  scenes?: SceneMetadata[];
   status: 'in_progress' | 'completed';
   lastMergedAt?: string;
 }

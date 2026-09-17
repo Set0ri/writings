@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The room measured three by four meters, bounded by unhewn pine timber and dried coastal moss chinking. The ambient temperature was nine degrees Celsius, with heavy maritime humidity condensing along the roof slats.",
+    "critique": "Sanderson: Precise dimensional layout, needs the foul odors and sensory texture.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.86,
+      "sensory": 0.8,
+      "feral": 0.72,
+      "total": 0.823
+    }
+  },
+  {
+    "id": "c1-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Rain hammered against rotting pine planks with the rhythm of an annoying drum. The air smelled foul: rancid fish guts, damp red clay, and wet dog. Gray daylight seeped through the cracks in the wall, illuminating dust motes dancing over a straw pallet caked with old sweat and willow bark shavings.",
+    "critique": "Rothfuss: Rich sensory desolation and acoustic grounding.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.86,
+      "total": 0.917
+    }
+  },
+  {
+    "id": "c1-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The hut smelled like someone had pickled a dead carp inside a dirty gym sock and left it by the fire. Water dripped from the ceiling right onto my forehead with a relentless *plop-plop-plop*, mocking my glorious grandmaster resurrection.",
+    "critique": "Biga: Hilarious comedic misery, matches Chung Myung disgust.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.84,
+      "sensory": 0.91,
+      "feral": 0.96,
+      "total": 0.899
+    }
+  }
+]

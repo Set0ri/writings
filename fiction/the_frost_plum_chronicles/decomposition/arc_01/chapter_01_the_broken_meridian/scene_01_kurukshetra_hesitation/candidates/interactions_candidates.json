@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Beside me on the chariot, my elder brother grabbed my forearm, measuring my galvanic skin response. \"Pulse is 140, Jin. Adrenaline is blunting your trigger finger. Dharma is a binary logic state: either you turn the brass key or the line collapses.\"",
+    "critique": "Sanderson: Clean decision-tree logic, but strips the Kamina roaring fire and brotherly warmth.",
+    "score": {
+      "canon": 0.85,
+      "kinetics": 0.9,
+      "sensory": 0.78,
+      "feral": 0.76,
+      "total": 0.827
+    }
+  },
+  {
+    "id": "c1-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Stop scowling like an old widow, Jin!\" A heavy hand slammed between my shoulder blades. Beside me stood my elder brother. Blood was spattered across his jaw, his armor was half-shattered, but his eyes burned like twin suns. \"Brother,\" I gritted out. \"Half our kin are on that line.\" \"I see 'em!\" he barked, his grin widening with red teeth. \"And when this is over, I'll smack every single one of them until their ears ring! But right now? They're standing before the blade. Believe in the blade, Jin! Fulfill your Dharma!\"",
+    "critique": "Rothfuss: Superb emotional heft, Kamina archetype captured with blazing conviction.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.95,
+      "feral": 0.92,
+      "total": 0.943
+    }
+  },
+  {
+    "id": "c1-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Smack! My brother nearly drove my spine out my belly button. \"Jin! Stop making that ugly carp face! You look like you sat on a hedgehog! When we finish cutting these three million bastards down, I'm making you buy the celebratory dumplings!\"",
+    "critique": "Biga: Great slapstick violence, needs the brass cylinder sacred gravity.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.84,
+      "sensory": 0.86,
+      "feral": 0.96,
+      "total": 0.881
+    }
+  }
+]

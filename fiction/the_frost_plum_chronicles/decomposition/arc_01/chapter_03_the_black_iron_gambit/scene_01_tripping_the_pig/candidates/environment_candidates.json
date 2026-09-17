@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The alley between the fish drying sheds was 2.4 meters across, covered in clay with a friction coefficient of 0.28 due to recent precipitation. Salt crystals on the drying frames provided a coarse atmospheric scent.",
+    "critique": "Sanderson: Clean geometrical spacing, lacks visceral mud and fish brine.",
+    "score": {
+      "canon": 0.86,
+      "kinetics": 0.92,
+      "sensory": 0.8,
+      "feral": 0.74,
+      "total": 0.836
+    }
+  },
+  {
+    "id": "c3-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Behind the fish-drying sheds, the alley was deserted, slick with cold gray mud and smelling of salted cod and rain. Rainwater ran off the sloping eaves in thin silver threads, splattering into puddles where fat flies buzzed sluggishly in the chill.",
+    "critique": "Rothfuss: Atmospheric coastal alley texture and sensory detail.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.85,
+      "total": 0.917
+    }
+  },
+  {
+    "id": "c3-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The alley smelled like someone's grandfather had salted an eel in 1840 and left it to ferment behind a woodpile. Cold gray mud splashed three feet in every direction when Bao hit the ground like a sack of turnips.",
+    "critique": "Biga: Great comedic impact and olfactory exaggeration.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.88,
+      "sensory": 0.91,
+      "feral": 0.96,
+      "total": 0.913
+    }
+  }
+]

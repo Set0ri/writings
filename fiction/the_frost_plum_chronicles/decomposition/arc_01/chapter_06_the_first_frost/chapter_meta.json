@@ -1,0 +1,72 @@
+{
+  "id": "chapter_06_the_first_frost",
+  "title": "The First Frost",
+  "order": 6,
+  "status": "merged",
+  "compositeScore": 0.947,
+  "scenes": [
+    {
+      "id": "scene_01_deflecting_leaf_duel",
+      "title": "The Deflecting Leaf: Filleting Knife vs Scimitar",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.944,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.93
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.953
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.949
+        }
+      }
+    },
+    {
+      "id": "scene_02_plum_ember_wolf_kill",
+      "title": "The Violet Ember: Knife Through Cranium & Bandit Rout",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.945,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.935
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.946
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.953
+        }
+      }
+    },
+    {
+      "id": "scene_03_cleaver_coolant_autopsy",
+      "title": "The Coolant Autopsy: Cleaver Descent & The Lunar Beacon",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.951,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.941
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.961
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.951
+        }
+      }
+    }
+  ]
+}

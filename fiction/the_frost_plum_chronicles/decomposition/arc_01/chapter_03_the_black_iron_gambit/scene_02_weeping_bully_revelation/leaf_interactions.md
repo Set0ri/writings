@@ -1,0 +1,7 @@
+# Leaf Node: Interactions (I*)
+**Scene:** The Weeping Bully: Algorithmic Bruises & Iron Crates
+**Council Score:** Total 0.93 (Canon: 0.97, Kinetics: 0.9, Sensory: 0.96, Feral: 0.87)
+
+---
+
+"That's not from a fist, cousin," I whispered, tapping the bruised muscle. "That's a clamp. He did that to you last night, didn't he?" Bao's flailing stopped instantly. A shudder ran through his massive shoulders, and then, right there in the dirt behind the drying sheds, the fearsome village bully began to weep—a broken, terrified sobbing like an animal caught in a leg-trap. "He... he doesn't sleep," Bao choked out, tears cutting clean tracks through the caked mud. "He hasn't slept in three moons, Jin. He sits at his desk in the dark. If I make a sound... if I drop a wooden cup... he doesn't shout. He just walks over and squeezes my neck until everything goes black. His fingers feel like cold stone." "Why did he send you to harass my father?" "Because your father had extra salt! He told me Sector Three had to show 'negative consumption' on the weekly report! He said if we don't squeeze your house dry, the overseers won't send the iron crates! I didn't want to come here, Jin! If I went back empty-handed, he would have broken my fingers!" *Overseers. Negative consumption. Iron crates.* The vocabulary was completely wrong for a frontier chieftain. Chieftains talked about glory, clan blood, and hunting grounds. They didn't talk about negative consumption.

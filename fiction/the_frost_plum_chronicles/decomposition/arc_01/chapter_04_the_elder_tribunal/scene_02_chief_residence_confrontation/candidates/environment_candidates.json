@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Chief's residence featured slate tiles with an insulation R-value triple that of village huts. The hearth burned Pinus resinosa logs, generating 12 kilowatts of thermal energy. Desk dimensions: 2.2 by 1.1 meters of polished cedar.",
+    "critique": "Sanderson: Thermal and material specifications accurate.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.92,
+      "sensory": 0.81,
+      "feral": 0.74,
+      "total": 0.845
+    }
+  },
+  {
+    "id": "c4-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The Sector Chief’s residence was the only building in Southfall with a slate-tiled roof, sitting on a raised mound of crushed limestone. Inside, cedar walls smelled of beeswax and rich pine smoke. Rolls of sheepskin ledgers, brass weights, and wooden abacuses covered a grand desk. Behind it sat Uncle Kang, the fire in the stone hearth casting long shadows across his unmoving face.",
+    "critique": "Rothfuss: Tactile luxury contrasting with village squalor.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.96,
+      "feral": 0.85,
+      "total": 0.92
+    }
+  },
+  {
+    "id": "c4-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The Chief’s house had warm floors, cedar walls, and dried fruit on the sideboards, while the villagers down the hill were boiling marsh weeds! I dragged my muddy boots right across his pretty cedar floorboards with great satisfaction.",
+    "critique": "Biga: Hilarious spiteful mud-tracking and food complaints.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.87,
+      "sensory": 0.9,
+      "feral": 0.97,
+      "total": 0.913
+    }
+  }
+]

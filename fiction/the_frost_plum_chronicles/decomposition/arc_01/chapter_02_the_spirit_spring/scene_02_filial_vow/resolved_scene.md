@@ -1,0 +1,10 @@
+### The Filial Shackles: Grandmother's Deathbed Vow
+**Composite Council Score:** 0.921
+
+---
+
+Rainwater dripped from the ragged thatch into a stone trough outside the sill, each drop striking with the hollow, measured tick of an ancient clock. The cedar partition separating our sleeping mats was black with coastal damp. Gray light pooled in the doorway, heavy with the scent of wet pine needles, cold river mud, and the bitter smoke of dying peat fires.
+
+"Kang," I said, testing the name. "Why does Father bow to him? He's a tyrant who sends his fat son to shake down his own kin. Father could snap Kang's neck with two fingers. I saw his footing—his shoulders have iron in them." Yeon let out a soft, sad sigh carrying twenty bitter winters. "Your father was the strongest hunter in the high ridges, Jin. But when his mother lay dying of winter rot, she held his hands until her skin turned cold. She made him swear an oath on her ancestral tablet: *'No matter what happens, no matter how harsh the world becomes, you must keep your brother alive. You are the elder. You must carry him.'* Your father is a man who keeps his word. Kang has fed on that promise since dirt was shoveled over her grave. To your father, enduring Kang's greed is his filial duty. If he breaks his brother, he breaks his vow to the dead." *Dharma,* I thought, staring into the mud. In this rotting hut on the edge of the world, duty was a rusted chain wrapped around a good man's throat, choking him slowly so a parasite could grow fat.
+
+The moment the wooden latch clicked behind Yeon, I was on my feet. My knees wobbled, but the Gentle Breath had done its work; the hairline fractures held under my weight. I picked up a simple bamboo walking pole from the corner of the room, tucked a small iron stone-chisel from my father's workbench into my waistband, and pushed the door open. *If Father won't break his vow,* I thought, stepping into the damp lane, *then his son will just have to solve the problem where ancestral tablets can't see.*

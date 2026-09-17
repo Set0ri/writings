@@ -1,0 +1,21 @@
+{
+  "id": "scene_01_deflecting_leaf_duel",
+  "title": "The Deflecting Leaf: Filleting Knife vs Scimitar",
+  "order": 1,
+  "status": "merged",
+  "compositeScore": 0.944,
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.93
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.953
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.949
+    }
+  }
+}

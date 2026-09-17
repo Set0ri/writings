@@ -1,0 +1,21 @@
+{
+  "id": "scene_02_pitch_arrow_fire",
+  "title": "The Pitch Arrow: Midnight Fire at the Palisade",
+  "order": 2,
+  "status": "merged",
+  "compositeScore": 0.941,
+  "leaves": {
+    "environment": {
+      "resolved": true,
+      "score": 0.94
+    },
+    "interactions": {
+      "resolved": true,
+      "score": 0.94
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.942
+    }
+  }
+}

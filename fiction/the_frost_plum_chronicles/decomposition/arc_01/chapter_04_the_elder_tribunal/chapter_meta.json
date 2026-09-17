@@ -1,0 +1,72 @@
+{
+  "id": "chapter_04_the_elder_tribunal",
+  "title": "The Elder Tribunal",
+  "order": 4,
+  "status": "merged",
+  "compositeScore": 0.932,
+  "scenes": [
+    {
+      "id": "scene_01_dawn_mist_circulation",
+      "title": "The Sand-Grain Spark: Cycling the Morning Dew",
+      "order": 1,
+      "status": "merged",
+      "compositeScore": 0.933,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.926
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.93
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.942
+        }
+      }
+    },
+    {
+      "id": "scene_02_chief_residence_confrontation",
+      "title": "The Chief's Hearth: The Blackmail Ledger on Cedar",
+      "order": 2,
+      "status": "merged",
+      "compositeScore": 0.931,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.92
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.939
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.935
+        }
+      }
+    },
+    {
+      "id": "scene_03_cold_calculation_concession",
+      "title": "Unblinking Calculation: The Scheduled Midnight Purge",
+      "order": 3,
+      "status": "merged",
+      "compositeScore": 0.931,
+      "leaves": {
+        "environment": {
+          "resolved": true,
+          "score": 0.92
+        },
+        "interactions": {
+          "resolved": true,
+          "score": 0.935
+        },
+        "actions": {
+          "resolved": true,
+          "score": 0.939
+        }
+      }
+    }
+  ]
+}

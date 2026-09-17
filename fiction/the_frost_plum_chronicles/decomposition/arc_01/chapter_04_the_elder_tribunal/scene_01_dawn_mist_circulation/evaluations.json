@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_dawn_mist_circulation",
+  "title": "The Sand-Grain Spark: Cycling the Morning Dew",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.89,
+        "sensory": 0.97,
+        "feral": 0.85,
+        "total": 0.926
+      },
+      "councilConsensus": "Passed with high distinction. Inoue-level domestic intimacy and poignant filial grounding.",
+      "critiqueSummary": "Rothfuss: Moving portrayal of parental sacrifice and damp coastal dawn."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.9,
+        "sensory": 0.95,
+        "feral": 0.88,
+        "total": 0.93
+      },
+      "councilConsensus": "Passed with high distinction. Blends noble historical tragedy with fierce Chung Myung resolve.",
+      "critiqueSummary": "Rothfuss: Majestic poetic sorrow and internal martial responsibility."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.93,
+        "sensory": 0.97,
+        "feral": 0.88,
+        "total": 0.942
+      },
+      "councilConsensus": "Passed with high distinction. Rigorous Sanderson power limits paired with Inoue lyrical focus.",
+      "critiqueSummary": "Rothfuss: Lyrical meditation on the spark in dry grass."
+    }
+  },
+  "compositeSceneScore": 0.933,
+  "timestamp": "2026-09-17T15:43:19.067Z"
+}

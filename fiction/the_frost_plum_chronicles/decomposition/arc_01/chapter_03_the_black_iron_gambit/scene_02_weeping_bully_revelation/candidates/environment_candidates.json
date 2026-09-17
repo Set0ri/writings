@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s2-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The dermal tissue of Bao’s cervical zone exhibited four elliptical hematomas, diameter 18 millimeters, with tissue compression depth of four millimeters. The pattern corresponded to mechanical steel clamp jaws rather than human fingers.",
+    "critique": "Sanderson: Rigorous forensic analysis of the bruising.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.95,
+      "sensory": 0.84,
+      "feral": 0.78,
+      "total": 0.885
+    }
+  },
+  {
+    "id": "c3-s2-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Cold daylight shone on the boy's exposed neck. The bruise was dark, purplish-black, stamped into the muscle beside his windpipe. It wasn't the mess of a human fist—it was four distinct indentations, a mechanical clamp that hadn't loosened even when the boy choked.",
+    "critique": "Rothfuss: Somber, haunting visual discovery of parental abuse.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.86,
+      "total": 0.925
+    }
+  },
+  {
+    "id": "c3-s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The big tough bully was bawling like a lost calf in the briars, snot and ditch-water running down his fat cheeks into the collar of his grease-stained vest.",
+    "critique": "Biga: Great visceral patheticness, matches Chung Myung disgust.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.86,
+      "sensory": 0.89,
+      "feral": 0.96,
+      "total": 0.903
+    }
+  }
+]

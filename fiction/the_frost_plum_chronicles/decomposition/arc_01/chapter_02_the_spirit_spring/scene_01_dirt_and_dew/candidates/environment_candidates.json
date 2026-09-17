@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s1-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The soil beneath my palms was composed of silt and decomposed volcanic tuff. A bowl of aqueous marsh solution with three dehydrated minnows rested on the earthen floor, emitting minimal caloric heat.",
+    "critique": "Sanderson: Sterile composition, misses the cold salt and damp hearth smell.",
+    "score": {
+      "canon": 0.87,
+      "kinetics": 0.88,
+      "sensory": 0.79,
+      "feral": 0.72,
+      "total": 0.823
+    }
+  },
+  {
+    "id": "c2-s1-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The packed dirt of the cabin floor was cold and smelled of damp earth and old ash. Outside, the morning mist was heavy with the briny tang of sea spray and woodsmoke. Between us sat a rough clay bowl: pale broth with three dried minnows floating among boiled marsh-weed, their silver scales catching the gray dawn.",
+    "critique": "Rothfuss: Lyrical sensory grounding and domestic stillness.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.89,
+      "sensory": 0.97,
+      "feral": 0.84,
+      "total": 0.921
+    }
+  },
+  {
+    "id": "c2-s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "My face was glued to the cold dirt floor. The soup smelled like someone had rinsed muddy river grass in pond water and tossed in three minnows that looked like they died of depression.",
+    "critique": "Biga: Hilarious food description, perfectly captures Chung Myung dissatisfaction.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.85,
+      "sensory": 0.89,
+      "feral": 0.96,
+      "total": 0.9
+    }
+  }
+]

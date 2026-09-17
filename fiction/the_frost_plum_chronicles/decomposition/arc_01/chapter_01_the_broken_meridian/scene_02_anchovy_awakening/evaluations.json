@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_02_anchovy_awakening",
+  "title": "The Anchovy Awakening: Southfall Mud & Two Centuries",
+  "order": 2,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.95,
+        "kinetics": 0.88,
+        "sensory": 0.96,
+        "feral": 0.86,
+        "total": 0.917
+      },
+      "councilConsensus": "Passed with high distinction. Combines Inoue atmospheric grit with Chung Myung comedic inner outrage.",
+      "critiqueSummary": "Rothfuss: Rich sensory desolation and acoustic grounding."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.88,
+        "sensory": 0.95,
+        "feral": 0.86,
+        "total": 0.918
+      },
+      "councilConsensus": "Passed with high distinction. Perfectly integrates Logan's 200-year revelation with Chung Myung comedic pride.",
+      "critiqueSummary": "Rothfuss: Heartbreaking domestic warmth and historical melancholy."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.94,
+        "kinetics": 0.9,
+        "sensory": 0.94,
+        "feral": 0.86,
+        "total": 0.914
+      },
+      "councilConsensus": "Passed with high distinction. Sublime kinetic slapstick grounded in biological reality.",
+      "critiqueSummary": "Rothfuss: Evocative physical fragility and sensory shock."
+    }
+  },
+  "compositeSceneScore": 0.916,
+  "timestamp": "2026-09-17T15:43:18.906Z"
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s3-e-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Gull’s Maw was a basalt sea cavern formed by volcanic outflow, situated at 38° 14' N. The tide flooded at 0.4 meters per hour, leaving forty minutes of navigable cavern floor before inundation. Ambient luminescence was 15 lumens from an animal fat lantern.",
+    "critique": "Sanderson: Strong tidal timing and geological accuracy.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.76,
+      "total": 0.859
+    }
+  },
+  {
+    "id": "c3-s3-e-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Midnight came without stars. Heavy coastal clouds smothered the moon in wet slate. At the base of the western sea-cliffs lay the Gull's Maw: a half-submerged cave accessible only at dead low tide. Inside, a single oil lantern burned against wet stalactites, casting amber ripples across the black surf crashing on basalt reefs.",
+    "critique": "Rothfuss: Gorgeous maritime atmospheric dread and sensory texture.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.98,
+      "feral": 0.84,
+      "total": 0.931
+    }
+  },
+  {
+    "id": "c3-s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The sea cave smelled of wet seaweed, bat droppings, and rotten fish. Down below, three ugly cutthroats with bad haircuts were whispering with Kang like a bunch of rats dividing stolen cabbage.",
+    "critique": "Biga: Great comedic flavor for the bandits, lacks the cosmic technological chill.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.86,
+      "sensory": 0.89,
+      "feral": 0.95,
+      "total": 0.895
+    }
+  }
+]

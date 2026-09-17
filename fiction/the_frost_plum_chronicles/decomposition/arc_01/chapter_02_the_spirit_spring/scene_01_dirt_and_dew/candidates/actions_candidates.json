@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I attempted a second push-up. The pectoralis major spasmed at fifteen percent maximal contraction; a tendon in the carpal tunnel popped with a shear strain of twelve megapascals. My sternum struck the clay.",
+    "critique": "Sanderson: Exceptional biomechanical failure modeling.",
+    "score": {
+      "canon": 0.91,
+      "kinetics": 0.96,
+      "sensory": 0.82,
+      "feral": 0.81,
+      "total": 0.88
+    }
+  },
+  {
+    "id": "c2-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I swallowed the broth in four gulps. It tasted of bitter mud and salt, but as the warmth trickled into my belly, I didn't let it waste. Closing my eyes, I drew a slow, deliberate breath through my teeth—the Gentle Breath of the Morning Dew. I guided the meager nutrients into the marrow of my cracked ribs, knitting the hairline fractures with the stubborn friction of living blood.",
+    "critique": "Rothfuss: Lyrical internal cultivation and biological discipline.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.936
+    }
+  },
+  {
+    "id": "c2-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"One,\" I grunted. My elbows vibrated like dry twigs. \"Two.\" *Pop.* Down I went like a felled pine. \"Pathetic! Miserably, outrageously pathetic!\" I gulped down the minnow soup like a starving stray dog, forcing every drop of grease to patch my shattered bones.",
+    "critique": "Biga: Great grit and comedic internal monologues.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.9,
+      "sensory": 0.88,
+      "feral": 0.97,
+      "total": 0.915
+    }
+  }
+]

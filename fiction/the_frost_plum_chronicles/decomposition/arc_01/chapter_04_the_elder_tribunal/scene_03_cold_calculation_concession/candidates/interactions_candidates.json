@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s3-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Terms accepted,\" Kang articulated with synthesized inflection. \"Daesung reassigned. Grain and salt scheduled for transfer at 17:00. Equilibrium is restored.\" He extended a right hand with zero thermal dissipation.",
+    "critique": "Sanderson: Accurate robotic dialogue and zero-dissipation handshake.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.94,
+      "sensory": 0.84,
+      "feral": 0.8,
+      "total": 0.89
+    }
+  },
+  {
+    "id": "c4-s3-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Terms accepted,\" Kang said, nodding with the smooth courtesy of a doting uncle conceding to a nephew. \"Daesung will be reassigned to light timber duty. Grain and coastal salt will be delivered before the evening bell. Equilibrium is restored.\" He offered his hand. The skin looked real—pores, hair, dirt beneath nails. But the palm had no heat. It was the temperature of river ice.",
+    "critique": "Rothfuss: Creepy synthetic mimicry and tactile freezing shock.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.87,
+      "total": 0.935
+    }
+  },
+  {
+    "id": "c4-s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Good boy,\" I said, ignoring his cold dead hand. \"Keep the salt dry, Uncle. I hate wet salt.\" I turned my back and strutted out like I owned the place, knowing full well the bastard was planning to burn my house down tonight.",
+    "critique": "Biga: Supreme Mount Hua insolence and dry salt quips.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.923
+    }
+  }
+]

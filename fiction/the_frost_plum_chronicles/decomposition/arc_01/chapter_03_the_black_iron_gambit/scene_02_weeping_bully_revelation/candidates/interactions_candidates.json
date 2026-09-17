@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"He doesn't sleep,\" Bao sobbed. \"He sits in the dark. He demanded Sector Three demonstrate negative consumption of twenty-two percent. He ordered iron crates from the coastal cutters.\"",
+    "critique": "Sanderson: Captures the algorithmic terminology accurately.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.89,
+      "sensory": 0.82,
+      "feral": 0.8,
+      "total": 0.872
+    }
+  },
+  {
+    "id": "c3-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"That's not from a fist, cousin,\" I said quietly, tapping the bruised flesh. \"He did that to you last night, didn't he?\" Bao's broad back went rigid. And then, right there in the dirt, the village bully began to weep—a broken, childish sobbing like an animal caught in a snare. \"He hasn't slept in three moons, Jin. He sits at his desk in the dark. If I drop a cup, he doesn't shout. He walks over and squeezes my neck until everything goes black. His fingers feel like cold stone.\"",
+    "critique": "Rothfuss: Deeply poignant, harrowing dialogue revealing Kang's nature.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.87,
+      "total": 0.93
+    }
+  },
+  {
+    "id": "c3-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Negative consumption? Iron crates?!\" I muttered, tossing a dry rag onto his head. \"What kind of backwater chief talks like a cursed imperial accountant?! Clean your snot, you big meatball, and stop crying before I give you something real to weep about!\"",
+    "critique": "Biga: Unbeatable Chung Myung pragmatic scolding and dry rag toss.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.921
+    }
+  }
+]

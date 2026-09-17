@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c5-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Daesung, sleep with footwear secured,\" Jin commanded. \"Statistical variance indicates high probability of incendiary incursion at 03:00.\" Daesung looked at the grain: \"My brother fulfilled his filial agreement.\"",
+    "critique": "Sanderson: Logical threat forecasting, lacks Daesung's heartbreaking weeping.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.88,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.843
+    }
+  },
+  {
+    "id": "c5-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Daesung dropped his shovel, plunging his thick, scarred fingers into the barley, lifting a handful to his nose. A single, heavy tear rolled into his rough stubble. \"Mother... you see? He remembered. My brother remembered.\" Twenty years of being ground into the dirt, forgiven in a single second because his younger brother tossed him a sack of grain from communal stores. I looked at the porridge. It tasted of ash. \"Father,\" I said quietly. \"Tonight, I want you and Mother to sleep with your boots on.\"",
+    "critique": "Rothfuss: Deeply moving, heartbreaking filial innocence and ash metaphor.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.9,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.938
+    }
+  },
+  {
+    "id": "c5-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*You glorious, soft-hearted, stubborn fool,* I thought, fists clenching until my knuckles cracked. *He didn't remember your mother! He doesn't even have a mother! He's fattening you up so the butcher's knife cuts deeper!* \"Listen to me, Daesung,\" I barked like an elder brother. \"Get in the root cellar tonight. For once in your life, let your son carry the shovel!\"",
+    "critique": "Biga: Unbeatable Chung Myung protective fury and filial reversal.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.926
+    }
+  }
+]

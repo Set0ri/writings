@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I sat cross-legged, initiating the Gentle Breath algorithm. Inhale: 4.2 liters of air at 7°C. Circulation: through the celiac plexus to the L2 vertebra. The violet ember condensed to 0.8 millimeters, yielding a 40% reduction in fifth-rib nociceptive firing.",
+    "critique": "Sanderson: Exceptional physiological tracking of Qi cultivation.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.84,
+      "feral": 0.8,
+      "total": 0.888
+    }
+  },
+  {
+    "id": "c4-s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Sitting cross-legged on the straw mat, I took a slow breath through my teeth and began cycling the Gentle Breath of the Morning Dew. Inhale: cold mist, salt, and pine ash. Circulate: down through the throat, past the cracked collarbone, into the lower abdomen. Compress: igniting the tiny, stubborn violet ember resting against my spine. A drop of condensed life-force, no larger than a grain of sand. But a single spark in dry grass can burn a forest.",
+    "critique": "Rothfuss: Lyrical meditation on the spark in dry grass.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.942
+    }
+  },
+  {
+    "id": "c4-s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "By the third watchman bell, my fifth rib stopped yelling like an angry mother-in-law. I washed my face in the icy rain barrel, strapped my father's iron chisel to the inside of my right forearm with a strip of leather, and grinned. \"Time to go pay Uncle Kang a little family visit.\"",
+    "critique": "Biga: Great preparation momentum and mother-in-law humor.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.9,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.923
+    }
+  }
+]

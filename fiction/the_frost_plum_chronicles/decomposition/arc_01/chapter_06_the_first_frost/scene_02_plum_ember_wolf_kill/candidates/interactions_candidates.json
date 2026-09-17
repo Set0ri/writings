@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin flicked gore from the 15-centimeter blade. \"Are you maintaining defensive posture, or seeking kinetic termination?\" The bandits calculated a 99.8% probability of total squad destruction and initiated immediate route.",
+    "critique": "Sanderson: Clean statistical defeat logic, lacks feral taunt.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.91,
+      "sensory": 0.81,
+      "feral": 0.8,
+      "total": 0.854
+    }
+  },
+  {
+    "id": "c6-s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Demon,\" one of the bandits whimpered, dropping his torch into a puddle. \"That's not a kid... that's an ancient blood demon!\" \"RUN! TO THE CUTTERS! RUN!\" The bandits broke. They dropped their stolen grain, threw down their weapons, and scrambled over the palisade in blind, animal terror. Daesung sat in the mud, holding his bleeding shoulder, staring up at me. \"Jin... what are you? Where did you learn to move like that?\" I knelt, tying off his arterial bleed with a linen strip. \"I told you, Father. I was meditating. You didn't believe me.\"",
+    "critique": "Rothfuss: Moving filial reunion wrapped in mythic awe.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.92,
+      "sensory": 0.96,
+      "feral": 0.91,
+      "total": 0.946
+    }
+  },
+  {
+    "id": "c6-s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Well?\" I asked, tilting my head with that feral Mount Hua grin, casually flicking wolf brains off my kitchen knife. \"Are you waiting for an invitation, or do you want me to carve the rest of you into fish bait too?\" The bandits shrieked and ran so fast they left their boots in the mud!",
+    "critique": "Biga: Unbeatable Chung Myung swagger and fish bait threats.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.9,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.931
+    }
+  }
+]

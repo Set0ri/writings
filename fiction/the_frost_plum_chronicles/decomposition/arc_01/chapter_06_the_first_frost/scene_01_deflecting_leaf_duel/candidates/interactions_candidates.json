@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Your stance is mechanically deficient,\" Jin noted. \"Right calcaneus flared outward thirty degrees; center of gravity displaced forward.\" The captain snarled: \"Die, shrimp!\"",
+    "critique": "Sanderson: Biomechanical critique accurate, misses Mount Hua comedic sting.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.94,
+      "sensory": 0.8,
+      "feral": 0.81,
+      "total": 0.864
+    }
+  },
+  {
+    "id": "c6-s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The bandit raised his scimitar with both hands. \"Your Chief promised an easy raid, old man. Thanks for the sport.\" He brought the blade down. *Ting.* It was not the sound of steel splitting bone. It was the clear, bell-like chime of iron kissing iron. The blade stopped dead two inches from Daesung's neck. Standing there was a scrawny boy holding a kitchen knife in a reverse grip. \"Your stance is atrocious,\" I sighed, clicking my tongue. \"Did you learn swordplay by watching drunken fishermen gut eels?\"",
+    "critique": "Rothfuss: Majestic chime of iron kissing iron and supreme grandmaster disdain.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.953
+    }
+  },
+  {
+    "id": "c6-s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"A shrimp?!\" the bandit sputtered. \"Look at your footing!\" I barked, shaking my head in disgust. \"Flared out like a crippled duck! My sect's third-rate water-carriers had better sword forms than you! Come here, let me fix your posture!\"",
+    "critique": "Biga: Classic Chung Myung lecture in the middle of a death-match.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.89,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.928
+    }
+  }
+]

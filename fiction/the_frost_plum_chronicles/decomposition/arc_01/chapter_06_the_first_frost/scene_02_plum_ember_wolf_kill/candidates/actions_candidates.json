@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c6-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I channeled 0.05 units of non-computable Qi into the iron lattice. The blade’s atomic cohesion shifted, entering a phase-transcendent state. The point penetrated the left optic foramen, traversing the temporal bone and severing the medullary pyramid in 0.4 milliseconds.",
+    "critique": "Sanderson: Perfect Sandersonian non-computable Qi mechanics.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.98,
+      "sensory": 0.85,
+      "feral": 0.81,
+      "total": 0.907
+    }
+  },
+  {
+    "id": "c6-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I closed my eyes for half a heartbeat. Deep in the frozen wasteland of my lower abdomen, the tiny violet ember of the Plum Blossom Sword Heart flared. Just one drop. One breath. I guided the microscopic bead up through the central meridian and poured it into the pitted blade. The iron didn't glow. It simply disappeared. The knife became a ghost of motion—a solitary, frozen plum petal falling from a dead branch in the dead of winter. *THWIP.* The knife entered the leaping wolf’s eye, slid through the skull plates, and severed the brain-stem. The monster dropped dead before its belly touched the ground.",
+    "critique": "Rothfuss: Lyrical perfection; the plum petal falling from a dead branch.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.98,
+      "feral": 0.88,
+      "total": 0.953
+    }
+  },
+  {
+    "id": "c6-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "I didn't even flinch. I just poked the knife forward like I was swatting a fly. *THWIP.* Two hundred pounds of monster went limp like a wet rag and smacked the dirt with a heavy thud right at my toes.",
+    "critique": "Biga: Great fly-swatting nonchalance and wet rag simile.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.9,
+      "sensory": 0.88,
+      "feral": 0.97,
+      "total": 0.915
+    }
+  }
+]

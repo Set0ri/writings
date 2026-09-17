@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "As Kang passed beneath my basalt perch, wind displaced his hair. At the mastoid process, a 1.2-millimeter titanium seam emitted a pulse of 420-terahertz blue light directed toward lunar orbital coordinates. Click-click-whir.",
+    "critique": "Sanderson: Precise technical specification of the orbital relay.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.96,
+      "sensory": 0.85,
+      "feral": 0.8,
+      "total": 0.901
+    }
+  },
+  {
+    "id": "c3-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "As he passed directly beneath my ledge, a stray gust caught his hair. In the flickering light of the dying lantern, my ancient eyes caught it: just beneath his right ear, half-buried under the flesh, was a thin, silvery seam—a line of polished metal pulsing with a microscopic blue light that beat like an artificial heart. Beaming toward the heavy storm clouds. Toward the sky. Toward the moon.",
+    "critique": "Rothfuss: Lyrical and chilling visual reveal of the skin-walker.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.88,
+      "total": 0.94
+    }
+  },
+  {
+    "id": "c3-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "I pulled out my father's iron stone-chisel, running my thumb along the rusted edge with a feral wolf-grin. \"A synthetic puppet wearing my uncle's skin. You made my father dig in the mud. You beat a kid until he cried. Mount Hua is going to perform an autopsy.\"",
+    "critique": "Biga: Unbeatable ferocious declaration of impending comedic autopsy.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.91,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.93
+    }
+  }
+]

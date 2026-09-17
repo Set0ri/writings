@@ -1,0 +1,7 @@
+# Leaf Node: Interactions (I*)
+**Scene:** Gull's Maw at Midnight: The Infiltrator's Seam
+**Council Score:** Total 0.932 (Canon: 0.97, Kinetics: 0.9, Sensory: 0.96, Feral: 0.88)
+
+---
+
+Standing beside the lantern were three men in salt-stained leather armed with hooked scimitars: the Black Wave Bandits. Kang stood before them, hood thrown back. "You're late, Chief," the bandit captain sneered. Kang didn't apologize; he pulled out a parchment bound in brass wire. "Patrol rosters for the fourth sector. The outer wire at the eastern ditch will be unlatched at the third hour before dawn." "And the return?" "You will burn two storage barns. You will wound three perimeter guards. You will kill no fewer than two elders. You will take thirty sacks of dried grain. In exchange, you will leave two crates of refined iron rods in the outer trench." The bandit leader paused, genuine unease creeping into his eyes. "You're a cold bastard, Kang. Burning your own kin's barns? Ordering the slaughter of your own elders just to keep the sector panicked?" Kang's glassy eyes didn't blink. "Fear maintains vigilance. Vigilance drives compliance. The sector requires twenty-two percent behavioral variance to meet the quota. If the villagers do not fear the wild, they stop digging the trenches. Deliver the iron crates. If your men kill more than four civilians, your cutter will be scuttled before it clears the reef."

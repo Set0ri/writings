@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_01_kurukshetra_hesitation",
+  "title": "The Duty of the Blade: Kurukshetra Hesitation",
+  "order": 1,
+  "threshold": 0.85,
+  "leaves": {
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.88,
+        "sensory": 0.97,
+        "feral": 0.88,
+        "total": 0.926
+      },
+      "councilConsensus": "Passed with high distinction (S >= 0.85). Blends Inoue atmospheric dread with Sanderson systemic weight and Logan clan invariants.",
+      "critiqueSummary": "Rothfuss: Perfect sensory resonance, visceral mourning, and clan betrayal imagery."
+    },
+    "interactions": {
+      "winningScore": {
+        "canon": 0.97,
+        "kinetics": 0.92,
+        "sensory": 0.95,
+        "feral": 0.92,
+        "total": 0.943
+      },
+      "councilConsensus": "Passed with high distinction. Captures the unshakeable Kamina sun-weight and the tragic burden of Dharma.",
+      "critiqueSummary": "Rothfuss: Superb emotional heft, Kamina archetype captured with blazing conviction."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.93,
+        "sensory": 0.96,
+        "feral": 0.9,
+        "total": 0.941
+      },
+      "councilConsensus": "Passed with high distinction. Masterful kinetic pacing and emotional cliffhanger leading into reincarnation.",
+      "critiqueSummary": "Rothfuss: Heart-stopping hesitation and tragic emotional crescendo."
+    }
+  },
+  "compositeSceneScore": 0.937,
+  "timestamp": "2026-09-17T15:43:18.884Z"
+}

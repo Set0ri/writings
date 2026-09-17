@@ -16,7 +16,7 @@ function mergeScene(sceneDir) {
   const cleanA = leafA.replace(/^# Leaf Node:.*?\n---\n\n/s, '').trim();
   const cleanE = leafE.replace(/^# Leaf Node:.*?\n---\n\n/s, '').trim();
 
-  const mergedProse = `# ${meta.title}
+  const mergedProse = `### ${meta.title}
 **Composite Council Score:** ${meta.compositeScore}
 
 ---

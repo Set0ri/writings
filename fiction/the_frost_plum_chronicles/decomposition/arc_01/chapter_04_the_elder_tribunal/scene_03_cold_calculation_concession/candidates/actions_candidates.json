@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c4-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I analyzed his behavioral algorithm. A human corrupt official negotiates or assassinates immediately. An automated unit accepts terms to eliminate variance until the scheduled event at 03:00. My dwelling was now designated primary incendiary target.",
+    "critique": "Sanderson: Rigorous algorithmic threat modeling.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.96,
+      "sensory": 0.84,
+      "feral": 0.81,
+      "total": 0.897
+    }
+  },
+  {
+    "id": "c4-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*He agreed too quickly,* I thought, my jaw tightening as I marched through the puddles. A machine doesn't panic. A machine calculates the path of least resistance to buy time until the scheduled purge. Two hours before dawn, the Black Wave Bandits are supposed to breach the ditch and burn the barns. Kang hadn't conceded—he had marked my family's hut as the primary target for the fire.",
+    "critique": "Rothfuss: Somber, razor-sharp tactical realization.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.92,
+      "sensory": 0.96,
+      "feral": 0.89,
+      "total": 0.939
+    }
+  },
+  {
+    "id": "c4-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "I touched the cold chisel strapped to my arm, a wild wolf-smile cutting across my face. \"Let them come! Tonight, Southfall Village is going to learn how to bleed, and I'm going to show this tin can what happens when you shortchange Mount Hua!\"",
+    "critique": "Biga: Unbeatable blood-pumping feral cliffhanger.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.91,
+      "sensory": 0.9,
+      "feral": 0.98,
+      "total": 0.93
+    }
+  }
+]

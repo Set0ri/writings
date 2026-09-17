@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3-s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "I removed the bamboo rod from his thoracic vertebra, restoring motor nerve function. I tossed a dry cellulose cloth to his chest: \"Depart. Report a partial grain deficit of fifteen percent to prevent behavioral suspicion.\"",
+    "critique": "Sanderson: Efficient and calculating, lacks the sharp Mount Hua dismissal.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.93,
+      "sensory": 0.8,
+      "feral": 0.79,
+      "total": 0.855
+    }
+  },
+  {
+    "id": "c3-s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "I slowly lifted the bamboo pole from his back. \"Get up, Bao,\" I said. Bao scrambled to his feet like a frightened dog, clutching the rag I tossed him. He looked at me as if I were a ghost who had spoken in a forgotten tongue. \"Go home. Tell him Uncle Daesung is taking the double watch, but our grain was short half a peck. If he asks about me, tell him I'm still coughing blood.\"",
+    "critique": "Rothfuss: Natural recovery and quiet tactical redirection.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.94,
+      "feral": 0.88,
+      "total": 0.923
+    }
+  },
+  {
+    "id": "c3-s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Get lost, Bao! Do I look like an idiot? If I tell your father, he beats you, and you come back crying again. I don't have patience to hear a pig squeal twice in one day!\" Bao scrambled up and ran so hard he almost left his pants behind.",
+    "critique": "Biga: Laugh-out-loud funny dismissal and pig squeal callback.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.89,
+      "sensory": 0.88,
+      "feral": 0.98,
+      "total": 0.917
+    }
+  }
+]

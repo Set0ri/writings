@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c5-s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Daesung anchored the spear butt against an igneous boulder at forty degrees. The 90-kilogram wolf impaled itself at nine meters per second. Kinetic impact: 3,600 Joules. Daesung absorbed the recoil through his quadriceps and twisted the spear shaft, fracturing the animal’s thoracic column.",
+    "critique": "Sanderson: Masterful kinetic recoil and energy absorption math.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.98,
+      "sensory": 0.84,
+      "feral": 0.82,
+      "total": 0.898
+    }
+  },
+  {
+    "id": "c5-s3-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "CRUNCH. The charging wolf impaled itself on the heavy iron head. The impact lifted Daesung six inches off the ground, the ash-wood groaning, but my father’s boots bit into the mud and held. With a feral roar of pure paternal fury, he twisted the spear-shaft, cracking the monster's spine and kicking the dying carcass into the trench. \"Fall back to the stone well!\" he bellowed. \"Run!\"",
+    "critique": "Rothfuss: Bone-crunching physical impact and paternal fury.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.96,
+      "feral": 0.92,
+      "total": 0.95
+    }
+  },
+  {
+    "id": "c5-s3-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Daesung drove that boar-spear straight through the monster's chest like an iron rod through a wet turnip! He kicked the dead beast into the ditch with a mighty bellow that made the bandits' knees knock together!",
+    "critique": "Biga: Great turnip similes and explosive kinetic impact.",
+    "score": {
+      "canon": 0.93,
+      "kinetics": 0.91,
+      "sensory": 0.89,
+      "feral": 0.98,
+      "total": 0.925
+    }
+  }
+]
