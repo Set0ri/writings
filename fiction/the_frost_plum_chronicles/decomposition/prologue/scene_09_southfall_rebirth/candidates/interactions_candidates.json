@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s9-i-cand1",
+    "authorStyle": "Biga / Return of Mount Hua",
+    "content": "\"These dog-shit heavens!\" Jin roared in his mind, staring at his translucent, pathetic twig-arms. \"Five thousand years! I saved the damn world, and you put me in the body of a dried salted anchovy?!\" Outside the paper door, greasy Uncle Kang wheezed about selling the girl. Jin's mouth curled into a terrifying wolf-grin. \"Oh, you want to talk about family filial piety? Let this ancestor educate you!\"",
+    "critique": "Biga: Unmatched Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.88,
+      "sensory": 0.85,
+      "feral": 0.99,
+      "total": 0.919
+    }
+  },
+  {
+    "id": "s9-i-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin analyzed his physical vessel: severe malnutrition, juvenile muscle atrophy, third-degree dantian meridian blockage. \"My basal metabolic rate cannot sustain a single Qi technique,\" he calculated. \"Therefore, kinetic leverage via a rigid lever arm is required.\" His gaze landed on the oak stick.",
+    "critique": "Sanderson: Logical physical analysis, but lacks the unhinged comedy.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.95,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.864
+    }
+  },
+  {
+    "id": "s9-i-cand3",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The thaw dripped from the thatch eaves with the rhythm of a slow pulse. The smell of cold barley and wet ashes filled the small room. In the dirt beyond the door, voices whispered of debt and grain, unaware that the ghost of the Sword Saint was breathing in the dark.",
+    "critique": "Rothfuss: Atmospheric and grounded domestic realism.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.8,
+      "sensory": 0.96,
+      "feral": 0.82,
+      "total": 0.868
+    }
+  }
+]

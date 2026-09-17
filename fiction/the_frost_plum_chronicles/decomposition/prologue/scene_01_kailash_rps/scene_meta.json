@@ -1,0 +1,21 @@
+{
+  "id": "scene_01_kailash_rps",
+  "title": "The Reflection in the Glass: Non-Computable Game",
+  "order": 1,
+  "status": "ready_to_merge",
+  "compositeScore": 0.944,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.948
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.942
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.943
+    }
+  }
+}

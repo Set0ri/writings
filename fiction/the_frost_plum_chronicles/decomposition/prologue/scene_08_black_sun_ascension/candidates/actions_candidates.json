@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s8-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin inserted the brass cylinder into the Trishula's central receiver. Both keys aligned at precisely 90 degrees, disengaging the Dyson containment lattices across ninety million miles. The Solar Lotus discharged its three-cycle plasma buffer along the planetary magnetic lines.",
+    "critique": "Sanderson: Rigorous dual-key failsafe mechanism.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.98,
+      "sensory": 0.85,
+      "feral": 0.78,
+      "total": 0.899
+    }
+  },
+  {
+    "id": "s8-a-cand2",
+    "authorStyle": "Murata / Inoue",
+    "content": "The keys snapped shut. The sun did not explode; it went instantly pitch-black. A circle of obsidian void swallowed the star, surrounded by a coronet of silent white light. Then the lotus bloomed—a single wave of blinding, zero-decibel white radiance scouring the troposphere.",
+    "critique": "Murata/Inoue: Masterful contrast between darkness and blinding white lotus.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.95,
+      "sensory": 0.98,
+      "feral": 0.88,
+      "total": 0.947
+    }
+  },
+  {
+    "id": "s8-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The flash hit the flying Tech-Whale like a celestial cleaver. The three-league iron monster simply ceased to exist—disintegrating into trillions of glittering sparks of white ash before its automated guns could even rotate.",
+    "critique": "Biga: Total, cathartic annihilation of the oppressor.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.94,
+      "sensory": 0.88,
+      "feral": 0.96,
+      "total": 0.929
+    }
+  }
+]

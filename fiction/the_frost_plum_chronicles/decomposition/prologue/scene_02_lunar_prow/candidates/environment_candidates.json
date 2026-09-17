@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s2-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The void had no breath, but it had color: the black of unlit wells, the bone-grey pockmarks of the moon's craters hanging like an ancient, dead shield behind their heels. And beyond, ninety million miles away, the Solar Lotus bloomed—a mandala of trapped fire spinning upon the corona of the sun.",
+    "critique": "Rothfuss: Haunting astronomical imagery.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.82,
+      "sensory": 0.98,
+      "feral": 0.8,
+      "total": 0.886
+    }
+  },
+  {
+    "id": "s2-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Hummingbird stretched 4.2 kilometers from its needle beak to its swept kinetic foils. Thousands of titanium feather-scales, each laminated with high-frequency piezo-electric dampeners, vibrated at 80,000 kilohertz to bleed cosmic radiation into thermal sink baffles.",
+    "critique": "Sanderson: Exact specifications of the Dune-style ship.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.95,
+      "sensory": 0.82,
+      "feral": 0.75,
+      "total": 0.874
+    }
+  },
+  {
+    "id": "s2-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "From far away, against that blinding star, the ship looked like a tiny sparrow dancing before a furnace. But standing on its beak was like standing on an iron mountain that could slice a moon in half. The heat from the titanium scales seeped right through Jin's boots, smelling of hot grease and stellar ozone.",
+    "critique": "Biga: Visceral scale comparison and sensory warmth.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.86,
+      "sensory": 0.9,
+      "feral": 0.92,
+      "total": 0.888
+    }
+  }
+]

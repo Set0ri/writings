@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s9-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The courtyard was white with late winter snow, melting into brown slush where chickens pecked at frozen mud. The thatched eaves dripped steadily. In the cold air, the scent of damp wool, spilled cabbage, and sour vinegar lingered like the quiet misery of forgotten men.",
+    "critique": "Rothfuss: Rich sensory ground texture and domestic melancholy.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.82,
+      "sensory": 0.98,
+      "feral": 0.82,
+      "total": 0.89
+    }
+  },
+  {
+    "id": "s9-e-cand2",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Southfall was a miserable rat's nest of tilted huts and frozen mud. The snow was yellowed by dog piss, and the cabbage pile smelled like old gym socks. But in that grey muck, the dried anchovy boy stood holding an oak stick with eyes that belonged to a starving tiger.",
+    "critique": "Biga: Hilarious, gritty local color that anchors Mount Hua comedy.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.96,
+      "total": 0.919
+    }
+  },
+  {
+    "id": "s9-e-cand3",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The courtyard measured 12 by 8 meters, hemmed in by a collapsing wattle fence. The ambient temperature was 2 degrees Celsius, freezing the slush beneath Uncle Kang's felt boots. The abacus beads clicked as they scattered across the icy stones.",
+    "critique": "Sanderson: Precise spatial mapping.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.94,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.866
+    }
+  }
+]

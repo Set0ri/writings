@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s3-i-cand1",
+    "authorStyle": "Oda / Kamina",
+    "content": "\"What are we doing down there?!\" Kamina's voice roared through every soldier's comm-bead. \"Home isn't dirt! It's trust over fear! Believe in the blade that believes in you!\" Jin touched his cold brass talisman. \"Fool. They aren't listening.\" \"Then I shout louder! Jin—go!\"",
+    "critique": "Oda: Pure roaring heart and inherited conviction.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.85,
+      "feral": 0.94,
+      "total": 0.905
+    }
+  },
+  {
+    "id": "s3-i-cand2",
+    "authorStyle": "JH / Existential",
+    "content": "In the vacuum, sound cannot travel. Jin's lips did not move. He carried the silence of an executioner who has already accepted that his own bones will turn to ash before the morning rises. The comm-bead in his ear crackled with Kamina's desperate, radiant warmth—a fire burning in an empty universe.",
+    "critique": "JH: Deep existential weight and emotional isolation.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.8,
+      "sensory": 0.96,
+      "feral": 0.85,
+      "total": 0.88
+    }
+  },
+  {
+    "id": "s3-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Kamina,\" Jin muttered over the channel, \"if you crack my eardrums with that screaming, I will cut down the Demon King and then come back up here to break your nose.\" Kamina's booming laugh rattled the cockpit. \"Deal! Now jump, you brat!\"",
+    "critique": "Biga: Unbeatable brotherly banter before fatal plunge.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.86,
+      "sensory": 0.82,
+      "feral": 0.98,
+      "total": 0.892
+    }
+  }
+]

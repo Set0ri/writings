@@ -373,3 +373,48 @@ flowchart TD
     ESSAYS_DIR <--> TS_DATA_LAYER
     FICTION_DIR <--> OBSIDIAN_VAULT
 ```
+
+---
+
+# Part VII: The Recursive Merge-Sort Narrative Decomposition & Synthesis Engine
+### Macro-to-Micro Architectural Decomposition, Tripartite Leaf Node Formulation, and Algorithmic Merge-Sort Resolution
+
+```mermaid
+flowchart TD
+    subgraph MACRO_LAYER["1. Macro Layer (The 14-Arc Epic)"]
+        A0["Master Canon (14 Arcs + Prologue)"] --> A1["Arc Level Decomposition (Macro Pacing & Payoffs)"]
+    end
+
+    subgraph MESO_LAYER["2. Meso Layer (Scene Segmentation)"]
+        A1 --> B1["Scene 1 (The Non-Computable Game)"]
+        A1 --> B2["Scene 2 (The Lunar Prow & Handheld Spyglass)"]
+        A1 --> B3["Scene 3 (The Infinite Mass Descent)"]
+        A1 --> B4["Scene ... N (The Climax & Rebirth)"]
+    end
+
+    subgraph MICRO_LAYER["3. Micro Layer: Tripartite Leaf Nodes <I, A, E>"]
+        B1 --> C1["🌿 Interactions (I): Dialogue, Psychological Subtext, Power Dynamic"]
+        B1 --> C2["🌿 Actions (A): Kinetics, Biology, Glucose Burn, Martial Vectors"]
+        B1 --> C3["🌿 Environment (E): Sensory Ozone, Lighting, Negative Acoustic Space"]
+    end
+
+    subgraph ITERATION_COUNCIL["4. MCP Council Multi-Agent Iteration Loop"]
+        C1 & C2 & C3 --> D1["Candidate Generator: Variant A (Sanderson/Gosu), B (Rothfuss/Inoue), C (Biga/LICO)"]
+        D1 --> D2["4-Factor Scoring Tensor: S = 0.30·Canon + 0.25·Kinetics + 0.25·Sensory + 0.20·Feral"]
+        D2 -->|Score < 0.85| D3["Adversarial Feedback Loop (Critique & Mutation)"]
+        D3 --> D1
+        D2 -->|Score >= 0.85| D4["Locked Canonical Leaf State (I*, A*, E*)"]
+    end
+
+    subgraph UPWARD_MERGE["5. Upward Merge-Sort Synthesis Operator (⊕)"]
+        D4 --> E1["Scene Merger: S_i = I_i* ⊕ A_i* ⊕ E_i* (Unified Scene Prose)"]
+        E1 --> E2["Arc Merger: Arc = ⨁ S_i (Unified Master Chapter / Arc)"]
+        E2 --> E3["Git / Obsidian Telemetry Sync: Automated Ingestion"]
+    end
+```
+
+### Invariant Merge-Sort Contracts:
+1. **The Tripartite Completeness Axiom**: No scene may be resolved or merged upward without all three orthogonal dimensions ($\mathcal{I}, \mathcal{A}, \mathcal{E}$) reaching locked canonical status ($\ge 0.85$ weighted council score).
+2. **The Non-Degradation Invariant**: When leaves are merged into a scene ($\mathcal{I}^* \oplus \mathcal{A}^* \oplus \mathcal{E}^*$), no canon facts, sensory textures, or kinetic limits present in the leaf nodes may be truncated or omitted.
+3. **The Merge-Sort Purity Guarantee**: The output manuscript produced by merging the resolved scenes must be mathematically isomorphic to or strictly superior to the source baseline in terms of tension, character voice, and physical groundedness.
+

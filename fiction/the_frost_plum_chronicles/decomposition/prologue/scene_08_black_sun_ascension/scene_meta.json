@@ -1,0 +1,21 @@
+{
+  "id": "scene_08_black_sun_ascension",
+  "title": "The Black Sun & White Lotus Flash",
+  "order": 8,
+  "status": "ready_to_merge",
+  "compositeScore": 0.963,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.966
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.968
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.956
+    }
+  }
+}

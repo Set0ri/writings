@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s2-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin adjusted the brass knurling of the telescope, adjusting the lens stack to compensate for atmospheric diffraction 600 kilometers below. The optics resolved the Queen's partner elephant—its six hydraulic shock absorbers compressing at 3.2 hertz under the palanquin's copper chassis.",
+    "critique": "Sanderson: Outstanding precision of optics and mechanical specs.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.96,
+      "sensory": 0.82,
+      "feral": 0.76,
+      "total": 0.873
+    }
+  },
+  {
+    "id": "s2-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin's boots made no sound against the graphite hull. His fingers tightened on the brass casing until the patina warmed against his flesh. When Kamina's palm landed on his shoulder, the weight carried no tremor—only the heavy, steady heat of a man whose center of gravity was rooted in dawn itself.",
+    "critique": "Rothfuss: Lyrical physical touch and grounded weight.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.84,
+      "sensory": 0.96,
+      "feral": 0.82,
+      "total": 0.878
+    }
+  },
+  {
+    "id": "s2-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin snapped the brass telescope shut with a sharp *clack*, sliding it into his sash. He gave Kamina's sleeping shoulder a vicious kick with his cloth boot. \"Get your lazy carcass off the plating before I throw you down head-first.\" Kamina sprang up in zero-gravity with a backflip, catching his red coat with a feral wolf-grin.",
+    "critique": "Biga: Great physical energy and Mount Hua violence.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.85,
+      "feral": 0.95,
+      "total": 0.893
+    }
+  }
+]

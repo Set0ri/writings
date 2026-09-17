@@ -1,0 +1,21 @@
+{
+  "id": "scene_09_southfall_rebirth",
+  "title": "Southfall Rebirth: The Dried Anchovy & The Oak Stick",
+  "order": 9,
+  "status": "ready_to_merge",
+  "compositeScore": 0.964,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.967
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.968
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.956
+    }
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s1-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The micro-servos inside the automaton whirred under 240 volts of static charge. Tendons in Jin's forearm contracted at 14 meters per second, but the internal circuit anticipated the radial twitch. Simultaneously, Kamina's palm shot forward, unprimed by muscular tension, powered entirely by an erratic pulse of unchanneled dantian Qi that defied predictive heuristics.",
+    "critique": "Sanderson: Mechanically flawless description of the non-computable movement vector.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.95,
+      "sensory": 0.78,
+      "feral": 0.8,
+      "total": 0.863
+    }
+  },
+  {
+    "id": "s1-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "A wrist turned in the biting air. A bronze finger twitched. There was no hesitation, only the quiet rhythm of fingers unfolding like frozen petals. Then came the sudden tremor beneath their heels—not of earth, but of atmospheric displacement as the leviathan pierced the cloud ceiling.",
+    "critique": "Rothfuss: Evocative and poetic rhythm, needs more mechanical tension.",
+    "score": {
+      "canon": 0.85,
+      "kinetics": 0.8,
+      "sensory": 0.93,
+      "feral": 0.75,
+      "total": 0.838
+    }
+  },
+  {
+    "id": "s1-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Kamina slammed his palm down so hard the frozen mud splattered the automaton's glass eye. The robot stalled, its cooling fan spitting white sparks. \"HAH! Paper covers rock, scrap heap! Pay up your three copper coins!\" Before Jin could snatch his brother's collar, the mountain beneath them dropped three inches.",
+    "critique": "Biga: Great visceral slapstick punch.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.85,
+      "sensory": 0.82,
+      "feral": 0.96,
+      "total": 0.873
+    }
+  }
+]

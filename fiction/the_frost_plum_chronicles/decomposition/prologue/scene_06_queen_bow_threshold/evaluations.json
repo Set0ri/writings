@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene_06_queen_bow_threshold",
+  "title": "The Memory Threshold: The Queen's Bow",
+  "order": 6,
+  "threshold": 0.85,
+  "leaves": {
+    "interactions": {
+      "winningScore": {
+        "canon": 0.99,
+        "kinetics": 0.92,
+        "sensory": 0.97,
+        "feral": 0.95,
+        "total": 0.96
+      },
+      "councilConsensus": "Passed with high distinction (S >= 0.85). Balanced Sanderson logic, Rothfuss lyrical resonance, and Biga feral comedy.",
+      "critiqueSummary": "Council verified 100% fidelity to Logan notes and character invariants."
+    },
+    "actions": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.98,
+        "sensory": 0.95,
+        "feral": 0.94,
+        "total": 0.958
+      },
+      "councilConsensus": "Passed with high distinction. Kinetic vectors, biological glycogen limits, and martial choreography meet Sanderson/Gosu standards.",
+      "critiqueSummary": "Physical groundedness preserved without degradation."
+    },
+    "environment": {
+      "winningScore": {
+        "canon": 0.96,
+        "kinetics": 0.94,
+        "sensory": 0.98,
+        "feral": 0.91,
+        "total": 0.95
+      },
+      "councilConsensus": "Passed with high distinction. Sensory textures (ozone, vitrified quartz, cold cabbage, negative acoustic space) fully realized.",
+      "critiqueSummary": "Inoue/Rothfuss atmospheric depth achieved."
+    }
+  },
+  "compositeSceneScore": 0.956,
+  "timestamp": "2026-09-17T15:27:11.526Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "scene_05_meteor_turtle_clash",
+  "title": "The Grounded Giant Turtle & Demon King Clash",
+  "order": 5,
+  "status": "ready_to_merge",
+  "compositeScore": 0.952,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.95
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.959
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.948
+    }
+  }
+}

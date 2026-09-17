@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s7-a-cand1",
+    "authorStyle": "Murata / Gosu",
+    "content": "Wielding the Trishula with his remaining arm, Kamina channeled the full thermal reserve of his dantian. The three prongs of Shiva's relic erupted in white solar plasma. With a savage, upward 45-degree twist, he sheared through the Demon King's obsidian shoulder joint, severing the arm in a geyser of black synthetic coolant.",
+    "critique": "Murata: Visceral martial leverage and devastating kinetic payoff.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.98,
+      "sensory": 0.88,
+      "feral": 0.94,
+      "total": 0.941
+    }
+  },
+  {
+    "id": "s7-a-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Trishula's divine resonant frequency synced at 440 megahertz with the Demon's armor lattice. Kamina applied rotational torque against the fulcrum of his impaled sternum, overcoming the 40-megapascal tensile strength of the void alloy to cleanly amputate the limb.",
+    "critique": "Sanderson: Rigorous structural torque and tensile physics.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.879
+    }
+  },
+  {
+    "id": "s7-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Kamina didn't just twist the trident; he kicked the Demon King right in his armored crotch while ripping the spear upward! The black arm flew into the air, spinning like a windmill, spraying oily black ichor across the snow as Kamina laughed like an unchained lunatic!",
+    "critique": "Biga: Street-fight savagery and Mount Hua irreverence.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.94,
+      "sensory": 0.85,
+      "feral": 0.98,
+      "total": 0.925
+    }
+  }
+]

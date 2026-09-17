@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s4-i-cand1",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The conscripted Mount Hua disciples fell over each other in the mud, crying and pointing. \"Elder Brother! It's Elder Brother Jin!\" One skinny boy clutched his dull wooden practice sword to his chest, snot freezing on his lip. \"He really jumped from the moon! He's crazy! He's completely out of his mind!\"",
+    "critique": "Biga: Authentic disciples' panic and awe.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.82,
+      "sensory": 0.82,
+      "feral": 0.96,
+      "total": 0.884
+    }
+  },
+  {
+    "id": "s4-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "No one spoke. In the crater, the silence was deeper than the sea. The Queen Commander lowered her gravity-woven sleeves, her eyes wide as she looked not at the pulverized bedrock, but at the tiny pink blossom quivering between Jin's boots. \"You brought down a mountain,\" she whispered, \"yet spared a stem.\"",
+    "critique": "Rothfuss: Poetic subtext and Queen's recognition of mastery.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.84,
+      "sensory": 0.96,
+      "feral": 0.82,
+      "total": 0.89
+    }
+  },
+  {
+    "id": "s4-i-cand3",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Energy distribution vector: ninety-nine percent subterranean redirection,\" Jin muttered, his breath wheezing through bloodied lips. \"One percent atmospheric buffer.\" He glared at the vanguard. \"Pick up your weapons. If you die before I give the order, I'll drag your souls back from the netherworld to do courtyard drills.\"",
+    "critique": "Sanderson/Gosu: Martial discipline combined with precision.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.94,
+      "sensory": 0.84,
+      "feral": 0.9,
+      "total": 0.901
+    }
+  }
+]

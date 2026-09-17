@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s5-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The celestial entity descended at terminal velocity, shedding ablative thermal plating. The Demon King raised his left gauntlet. A dark vortex of negative Qi materialized, bending light around a 30-meter event horizon, halting the multi-ton kinetic mass in mid-air through graviton cancellation.",
+    "critique": "Sanderson: Rigorous gravitational and kinetic cancellation mechanics.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.98,
+      "sensory": 0.82,
+      "feral": 0.78,
+      "total": 0.882
+    }
+  },
+  {
+    "id": "s5-a-cand2",
+    "authorStyle": "Murata / Biga",
+    "content": "The flaming foot of the Giant Turtle Mech-Ship plunged from the clouds like a falling mountain. The Demon King speed-blitzed upward in a streak of black lightning, planting a single palm against the incandescent steel sole! The atmospheric shockwave flattened three mountain spurs in a blinding flash of white and violet.",
+    "critique": "Murata: Unrivaled kinetic impact and scale.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.96,
+      "sensory": 0.88,
+      "feral": 0.95,
+      "total": 0.938
+    }
+  },
+  {
+    "id": "s5-a-cand3",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "There was a moment of absolute arrest—iron meeting void. The dark flames did not burn the descending steel; they drank its motion, siphoning the falling momentum until the massive mechanical leg hung suspended between heaven and earth like a bell without a clapper.",
+    "critique": "Rothfuss: Lyrical and arresting depiction of motion siphoning.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.86,
+      "sensory": 0.96,
+      "feral": 0.8,
+      "total": 0.885
+    }
+  }
+]

@@ -3,7 +3,7 @@ title: "Master Story Bible: The Broken Sky & The Plum Blossom"
 tags: [story_bible, index, overview]
 author: "Antigravity & Logan"
 status: "Active Canon"
-canvas: "[[story_bible.canvas]]"
+canvas: "story_bible.canvas"
 word_count_target: 100000
 current_manuscript_words: 12750
 ---
@@ -18,7 +18,7 @@ Welcome to the **Semantic Obsidian Story Bible** for the 14-arc light novel epic
 
 ## 🗺️ Visual Semantic Graph
 Open the central visual graph at any time:
-- 🌌 **Master Canvas Graph**: [[story_bible.canvas]] (Infinite zoomable canvas connecting all entities, timeline beats, foils, and secret reveals)
+- 🌌 **Master Canvas Graph**: [story_bible.canvas](story_bible.canvas) (Infinite zoomable canvas connecting all entities, timeline beats, foils, and secret reveals)
 
 ---
 

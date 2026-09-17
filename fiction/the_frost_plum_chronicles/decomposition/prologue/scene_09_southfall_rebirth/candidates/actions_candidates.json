@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s9-a-cand1",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin snatched the knotted winter oak branch from beside the hearth. It was rough, heavy, and smelled of smoke. He gave it two practice swishes—*whoosh! whoosh!*—nearly dislocating his pathetic shoulder. He kicked the door open with a splintering crash, sending Yeon fainting backward into a cabbage basket!",
+    "critique": "Biga: Maximum slapstick comedy and energetic pacing.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.88,
+      "feral": 0.98,
+      "total": 0.939
+    }
+  },
+  {
+    "id": "s9-a-cand2",
+    "authorStyle": "Gosu / Sanderson",
+    "content": "Compensating for zero internal Qi and severe muscular atrophy, Jin utilized pure bone alignment. He gripped the oak branch at the third node, shifting his center of mass over his rear heel to generate rotational torque without taxing his torn pectoral ligaments.",
+    "critique": "Gosu/Sanderson: Excellent biomechanical breakdown of fighting while emaciated.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.82,
+      "feral": 0.84,
+      "total": 0.891
+    }
+  },
+  {
+    "id": "s9-a-cand3",
+    "authorStyle": "Inoue / Vagabond",
+    "content": "The wood was cold, seasoned by three winters of frost. When his palm closed upon the knotted grain, the emaciated boy became still. His ragged breath slowed. The trembling in his knees vanished, replaced by the ancient, unbroken poise of the sword.",
+    "critique": "Inoue: Beautiful martial stillness and spiritual continuity.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.9,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.917
+    }
+  }
+]

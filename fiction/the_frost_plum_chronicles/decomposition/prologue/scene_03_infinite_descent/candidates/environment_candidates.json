@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s3-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The stratosphere was violet, turning to searing gold, then blood-red as friction ignited the thin air. The storm shelf of Annapurna was a ceiling of slate and ice forty leagues wide. When Jin pierced it, the thunder was not a rumble, but a clean, silver tear—the sound of silk being ripped by an unseen blade.",
+    "critique": "Rothfuss: Evocative acoustics and color shifts.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.85,
+      "sensory": 0.97,
+      "feral": 0.8,
+      "total": 0.891
+    }
+  },
+  {
+    "id": "s3-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The compression shockwave expanded at Mach 25.4, generating an overpressure wave exceeding 400 kilopascals. Water vapor within a 120-kilometer radius instantly reached flash-point, clearing the cloud cover to zero percent humidity in 0.18 seconds.",
+    "critique": "Sanderson: Rigorous aerodynamic shockwave physics.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.96,
+      "sensory": 0.8,
+      "feral": 0.75,
+      "total": 0.866
+    }
+  },
+  {
+    "id": "s3-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The rain clouds blew apart like a beggar's straw hat in a gale. One second it was freezing slush and dark thunder; the next second, the sky was peeled open like an overripe persimmon, flooding the muddy trenches below with blinding, raw winter sun.",
+    "critique": "Biga: Uncompromising Mount Hua visceral imagery.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.92,
+      "feral": 0.92,
+      "total": 0.904
+    }
+  }
+]

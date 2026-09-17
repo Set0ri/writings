@@ -1,0 +1,21 @@
+{
+  "id": "scene_04_untouched_flower",
+  "title": "The Subterranean Impact & Untouched Flower",
+  "order": 4,
+  "status": "ready_to_merge",
+  "compositeScore": 0.956,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.956
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.964
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.947
+    }
+  }
+}

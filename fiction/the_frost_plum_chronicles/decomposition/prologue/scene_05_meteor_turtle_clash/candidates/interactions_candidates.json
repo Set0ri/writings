@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s5-i-cand1",
+    "authorStyle": "JH / Existential",
+    "content": "The Heavenly Demon King did not blink. His eyes beneath the hollow obsidian helmet were two empty wells into which all human grief had been poured and frozen. \"You struggle,\" he whispered, his voice like grinding millstones. \"As if a grain of sand could choose not to drown in the tide.\"",
+    "critique": "JH: Terrifying existential weight and cold cosmic sorrow.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.82,
+      "sensory": 0.96,
+      "feral": 0.84,
+      "total": 0.895
+    }
+  },
+  {
+    "id": "s5-i-cand2",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin spat a mouthful of black blood into the dirt. \"Hey, horned freak! You think wearing black iron makes you an emperor?! My martial ancestors have broken thicker skulls than yours with firewood sticks!\" The Demon King paused, his dark aura wavering for a fraction of a millisecond.",
+    "critique": "Biga: Pure Chung Myung insolence and psychological warfare.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.85,
+      "sensory": 0.82,
+      "feral": 0.98,
+      "total": 0.889
+    }
+  },
+  {
+    "id": "s5-i-cand3",
+    "authorStyle": "Oda / Mythic",
+    "content": "\"The turtle carries the will of the heavens!\" Kamina's broadcast roared through the heavens. \"You cannot crush what refuses to yield, Demon King!\" The sky trembled with the clash of absolute conviction against absolute void.",
+    "critique": "Oda: Grand mythological resonance and roaring clash of wills.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.86,
+      "sensory": 0.88,
+      "feral": 0.92,
+      "total": 0.904
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "scene_02_lunar_prow",
+  "title": "The Cislunar Hummingbird & Handheld Spyglass",
+  "order": 2,
+  "status": "ready_to_merge",
+  "compositeScore": 0.945,
+  "leaves": {
+    "interactions": {
+      "resolved": true,
+      "score": 0.95
+    },
+    "actions": {
+      "resolved": true,
+      "score": 0.944
+    },
+    "environment": {
+      "resolved": true,
+      "score": 0.942
+    }
+  }
+}

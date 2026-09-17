@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s6-i-cand1",
+    "authorStyle": "Radiant Mirror / Catharsis",
+    "content": "\"Enough!\" the Queen wept, pressing her forehead into the muck before the shocked soldiers. \"We have traded their flesh for equations! They are not training data for your celestial algorithms—they are our sons, our sisters, our blood! If blood must pay for peace, take mine!\"",
+    "critique": "Radiant Mirror: Deep moral catharsis and profound sovereign vulnerability.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.84,
+      "sensory": 0.94,
+      "feral": 0.88,
+      "total": 0.909
+    }
+  },
+  {
+    "id": "s6-i-cand2",
+    "authorStyle": "JH / Existential",
+    "content": "The soldiers watched their immortal ruler in the dirt. Her crown of woven titanium was smeared with grey clay. For five thousand years she had stood above them like a statue of polished brass, but here, shivering in the frost, she was only a mother whose children were being slaughtered.",
+    "critique": "JH: Heart-wrenching deconstruction of immortal authority.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.8,
+      "sensory": 0.96,
+      "feral": 0.85,
+      "total": 0.892
+    }
+  },
+  {
+    "id": "s6-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin stared at the kneeling Queen, his jaw clenched tight enough to splinter his teeth. \"Get up,\" he growled, grabbing her shoulder. \"A Queen does not beg to monsters. If you kneel in front of this dog, you insult every disciple who died holding this ridge!\" She looked up, her eyes burning through tears. \"Then give them life, Sword Saint.\"",
+    "critique": "Biga: Fierce martial pride clashing with sacrificial resolve.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.88,
+      "sensory": 0.88,
+      "feral": 0.96,
+      "total": 0.917
+    }
+  }
+]

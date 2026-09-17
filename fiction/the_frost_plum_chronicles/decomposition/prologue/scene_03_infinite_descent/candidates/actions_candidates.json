@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s3-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "At seventeen thousand miles per hour, convective heat spiked past seven thousand Kelvin. Jin formed a detached bow-shock needle of concentrated Qi twelve millimeters ahead of his brow. His liver glycogen plummeted to zero in 8.4 seconds; his dantian cannibalized white muscle fast-twitch fibers to sustain the Mach 25 aerodynamic envelope.",
+    "critique": "Sanderson: Uncompromising biological and thermodynamic realism.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.98,
+      "sensory": 0.84,
+      "feral": 0.8,
+      "total": 0.897
+    }
+  },
+  {
+    "id": "s3-a-cand2",
+    "authorStyle": "Murata / Biga",
+    "content": "He stepped off into nothingness. No crouch. No running leap. Upright, arms crossed over his chest, chin tucked, feet pointed straight at the world like the tip of an executioner's spear. He fell not like a feather, but like a dying star whose mass was dragging the cosmos down with him.",
+    "critique": "Murata/Biga: Iconic visual posture and overwhelming kinetic momentum.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.95,
+      "sensory": 0.88,
+      "feral": 0.95,
+      "total": 0.935
+    }
+  },
+  {
+    "id": "s3-a-cand3",
+    "authorStyle": "Inoue / Vagabond",
+    "content": "The storm shelf met him not as mist, but as frozen beads suspended in amber. In that single, frozen fraction of a second, Jin saw his own reflection mirrored a thousand times in falling water droplets, each droplet carrying the distant muzzle flare of anti-air artillery. Then he split the sky.",
+    "critique": "Inoue: Lyrical relativistic time dilation and sword-saint focus.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.88,
+      "sensory": 0.97,
+      "feral": 0.85,
+      "total": 0.908
+    }
+  }
+]

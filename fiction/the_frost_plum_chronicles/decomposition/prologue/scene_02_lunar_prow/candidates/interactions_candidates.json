@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s2-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Solar Lotus output is holding at 98.4% magnetic containment,\" Jin reported, peering through the brass barrel. Kamina didn't stir from the titanium plumage. \"Numbers, numbers. When you jump from two hundred thousand leagues, you don't calculate the drop, little brother. You become the stone.\"",
+    "critique": "Sanderson: Solid physical grounding, needs the grumpy cat charm.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.9,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.845
+    }
+  },
+  {
+    "id": "s2-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Silence reigned on the feather-scales, save for the hum of cislunar harmonic fields. Jin lowered the brass glass, his pupils reflecting the azure curve of their birthplace. Beside him, Kamina slept with the soft breathing of an infant beside a hearth fire, unbothered by the ninety-million-mile glare of the Solar Lotus.",
+    "critique": "Rothfuss: Beautifully quiet and lyrical contrast.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.78,
+      "sensory": 0.95,
+      "feral": 0.8,
+      "total": 0.863
+    }
+  },
+  {
+    "id": "s2-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Kamina let out a gargantuan snore that actually vibrated his captain's coat against the vacuum. Jin's eye twitched. \"Wake up, you madman! The entire imperial vanguard is about to be turned into fertilizer, and you're dreaming of rice cakes?!\" Kamina cracked one bloodshot eye, grinning like a village idiot. \"Stop glaring like a grumpy cat, Jin. It's time to jump.\"",
+    "critique": "Biga: Absolute perfection of the canonical brotherly dynamic.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.85,
+      "sensory": 0.84,
+      "feral": 0.98,
+      "total": 0.9
+    }
+  }
+]

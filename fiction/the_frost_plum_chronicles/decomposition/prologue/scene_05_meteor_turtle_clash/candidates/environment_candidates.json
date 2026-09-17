@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s5-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The sky burned with unnatural twilight. Violet lightning danced along the cracked edges of the granite ridges. The smell of scorched titanium and burnt sulfur hung thick as oil, clinging to the skin of the trembling soldiers below.",
+    "critique": "Rothfuss: Sensory textures of violet twilight and oily sulfur.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.85,
+      "sensory": 0.97,
+      "feral": 0.8,
+      "total": 0.891
+    }
+  },
+  {
+    "id": "s5-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The localized seismic event registered 7.8 on the tectonic scale. The gravitational shear stripped thirty centimeters of topsoil across a three-kilometer radius, generating an acoustic standing wave that shattered all crystalline silica within range.",
+    "critique": "Sanderson: Exact geological and seismic metrics.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.96,
+      "sensory": 0.8,
+      "feral": 0.75,
+      "total": 0.872
+    }
+  },
+  {
+    "id": "s5-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The whole valley shrieked as if the mountain had broken its leg. Stones the size of grain silos bounced across the slopes, tumbling down into the mud trenches where the vanguards ducked their heads and screamed curses at the sky.",
+    "critique": "Biga: Gritty, terrifying ground-level perspective.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.88,
+      "feral": 0.94,
+      "total": 0.898
+    }
+  }
+]

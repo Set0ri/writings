@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s1-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The Annapurna peaks were pale as old bone against a bruised lavender sky. Bitter mountain ozone tasted like iron filings on the tongue. In the garden patch below, frozen cabbage leaves snapped under the kneeling mother's knees like thin sheets of glass. Then the whale's shadow fell—a cold so total it swallowed the twilight.",
+    "critique": "Rothfuss: Perfect sensory prose with iron, bone, and frozen cabbage.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.8,
+      "sensory": 0.98,
+      "feral": 0.78,
+      "total": 0.877
+    }
+  },
+  {
+    "id": "s1-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The flying Tech-Whale measured three leagues from snout to caudal stabilizer. Its hull of cold rolled iron plates hummed at 14 hertz, vibrating the quartz pebbles in the mud. Sensor clusters flared crimson across its ribbed belly, projecting a low-frequency telepathic threat vector across all neural frequencies in the basin.",
+    "critique": "Sanderson: Precise dimensions and frequency mapping.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.92,
+      "sensory": 0.82,
+      "feral": 0.75,
+      "total": 0.861
+    }
+  },
+  {
+    "id": "s1-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The sky turned the color of dried pig's blood. That flying monstrosity looked like an iron catfish bloated on dead soldiers, blotting out the sun and making your teeth rattle until you wanted to spit bile. The mother's weeping cut through the droning engines like a dull knife through cabbage.",
+    "critique": "Biga: Gritty, raw vernacular and biting emotional terror.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.84,
+      "sensory": 0.88,
+      "feral": 0.93,
+      "total": 0.88
+    }
+  }
+]

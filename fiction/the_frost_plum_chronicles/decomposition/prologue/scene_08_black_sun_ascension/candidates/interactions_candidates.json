@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s8-i-cand1",
+    "authorStyle": "Radiant Mirror / Mythic",
+    "content": "\"Om Agni,\" the Queen whispered from the earth, tears washing the mud from her cheeks. Jin held the Trishula in the stratosphere, aligning the relic with the solar key. \"Elder Brother,\" Jin whispered into the cold void. \"I see the dawn.\" The universe held its breath.",
+    "critique": "Radiant Mirror: Sacred solemnity and cosmic catharsis.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.85,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.916
+    }
+  },
+  {
+    "id": "s8-i-cand2",
+    "authorStyle": "JH / The Horizon",
+    "content": "In the weeping pupil of the Queen, the world became a single point of light. She saw Jin framed against the dying sun—not as a warrior, but as a child who had been asked to carry the weight of an entire world on shoulders that were already breaking. \"I am sorry,\" she whispered.",
+    "critique": "JH: Piercing psychological ache and existential remorse.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.8,
+      "sensory": 0.97,
+      "feral": 0.82,
+      "total": 0.892
+    }
+  },
+  {
+    "id": "s8-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin caught the Trishula. His teeth were clenched so hard his gums bled. \"Look at me, Kamina! I'm turning the damn key! Don't you dare close your eyes until this world is clean!\" He turned the brass cylinder with a savage, bone-cracking wrench.",
+    "critique": "Biga: Feral desperation and unbreakable promise.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.92,
+      "sensory": 0.85,
+      "feral": 0.97,
+      "total": 0.919
+    }
+  }
+]

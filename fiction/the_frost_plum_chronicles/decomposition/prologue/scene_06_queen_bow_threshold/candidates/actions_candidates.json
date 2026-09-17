@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s6-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "As her knees struck the loam, the micro-gravitational actuators woven into her dusk-gown inverted their field. Instead of repelling dirt, she concentrated the metric curvature into a localized acceleration vector, carving a 200-meter slipstream corridor toward the celestial relay.",
+    "critique": "Sanderson: Elegant conversion of gravity dress to tactical speedboost corridor.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.97,
+      "sensory": 0.84,
+      "feral": 0.78,
+      "total": 0.884
+    }
+  },
+  {
+    "id": "s6-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Her forehead met the mud with a soft, heavy sound—the sound of an empire falling. Grey clay welled up between her fingers, clinging to the gold leaf of her rings. When she exhaled, her breath was white mist, drifting across the boots of her trembling vanguard.",
+    "critique": "Rothfuss: Lyrical and devastating visual texture of the bow.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.85,
+      "sensory": 0.98,
+      "feral": 0.82,
+      "total": 0.892
+    }
+  },
+  {
+    "id": "s6-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "She didn't just bow; she dug her fingers into the mud until her nails bled. Then she snapped her head up, her eyes blazing with regal fury as she thrust both palms toward Jin, throwing her entire dantian reserve into a localized gravity vortex to launch him into the sky!",
+    "critique": "Biga: Dynamic transition from kneeling grief to martial catapult.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.94,
+      "sensory": 0.86,
+      "feral": 0.96,
+      "total": 0.924
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s7-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The blood that sprayed from Kamina's chest was bright scarlet, steaming against the pale frost. The black fluid from the severed arm hissed where it touched the stones, eating through the granite like acid. In that instant, the sky seemed to swallow all sound, leaving only the wet slap of the falling limb.",
+    "critique": "Rothfuss: High contrast of scarlet and black fluids against frost.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.85,
+      "sensory": 0.98,
+      "feral": 0.82,
+      "total": 0.898
+    }
+  },
+  {
+    "id": "s7-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The severed arm crashed 80 paces away, its bio-mechanical servomotors still twitching as capacitor charge bled into the mud. The synthetic coolant evaporated at 400 Kelvin, creating a dense cloud of acrid black vapor that obscured the ridge.",
+    "critique": "Sanderson: Kinetic aftermath and chemical vaporization details.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.95,
+      "sensory": 0.82,
+      "feral": 0.76,
+      "total": 0.871
+    }
+  },
+  {
+    "id": "s7-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The stench was enough to make a pig retch—burning copper, scorched flesh, and demonic bile. But through that smoke, Kamina's bloody teeth gleamed in the winter sun, brighter than any jewel in the imperial palace.",
+    "critique": "Biga: Raw emotional triumph piercing the visceral gore.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.96,
+      "total": 0.907
+    }
+  }
+]

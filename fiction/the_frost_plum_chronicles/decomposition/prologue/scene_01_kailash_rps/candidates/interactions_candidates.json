@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s1-i-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The maintenance automaton's optic clicked at 12,000 cycles per second. \"Query: probability of biological deviation from kinematic optimum is zero point zero zero one percent. Your flexor tendon primes rock forty milliseconds prior to neural firing.\" Jin did not look up from the clay. \"Then you have computed the physics of a corpse, machine. The breath comes before the hand.\"",
+    "critique": "Sanderson: Strong mechanical logic, but lacks the wild comedic crackle between brothers.",
+    "score": {
+      "canon": 0.85,
+      "kinetics": 0.9,
+      "sensory": 0.75,
+      "feral": 0.7,
+      "total": 0.807
+    }
+  },
+  {
+    "id": "s1-i-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Fist,\" Jin whispered to the frost. The machine whined, its rusted gears grinding like teeth in a winter skull. \"Open palm. Two fingers.\" Across the muddy ridge, his brother Kamina laughed—a sound like dry cedar catching flame in a cold wind. \"You cannot measure the song before the throat opens, little brother. Why let a pile of scrap tell you how the spring will thaw?\"",
+    "critique": "Rothfuss: Beautiful acoustic resonance, but needs more raw kinetic bite and the mother's stark terror.",
+    "score": {
+      "canon": 0.88,
+      "kinetics": 0.75,
+      "sensory": 0.94,
+      "feral": 0.78,
+      "total": 0.843
+    }
+  },
+  {
+    "id": "s1-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Hey! Tin can!\" Kamina barked, waving a mud-caked fist under the automaton's bronze optical lens. \"Calculate this! If I smack your chassis with a pine stump, how many gear teeth bounce into the cabbage patch?!\" The machine clicked dumbly. Jin sighed, rubbing his temples with freezing fingers. \"Elder Brother, it does not have an ego to bruise. You are picking a fight with an oil pump.\" \"All the more reason to win!\"",
+    "critique": "Biga: Unbeatable feral comedy and brotherly swagger, but slightly light on the cosmic dread of the whale.",
+    "score": {
+      "canon": 0.89,
+      "kinetics": 0.82,
+      "sensory": 0.8,
+      "feral": 0.95,
+      "total": 0.862
+    }
+  }
+]

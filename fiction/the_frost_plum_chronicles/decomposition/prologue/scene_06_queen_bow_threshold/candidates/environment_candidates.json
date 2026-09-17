@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s6-e-cand1",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The mud was cold as wet slate, smelling of turned roots, iron blood, and dying winter grass. The silence that fell over the thirty thousand men was heavier than any artillery barrage—a silence where only the dripping of meltwater from the elephant's copper flanks could be heard.",
+    "critique": "Rothfuss: Deep acoustic void and olfactory realism.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.84,
+      "sensory": 0.98,
+      "feral": 0.8,
+      "total": 0.891
+    }
+  },
+  {
+    "id": "s6-e-cand2",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The gravity slipstream depressed ambient atmospheric pressure to 0.4 atmospheres within the corridor. Condensation formed in two parallel helical ribbons along the vector boundary, glowing pale cerulean under the high-frequency graviton field.",
+    "critique": "Sanderson: Precise visual and physical modeling of the corridor.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.96,
+      "sensory": 0.82,
+      "feral": 0.75,
+      "total": 0.871
+    }
+  },
+  {
+    "id": "s6-e-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The soldiers stood frozen, the wind whipping their ragged hems. You could hear the weeping of grown men who had watched their homes burn, now watching their empress eating dirt for their sake. The air burned blue with her gravity magic.",
+    "critique": "Biga: Heartfelt, gritty emotional reaction of the common soldier.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.88,
+      "feral": 0.95,
+      "total": 0.9
+    }
+  }
+]

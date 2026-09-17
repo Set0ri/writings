@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s4-a-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin decelerated from 7,600 m/s to 0 m/s in 0.04 seconds. Rather than absorbing the 1.4 gigajoules of kinetic energy through his skeletal structure, he aligned his dantian vector downward at 45 degrees, discharging the force into subterranean fault lines. The soil vitrified into obsidian glass forty paces across.",
+    "critique": "Sanderson: Unrivaled mechanical and kinetic vector math.",
+    "score": {
+      "canon": 0.94,
+      "kinetics": 0.98,
+      "sensory": 0.8,
+      "feral": 0.78,
+      "total": 0.883
+    }
+  },
+  {
+    "id": "s4-a-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The impact made no thunder—it was a deep, subterranean thud that shook the roots of the world. He knelt upon the glassy stone, his left foot planted with surgical delicacy, wrapping a pocket of dead air around the solitary blossom as the surrounding rock turned to liquid fire.",
+    "critique": "Rothfuss: Lyrical contrast between destruction and preservation.",
+    "score": {
+      "canon": 0.9,
+      "kinetics": 0.88,
+      "sensory": 0.96,
+      "feral": 0.82,
+      "total": 0.894
+    }
+  },
+  {
+    "id": "s4-a-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*KABOOM!* The earth split wide open! Boulders the size of ox carts rocketed into the air, while Jin landed with both feet stamping the mud like an angry bull. Dust billowed forty rods high until the Queen's war elephant blasted its trunk, blowing the grey cloud away in one mighty gust.",
+    "critique": "Biga: High energy, dynamic impact staging.",
+    "score": {
+      "canon": 0.92,
+      "kinetics": 0.92,
+      "sensory": 0.86,
+      "feral": 0.95,
+      "total": 0.911
+    }
+  }
+]

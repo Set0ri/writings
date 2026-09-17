@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s7-i-cand1",
+    "authorStyle": "Oda / Kamina",
+    "content": "\"Did you think you could kill a man who has already entrusted tomorrow to his brother?!\" Kamina spat blood right into the Demon King's visor. His grip on the Trishula never loosened. \"Jin... take it! Don't look back! The dawn belongs to you!\"",
+    "critique": "Oda: Peak inherited will and tear-inducing brotherhood.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.88,
+      "sensory": 0.9,
+      "feral": 0.95,
+      "total": 0.929
+    }
+  },
+  {
+    "id": "s7-i-cand2",
+    "authorStyle": "JH / The Boxer",
+    "content": "The Demon King looked into Kamina's eyes and saw no terror. In that dying human face, there was only a terrible, blinding light that scorched the Demon's ancient hollow core. For the first time in ten thousand years, the Demon felt cold. \"Why... why are you smiling?\"",
+    "critique": "JH: Piercing existential light shattering demonic emptiness.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.82,
+      "sensory": 0.96,
+      "feral": 0.88,
+      "total": 0.909
+    }
+  },
+  {
+    "id": "s7-i-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Hey... tin monster...\" Kamina chuckled, his teeth painted crimson with lung-blood. \"You thought you had me? You only caught the bait, idiot!\" With a feral roar, he wrenched the trident. \"Now pay the toll for crossing Mount Hua's ridge!\"",
+    "critique": "Biga: Raw wolf-grin defiance and unyielding martial savagery.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.9,
+      "sensory": 0.86,
+      "feral": 0.98,
+      "total": 0.921
+    }
+  }
+]
