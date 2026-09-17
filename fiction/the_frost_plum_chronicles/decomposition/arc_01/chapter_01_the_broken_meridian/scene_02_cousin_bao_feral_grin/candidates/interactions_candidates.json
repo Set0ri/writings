@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_cousin_bao_feral_grin-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Well, look at that,\" Bao sneered, kicking a wooden stool aside with a loud clatter. \"The dead boy finally woke up. Auntie Yeon, tell Uncle Daesung to stop crying over this cripple. My father says if your family doesn't deliver the four baskets of salted fish by sundown, the village council takes the cottage.\"\n\nJin slowly turned his head upon the pillow. His half-lidded wolf-eyes locked onto the collar of Bao's vest. \n\nThere, half-hidden beneath the greasy fur, was a dark, purple bruise—the distinct, crushing imprint of four adult fingers, spaced with terrifying, unnatural symmetry.\n\nJin's lips peeled back into a slow, savage, unhinged wolf-grin.\n\n*\"You know, little cousin,\"* Jin whispered, his voice dripping with venomous amusement, *\"you bark awfully loud for a pig that's already been measured by the butcher's iron tongs.\"*\n\nBao choked on his spit, taking an involuntary step back into the slush, his hand flying to his throat in sudden, superstitious terror.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.94,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Well, look at that,\" Bao sneered, kicking a wooden stool aside with a loud clatter. \"The dead boy finally woke up. Auntie Yeon, tell Uncle Daesung to stop crying over this cripple. My father says if your family doesn't deliver the four baskets of salted fish by sundown, the village council takes the cottage.\"\n\nJin slowly turned his head upon the pillow. His half-lidded wolf-eyes locked onto the collar of Bao's vest. \n\nThere, half-hidden beneath the greasy fur, was a dark, purple bruise—the distinct, crushing imprint of four adult fingers, spaced with terrifying, unnatural symmetry.\n\nJin's lips peeled back into a slow, savage, unhinged wolf-grin.\n\n*\"You know, little cousin,\"* Jin whispered, his voice dripping with venomous amusement, *\"you bark awfully loud for a pig that's already been measured by the butcher's iron tongs.\"*\n\nBao choked on his spit, taking an involuntary step back into the slush, his hand flying to his throat in sudden, superstitious terror.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.94,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Well, look at that,\" Bao sneered, kicking a wooden stool aside with a loud clatter. \"The dead boy finally woke up. Auntie Yeon, tell Uncle Daesung to stop crying over this cripple. My father says if your family doesn't deliver the four baskets of salted fish by sundown, the village council takes the cottage.\"\n\nJin slowly turned his head upon the pillow. His half-lidded wolf-eyes locked onto the collar of Bao's vest. \n\nThere, half-hidden beneath the greasy fur, was a dark, purple bruise—the distinct, crushing imprint of four adult fingers, spaced with terrifying, unnatural symmetry.\n\nJin's lips peeled back into a slow, savage, unhinged wolf-grin.\n\n*\"You know, little cousin,\"* Jin whispered, his voice dripping with venomous amusement, *\"you bark awfully loud for a pig that's already been measured by the butcher's iron tongs.\"*\n\nBao choked on his spit, taking an involuntary step back into the slush, his hand flying to his throat in sudden, superstitious terror.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.94,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 3
+  }
+]

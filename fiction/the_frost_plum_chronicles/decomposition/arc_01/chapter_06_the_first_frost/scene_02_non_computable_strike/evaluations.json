@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_02_non_computable_strike",
+  "title": "The Non-Computable Strike",
+  "order": 2,
+  "compositeScore": 0.97,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.978
+    },
+    "actions": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "environment": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.346Z"
+}

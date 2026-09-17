@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin stepped barefoot into the freezing snow.\n\nCompensating for zero internal Qi with surgical bone alignment and rotational torque, he unleashed the **Twenty-Four Movement Plum Blossom Sword Art** through two kitchen cleavers.\n\nThe blades blurred in the blizzard like falling pink petals.\n\n*SHING. CHOP. SLICE.*\n\nHe deflected an incoming iron spear with the flat of his left cleaver, spun through the blind spot, and drove the right cleaver through the bandit's collarbone. He pivoted on his heel, catching a cyber-wolf mid-leap, shearing its pneumatic jaw cables with a vicious cross-cut that sprayed black hydraulic fluid across the snow drifts.\n\nWithin sixty heartbeats, seven bandits and three war hounds lay dead in the slush.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin stepped barefoot into the freezing snow.\n\nCompensating for zero internal Qi with surgical bone alignment and rotational torque, he unleashed the **Twenty-Four Movement Plum Blossom Sword Art** through two kitchen cleavers.\n\nThe blades blurred in the blizzard like falling pink petals.\n\n*SHING. CHOP. SLICE.*\n\nHe deflected an incoming iron spear with the flat of his left cleaver, spun through the blind spot, and drove the right cleaver through the bandit's collarbone. He pivoted on his heel, catching a cyber-wolf mid-leap, shearing its pneumatic jaw cables with a vicious cross-cut that sprayed black hydraulic fluid across the snow drifts.\n\nWithin sixty heartbeats, seven bandits and three war hounds lay dead in the slush.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin stepped barefoot into the freezing snow.\n\nCompensating for zero internal Qi with surgical bone alignment and rotational torque, he unleashed the **Twenty-Four Movement Plum Blossom Sword Art** through two kitchen cleavers.\n\nThe blades blurred in the blizzard like falling pink petals.\n\n*SHING. CHOP. SLICE.*\n\nHe deflected an incoming iron spear with the flat of his left cleaver, spun through the blind spot, and drove the right cleaver through the bandit's collarbone. He pivoted on his heel, catching a cyber-wolf mid-leap, shearing its pneumatic jaw cables with a vicious cross-cut that sprayed black hydraulic fluid across the snow drifts.\n\nWithin sixty heartbeats, seven bandits and three war hounds lay dead in the slush.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 3
+  }
+]

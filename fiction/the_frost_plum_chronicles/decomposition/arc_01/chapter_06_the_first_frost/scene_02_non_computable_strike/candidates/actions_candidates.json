@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_non_computable_strike-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Kang speed-blitzed forward, his vibro-blade carving an arc of screaming white sparks through the sea air.\n\nJin did not retreat. He did not parry.\n\nHe surrendered all pre-tension in his wrists and shoulders. In that razor-thin fraction of a millisecond, he channeled the single thread of violet Morning Dew Qi from his dantian—not into his muscles, but into the tip of the knotted oak branch, bending the trajectory outside all physical Newtonian calculations.\n\n*CRACK-SHING.*\n\nThe gnarled oak branch bypassed Kang's predictive parry, shearing cleanly through the side of Kang's synthetic neck like an axe splitting dry firewood!",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_non_computable_strike-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Kang speed-blitzed forward, his vibro-blade carving an arc of screaming white sparks through the sea air.\n\nJin did not retreat. He did not parry.\n\nHe surrendered all pre-tension in his wrists and shoulders. In that razor-thin fraction of a millisecond, he channeled the single thread of violet Morning Dew Qi from his dantian—not into his muscles, but into the tip of the knotted oak branch, bending the trajectory outside all physical Newtonian calculations.\n\n*CRACK-SHING.*\n\nThe gnarled oak branch bypassed Kang's predictive parry, shearing cleanly through the side of Kang's synthetic neck like an axe splitting dry firewood!",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_non_computable_strike-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Kang speed-blitzed forward, his vibro-blade carving an arc of screaming white sparks through the sea air.\n\nJin did not retreat. He did not parry.\n\nHe surrendered all pre-tension in his wrists and shoulders. In that razor-thin fraction of a millisecond, he channeled the single thread of violet Morning Dew Qi from his dantian—not into his muscles, but into the tip of the knotted oak branch, bending the trajectory outside all physical Newtonian calculations.\n\n*CRACK-SHING.*\n\nThe gnarled oak branch bypassed Kang's predictive parry, shearing cleanly through the side of Kang's synthetic neck like an axe splitting dry firewood!",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "iteration": 3
+  }
+]

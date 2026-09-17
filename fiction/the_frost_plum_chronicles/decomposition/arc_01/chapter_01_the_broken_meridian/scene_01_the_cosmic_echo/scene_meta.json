@@ -1,0 +1,12 @@
+{
+  "id": "scene_01_the_cosmic_echo",
+  "title": "The Cosmic Echo & The Thatch Ceiling",
+  "order": 1,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.956,
+  "status": "ready_to_merge"
+}

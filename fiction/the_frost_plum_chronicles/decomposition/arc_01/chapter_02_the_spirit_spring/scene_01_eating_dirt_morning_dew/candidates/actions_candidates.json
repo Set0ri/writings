@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_eating_dirt_morning_dew-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin dragged his aching body through the wet brambles, his bare toes turning purple against the ice-crusted loam. He knelt by the spring and plunged his face straight into the freezing mud, drinking deeply of the raw mineral runoff. \n\nSitting cross-legged on a flat granite slab, he closed his eyes and forced his breath into the ancient four-stroke cadence of the Mount Hua Morning Dew Art. He drew ambient atmospheric Qi through the crown of his skull, funneling it down toward his dantian.\n\n*CRACKLE.*\n\nThe biological resistance was agonizing. His twelve primary meridians were clogged with decades of mineral silt and cellular debris, calcified like rusted lead pipes. The Qi caught against the blockage; blood welled in his nostrils and spattered across the frost.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.93,
+      "total": 0.957
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_eating_dirt_morning_dew-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin dragged his aching body through the wet brambles, his bare toes turning purple against the ice-crusted loam. He knelt by the spring and plunged his face straight into the freezing mud, drinking deeply of the raw mineral runoff. \n\nSitting cross-legged on a flat granite slab, he closed his eyes and forced his breath into the ancient four-stroke cadence of the Mount Hua Morning Dew Art. He drew ambient atmospheric Qi through the crown of his skull, funneling it down toward his dantian.\n\n*CRACKLE.*\n\nThe biological resistance was agonizing. His twelve primary meridians were clogged with decades of mineral silt and cellular debris, calcified like rusted lead pipes. The Qi caught against the blockage; blood welled in his nostrils and spattered across the frost.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.93,
+      "total": 0.957
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_eating_dirt_morning_dew-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin dragged his aching body through the wet brambles, his bare toes turning purple against the ice-crusted loam. He knelt by the spring and plunged his face straight into the freezing mud, drinking deeply of the raw mineral runoff. \n\nSitting cross-legged on a flat granite slab, he closed his eyes and forced his breath into the ancient four-stroke cadence of the Mount Hua Morning Dew Art. He drew ambient atmospheric Qi through the crown of his skull, funneling it down toward his dantian.\n\n*CRACKLE.*\n\nThe biological resistance was agonizing. His twelve primary meridians were clogged with decades of mineral silt and cellular debris, calcified like rusted lead pipes. The Qi caught against the blockage; blood welled in his nostrils and spattered across the frost.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.93,
+      "total": 0.957
+    },
+    "iteration": 3
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "scene_03_the_great_reversal_300_sacks",
+  "title": "The Great Reversal: 300 Sacks of Grain",
+  "order": 3,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.965,
+  "status": "ready_to_merge"
+}

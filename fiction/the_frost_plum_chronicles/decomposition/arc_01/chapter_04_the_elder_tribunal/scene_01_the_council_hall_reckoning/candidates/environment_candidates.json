@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_the_council_hall_reckoning-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The Southfall Council Hall was the only tiled structure in the settlement, built from heavy fir timbers with stone hearths at either end. Braziers burned with green pine charcoal, casting flickering shadows across the faces of seven village elders seated on low bamboo mats. Outside, the villagers huddled in the freezing sleet, peering through the open doors with anxious, hollow eyes.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_the_council_hall_reckoning-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The Southfall Council Hall was the only tiled structure in the settlement, built from heavy fir timbers with stone hearths at either end. Braziers burned with green pine charcoal, casting flickering shadows across the faces of seven village elders seated on low bamboo mats. Outside, the villagers huddled in the freezing sleet, peering through the open doors with anxious, hollow eyes.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_the_council_hall_reckoning-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The Southfall Council Hall was the only tiled structure in the settlement, built from heavy fir timbers with stone hearths at either end. Braziers burned with green pine charcoal, casting flickering shadows across the faces of seven village elders seated on low bamboo mats. Outside, the villagers huddled in the freezing sleet, peering through the open doors with anxious, hollow eyes.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 3
+  }
+]

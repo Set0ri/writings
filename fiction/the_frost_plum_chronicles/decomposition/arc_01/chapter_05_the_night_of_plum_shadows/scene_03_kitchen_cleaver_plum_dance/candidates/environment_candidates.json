@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The snowy lane was illuminated by burning thatch and the bloody glare of torches. Black Wave cutthroats, clad in spiked armor, were kicking open granary doors when the shadow of the dried anchovy boy fell across the drifts.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.93,
+      "total": 0.951
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The snowy lane was illuminated by burning thatch and the bloody glare of torches. Black Wave cutthroats, clad in spiked armor, were kicking open granary doors when the shadow of the dried anchovy boy fell across the drifts.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.93,
+      "total": 0.951
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The snowy lane was illuminated by burning thatch and the bloody glare of torches. Black Wave cutthroats, clad in spiked armor, were kicking open granary doors when the shadow of the dried anchovy boy fell across the drifts.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.93,
+      "total": 0.951
+    },
+    "iteration": 3
+  }
+]

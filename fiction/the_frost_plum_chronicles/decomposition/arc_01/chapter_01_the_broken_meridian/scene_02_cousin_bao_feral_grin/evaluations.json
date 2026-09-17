@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_02_cousin_bao_feral_grin",
+  "title": "Cousin Bao & The Feral Tiger-Grin",
+  "order": 2,
+  "compositeScore": 0.954,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.94,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "actions": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.93,
+      "feral": 0.95,
+      "total": 0.953
+    },
+    "environment": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.172Z"
+}

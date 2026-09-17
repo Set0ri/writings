@@ -1,44 +1,44 @@
 [
   {
-    "id": "c3-s3-a-cand1",
+    "id": "scene_03_gulls_maw_stakeout-actions-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "*Click.*\n*Click.*\n*Click.*\n\nA faint, high-frequency signal pulsed from the seam, beaming upward toward the heavy storm clouds.\n\nToward the sky.\n\nToward the moon.\n\nI stayed frozen on the rock until his footsteps faded into the distance.\n\nThe [Kinetic momentum transferred through skeletal alignment with zero waste].",
-    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
+    "content": "Hanging by three fingers from a damp fissure twenty feet above the cave floor, Jin peered through the gloom.\n\nBelow him, a sleek, flat-bottomed skiff forged from dull matte-black alloy rested on the sand. Its hull carried no oars and no sails; it hummed with the faint, telltale vibration of a low-emission superconducting battery.\n\nUncle Kang stood by a wooden handcart loaded with twenty heavy sacks of village grain and four crates of hand-smelted high-tensile iron ore. Facing him were three men wrapped in rain-slicked sealskin coats, bearing the serrated tattoo of the Black Wave Bandits.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.94,
-      "sensory": 0.82,
-      "feral": 0.78,
-      "total": 0.869
+      "canon": 0.97,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.94,
+      "total": 0.962
     },
     "iteration": 1
   },
   {
-    "id": "c3-s3-a-cand2",
+    "id": "scene_03_gulls_maw_stakeout-actions-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "*Click.*\n*Click.*\n*Click.*\n\nA faint, high-frequency signal pulsed from the seam, beaming upward toward the heavy storm clouds.\n\nToward the sky.\n\nToward the moon.\n\nI stayed frozen on the rock until his footsteps faded into the distance.\n\nThen, slowly, I reached into my waistband and pulled out my father's small iron stone-chisel. I ran my thumb along the cold, rusted edge.\n\n*A synthetic infiltrator,* I thought, a terrifying, beautiful smile spreading across my face in the midnight rain. *A machine wearing my uncle's skin.*\n\n*You made my father dig trenches in the mud.*\n*You beat a boy until he cried.*\n*And you turned this island into an algorithmic slaughterhouse.*\n\nI slid the chisel back into my belt and stood up on the precipice, looking out over the dark, turbulent sea.\n\n*Two days.*\n\n*Give me two days to knit these ribs.*\n\n*And then, dear Uncle...*\n\n*Mount Hua is going to perform an autopsy.*",
-    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
+    "content": "Hanging by three fingers from a damp fissure twenty feet above the cave floor, Jin peered through the gloom.\n\nBelow him, a sleek, flat-bottomed skiff forged from dull matte-black alloy rested on the sand. Its hull carried no oars and no sails; it hummed with the faint, telltale vibration of a low-emission superconducting battery.\n\nUncle Kang stood by a wooden handcart loaded with twenty heavy sacks of village grain and four crates of hand-smelted high-tensile iron ore. Facing him were three men wrapped in rain-slicked sealskin coats, bearing the serrated tattoo of the Black Wave Bandits.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
     "score": {
-      "canon": 0.96,
-      "kinetics": 0.94,
-      "sensory": 0.95,
-      "feral": 0.92,
-      "total": 0.945
+      "canon": 0.97,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.94,
+      "total": 0.962
     },
     "iteration": 2
   },
   {
-    "id": "c3-s3-a-cand3",
+    "id": "scene_03_gulls_maw_stakeout-actions-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "*Click.*\n*Click.*\n*Click.*\n\nA faint, high-frequency signal pulsed from the seam, beaming upward toward the heavy storm clouds.\n\nToward the sky.\n\nToward the moon.\n\nI stayed frozen on the rock until his footsteps faded into the distance.\n\nThe A classic Mount Hua kick right where it hurts most.",
-    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
+    "content": "Hanging by three fingers from a damp fissure twenty feet above the cave floor, Jin peered through the gloom.\n\nBelow him, a sleek, flat-bottomed skiff forged from dull matte-black alloy rested on the sand. Its hull carried no oars and no sails; it hummed with the faint, telltale vibration of a low-emission superconducting battery.\n\nUncle Kang stood by a wooden handcart loaded with twenty heavy sacks of village grain and four crates of hand-smelted high-tensile iron ore. Facing him were three men wrapped in rain-slicked sealskin coats, bearing the serrated tattoo of the Black Wave Bandits.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
     "score": {
-      "canon": 0.89,
-      "kinetics": 0.85,
-      "sensory": 0.84,
-      "feral": 0.96,
-      "total": 0.881
+      "canon": 0.97,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.94,
+      "total": 0.962
     },
-    "iteration": 1
+    "iteration": 3
   }
 ]

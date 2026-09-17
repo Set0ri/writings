@@ -1,0 +1,12 @@
+{
+  "id": "scene_01_chase_to_sea_cliff",
+  "title": "The Chase to the Sea Cliff",
+  "order": 1,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.966,
+  "status": "ready_to_merge"
+}

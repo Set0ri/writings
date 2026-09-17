@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_02_the_entrance_of_the_dried_anchovy",
+  "title": "The Entrance of the Dried Anchovy",
+  "order": 2,
+  "compositeScore": 0.962,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "actions": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.97
+    },
+    "environment": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.942
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.277Z"
+}

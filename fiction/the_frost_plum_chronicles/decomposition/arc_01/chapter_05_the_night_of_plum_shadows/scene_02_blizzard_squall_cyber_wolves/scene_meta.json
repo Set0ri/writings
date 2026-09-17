@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_blizzard_squall_cyber_wolves",
+  "title": "The Blizzard Squall & Iron-Jaw Wolves",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.966,
+  "status": "ready_to_merge"
+}

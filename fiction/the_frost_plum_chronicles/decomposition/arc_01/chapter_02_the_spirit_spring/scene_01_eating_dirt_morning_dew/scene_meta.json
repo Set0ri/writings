@@ -1,0 +1,12 @@
+{
+  "id": "scene_01_eating_dirt_morning_dew",
+  "title": "Eating Dirt & The Morning Dew",
+  "order": 1,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.956,
+  "status": "ready_to_merge"
+}

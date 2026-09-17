@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_the_entrance_of_the_dried_anchovy",
+  "title": "The Entrance of the Dried Anchovy",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.962,
+  "status": "ready_to_merge"
+}

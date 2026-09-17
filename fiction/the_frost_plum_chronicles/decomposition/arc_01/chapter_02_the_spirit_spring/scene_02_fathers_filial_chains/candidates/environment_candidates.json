@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_fathers_filial_chains-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The dawn light revealed the squalor of Daesung's woodyard: piles of damp cordwood, a dull iron splitting maul, and a sagging chicken coop containing two half-plucked hens. The morning chimney smoke from neighboring houses was thick with the scent of fried salt-fish, while Daesung's hearth produced only thin, bitter ash.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.938
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_fathers_filial_chains-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The dawn light revealed the squalor of Daesung's woodyard: piles of damp cordwood, a dull iron splitting maul, and a sagging chicken coop containing two half-plucked hens. The morning chimney smoke from neighboring houses was thick with the scent of fried salt-fish, while Daesung's hearth produced only thin, bitter ash.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.938
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_fathers_filial_chains-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The dawn light revealed the squalor of Daesung's woodyard: piles of damp cordwood, a dull iron splitting maul, and a sagging chicken coop containing two half-plucked hens. The morning chimney smoke from neighboring houses was thick with the scent of fried salt-fish, while Daesung's hearth produced only thin, bitter ash.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.9,
+      "total": 0.938
+    },
+    "iteration": 3
+  }
+]

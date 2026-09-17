@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_taming_the_bully-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Bao choked down the last of the persimmon, his wide, terrified eyes looking up at Jin. For the first time, he didn't see a sickly cousin; he saw an unyielding mountain of shelter.\n\n*\"The Gull's Maw,\"* Bao stammered. *\"The sea caves at the southern point. He takes the grain wagons there when the tide goes out... and meets men in black hooded coats who arrive in boats without sails.\"*\n\nJin smiled. He patted Bao's greasy head with rough, brotherly firmness.\n\n*\"Good boy. Go home, wash your face, and act dumb. Tonight, we go hunting.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.94,
+      "feral": 0.97,
+      "total": 0.96
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_taming_the_bully-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Bao choked down the last of the persimmon, his wide, terrified eyes looking up at Jin. For the first time, he didn't see a sickly cousin; he saw an unyielding mountain of shelter.\n\n*\"The Gull's Maw,\"* Bao stammered. *\"The sea caves at the southern point. He takes the grain wagons there when the tide goes out... and meets men in black hooded coats who arrive in boats without sails.\"*\n\nJin smiled. He patted Bao's greasy head with rough, brotherly firmness.\n\n*\"Good boy. Go home, wash your face, and act dumb. Tonight, we go hunting.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.94,
+      "feral": 0.97,
+      "total": 0.96
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_taming_the_bully-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Bao choked down the last of the persimmon, his wide, terrified eyes looking up at Jin. For the first time, he didn't see a sickly cousin; he saw an unyielding mountain of shelter.\n\n*\"The Gull's Maw,\"* Bao stammered. *\"The sea caves at the southern point. He takes the grain wagons there when the tide goes out... and meets men in black hooded coats who arrive in boats without sails.\"*\n\nJin smiled. He patted Bao's greasy head with rough, brotherly firmness.\n\n*\"Good boy. Go home, wash your face, and act dumb. Tonight, we go hunting.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.96,
+      "sensory": 0.94,
+      "feral": 0.97,
+      "total": 0.96
+    },
+    "iteration": 3
+  }
+]

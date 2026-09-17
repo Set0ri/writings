@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_non_computable_strike",
+  "title": "The Non-Computable Strike",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.97,
+  "status": "ready_to_merge"
+}

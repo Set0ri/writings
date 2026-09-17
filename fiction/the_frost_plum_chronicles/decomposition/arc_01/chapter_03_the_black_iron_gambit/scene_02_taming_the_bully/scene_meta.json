@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_taming_the_bully",
+  "title": "Taming the Bully with Sour Persimmons",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.954,
+  "status": "ready_to_merge"
+}

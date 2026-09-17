@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_white_coolant_road_to_hua-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The morning sun flooded Southfall Bay in blinding winter gold. In the distance, the thatched roofs of the village were safe, the fires extinguished, and the villagers emerging into the clear, crisp air. The scent of salt spray and melting snow was clean and pure, untouched by machine oil.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.93,
+      "total": 0.96
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The morning sun flooded Southfall Bay in blinding winter gold. In the distance, the thatched roofs of the village were safe, the fires extinguished, and the villagers emerging into the clear, crisp air. The scent of salt spray and melting snow was clean and pure, untouched by machine oil.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.93,
+      "total": 0.96
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The morning sun flooded Southfall Bay in blinding winter gold. In the distance, the thatched roofs of the village were safe, the fires extinguished, and the villagers emerging into the clear, crisp air. The scent of salt spray and melting snow was clean and pure, untouched by machine oil.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.93,
+      "total": 0.96
+    },
+    "iteration": 3
+  }
+]

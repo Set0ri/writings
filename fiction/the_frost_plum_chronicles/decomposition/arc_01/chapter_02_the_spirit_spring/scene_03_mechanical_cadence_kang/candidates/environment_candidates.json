@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_mechanical_cadence_kang-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "At the northern palisade of Southfall, the crude log ramparts looked out over the salt marshes and the jagged black reefs of the outer bay. Sleet was falling again, coating the sharpened pine stakes in glistening rime. Four village watchmen huddled around a smoky brazier, clutching rusted spears with shivering hands.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.948
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "At the northern palisade of Southfall, the crude log ramparts looked out over the salt marshes and the jagged black reefs of the outer bay. Sleet was falling again, coating the sharpened pine stakes in glistening rime. Four village watchmen huddled around a smoky brazier, clutching rusted spears with shivering hands.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.948
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "At the northern palisade of Southfall, the crude log ramparts looked out over the salt marshes and the jagged black reefs of the outer bay. Sleet was falling again, coating the sharpened pine stakes in glistening rime. Four village watchmen huddled around a smoky brazier, clutching rusted spears with shivering hands.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.948
+    },
+    "iteration": 3
+  }
+]

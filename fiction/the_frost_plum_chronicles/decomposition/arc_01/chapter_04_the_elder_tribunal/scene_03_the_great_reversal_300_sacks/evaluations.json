@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_03_the_great_reversal_300_sacks",
+  "title": "The Great Reversal: 300 Sacks of Grain",
+  "order": 3,
+  "compositeScore": 0.965,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.978
+    },
+    "actions": {
+      "canon": 0.98,
+      "kinetics": 0.99,
+      "sensory": 0.94,
+      "feral": 0.98,
+      "total": 0.972
+    },
+    "environment": {
+      "canon": 0.95,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.944
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.289Z"
+}

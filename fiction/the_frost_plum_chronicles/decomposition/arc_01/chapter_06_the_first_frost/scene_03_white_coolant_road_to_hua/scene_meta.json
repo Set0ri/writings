@@ -1,0 +1,12 @@
+{
+  "id": "scene_03_white_coolant_road_to_hua",
+  "title": "White Coolant & The Road to Mount Hua",
+  "order": 3,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.971,
+  "status": "ready_to_merge"
+}

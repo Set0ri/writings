@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_white_coolant_road_to_hua-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin watched the transmission pulse vanish into the blue cislunar sky.\n\n*\"So they know,\"* Jin murmured, a fierce, unbreakable smile touching his lips. *\"Good. Let the Moon prepare its models. Mount Hua is waking up.\"*\n\nTwo hours later, Jin stood at the Southfall boundary crossroads. In his hemp bindle, he carried a bag of Yeon's dried persimmons and two warm barley cakes. Beside him stood Daesung, weeping tears of proud, humble gratitude, and Cousin Bao, holding the knotted oak stick that Jin had entrusted to him to protect the village.\n\n*\"I will be back, Father. Mother,\"* Jin said, bowing deeply to Daesung. *\"Tend the plum orchard. When the petals fall in the spring... this ancestor will have raised Mount Hua above the clouds.\"*\n\nTurning on his heel, the dried anchovy boy walked out onto the grand northern highway, his wild laughter echoing across the mountains.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.97,
+      "feral": 0.99,
+      "total": 0.977
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin watched the transmission pulse vanish into the blue cislunar sky.\n\n*\"So they know,\"* Jin murmured, a fierce, unbreakable smile touching his lips. *\"Good. Let the Moon prepare its models. Mount Hua is waking up.\"*\n\nTwo hours later, Jin stood at the Southfall boundary crossroads. In his hemp bindle, he carried a bag of Yeon's dried persimmons and two warm barley cakes. Beside him stood Daesung, weeping tears of proud, humble gratitude, and Cousin Bao, holding the knotted oak stick that Jin had entrusted to him to protect the village.\n\n*\"I will be back, Father. Mother,\"* Jin said, bowing deeply to Daesung. *\"Tend the plum orchard. When the petals fall in the spring... this ancestor will have raised Mount Hua above the clouds.\"*\n\nTurning on his heel, the dried anchovy boy walked out onto the grand northern highway, his wild laughter echoing across the mountains.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.97,
+      "feral": 0.99,
+      "total": 0.977
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin watched the transmission pulse vanish into the blue cislunar sky.\n\n*\"So they know,\"* Jin murmured, a fierce, unbreakable smile touching his lips. *\"Good. Let the Moon prepare its models. Mount Hua is waking up.\"*\n\nTwo hours later, Jin stood at the Southfall boundary crossroads. In his hemp bindle, he carried a bag of Yeon's dried persimmons and two warm barley cakes. Beside him stood Daesung, weeping tears of proud, humble gratitude, and Cousin Bao, holding the knotted oak stick that Jin had entrusted to him to protect the village.\n\n*\"I will be back, Father. Mother,\"* Jin said, bowing deeply to Daesung. *\"Tend the plum orchard. When the petals fall in the spring... this ancestor will have raised Mount Hua above the clouds.\"*\n\nTurning on his heel, the dried anchovy boy walked out onto the grand northern highway, his wild laughter echoing across the mountains.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.97,
+      "feral": 0.99,
+      "total": 0.977
+    },
+    "iteration": 3
+  }
+]

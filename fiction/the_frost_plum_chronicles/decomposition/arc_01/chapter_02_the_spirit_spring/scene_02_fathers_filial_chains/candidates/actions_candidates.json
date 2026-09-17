@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_fathers_filial_chains-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin stared at his father's bowed neck. A knot of hot, bitter rage tightened in his throat—not at Daesung, but at the parasitic cruelty of the world that used a good man's decency as a leash to choke him.\n\nJin said nothing. He simply walked over to the chopping block, gripped the heavy splitting maul with his scrawny hands, and swung it with clean, effortless skeletal alignment.\n\n*THWACK.*\n\nThe knotted pine log split clean down the grain, popping apart like a dry persimmon. Daesung blinked in astonishment as Jin tossed the maul aside without breathing hard.\n\n*\"Rest, Father,\"* Jin muttered. *\"Starting today, this family stops eating dirt.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.95,
+      "total": 0.961
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_fathers_filial_chains-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin stared at his father's bowed neck. A knot of hot, bitter rage tightened in his throat—not at Daesung, but at the parasitic cruelty of the world that used a good man's decency as a leash to choke him.\n\nJin said nothing. He simply walked over to the chopping block, gripped the heavy splitting maul with his scrawny hands, and swung it with clean, effortless skeletal alignment.\n\n*THWACK.*\n\nThe knotted pine log split clean down the grain, popping apart like a dry persimmon. Daesung blinked in astonishment as Jin tossed the maul aside without breathing hard.\n\n*\"Rest, Father,\"* Jin muttered. *\"Starting today, this family stops eating dirt.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.95,
+      "total": 0.961
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_fathers_filial_chains-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin stared at his father's bowed neck. A knot of hot, bitter rage tightened in his throat—not at Daesung, but at the parasitic cruelty of the world that used a good man's decency as a leash to choke him.\n\nJin said nothing. He simply walked over to the chopping block, gripped the heavy splitting maul with his scrawny hands, and swung it with clean, effortless skeletal alignment.\n\n*THWACK.*\n\nThe knotted pine log split clean down the grain, popping apart like a dry persimmon. Daesung blinked in astonishment as Jin tossed the maul aside without breathing hard.\n\n*\"Rest, Father,\"* Jin muttered. *\"Starting today, this family stops eating dirt.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.97,
+      "kinetics": 0.98,
+      "sensory": 0.94,
+      "feral": 0.95,
+      "total": 0.961
+    },
+    "iteration": 3
+  }
+]

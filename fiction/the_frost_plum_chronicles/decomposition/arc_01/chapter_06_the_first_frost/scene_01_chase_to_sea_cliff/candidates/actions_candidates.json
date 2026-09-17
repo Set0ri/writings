@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_chase_to_sea_cliff-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Uncle Kang stood at the cliff's precipice, waiting for the extraction skiff that would never arrive.\n\nHearing footsteps, Kang spun around. His silk coat was torn away, revealing the synthetic musculature beneath his ribcage—carbon-fiber lattices interwoven with hydraulic fluid lines. His jaw unhinged with a mechanical click, and from his right sleeve extended an eight-inch vibro-alloy hunting machete that hummed at forty thousand cycles a second.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.96,
+      "feral": 0.95,
+      "total": 0.969
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Uncle Kang stood at the cliff's precipice, waiting for the extraction skiff that would never arrive.\n\nHearing footsteps, Kang spun around. His silk coat was torn away, revealing the synthetic musculature beneath his ribcage—carbon-fiber lattices interwoven with hydraulic fluid lines. His jaw unhinged with a mechanical click, and from his right sleeve extended an eight-inch vibro-alloy hunting machete that hummed at forty thousand cycles a second.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.96,
+      "feral": 0.95,
+      "total": 0.969
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Uncle Kang stood at the cliff's precipice, waiting for the extraction skiff that would never arrive.\n\nHearing footsteps, Kang spun around. His silk coat was torn away, revealing the synthetic musculature beneath his ribcage—carbon-fiber lattices interwoven with hydraulic fluid lines. His jaw unhinged with a mechanical click, and from his right sleeve extended an eight-inch vibro-alloy hunting machete that hummed at forty thousand cycles a second.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.96,
+      "feral": 0.95,
+      "total": 0.969
+    },
+    "iteration": 3
+  }
+]

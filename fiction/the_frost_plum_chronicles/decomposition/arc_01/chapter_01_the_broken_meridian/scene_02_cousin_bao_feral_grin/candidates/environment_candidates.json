@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_cousin_bao_feral_grin-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "A sudden gust of sea wind rattled the loose clapboards of the shack. Cold slush splattered against the thin door. In the corner of the room, an iron kettle sat cold upon a hearth of soot-stained river rocks, surrounded by a few withered cabbage leaves and a chipped earthenware bowl.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "A sudden gust of sea wind rattled the loose clapboards of the shack. Cold slush splattered against the thin door. In the corner of the room, an iron kettle sat cold upon a hearth of soot-stained river rocks, surrounded by a few withered cabbage leaves and a chipped earthenware bowl.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "A sudden gust of sea wind rattled the loose clapboards of the shack. Cold slush splattered against the thin door. In the corner of the room, an iron kettle sat cold upon a hearth of soot-stained river rocks, surrounded by a few withered cabbage leaves and a chipped earthenware bowl.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.94
+    },
+    "iteration": 3
+  }
+]

@@ -1,44 +1,44 @@
 [
   {
-    "id": "c3-s1-e-cand1",
+    "id": "scene_01_tripping_the_pig-environment-cand1",
     "authorStyle": "Sanderson / Gosu",
-    "content": "I pushed the bamboo pole down.\n\nJust two pounds of pressure. But I placed it right over the third thoracic nerve cluster—a nasty little pressure point the Mount Hua elders used to discipline stubborn juniors who skipped  [Atmospheric pressure calibrated to 1.02 atm; acoustic vibration 42 Hz].",
-    "critique": "Sanderson/Gosu: Superb kinetic and mechanical arrays, highly disciplined biology and leverage, slightly clinical.",
+    "content": "Behind the communal granary, the lane was a trough of deep, foul pig slurry and rotting straw. A rickety wattle shed leaned against the stone foundation, dripping rain from its sagging gutters. The air reeked of wet manure, moldy rye, and rancid tallow.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
     "score": {
-      "canon": 0.91,
-      "kinetics": 0.94,
-      "sensory": 0.82,
-      "feral": 0.78,
-      "total": 0.869
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.944
     },
     "iteration": 1
   },
   {
-    "id": "c3-s1-e-cand2",
+    "id": "scene_01_tripping_the_pig-environment-cand2",
     "authorStyle": "Rothfuss / Inoue",
-    "content": "I pushed the bamboo pole down.\n\nJust two pounds of pressure. But I placed it right over the third thoracic nerve cluster—a nasty little pressure point the Mount Hua elders used to discipline stubborn juniors who skipped morning chores.\n\nBao's legs turned to jelly. A shrill, pathetic squeal tore out of his throat as his face went flat back into the mud.\n\n\"Hey,\" I said, crouching down beside his ear. \"Look at me.\"\n\n\"L-Let me go! My father—\"",
-    "critique": "Rothfuss/Inoue: Masterful sensory resonance, tragic weight, and rich canonical depth.",
+    "content": "Behind the communal granary, the lane was a trough of deep, foul pig slurry and rotting straw. A rickety wattle shed leaned against the stone foundation, dripping rain from its sagging gutters. The air reeked of wet manure, moldy rye, and rancid tallow.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
     "score": {
-      "canon": 0.96,
-      "kinetics": 0.94,
-      "sensory": 0.95,
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
       "feral": 0.92,
-      "total": 0.945
+      "total": 0.944
     },
     "iteration": 2
   },
   {
-    "id": "c3-s1-e-cand3",
+    "id": "scene_01_tripping_the_pig-environment-cand3",
     "authorStyle": "Biga / Studio LICO",
-    "content": "I pushed the bamboo pole down.\n\nJust two pounds of pressure. But I placed it right over the third thoracic nerve cluster—a nasty little pressure point the Mount Hua elders used to discipline stubborn juniors who skipped morning chores.\n\nBao If the Netherworld had a sewer, it smelled better than this.",
-    "critique": "Biga/Studio LICO: Peak feral swagger, punchy irreverence, unhinged comedic timing.",
+    "content": "Behind the communal granary, the lane was a trough of deep, foul pig slurry and rotting straw. A rickety wattle shed leaned against the stone foundation, dripping rain from its sagging gutters. The air reeked of wet manure, moldy rye, and rancid tallow.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
     "score": {
-      "canon": 0.89,
-      "kinetics": 0.85,
-      "sensory": 0.84,
-      "feral": 0.96,
-      "total": 0.881
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.944
     },
-    "iteration": 1
+    "iteration": 3
   }
 ]

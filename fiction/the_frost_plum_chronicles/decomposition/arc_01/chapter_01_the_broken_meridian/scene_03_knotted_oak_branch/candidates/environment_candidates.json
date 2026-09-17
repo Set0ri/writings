@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_knotted_oak_branch-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Outside in the courtyard, the late winter drizzle fell upon rows of rotting wattle fences and half-buried cabbage pits. A heavy, greasy voice echoed across the slush:\n\n*\"Yeon-ah! Be sensible! The boy has been comatose for seven days! He won't survive the thaw! If you sign over the deed to the ancestral orchard, I can still arrange a comfortable concubine position in the magistrate's manor!\"*\n\nIt was Uncle Kang, standing in his heavy wool coat, clicking the polished wooden beads of an abacus with rhythmic, chilling precision.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.94,
+      "total": 0.954
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Outside in the courtyard, the late winter drizzle fell upon rows of rotting wattle fences and half-buried cabbage pits. A heavy, greasy voice echoed across the slush:\n\n*\"Yeon-ah! Be sensible! The boy has been comatose for seven days! He won't survive the thaw! If you sign over the deed to the ancestral orchard, I can still arrange a comfortable concubine position in the magistrate's manor!\"*\n\nIt was Uncle Kang, standing in his heavy wool coat, clicking the polished wooden beads of an abacus with rhythmic, chilling precision.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.94,
+      "total": 0.954
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Outside in the courtyard, the late winter drizzle fell upon rows of rotting wattle fences and half-buried cabbage pits. A heavy, greasy voice echoed across the slush:\n\n*\"Yeon-ah! Be sensible! The boy has been comatose for seven days! He won't survive the thaw! If you sign over the deed to the ancestral orchard, I can still arrange a comfortable concubine position in the magistrate's manor!\"*\n\nIt was Uncle Kang, standing in his heavy wool coat, clicking the polished wooden beads of an abacus with rhythmic, chilling precision.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.94,
+      "total": 0.954
+    },
+    "iteration": 3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_cousin_bao_feral_grin-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*KABAM.*\n\nThe wooden door was kicked off its leather stop, banging violently against the clay wall.\n\nMuddy slush sprayed across the threshold as sixteen-year-old Cousin Bao swaggered inside, flanked by two village youths holding rusted pig-iron spears. Bao wore a greased rabbit-skin vest that barely contained his doughy gut, tracking thick red clay across the floorboards. In the corner, Yeon—a scrawny, hollow-cheeked girl of fourteen wearing a patched hemp coat—shrank back with a frightened gasp.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.93,
+      "feral": 0.95,
+      "total": 0.953
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*KABAM.*\n\nThe wooden door was kicked off its leather stop, banging violently against the clay wall.\n\nMuddy slush sprayed across the threshold as sixteen-year-old Cousin Bao swaggered inside, flanked by two village youths holding rusted pig-iron spears. Bao wore a greased rabbit-skin vest that barely contained his doughy gut, tracking thick red clay across the floorboards. In the corner, Yeon—a scrawny, hollow-cheeked girl of fourteen wearing a patched hemp coat—shrank back with a frightened gasp.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.93,
+      "feral": 0.95,
+      "total": 0.953
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_cousin_bao_feral_grin-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*KABAM.*\n\nThe wooden door was kicked off its leather stop, banging violently against the clay wall.\n\nMuddy slush sprayed across the threshold as sixteen-year-old Cousin Bao swaggered inside, flanked by two village youths holding rusted pig-iron spears. Bao wore a greased rabbit-skin vest that barely contained his doughy gut, tracking thick red clay across the floorboards. In the corner, Yeon—a scrawny, hollow-cheeked girl of fourteen wearing a patched hemp coat—shrank back with a frightened gasp.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.97,
+      "sensory": 0.93,
+      "feral": 0.95,
+      "total": 0.953
+    },
+    "iteration": 3
+  }
+]

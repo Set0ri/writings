@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_knotted_oak_branch-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "With a sudden surge of skeletal leverage, Jin kicked the flimsy paper door straight off its rusted hinges!\n\n*BAM!*\n\nThe door exploded outward into the snowy courtyard. Yeon, carrying an armful of firewood, let out a squeak like a startled mouse and fainted dead away, tumbling backward into a soft pile of winter cabbages.\n\nUncle Kang jumped two feet in the air, his abacus flying from his grip and scattering fifty wooden beads across the brown slush. \n\nBefore Kang could recover his dignity, the dried anchovy boy stood before him in bare feet and ragged trousers, balancing the knotted oak branch lightly on his shoulder, his terrifying tiger-grin parting the freezing mountain mist.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.976
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "With a sudden surge of skeletal leverage, Jin kicked the flimsy paper door straight off its rusted hinges!\n\n*BAM!*\n\nThe door exploded outward into the snowy courtyard. Yeon, carrying an armful of firewood, let out a squeak like a startled mouse and fainted dead away, tumbling backward into a soft pile of winter cabbages.\n\nUncle Kang jumped two feet in the air, his abacus flying from his grip and scattering fifty wooden beads across the brown slush. \n\nBefore Kang could recover his dignity, the dried anchovy boy stood before him in bare feet and ragged trousers, balancing the knotted oak branch lightly on his shoulder, his terrifying tiger-grin parting the freezing mountain mist.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.976
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "With a sudden surge of skeletal leverage, Jin kicked the flimsy paper door straight off its rusted hinges!\n\n*BAM!*\n\nThe door exploded outward into the snowy courtyard. Yeon, carrying an armful of firewood, let out a squeak like a startled mouse and fainted dead away, tumbling backward into a soft pile of winter cabbages.\n\nUncle Kang jumped two feet in the air, his abacus flying from his grip and scattering fifty wooden beads across the brown slush. \n\nBefore Kang could recover his dignity, the dried anchovy boy stood before him in bare feet and ragged trousers, balancing the knotted oak branch lightly on his shoulder, his terrifying tiger-grin parting the freezing mountain mist.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.976
+    },
+    "iteration": 3
+  }
+]

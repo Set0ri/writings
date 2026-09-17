@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_the_great_reversal_300_sacks-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The hall grew suffocatingly warm as the villagers outside pushed through the doorway, their murmurs growing into an angry, mutinous roar. The smell of burning tallow mingled with the stench of sudden sweat from Uncle Kang's forehead.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.944
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_the_great_reversal_300_sacks-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The hall grew suffocatingly warm as the villagers outside pushed through the doorway, their murmurs growing into an angry, mutinous roar. The smell of burning tallow mingled with the stench of sudden sweat from Uncle Kang's forehead.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.944
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_the_great_reversal_300_sacks-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The hall grew suffocatingly warm as the villagers outside pushed through the doorway, their murmurs growing into an angry, mutinous roar. The smell of burning tallow mingled with the stench of sudden sweat from Uncle Kang's forehead.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.93,
+      "sensory": 0.97,
+      "feral": 0.92,
+      "total": 0.944
+    },
+    "iteration": 3
+  }
+]

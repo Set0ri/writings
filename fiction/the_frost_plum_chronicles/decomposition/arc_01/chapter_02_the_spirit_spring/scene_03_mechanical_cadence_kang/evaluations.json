@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_03_mechanical_cadence_kang",
+  "title": "The Mechanical Cadence of Uncle Kang",
+  "order": 3,
+  "compositeScore": 0.962,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "actions": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.94,
+      "total": 0.964
+    },
+    "environment": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.948
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.217Z"
+}

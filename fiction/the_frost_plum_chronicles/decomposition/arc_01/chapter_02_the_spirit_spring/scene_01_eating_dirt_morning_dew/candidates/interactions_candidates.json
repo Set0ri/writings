@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_eating_dirt_morning_dew-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*\"Keep pushing, you piece of junk!\"* Jin snarled inside his mind, his teeth grinding until his jaw muscles screamed. *\"If a disciples' dantian cannot withstand a thimble of dew, how does he expect to carry the sword of the Black Sun?!\"*\n\nWith a brutal surge of sheer biological will, he forced a microscopic thread of violet Qi through the pericardium meridian. The blockage gave way with a wet *pop*. A warm wave of circulation washed into his forearms, restoring sensation to his trembling fingers.\n\nJin opened his eyes, wiping the bloody mucus from his lip with a vicious smirk. *\"One thread. That's all this ancestor needs to start breaking bones.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.968
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_eating_dirt_morning_dew-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*\"Keep pushing, you piece of junk!\"* Jin snarled inside his mind, his teeth grinding until his jaw muscles screamed. *\"If a disciples' dantian cannot withstand a thimble of dew, how does he expect to carry the sword of the Black Sun?!\"*\n\nWith a brutal surge of sheer biological will, he forced a microscopic thread of violet Qi through the pericardium meridian. The blockage gave way with a wet *pop*. A warm wave of circulation washed into his forearms, restoring sensation to his trembling fingers.\n\nJin opened his eyes, wiping the bloody mucus from his lip with a vicious smirk. *\"One thread. That's all this ancestor needs to start breaking bones.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.968
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_eating_dirt_morning_dew-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*\"Keep pushing, you piece of junk!\"* Jin snarled inside his mind, his teeth grinding until his jaw muscles screamed. *\"If a disciples' dantian cannot withstand a thimble of dew, how does he expect to carry the sword of the Black Sun?!\"*\n\nWith a brutal surge of sheer biological will, he forced a microscopic thread of violet Qi through the pericardium meridian. The blockage gave way with a wet *pop*. A warm wave of circulation washed into his forearms, restoring sensation to his trembling fingers.\n\nJin opened his eyes, wiping the bloody mucus from his lip with a vicious smirk. *\"One thread. That's all this ancestor needs to start breaking bones.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.968
+    },
+    "iteration": 3
+  }
+]

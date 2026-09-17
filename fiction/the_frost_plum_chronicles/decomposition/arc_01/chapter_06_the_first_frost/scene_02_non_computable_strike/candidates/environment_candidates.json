@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_non_computable_strike-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The dawn sun broke over the horizon, casting long, crimson shadows across the spray-soaked basalt. The Atlantic wind shrieked through the cliff fissures like an executioner's whistle.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_non_computable_strike-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The dawn sun broke over the horizon, casting long, crimson shadows across the spray-soaked basalt. The Atlantic wind shrieked through the cliff fissures like an executioner's whistle.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_non_computable_strike-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The dawn sun broke over the horizon, casting long, crimson shadows across the spray-soaked basalt. The Atlantic wind shrieked through the cliff fissures like an executioner's whistle.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 3
+  }
+]

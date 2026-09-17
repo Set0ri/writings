@@ -1,0 +1,12 @@
+{
+  "id": "scene_03_kitchen_cleaver_plum_dance",
+  "title": "The Kitchen Cleaver Plum Dance",
+  "order": 3,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.968,
+  "status": "ready_to_merge"
+}

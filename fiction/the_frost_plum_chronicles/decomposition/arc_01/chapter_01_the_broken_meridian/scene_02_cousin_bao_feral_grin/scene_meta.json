@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_cousin_bao_feral_grin",
+  "title": "Cousin Bao & The Feral Tiger-Grin",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.954,
+  "status": "ready_to_merge"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "scene_02_fathers_filial_chains",
+  "title": "The Father's Filial Chains",
+  "order": 2,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.953,
+  "status": "ready_to_merge"
+}

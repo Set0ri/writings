@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_taming_the_bully-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Bao slumped against the hay bales, covered in mud, tears leaking through the grime on his cheeks.\n\n*\"He's... he's not my father,\"* Bao sobbed in a broken whisper, clutching his bruised shoulder. *\"Three years ago, he went into the forest during the snowstorm. When he came back... he never slept again. At night, I hear his joints clicking like clockwork gears. When I dropped a sack of grain last week, he didn't even shout. He just gripped my throat and looked at me like I was a broken abacus bead.\"*\n\nJin pulled a dried sour persimmon from his pocket—one he had saved from Yeon's meager pantry—and tossed it into the weeping boy's lap.\n\n*\"Eat,\"* Jin commanded.\n\nBao sniffled, wiped his nose with his filthy sleeve, and shoved the dried fruit into his mouth, chewing with desperate, ravenous gulps.\n\n*\"Listen to me, Bao,\"* Jin said, his voice carrying the calm, absolute authority of the Mount Hua sect leader. *\"You've been playing the bully because you're terrified. But as long as you follow this ancestor, no machine will ever lay a finger on you again. Now tell me: where does Kang go on the nights the moon is dark?\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.97,
+      "total": 0.965
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_taming_the_bully-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Bao slumped against the hay bales, covered in mud, tears leaking through the grime on his cheeks.\n\n*\"He's... he's not my father,\"* Bao sobbed in a broken whisper, clutching his bruised shoulder. *\"Three years ago, he went into the forest during the snowstorm. When he came back... he never slept again. At night, I hear his joints clicking like clockwork gears. When I dropped a sack of grain last week, he didn't even shout. He just gripped my throat and looked at me like I was a broken abacus bead.\"*\n\nJin pulled a dried sour persimmon from his pocket—one he had saved from Yeon's meager pantry—and tossed it into the weeping boy's lap.\n\n*\"Eat,\"* Jin commanded.\n\nBao sniffled, wiped his nose with his filthy sleeve, and shoved the dried fruit into his mouth, chewing with desperate, ravenous gulps.\n\n*\"Listen to me, Bao,\"* Jin said, his voice carrying the calm, absolute authority of the Mount Hua sect leader. *\"You've been playing the bully because you're terrified. But as long as you follow this ancestor, no machine will ever lay a finger on you again. Now tell me: where does Kang go on the nights the moon is dark?\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.97,
+      "total": 0.965
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_taming_the_bully-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Bao slumped against the hay bales, covered in mud, tears leaking through the grime on his cheeks.\n\n*\"He's... he's not my father,\"* Bao sobbed in a broken whisper, clutching his bruised shoulder. *\"Three years ago, he went into the forest during the snowstorm. When he came back... he never slept again. At night, I hear his joints clicking like clockwork gears. When I dropped a sack of grain last week, he didn't even shout. He just gripped my throat and looked at me like I was a broken abacus bead.\"*\n\nJin pulled a dried sour persimmon from his pocket—one he had saved from Yeon's meager pantry—and tossed it into the weeping boy's lap.\n\n*\"Eat,\"* Jin commanded.\n\nBao sniffled, wiped his nose with his filthy sleeve, and shoved the dried fruit into his mouth, chewing with desperate, ravenous gulps.\n\n*\"Listen to me, Bao,\"* Jin said, his voice carrying the calm, absolute authority of the Mount Hua sect leader. *\"You've been playing the bully because you're terrified. But as long as you follow this ancestor, no machine will ever lay a finger on you again. Now tell me: where does Kang go on the nights the moon is dark?\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.97,
+      "total": 0.965
+    },
+    "iteration": 3
+  }
+]

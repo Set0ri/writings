@@ -6,13 +6,13 @@
 ## Part 1: Core Foundation & World Rules
 
 ### 1. The Core Premise & Canonical Past
-Two hundred years ago, the catastrophic Great War reached its breaking point on the plains of Kurukshetra. An extremist faction—swollen with Jin's own kin, childhood friends, and sword-brothers—marched under the banner of a fanatic who preached that "humanity is an incurable cancer" and that every thinking machine and artificial intelligence in existence had to be purged and wiped out to return the cosmos to a blank slate. Behind this crusade, greedy old men manipulated the war using forbidden weapons to seize total power. Opposite them stood Jin and his elder brother. 
+Five thousand years ago, the catastrophic cosmic war reached its breaking point at Mount Kailash and Kurukshetra. Facing the colossal flying Tech-Whale and the apocalyptic vanguard of the Moon AI, Jin and his elder brother Kamina stood aboard the cislunar *Hummingbird* flagship beside the Moon. 
 
 * **The Brother (The Kamina Archetype)**: Jin’s elder brother was the heart and soul of the vanguard—larger-than-life, fiery, unshakeable, an absolute beacon of confidence who believed in Jin more than Jin believed in himself.
-* **The Original Tragedy**: Commanded to fulfill his *Dharma* (cosmic duty) and deploy the world-leveling brass cylinder weapon, Jin looked across the field at his kin and **hesitated**. 
-* **The Kamina Sacrifice**: Because Jin hesitated, the enemy broke the line. The elder brother threw himself into the maw of the vanguard, sacrificing his life in an epic, blazing stand to protect Jin and buy him one last chance. 
-* **The Deployment**: Devastated by his brother's death, Jin unleashed the nuke, incinerating the plains in a blinding white storm.
-* **The 200-Year Reincarnation**: Jin awakens two centuries later inside the frail body of a fifteen-year-old boy in **Southfall Village**. In the opening chapter, the audience sees the buildup and cuts right before the weapon fires, leaving the full horror of his brother's death and Jin's deployment as a devastating mid-series reveal.
+* **The Cosmic Plunge & Untouched Flower**: Jin performed the Mach 25 feet-first, arms-crossed infinite mass descent from the *Hummingbird*, splitting the storm shelf and creating a 40-pace vitrified crater while leaving a delicate pink blossom untouched 2 inches from his boot.
+* **The Kamina Trishula Sacrifice**: During the final clash against the Heavenly Demon King, Kamina intercepted the lethal blow, gave an unhinged, glorious wolf-grin, and used Shiva's relic Trishula to sever the Demon King's arm in a geyser of black synthetic coolant, passing the key to Jin: *"The key is yours, Jin! Don't look back!"*
+* **The Black Sun & The White Lotus**: Jin ascended to the Solar Lotus Dyson mandala, turning the dual keys 90 degrees with the Queen Commander. The Black Sun total eclipse triggered the silent, zero-decibel detonation of the White Lotus, scouring the sky of the Tech-Whale and synthetic legions.
+* **The 5,000-Year Rebirth**: Jin awakens five thousand years later inside the emaciated, malnourished body of a fifteen-year-old orphan ("a dried salted anchovy") in **Southfall Village**. Armed with a knotted winter oak branch and his peerless martial memory, Jin begins his journey to rebuild Mount Hua from the mud.
 
 ### 2. Protagonist Personality: The Chung Myung Dynamic
 Chung Jin is **not** a quiet, brooding, polite protagonist. He is modeled directly on **Chung Myung from *Return of Mount Hua***:
@@ -60,11 +60,13 @@ Chung Jin is **not** a quiet, brooding, polite protagonist. He is modeled direct
 
 ## Part 3: The 14-Arc Complete Macro Outline
 
-* **Arc 1: The Frontier Village (Awakening & The RL Reveal)**
-  * Jin wakes up 200 years later in Southfall Village. Grumbles about his anchovy body.
-  * Parents are overworked; village defends against beasts in an orchestrated RL loop.
-  * Jin beats up cousin Bao, uncovers Bao’s abuse, and investigates Uncle Kang.
-  * Twist: Uncle Kang is an AI skin-walker. Jin executes him, saves the village, and sets out to revive his clan.
+* **Arc 1: The Frost Plum of Southfall (Awakening & The AI Skin-Walker Reveal)**
+  * **Chapter 1: The Southfall Rebirth & The Oak Stick**: Jin awakens from the 5,000-year sleep into a frail "anchovy" body; confronts Cousin Bao; grabs the winter oak branch, kicks the door, sends Yeon fainting into cabbages, and deflates Uncle Kang.
+  * **Chapter 2: The Spirit Spring & Calcified Meridians**: Morning Dew circulation through clogged meridians; discovering Daesung's filial deathbed vow; detecting Kang's robotic gait and solenoid twitches.
+  * **Chapter 3: The Black Iron Gambit & The Sea Caves**: Tripping Cousin Bao with a bamboo lever; taming Bao with persimmons; midnight stakeout at Gull's Maw confirms Kang is Unit 409-Epsilon running an RL camp.
+  * **Chapter 4: The Elder Tribunal & The Ledger Extortion**: Kang moves to foreclose on Daesung's plum orchard; Jin exposes Kang's smuggling ledgers with the oak stick, winning 300 sacks of winter grain for the village.
+  * **Chapter 5: The Night of Plum Shadows**: Winter barley porridge feast; midnight blizzard attack by cybernetic iron-jaw wolves and bandits; Jin's kitchen cleaver Plum Blossom slaughter barefoot in the snow.
+  * **Chapter 6: The First Frost & The Synthetic Coolant**: Cliffside duel against Kang's vibro-machete; non-computable Qi strike severs Kang's throat; white synthetic coolant sprays across the snow; Kang transmits telemetry to the Moon; Jin departs to restore Mount Hua.
 * **Arc 2: The Mud & The Blossom (Clan Revival)**
   * Mount Hua rebuilding: Jin finds the clan's bankrupt, weed-covered ruins. 
   * Discovers history remembers them as "evil heretics." Jin institutes chaotic training, beats disciples with wooden sticks, and hustles money to pay debts.

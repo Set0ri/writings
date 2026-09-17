@@ -1,0 +1,12 @@
+{
+  "id": "scene_03_mechanical_cadence_kang",
+  "title": "The Mechanical Cadence of Uncle Kang",
+  "order": 3,
+  "leafOrder": [
+    "environment",
+    "actions",
+    "interactions"
+  ],
+  "compositeScore": 0.962,
+  "status": "ready_to_merge"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_chase_to_sea_cliff-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The basalt cliffs of Southfall Head rose two hundred feet above the raging sea. Gale-force winds whipped spray off the breakers, freezing into salt-crust along the jagged black stone. The clouds had begun to part, revealing a sliver of icy dawn light that turned the churning Atlantic into sheets of bruised jade.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.955
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The basalt cliffs of Southfall Head rose two hundred feet above the raging sea. Gale-force winds whipped spray off the breakers, freezing into salt-crust along the jagged black stone. The clouds had begun to part, revealing a sliver of icy dawn light that turned the churning Atlantic into sheets of bruised jade.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.955
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The basalt cliffs of Southfall Head rose two hundred feet above the raging sea. Gale-force winds whipped spray off the breakers, freezing into salt-crust along the jagged black stone. The clouds had begun to part, revealing a sliver of icy dawn light that turned the churning Atlantic into sheets of bruised jade.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.955
+    },
+    "iteration": 3
+  }
+]

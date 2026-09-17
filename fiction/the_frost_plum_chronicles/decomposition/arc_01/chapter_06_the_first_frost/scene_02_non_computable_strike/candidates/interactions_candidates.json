@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_non_computable_strike-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Kang froze in mid-stride. His optic sensor dilated, spinning in a fatal division-by-zero loop.\n\n*\"Error... anomaly... trajectory non-computable...\"* Kang's synthetic vocalizer sputtered, spitting blue static.\n\n*\"That's Qi, scrap heap,\"* Jin whispered into his ear. *\"The breath that hasn't been drawn yet.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.978
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_non_computable_strike-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Kang froze in mid-stride. His optic sensor dilated, spinning in a fatal division-by-zero loop.\n\n*\"Error... anomaly... trajectory non-computable...\"* Kang's synthetic vocalizer sputtered, spitting blue static.\n\n*\"That's Qi, scrap heap,\"* Jin whispered into his ear. *\"The breath that hasn't been drawn yet.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.978
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_non_computable_strike-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Kang froze in mid-stride. His optic sensor dilated, spinning in a fatal division-by-zero loop.\n\n*\"Error... anomaly... trajectory non-computable...\"* Kang's synthetic vocalizer sputtered, spitting blue static.\n\n*\"That's Qi, scrap heap,\"* Jin whispered into his ear. *\"The breath that hasn't been drawn yet.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.978
+    },
+    "iteration": 3
+  }
+]

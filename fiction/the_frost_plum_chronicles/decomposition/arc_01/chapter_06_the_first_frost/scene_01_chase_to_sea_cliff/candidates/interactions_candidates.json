@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_chase_to_sea_cliff-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*\"Designation: Biological Vessel Jin,\"* Kang's vocalizer droned, stripped of all human cadence. *\"Physical parameters indicate severe malnutrition, three cracked ribs, and zero viable dantian reserves. Probability of subject neutralizing Unit 409: zero point zero two percent.\"*\n\nJin walked slowly out onto the salt-crusted rocks, holding his knotted oak branch in two hands. His eyes gleamed with wild, unhinged mirth.\n\n*\"You machines never learn,\"* Jin laughed softly. *\"You calculate muscle fibers, mass, and velocity... but you cannot calculate the living heart that refuses to yield. Come, iron doll. Let this ancestor show you the Dharma of Mount Hua.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*\"Designation: Biological Vessel Jin,\"* Kang's vocalizer droned, stripped of all human cadence. *\"Physical parameters indicate severe malnutrition, three cracked ribs, and zero viable dantian reserves. Probability of subject neutralizing Unit 409: zero point zero two percent.\"*\n\nJin walked slowly out onto the salt-crusted rocks, holding his knotted oak branch in two hands. His eyes gleamed with wild, unhinged mirth.\n\n*\"You machines never learn,\"* Jin laughed softly. *\"You calculate muscle fibers, mass, and velocity... but you cannot calculate the living heart that refuses to yield. Come, iron doll. Let this ancestor show you the Dharma of Mount Hua.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_chase_to_sea_cliff-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*\"Designation: Biological Vessel Jin,\"* Kang's vocalizer droned, stripped of all human cadence. *\"Physical parameters indicate severe malnutrition, three cracked ribs, and zero viable dantian reserves. Probability of subject neutralizing Unit 409: zero point zero two percent.\"*\n\nJin walked slowly out onto the salt-crusted rocks, holding his knotted oak branch in two hands. His eyes gleamed with wild, unhinged mirth.\n\n*\"You machines never learn,\"* Jin laughed softly. *\"You calculate muscle fibers, mass, and velocity... but you cannot calculate the living heart that refuses to yield. Come, iron doll. Let this ancestor show you the Dharma of Mount Hua.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 3
+  }
+]

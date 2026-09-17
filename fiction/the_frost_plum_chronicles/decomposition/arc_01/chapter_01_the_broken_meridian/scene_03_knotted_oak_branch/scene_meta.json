@@ -1,0 +1,12 @@
+{
+  "id": "scene_03_knotted_oak_branch",
+  "title": "The Knotted Winter Oak Branch & The Cabbage Faint",
+  "order": 3,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.967,
+  "status": "ready_to_merge"
+}

@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_03_white_coolant_road_to_hua",
+  "title": "White Coolant & The Road to Mount Hua",
+  "order": 3,
+  "compositeScore": 0.971,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.97,
+      "feral": 0.99,
+      "total": 0.977
+    },
+    "actions": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.976
+    },
+    "environment": {
+      "canon": 0.97,
+      "kinetics": 0.94,
+      "sensory": 0.99,
+      "feral": 0.93,
+      "total": 0.96
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.357Z"
+}

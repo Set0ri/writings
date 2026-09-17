@@ -1,0 +1,12 @@
+{
+  "id": "scene_01_the_council_hall_reckoning",
+  "title": "The Council Hall Reckoning",
+  "order": 1,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.952,
+  "status": "ready_to_merge"
+}

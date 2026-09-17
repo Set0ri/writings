@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_the_council_hall_reckoning-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Uncle Kang stood at the center of the hall, clad in an immaculate silk-trimmed coat, holding an open parchment roll.\n\n*\"Elders,\"* Kang proclaimed, his voice resonant and smooth as oiled brass. *\"The security levy for the northern palisade is delinquent by thirty-four silver pieces. My brother Daesung has failed to meet his woodcutting quota for three consecutive cycles. Under the founding charter, his cottage, timber plot, and the ancestral plum orchard must be transferred to the Sector Administration to cover the debt.\"*\n\nDaesung stood before the council, his head bowed, his calloused hands trembling against his coarse linen trousers.\n\n*\"Brother Kang,\"* Daesung rasped, his voice breaking. *\"That orchard was planted by our grandfather. It's the only land our family has left...\"*\n\n*\"The charter does not recognize sentiment, Daesung,\"* Kang said coldly, without a flicker of emotion. *\"Only arithmetic.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.958
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_the_council_hall_reckoning-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Uncle Kang stood at the center of the hall, clad in an immaculate silk-trimmed coat, holding an open parchment roll.\n\n*\"Elders,\"* Kang proclaimed, his voice resonant and smooth as oiled brass. *\"The security levy for the northern palisade is delinquent by thirty-four silver pieces. My brother Daesung has failed to meet his woodcutting quota for three consecutive cycles. Under the founding charter, his cottage, timber plot, and the ancestral plum orchard must be transferred to the Sector Administration to cover the debt.\"*\n\nDaesung stood before the council, his head bowed, his calloused hands trembling against his coarse linen trousers.\n\n*\"Brother Kang,\"* Daesung rasped, his voice breaking. *\"That orchard was planted by our grandfather. It's the only land our family has left...\"*\n\n*\"The charter does not recognize sentiment, Daesung,\"* Kang said coldly, without a flicker of emotion. *\"Only arithmetic.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.958
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_the_council_hall_reckoning-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Uncle Kang stood at the center of the hall, clad in an immaculate silk-trimmed coat, holding an open parchment roll.\n\n*\"Elders,\"* Kang proclaimed, his voice resonant and smooth as oiled brass. *\"The security levy for the northern palisade is delinquent by thirty-four silver pieces. My brother Daesung has failed to meet his woodcutting quota for three consecutive cycles. Under the founding charter, his cottage, timber plot, and the ancestral plum orchard must be transferred to the Sector Administration to cover the debt.\"*\n\nDaesung stood before the council, his head bowed, his calloused hands trembling against his coarse linen trousers.\n\n*\"Brother Kang,\"* Daesung rasped, his voice breaking. *\"That orchard was planted by our grandfather. It's the only land our family has left...\"*\n\n*\"The charter does not recognize sentiment, Daesung,\"* Kang said coldly, without a flicker of emotion. *\"Only arithmetic.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.93,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.958
+    },
+    "iteration": 3
+  }
+]

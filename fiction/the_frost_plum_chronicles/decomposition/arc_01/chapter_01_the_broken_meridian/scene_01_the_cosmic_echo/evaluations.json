@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_01_the_cosmic_echo",
+  "title": "The Cosmic Echo & The Thatch Ceiling",
+  "order": 1,
+  "compositeScore": 0.956,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.967
+    },
+    "actions": {
+      "canon": 0.95,
+      "kinetics": 0.98,
+      "sensory": 0.92,
+      "feral": 0.95,
+      "total": 0.95
+    },
+    "environment": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.156Z"
+}

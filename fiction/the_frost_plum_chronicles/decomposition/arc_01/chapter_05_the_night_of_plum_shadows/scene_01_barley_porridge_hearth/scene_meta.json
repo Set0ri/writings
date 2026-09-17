@@ -1,0 +1,12 @@
+{
+  "id": "scene_01_barley_porridge_hearth",
+  "title": "Barley Porridge by the Hearth",
+  "order": 1,
+  "leafOrder": [
+    "environment",
+    "interactions",
+    "actions"
+  ],
+  "compositeScore": 0.962,
+  "status": "ready_to_merge"
+}

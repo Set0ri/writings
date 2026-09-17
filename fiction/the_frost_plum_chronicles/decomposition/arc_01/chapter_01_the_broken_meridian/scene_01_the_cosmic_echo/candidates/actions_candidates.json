@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_the_cosmic_echo-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin attempted to throw his legs over the edge of the straw pallet.\n\n*CRACK.*\n\nA sharp, agonizing spasm tore through his lower spine, sending a jolt of fire into his hip. His lungs hitched; his breath whistled in his throat like a clogged flute. His liver glycogen was depleted, his pectoral muscles atrophied down to brittle strings, and his dantian felt like a cold, empty well lined with calcified stone.\n\nHe collapsed back into the straw, cursing every deity in the cosmos through gritted, chattering teeth. He couldn't even perform a basic seated circulation without risking a tendon rupture. Pure, unadulterated biological bankruptcy.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.98,
+      "sensory": 0.92,
+      "feral": 0.95,
+      "total": 0.95
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin attempted to throw his legs over the edge of the straw pallet.\n\n*CRACK.*\n\nA sharp, agonizing spasm tore through his lower spine, sending a jolt of fire into his hip. His lungs hitched; his breath whistled in his throat like a clogged flute. His liver glycogen was depleted, his pectoral muscles atrophied down to brittle strings, and his dantian felt like a cold, empty well lined with calcified stone.\n\nHe collapsed back into the straw, cursing every deity in the cosmos through gritted, chattering teeth. He couldn't even perform a basic seated circulation without risking a tendon rupture. Pure, unadulterated biological bankruptcy.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.98,
+      "sensory": 0.92,
+      "feral": 0.95,
+      "total": 0.95
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin attempted to throw his legs over the edge of the straw pallet.\n\n*CRACK.*\n\nA sharp, agonizing spasm tore through his lower spine, sending a jolt of fire into his hip. His lungs hitched; his breath whistled in his throat like a clogged flute. His liver glycogen was depleted, his pectoral muscles atrophied down to brittle strings, and his dantian felt like a cold, empty well lined with calcified stone.\n\nHe collapsed back into the straw, cursing every deity in the cosmos through gritted, chattering teeth. He couldn't even perform a basic seated circulation without risking a tendon rupture. Pure, unadulterated biological bankruptcy.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.98,
+      "sensory": 0.92,
+      "feral": 0.95,
+      "total": 0.95
+    },
+    "iteration": 3
+  }
+]

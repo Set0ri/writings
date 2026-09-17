@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_the_cosmic_echo-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin opened his eyes.\n\nHe did not see the starry cislunar abyss. He did not see the gleaming titanium plumage of the *Hummingbird*, nor the blinding solar corona of the Solar Lotus. The image of Kamina's dying wolf-grin and the blinding flash of the White Lotus was still seared onto the back of his retinas, but when he reached out, his fingers touched only coarse hemp and freezing mud.\n\n*\"A dried anchovy...\"* Jin rasped, his voice a reedy, cracked squeak. *\"Five thousand years... I burned my soul to ash, turned the dual keys, scoured the skies of the machine whale... and the dog-shit heavens put me in the body of a starving, salted anchovy?!\"*\n\nHe stared at his hands in unadulterated fury. The wrists were no thicker than dried winter reeds. The skin was paper-thin and translucent, revealing blue veins that twitched with zero internal Qi.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.967
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin opened his eyes.\n\nHe did not see the starry cislunar abyss. He did not see the gleaming titanium plumage of the *Hummingbird*, nor the blinding solar corona of the Solar Lotus. The image of Kamina's dying wolf-grin and the blinding flash of the White Lotus was still seared onto the back of his retinas, but when he reached out, his fingers touched only coarse hemp and freezing mud.\n\n*\"A dried anchovy...\"* Jin rasped, his voice a reedy, cracked squeak. *\"Five thousand years... I burned my soul to ash, turned the dual keys, scoured the skies of the machine whale... and the dog-shit heavens put me in the body of a starving, salted anchovy?!\"*\n\nHe stared at his hands in unadulterated fury. The wrists were no thicker than dried winter reeds. The skin was paper-thin and translucent, revealing blue veins that twitched with zero internal Qi.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.967
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin opened his eyes.\n\nHe did not see the starry cislunar abyss. He did not see the gleaming titanium plumage of the *Hummingbird*, nor the blinding solar corona of the Solar Lotus. The image of Kamina's dying wolf-grin and the blinding flash of the White Lotus was still seared onto the back of his retinas, but when he reached out, his fingers touched only coarse hemp and freezing mud.\n\n*\"A dried anchovy...\"* Jin rasped, his voice a reedy, cracked squeak. *\"Five thousand years... I burned my soul to ash, turned the dual keys, scoured the skies of the machine whale... and the dog-shit heavens put me in the body of a starving, salted anchovy?!\"*\n\nHe stared at his hands in unadulterated fury. The wrists were no thicker than dried winter reeds. The skin was paper-thin and translucent, revealing blue veins that twitched with zero internal Qi.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.95,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.967
+    },
+    "iteration": 3
+  }
+]

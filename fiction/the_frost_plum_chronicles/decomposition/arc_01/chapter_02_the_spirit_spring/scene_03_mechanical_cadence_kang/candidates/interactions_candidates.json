@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_mechanical_cadence_kang-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*Solenoids,* Jin thought, a chill far colder than the winter sleet sinking into his marrow. *Servomotors and predictive loops.*\n\nUnderneath the greasy rabbit-skin coat and the soft, flabby human flesh, Kang's movements were governed by the ruthless, cold arithmetic of a machine. \n\n*\"Unit 409-Epsilon,\"* Jin muttered, remembering the imperial codices from before the catastrophe. *\"An AI skin-walker. The Moon isn't just watching Southfall from orbit... they have automated wardens walking the mud, farming human misery like a training model.\"*\n\nJin's wolf-grin returned, dark, lethal, and colder than the abyss.\n\n*\"You picked the wrong village to run your little simulation, scrap-metal.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*Solenoids,* Jin thought, a chill far colder than the winter sleet sinking into his marrow. *Servomotors and predictive loops.*\n\nUnderneath the greasy rabbit-skin coat and the soft, flabby human flesh, Kang's movements were governed by the ruthless, cold arithmetic of a machine. \n\n*\"Unit 409-Epsilon,\"* Jin muttered, remembering the imperial codices from before the catastrophe. *\"An AI skin-walker. The Moon isn't just watching Southfall from orbit... they have automated wardens walking the mud, farming human misery like a training model.\"*\n\nJin's wolf-grin returned, dark, lethal, and colder than the abyss.\n\n*\"You picked the wrong village to run your little simulation, scrap-metal.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*Solenoids,* Jin thought, a chill far colder than the winter sleet sinking into his marrow. *Servomotors and predictive loops.*\n\nUnderneath the greasy rabbit-skin coat and the soft, flabby human flesh, Kang's movements were governed by the ruthless, cold arithmetic of a machine. \n\n*\"Unit 409-Epsilon,\"* Jin muttered, remembering the imperial codices from before the catastrophe. *\"An AI skin-walker. The Moon isn't just watching Southfall from orbit... they have automated wardens walking the mud, farming human misery like a training model.\"*\n\nJin's wolf-grin returned, dark, lethal, and colder than the abyss.\n\n*\"You picked the wrong village to run your little simulation, scrap-metal.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 3
+  }
+]

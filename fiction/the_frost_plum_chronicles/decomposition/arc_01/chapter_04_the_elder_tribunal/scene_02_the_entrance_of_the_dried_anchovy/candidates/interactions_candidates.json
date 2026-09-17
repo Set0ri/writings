@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "\"Jin?!\" Daesung gasped in horror. \"What are you doing out of bed?!\"\n\n*\"Taking a walk, Father,\"* Jin said cheerfully, waving the oak stick at the elders like a schoolteacher greeting rowdy toddlers. *\"The air in our shack was getting stuffy, and I heard there was an auction of ancestral graves going on.\"*\n\nKang's eyes narrowed, his left hand dropping to the hilt of his short sword. *\"Insolent brat. Guards, remove this lunatic before he defiles the tribunal.\"*\n\nTwo burly militia guards stepped forward with iron truncheons raised.\n\nJin didn't even look at them. *\"Touch me, and I'll have the Magistrate's Tax Inspector hang you from the palisade by your own belt straps. Bao—throw the book at him.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "\"Jin?!\" Daesung gasped in horror. \"What are you doing out of bed?!\"\n\n*\"Taking a walk, Father,\"* Jin said cheerfully, waving the oak stick at the elders like a schoolteacher greeting rowdy toddlers. *\"The air in our shack was getting stuffy, and I heard there was an auction of ancestral graves going on.\"*\n\nKang's eyes narrowed, his left hand dropping to the hilt of his short sword. *\"Insolent brat. Guards, remove this lunatic before he defiles the tribunal.\"*\n\nTwo burly militia guards stepped forward with iron truncheons raised.\n\nJin didn't even look at them. *\"Touch me, and I'll have the Magistrate's Tax Inspector hang you from the palisade by your own belt straps. Bao—throw the book at him.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "\"Jin?!\" Daesung gasped in horror. \"What are you doing out of bed?!\"\n\n*\"Taking a walk, Father,\"* Jin said cheerfully, waving the oak stick at the elders like a schoolteacher greeting rowdy toddlers. *\"The air in our shack was getting stuffy, and I heard there was an auction of ancestral graves going on.\"*\n\nKang's eyes narrowed, his left hand dropping to the hilt of his short sword. *\"Insolent brat. Guards, remove this lunatic before he defiles the tribunal.\"*\n\nTwo burly militia guards stepped forward with iron truncheons raised.\n\nJin didn't even look at them. *\"Touch me, and I'll have the Magistrate's Tax Inspector hang you from the palisade by your own belt straps. Bao—throw the book at him.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.96,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 3
+  }
+]

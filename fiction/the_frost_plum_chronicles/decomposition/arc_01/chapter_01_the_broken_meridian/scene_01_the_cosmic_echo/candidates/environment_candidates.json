@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_the_cosmic_echo-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Drip. *Drip.* Drip.\n\nThe sound of snow-melt leaking through rotting thatch struck the wooden floorboards with maddening, monotonous precision.\n\nThe air inside the room was bitterly damp, thick with the stench of moldering straw, wet ashes, and the sour reek of cold barley porridge. Outside, through the cracks in the paper-screen window, the grey winter sky of Southfall hung low over the sea, heavy with the promise of more sleet. The distant cry of sea gulls cut through the fog like rusty shears.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Drip. *Drip.* Drip.\n\nThe sound of snow-melt leaking through rotting thatch struck the wooden floorboards with maddening, monotonous precision.\n\nThe air inside the room was bitterly damp, thick with the stench of moldering straw, wet ashes, and the sour reek of cold barley porridge. Outside, through the cracks in the paper-screen window, the grey winter sky of Southfall hung low over the sea, heavy with the promise of more sleet. The distant cry of sea gulls cut through the fog like rusty shears.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_the_cosmic_echo-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Drip. *Drip.* Drip.\n\nThe sound of snow-melt leaking through rotting thatch struck the wooden floorboards with maddening, monotonous precision.\n\nThe air inside the room was bitterly damp, thick with the stench of moldering straw, wet ashes, and the sour reek of cold barley porridge. Outside, through the cracks in the paper-screen window, the grey winter sky of Southfall hung low over the sea, heavy with the promise of more sleet. The distant cry of sea gulls cut through the fog like rusty shears.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_white_coolant_road_to_hua-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "From Kang's severed throat, no blood fell.\n\nA violent, pressurized geyser of **milky white synthetic coolant** sprayed across the pristine white snow, hissing as it flash-froze against the glacial stones! \n\nInside Kang's cracked skull chassis, a tiny transmitter pulse flashed once toward the upper stratosphere:\n\n—[CRITICAL ANOMALY: NON-ALGORITHMIC COMBATANT IDENTIFIED AT SOUTHFALL]—\n\nKang's chassis collapsed into a motionless heap of smoking synthetic cables and titanium joints.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.976
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "From Kang's severed throat, no blood fell.\n\nA violent, pressurized geyser of **milky white synthetic coolant** sprayed across the pristine white snow, hissing as it flash-froze against the glacial stones! \n\nInside Kang's cracked skull chassis, a tiny transmitter pulse flashed once toward the upper stratosphere:\n\n—[CRITICAL ANOMALY: NON-ALGORITHMIC COMBATANT IDENTIFIED AT SOUTHFALL]—\n\nKang's chassis collapsed into a motionless heap of smoking synthetic cables and titanium joints.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.976
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_white_coolant_road_to_hua-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "From Kang's severed throat, no blood fell.\n\nA violent, pressurized geyser of **milky white synthetic coolant** sprayed across the pristine white snow, hissing as it flash-froze against the glacial stones! \n\nInside Kang's cracked skull chassis, a tiny transmitter pulse flashed once toward the upper stratosphere:\n\n—[CRITICAL ANOMALY: NON-ALGORITHMIC COMBATANT IDENTIFIED AT SOUTHFALL]—\n\nKang's chassis collapsed into a motionless heap of smoking synthetic cables and titanium joints.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.96,
+      "total": 0.976
+    },
+    "iteration": 3
+  }
+]

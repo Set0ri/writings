@@ -1,26 +1,12 @@
 {
   "id": "scene_03_gulls_maw_stakeout",
-  "title": "The Gull's Maw: Sea Caves & Black Wave Smugglers",
+  "title": "The Gull's Maw Midnight Stakeout",
   "order": 3,
-  "status": "merged",
-  "compositeScore": 0.945,
   "leafOrder": [
     "environment",
-    "interactions",
-    "actions"
+    "actions",
+    "interactions"
   ],
-  "leaves": {
-    "environment": {
-      "resolved": true,
-      "score": 0.945
-    },
-    "interactions": {
-      "resolved": true,
-      "score": 0.945
-    },
-    "actions": {
-      "resolved": true,
-      "score": 0.945
-    }
-  }
+  "compositeScore": 0.964,
+  "status": "ready_to_merge"
 }

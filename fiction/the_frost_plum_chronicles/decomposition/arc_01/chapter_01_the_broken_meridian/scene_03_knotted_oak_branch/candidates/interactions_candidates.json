@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_knotted_oak_branch-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*\"Filial piety?\"* Jin whispered into the dark room, his eyes blazing like twin coals. *\"Family care? Oh, Uncle Kang... this ancestor is about to give you a lesson in Mount Hua lineage discipline!\"*\n\nHe dragged his emaciated frame toward the hearth on hands and knees, ignoring the searing pain in his ribs. Beside the cold stones lay a three-foot length of seasoned winter oak, knotted and gnarled, used for stoking the fire. Jin's bony fingers closed around the rough bark.\n\nThe balance was terrible, but the wood was dense, iron-hard, and heavy enough to crack a boar's skull. He gave it two practice swishes through the air: *WHOOSH. WHOOSH.*\n\n*\"Good enough to beat an unfilial dog.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*\"Filial piety?\"* Jin whispered into the dark room, his eyes blazing like twin coals. *\"Family care? Oh, Uncle Kang... this ancestor is about to give you a lesson in Mount Hua lineage discipline!\"*\n\nHe dragged his emaciated frame toward the hearth on hands and knees, ignoring the searing pain in his ribs. Beside the cold stones lay a three-foot length of seasoned winter oak, knotted and gnarled, used for stoking the fire. Jin's bony fingers closed around the rough bark.\n\nThe balance was terrible, but the wood was dense, iron-hard, and heavy enough to crack a boar's skull. He gave it two practice swishes through the air: *WHOOSH. WHOOSH.*\n\n*\"Good enough to beat an unfilial dog.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_knotted_oak_branch-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*\"Filial piety?\"* Jin whispered into the dark room, his eyes blazing like twin coals. *\"Family care? Oh, Uncle Kang... this ancestor is about to give you a lesson in Mount Hua lineage discipline!\"*\n\nHe dragged his emaciated frame toward the hearth on hands and knees, ignoring the searing pain in his ribs. Beside the cold stones lay a three-foot length of seasoned winter oak, knotted and gnarled, used for stoking the fire. Jin's bony fingers closed around the rough bark.\n\nThe balance was terrible, but the wood was dense, iron-hard, and heavy enough to crack a boar's skull. He gave it two practice swishes through the air: *WHOOSH. WHOOSH.*\n\n*\"Good enough to beat an unfilial dog.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.96,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.97
+    },
+    "iteration": 3
+  }
+]

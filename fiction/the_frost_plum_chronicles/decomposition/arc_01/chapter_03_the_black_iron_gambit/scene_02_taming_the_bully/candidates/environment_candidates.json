@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_taming_the_bully-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Inside the dry shelter of the wattle shed, rain pattered softly against the cedar shingles. The gloom smelled of dry hay and dust. In the corner sat two empty flour sacks and a cracked stone mortar, sheltered from the cold wind howling off the coast.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.937
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_taming_the_bully-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Inside the dry shelter of the wattle shed, rain pattered softly against the cedar shingles. The gloom smelled of dry hay and dust. In the corner sat two empty flour sacks and a cracked stone mortar, sheltered from the cold wind howling off the coast.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.937
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_taming_the_bully-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Inside the dry shelter of the wattle shed, rain pattered softly against the cedar shingles. The gloom smelled of dry hay and dust. In the corner sat two empty flour sacks and a cracked stone mortar, sheltered from the cold wind howling off the coast.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.91,
+      "sensory": 0.97,
+      "feral": 0.91,
+      "total": 0.937
+    },
+    "iteration": 3
+  }
+]

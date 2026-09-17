@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "*CRASH.*\n\nThe rear window of the cottage exploded inward in a shower of splintered pine and ice!\n\nA massive, slate-grey predator leaped through the opening. It was an iron-jaw wolf—a bio-engineered war hound whose mandible had been replaced by pneumatic steel shears that snapped shut with the force of an industrial press. Its eyes glowed dull infrared beneath a scarified skull plate.\n\nDaesung shouted, grabbing his woodcutting maul to shield Yeon.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.99,
+      "sensory": 0.95,
+      "feral": 0.96,
+      "total": 0.971
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "*CRASH.*\n\nThe rear window of the cottage exploded inward in a shower of splintered pine and ice!\n\nA massive, slate-grey predator leaped through the opening. It was an iron-jaw wolf—a bio-engineered war hound whose mandible had been replaced by pneumatic steel shears that snapped shut with the force of an industrial press. Its eyes glowed dull infrared beneath a scarified skull plate.\n\nDaesung shouted, grabbing his woodcutting maul to shield Yeon.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.99,
+      "sensory": 0.95,
+      "feral": 0.96,
+      "total": 0.971
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "*CRASH.*\n\nThe rear window of the cottage exploded inward in a shower of splintered pine and ice!\n\nA massive, slate-grey predator leaped through the opening. It was an iron-jaw wolf—a bio-engineered war hound whose mandible had been replaced by pneumatic steel shears that snapped shut with the force of an industrial press. Its eyes glowed dull infrared beneath a scarified skull plate.\n\nDaesung shouted, grabbing his woodcutting maul to shield Yeon.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.99,
+      "sensory": 0.95,
+      "feral": 0.96,
+      "total": 0.971
+    },
+    "iteration": 3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_barley_porridge_hearth-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The hearth in Daesung's cottage roared with dry pine logs, casting a warm, golden glow across the clay walls. Outside, the night was black as pitch, with a furious Himalayan blizzard howling off the bay, rattling the shutters with gusts of freezing snow. On the hearth-hook hung a heavy iron pot of thick barley porridge, bubbling gently and smelling of dried mountain plums, roasted sesame, and wild honey.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_barley_porridge_hearth-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The hearth in Daesung's cottage roared with dry pine logs, casting a warm, golden glow across the clay walls. Outside, the night was black as pitch, with a furious Himalayan blizzard howling off the bay, rattling the shutters with gusts of freezing snow. On the hearth-hook hung a heavy iron pot of thick barley porridge, bubbling gently and smelling of dried mountain plums, roasted sesame, and wild honey.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_barley_porridge_hearth-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The hearth in Daesung's cottage roared with dry pine logs, casting a warm, golden glow across the clay walls. Outside, the night was black as pitch, with a furious Himalayan blizzard howling off the bay, rattling the shutters with gusts of freezing snow. On the hearth-hook hung a heavy iron pot of thick barley porridge, bubbling gently and smelling of dried mountain plums, roasted sesame, and wild honey.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.96,
+      "kinetics": 0.93,
+      "sensory": 0.99,
+      "feral": 0.92,
+      "total": 0.952
+    },
+    "iteration": 3
+  }
+]

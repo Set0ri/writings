@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin moved.\n\nHe didn't grab his oak stick. He snatched two heavy iron kitchen cleavers from the cutting board beside the hearth.\n\n*\"Stay behind me!\"* Jin roared, his voice stripping away every trace of the sickly boy and detonating with the ancient majesty of the Peerless Sword Saint.\n\nThe iron-jaw wolf lunged, its pneumatic jaws gaping to shear Jin's shoulder in two.\n\n*\"Dog of the Moon,\"* Jin snarled, stepping straight into the beast's attack arc. *\"Die!\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin moved.\n\nHe didn't grab his oak stick. He snatched two heavy iron kitchen cleavers from the cutting board beside the hearth.\n\n*\"Stay behind me!\"* Jin roared, his voice stripping away every trace of the sickly boy and detonating with the ancient majesty of the Peerless Sword Saint.\n\nThe iron-jaw wolf lunged, its pneumatic jaws gaping to shear Jin's shoulder in two.\n\n*\"Dog of the Moon,\"* Jin snarled, stepping straight into the beast's attack arc. *\"Die!\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_blizzard_squall_cyber_wolves-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin moved.\n\nHe didn't grab his oak stick. He snatched two heavy iron kitchen cleavers from the cutting board beside the hearth.\n\n*\"Stay behind me!\"* Jin roared, his voice stripping away every trace of the sickly boy and detonating with the ancient majesty of the Peerless Sword Saint.\n\nThe iron-jaw wolf lunged, its pneumatic jaws gaping to shear Jin's shoulder in two.\n\n*\"Dog of the Moon,\"* Jin snarled, stepping straight into the beast's attack arc. *\"Die!\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "iteration": 3
+  }
+]

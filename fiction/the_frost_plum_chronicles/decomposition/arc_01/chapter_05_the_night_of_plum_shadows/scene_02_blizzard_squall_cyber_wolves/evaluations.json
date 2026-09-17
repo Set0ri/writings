@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_02_blizzard_squall_cyber_wolves",
+  "title": "The Blizzard Squall & Iron-Jaw Wolves",
+  "order": 2,
+  "compositeScore": 0.966,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.99,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.99,
+      "total": 0.975
+    },
+    "actions": {
+      "canon": 0.98,
+      "kinetics": 0.99,
+      "sensory": 0.95,
+      "feral": 0.96,
+      "total": 0.971
+    },
+    "environment": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.98,
+      "feral": 0.92,
+      "total": 0.952
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.314Z"
+}

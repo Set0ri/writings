@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_mechanical_cadence_kang-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Concealed in the upper boughs of a dead cedar forty paces away, Jin crouched motionless, his half-opened dantian siphoning the cold wind to mask his biological heat.\n\nBelow him, Uncle Kang walked the palisade catwalk.\n\nJin's sword-saint senses locked onto Kang's gait. His eyes widened.\n\nKang took forty-eight paces across the platform. Each pace measured precisely 78.4 centimeters. Each footfall landed at intervals of exactly 1.150 seconds. His left arm swung through an arc of 22 degrees; his head swiveled 45 degrees to the left, paused for 3.0 seconds, and snapped 45 degrees to the right. He had walked the line in the freezing rain for two hours without blinking a single time.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.94,
+      "total": 0.964
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Concealed in the upper boughs of a dead cedar forty paces away, Jin crouched motionless, his half-opened dantian siphoning the cold wind to mask his biological heat.\n\nBelow him, Uncle Kang walked the palisade catwalk.\n\nJin's sword-saint senses locked onto Kang's gait. His eyes widened.\n\nKang took forty-eight paces across the platform. Each pace measured precisely 78.4 centimeters. Each footfall landed at intervals of exactly 1.150 seconds. His left arm swung through an arc of 22 degrees; his head swiveled 45 degrees to the left, paused for 3.0 seconds, and snapped 45 degrees to the right. He had walked the line in the freezing rain for two hours without blinking a single time.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.94,
+      "total": 0.964
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_mechanical_cadence_kang-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Concealed in the upper boughs of a dead cedar forty paces away, Jin crouched motionless, his half-opened dantian siphoning the cold wind to mask his biological heat.\n\nBelow him, Uncle Kang walked the palisade catwalk.\n\nJin's sword-saint senses locked onto Kang's gait. His eyes widened.\n\nKang took forty-eight paces across the platform. Each pace measured precisely 78.4 centimeters. Each footfall landed at intervals of exactly 1.150 seconds. His left arm swung through an arc of 22 degrees; his head swiveled 45 degrees to the left, paused for 3.0 seconds, and snapped 45 degrees to the right. He had walked the line in the freezing rain for two hours without blinking a single time.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.94,
+      "total": 0.964
+    },
+    "iteration": 3
+  }
+]

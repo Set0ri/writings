@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Down the central aisle strolled Jin.\n\nHe wore an oversized hemp tunic that flapped around his paper-thin frame like sails on an abandoned skiff. In his left hand, he held a stalk of dried barley, chewing on it with insolent leisure. In his right hand, he balanced his three-foot knotted oak branch, using it as a cane with exaggerated, dramatic decrepitude.\n\nBeside him walked Cousin Bao, scrubbed clean, his head held low, carrying a water-stained leather satchel under his arm.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.97
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Down the central aisle strolled Jin.\n\nHe wore an oversized hemp tunic that flapped around his paper-thin frame like sails on an abandoned skiff. In his left hand, he held a stalk of dried barley, chewing on it with insolent leisure. In his right hand, he balanced his three-foot knotted oak branch, using it as a cane with exaggerated, dramatic decrepitude.\n\nBeside him walked Cousin Bao, scrubbed clean, his head held low, carrying a water-stained leather satchel under his arm.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.97
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Down the central aisle strolled Jin.\n\nHe wore an oversized hemp tunic that flapped around his paper-thin frame like sails on an abandoned skiff. In his left hand, he held a stalk of dried barley, chewing on it with insolent leisure. In his right hand, he balanced his three-foot knotted oak branch, using it as a cane with exaggerated, dramatic decrepitude.\n\nBeside him walked Cousin Bao, scrubbed clean, his head held low, carrying a water-stained leather satchel under his arm.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.95,
+      "feral": 0.98,
+      "total": 0.97
+    },
+    "iteration": 3
+  }
+]

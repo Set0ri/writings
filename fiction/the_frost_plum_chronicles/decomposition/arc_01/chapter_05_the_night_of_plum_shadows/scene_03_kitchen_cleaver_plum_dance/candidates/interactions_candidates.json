@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-interactions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The surviving bandits dropped their torches and fled into the blizzard, screaming that the village was haunted by an ancient demon.\n\nJin stood in the falling snow, blood dripping from the cleaver hilts, his breath pluming like white smoke in the gale. Through the storm mist at the edge of the woods, he caught the faint red flash of an infrared optical lens retreating toward the coast.\n\n*\"Kang,\"* Jin whispered, wiping a smear of wolf oil from his cheek. *\"Now we settle the debt.\"*",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.974
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-interactions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The surviving bandits dropped their torches and fled into the blizzard, screaming that the village was haunted by an ancient demon.\n\nJin stood in the falling snow, blood dripping from the cleaver hilts, his breath pluming like white smoke in the gale. Through the storm mist at the edge of the woods, he caught the faint red flash of an infrared optical lens retreating toward the coast.\n\n*\"Kang,\"* Jin whispered, wiping a smear of wolf oil from his cheek. *\"Now we settle the debt.\"*",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.974
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_03_kitchen_cleaver_plum_dance-interactions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The surviving bandits dropped their torches and fled into the blizzard, screaming that the village was haunted by an ancient demon.\n\nJin stood in the falling snow, blood dripping from the cleaver hilts, his breath pluming like white smoke in the gale. Through the storm mist at the edge of the woods, he caught the faint red flash of an infrared optical lens retreating toward the coast.\n\n*\"Kang,\"* Jin whispered, wiping a smear of wolf oil from his cheek. *\"Now we settle the debt.\"*",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.974
+    },
+    "iteration": 3
+  }
+]

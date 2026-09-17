@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_01_barley_porridge_hearth-actions-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "Jin swallowed the porridge. The hot carbohydrate slurry hit his stomach like liquid fuel; his liver greedily absorbed the glucose, funneling energy into his starving bone marrow.\n\nSuddenly, Jin froze.\n\nHis spoon stopped an inch from his lips.\n\nAcross the howling blizzard outside, his keen ears caught a sound that no mortal hunter could distinguish: the faint, high-frequency whine of automated servos, accompanied by the wet, rhythmic padding of twelve heavy quadrupeds circling the perimeter wall.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.95,
+      "total": 0.966
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_01_barley_porridge_hearth-actions-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "Jin swallowed the porridge. The hot carbohydrate slurry hit his stomach like liquid fuel; his liver greedily absorbed the glucose, funneling energy into his starving bone marrow.\n\nSuddenly, Jin froze.\n\nHis spoon stopped an inch from his lips.\n\nAcross the howling blizzard outside, his keen ears caught a sound that no mortal hunter could distinguish: the faint, high-frequency whine of automated servos, accompanied by the wet, rhythmic padding of twelve heavy quadrupeds circling the perimeter wall.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.95,
+      "total": 0.966
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_01_barley_porridge_hearth-actions-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "Jin swallowed the porridge. The hot carbohydrate slurry hit his stomach like liquid fuel; his liver greedily absorbed the glucose, funneling energy into his starving bone marrow.\n\nSuddenly, Jin froze.\n\nHis spoon stopped an inch from his lips.\n\nAcross the howling blizzard outside, his keen ears caught a sound that no mortal hunter could distinguish: the faint, high-frequency whine of automated servos, accompanied by the wet, rhythmic padding of twelve heavy quadrupeds circling the perimeter wall.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.98,
+      "kinetics": 0.98,
+      "sensory": 0.95,
+      "feral": 0.95,
+      "total": 0.966
+    },
+    "iteration": 3
+  }
+]

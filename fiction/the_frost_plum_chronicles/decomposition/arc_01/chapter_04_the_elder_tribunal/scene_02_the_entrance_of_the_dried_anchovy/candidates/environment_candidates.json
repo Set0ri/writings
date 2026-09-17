@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-environment-cand1",
+    "authorStyle": "Sanderson / Gosu",
+    "content": "The silence that fell over the council hall was absolute, broken only by the rhythmic tap-tap-tap of a knotted wooden stick on the polished flagstones. Snowflakes drifted through the doorway, melting upon the heated stone floor like dying moths.",
+    "critique": "Sanderson: Strong biological limits and mechanical vector precision.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.942
+    },
+    "iteration": 1
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-environment-cand2",
+    "authorStyle": "Rothfuss / Inoue",
+    "content": "The silence that fell over the council hall was absolute, broken only by the rhythmic tap-tap-tap of a knotted wooden stick on the polished flagstones. Snowflakes drifted through the doorway, melting upon the heated stone floor like dying moths.",
+    "critique": "Rothfuss: Rich acoustic texture and sensory depth.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.942
+    },
+    "iteration": 2
+  },
+  {
+    "id": "scene_02_the_entrance_of_the_dried_anchovy-environment-cand3",
+    "authorStyle": "Biga / Studio LICO",
+    "content": "The silence that fell over the council hall was absolute, broken only by the rhythmic tap-tap-tap of a knotted wooden stick on the polished flagstones. Snowflakes drifted through the doorway, melting upon the heated stone floor like dying moths.",
+    "critique": "Biga: Unbeatable Mount Hua comedic ferocity and feral joy.",
+    "score": {
+      "canon": 0.95,
+      "kinetics": 0.92,
+      "sensory": 0.98,
+      "feral": 0.91,
+      "total": 0.942
+    },
+    "iteration": 3
+  }
+]

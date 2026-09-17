@@ -1,0 +1,32 @@
+{
+  "sceneId": "scene_03_kitchen_cleaver_plum_dance",
+  "title": "The Kitchen Cleaver Plum Dance",
+  "order": 3,
+  "compositeScore": 0.968,
+  "threshold": 0.85,
+  "status": "RESOLVED",
+  "leaves": {
+    "interactions": {
+      "canon": 0.98,
+      "kinetics": 0.97,
+      "sensory": 0.96,
+      "feral": 0.99,
+      "total": 0.974
+    },
+    "actions": {
+      "canon": 0.99,
+      "kinetics": 0.99,
+      "sensory": 0.96,
+      "feral": 0.98,
+      "total": 0.98
+    },
+    "environment": {
+      "canon": 0.96,
+      "kinetics": 0.94,
+      "sensory": 0.97,
+      "feral": 0.93,
+      "total": 0.951
+    }
+  },
+  "timestamp": "2026-09-17T16:40:38.324Z"
+}
